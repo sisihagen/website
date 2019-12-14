@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+
+<section class="blog__header">
+  <picture>
+    <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
+    <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
+    <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
+  </picture>
+    <div class="article__header text-center">
+      <h1> {{ .Title }}</h1>
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+        {{ if eq $.Site.Language.LanguageName "English" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "01/02/2006" }}
+        {{ end }}
+        {{ if eq $.Site.Language.LanguageName "Français" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "02/01/2006" }}
+        {{ end }}
+        {{ if eq $.Site.Language.LanguageName "Русский" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "02.01.2006" }}
+        {{ end }}
+        {{ if eq $.Site.Language.LanguageName "Deutsch" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "02.01.2006" }}
+        {{ end }}
+      </time>
+      <span aria-hidden="true"><i class="icon-users"></i> Silvio Siefke</span>
+      <span aria-hidden="true"><i class="icon-folder-open"></i> #{{ .Params.tags }}</span>
+    </div>
+</section>
+
+<main class="grid">
+  <article class="one padding">
+        {{ .Content }}
+  </article>
+
+  <aside class="two padding">
+    <div class="article__source hidden">
+      <h4>{{ i18n "source" }}</h4>
+    </div>
+
+    <div class="article__gallery hidden">
+      <h4>{{ i18n "gallery" }}</h4>
+    </div>
+
+    {{ partial "modules/tags.html" . }}
+  </aside>
+</main>
+
+{{ end }}

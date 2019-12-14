@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<main class="grid">
+  <section class="one cards">
+  {{ .Content }}
+  {{ range (.Paginator 6).Pages }}
+    <article class="card">
+      <a href="{{ .Permalink }}" title="{{ .Title }}">
+      {{ if .Params.cover }}
+        <picture>
+          <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
+          <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
+          <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
+        </picture>
+      {{ end }}
+        <div class="card__header">
+          <h4>{{ .Title }}</h4>
+          <span class="icon-calendar" aria-hidden="true"></span>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+          {{ if eq $.Site.Language.LanguageName "English" }}
+            {{ .Date.Format "01/02/2006" }}
+          {{ end }}
+
+          {{ if eq $.Site.Language.LanguageName "Français" }}
+            {{ .Date.Format "02/01/2006" }}
+          {{ end }}
+
+          {{ if eq $.Site.Language.LanguageName "Deutsch" }}
+            {{ .Date.Format "02.01.2006" }}
+          {{ end }}
+
+          {{ if eq $.Site.Language.LanguageName "Русский" }}
+            {{ .Date.Format "02.01.2006" }}
+          {{ end }}
+
+
+          </time>
+        </div>
+        <div class="card__content">
+          {{ .Params.shorttext }}
+        </div>
+      </a>
+    </article>
+  {{ end }}
+  </section>
+
+  <aside class="two">
+    {{ partial "modules/tags.html" . }}
+    {{ partial "modules/pagination.html" . }}
+  </aside>
+</main>
+
+{{ end }}

@@ -1,0 +1,194 @@
+enableRobotsTXT = true
+pygmentsCodeFences = true
+pygmentsStyle = "vim"
+publishDir = "public/build"
+assetDir = "static"
+
+[permalinks]
+    blog = "/blog/:year/:month/:day/:title"
+
+[taxonomies]
+    tag = "tags"
+
+[blackfriday]
+    angledQuotes = false
+    hrefTargetBlank = true
+    extensionsmask = ['headerIds', 'autoHeaderIds']
+
+[related]
+  threshold = 80
+  includeNewer = false
+  toLower = false
+
+  [[related.indices]]
+    name  = "tags"
+    weight = 10
+
+  [[related.indices]]
+    name  = "date"
+    weight = 100
+    pattern = "2006"
+
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = true
+  [privacy.vimeo]
+    disable = false
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+[languages]
+    [languages.de]
+        baseURL = "http://silviosiefke.de"
+        DefaultContentLanguage = "de"
+        defaultContentLanguageInSubdir = true
+        languageName = "Deutsch"
+        languageCode = "de"
+        contentDir = "content/de"
+        weight = 1
+
+        [languages.de.params]
+            title = "Silvio Siefke"
+            description = "Eine weitere private Site wo man Meinungen anderer liest ..."
+
+        [[languages.de.menu.main]]
+        url = "/about/"
+        pre = "icon-question"
+        name = "Info"
+        weight = 10
+
+        [[languages.de.menu.main]]
+        url = "/blog/"
+        pre = "icon-blogger"
+        name = "Blog"
+        weight = 20
+
+        [[languages.de.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "icon-twitter"
+        name = "Twitter"
+        weight = 30
+
+        [[languages.de.menu.main]]
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
+        weight = 40
+
+    [languages.en]
+        baseURL = "http://silviosiefke.com"
+        DefaultContentLanguage = "en"
+        defaultContentLanguageInSubdir = true
+        languageName = "English"
+        languageCode = "en"
+        contentDir = "content/en"
+        weight = 2
+
+        [languages.en.params]
+            title = "Silvio Siefke"
+            description = "Again a private website with a meaning of other ..."
+
+        [[languages.en.menu.main]]
+        url = "/about/"
+        pre = "icon-question"
+        name = "About"
+        weight = 10
+
+        [[languages.en.menu.main]]
+        url = "/blog/"
+        pre = "icon-blogger"
+        name = "Blog"
+        weight = 20
+
+        [[languages.en.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "icon-twitter"
+        name = "Twitter"
+        weight = 30
+
+        [[languages.en.menu.main]]
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
+        weight = 40
+
+    [languages.fr]
+        baseURL = "http://silviosiefke.fr"
+        DefaultContentLanguage = "fr"
+        defaultContentLanguageInSubdir = true
+        languageName = "Français"
+        languageCode = "fr"
+        contentDir = "content/fr"
+        weight = 3
+
+        [languages.fr.params]
+            title = "Silvio Siefke"
+            description = "Encore un site privé avec un sens d'autres ..."
+
+        [[languages.fr.menu.main]]
+        url = "/about/"
+        pre = "icon-question"
+        name = "À Propos"
+        weight = 10
+
+        [[languages.fr.menu.main]]
+        url = "/blog/"
+        pre = "icon-blogger"
+        name = "Blog"
+        weight = 20
+
+        [[languages.fr.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "icon-twitter"
+        name = "Twitter"
+        weight = 30
+
+        [[languages.fr.menu.main]]
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
+        weight = 40
+
+    [languages.ru]
+        baseURL = "http://silviosiefke.ru"
+        DefaultContentLanguage = "ru"
+        defaultContentLanguageInSubdir = true
+        languageName = "Русский"
+        languageCode = "ru"
+        contentDir = "content/ru"
+        weight = 2
+
+        [languages.ru.params]
+            title = "Silvio Siefke"
+            description = "Опять же частный сайт со значением other ..."
+
+        [[languages.ru.menu.main]]
+        url = "/about/"
+        pre = "icon-question"
+        name = "О себе"
+        weight = 10
+
+        [[languages.ru.menu.main]]
+        url = "/blog/"
+        pre = "icon-blogger"
+        name = "Блог"
+        weight = 20
+
+        [[languages.ru.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "icon-twitter"
+        name = "Щебетать"
+        weight = 30
+
+        [[languages.ru.menu.main]]
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
+        weight = 40

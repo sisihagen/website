@@ -1,0 +1,14 @@
+.brands {
+  text-align: center;
+
+    img {
+      width: 150px;
+      height: auto;
+      padding: 1rem;
+
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+}

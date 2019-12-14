@@ -1,0 +1,45 @@
+.blog__header {
+  position: relative;
+  color: lighten($color-light-gray, 50%);
+
+  img {
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+    max-height: 500px;
+  }
+
+  time, span {
+    display: block;
+    line-height: 1.5;
+    font-family: "hackregular";
+
+    &:before {
+      padding-left: 0.5rem;
+    }
+
+      @include breakpoint('m') {
+        display: inline;
+        padding-left: 1rem;
+      }
+  }
+
+  span {
+    &:last-child {
+      text-transform: lowercase;
+    }
+  }
+
+  h1 {
+    line-height: 2rem;
+  }
+}
+
+.cover {
+  img {
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+    max-height: 500px;
+  }
+}

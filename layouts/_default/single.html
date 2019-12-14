@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+    <section class="cover">
+      <picture>
+        <source srcset="/static/img/cover/fawkes.webp" type="image/webp">
+        <source srcset="/static/img/cover/fawkes.jpg" type="image/jpeg">
+        <img src="/static/img/cover/fawkes.jpg" alt="Cover">
+      </picture>
+    </section>
+
+    <main class="grid">
+      <article class="one padding">
+
+        {{ .Content }}
+
+      </article>
+
+      <aside class="two">
+        <p> {{ i18n "aboutbrands" }} </p>
+
+        <div class="brands">
+          <div class="gallery-brands">
+            {{ range $.Page.Site.Data.brands_about }}
+            <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+              <picture>
+                <source srcset="{{ .webp }}" type="image/webp">
+                <source srcset="{{ .png }}" type="image/png">
+                <img src="{{ .png }}" alt="{{ .title }}">
+              </picture>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+      </aside>
+    </main>
+
+{{ end }}
