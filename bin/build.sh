@@ -13,14 +13,18 @@ sst=./static/static
 dst=./public/dest/static.silviosiefke.com/htdocs
 
 # clean dest folders
-rm -r ./public/{build,dest}
+rm -r $dde $den $dfr $dru
 
 # run hugo
-hugo
+hugo --cleanDestinationDir --enableGitInfo --gc --minify
 
 # create folder
 mkdir -p $dde $den $dfr $dru
-mkdir -p $dst/{css,downloads,fonts,img,js}
+
+if [[ ! -d $dst ]]; then
+  mkdir -p $dst/{css,downloads,fonts,img,js}
+fi
+
 
 # html clean and minify for all languages
 if [[ -d $sde ]]; then
