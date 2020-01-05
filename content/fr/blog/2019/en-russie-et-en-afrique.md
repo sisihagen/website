@@ -5,7 +5,7 @@ tags: "Journalisme"
 shorttext: "Poutine s'est présenté lors d'une table ronde avec les questions des participants. Il était aussi à propos de l'Afrique."
 cover: "media"
 draft: false
-lang: en
+lang: fr
 ---
 
 L'Occident ne voit L'Afrique que comme une bourse de marchandises et les gens qui ne veulent plus l'Accepter sont tenus captifs dans des camps. La russie est un véritable Partenaire, un homologue sur un pied d'égalité. Ce faisant, l'énorme potentiel en Afrique est reconnu et la Chine conclut des contrats appropriés sans l'homme despote ancré dans les gouvernements qui regardent piller et assassiner leur propre peuple.

@@ -74,7 +74,7 @@ Schließlich liefert Goltz für seine Behauptung, dass Russland an die UNO falsc
 
 Wenn man also Russland etwas vorwirft und dabei verschweigt, dass die USA und andere Staaten es ganz genauso machen, dann ist das keine objektive Berichterstattung, sondern "Lügen durch Weglassen".
 
-Und wer die "Internet-Zeitung Meduza" als Quelle zitiert, sollte auch erwähnen, dass diese "Zeitung" nach eigenen Angaben praktisch komplett von [Chodorkowski](https://meduza.io/feature/2016/08/11/korporatsiya-hodorkovskiy "Корпорация «Ходорковский» Что сделал бывший олигарх за два с половиной года на свободе. Репортаж Ильи Жегулева") finanziert wird, der einer der größten Putin-Gegner ist. Wie gesagt, das ist legitim, aber der Leser sollte es wissen, denn Meduza ist alles, aber keine neutrale Quelle.
+Und wer die "Internet-Zeitung Meduza" als Quelle zitiert, sollte auch erwähnen, dass diese "Zeitung" nach eigenen Angaben praktisch komplett von [Chodorkowski](https://meduza.io/feature/2016/08/11/korporatsiya-hodorkovskiy "Корпорация "Ходорковский" Что сделал бывший олигарх за два с половиной года на свободе. Репортаж Ильи Жегулева") finanziert wird, der einer der größten Putin-Gegner ist. Wie gesagt, das ist legitim, aber der Leser sollte es wissen, denn Meduza ist alles, aber keine neutrale Quelle.
 
 Aber wie man sieht, gibt Thumann für seine Behauptungen keine belastbaren Quellen und erst recht keine Zahlen an, damit man überprüfen kann, ob das überhaupt stimmt und vor allem, wie viel Geld Russland angeblich in den "Schattenhaushalten" vor der Öffentlichkeit versteckt. Man muss Herrn Thumann einfach glauben, der Leser hat keine Chance, seine Vorwürfe und Behauptungen zu überprüfen.
 

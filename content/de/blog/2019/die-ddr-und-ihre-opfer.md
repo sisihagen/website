@@ -50,7 +50,7 @@ War es unten anders? Oder handelten sie auf ihrer Ebene nicht ähnlich, weil Men
 
 Der weitgehend abgeschlossene Wechsel des Systems manifestierte sich im Wechsel der primären Identifikation innerhalb der Gesellschaft:
 
-> von »Wir sind DAS Volk!« zu »Wir sind EIN Volk!«
+> von "Wir sind DAS Volk!" zu "Wir sind EIN Volk!"
 
 {{< youtube "id" >}}
 

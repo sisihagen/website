@@ -85,7 +85,7 @@ Ein netter Witz. Welche Leistungsfähigkeit die Autorin wohl meinte? Das Ranging
 
 <a href="http://altonabloggt.com/" title="Eine ehemalige Jobcenter Mitarbeiterin die auspackte" class="external">Inge Hannemann</a>, ehemals Mitarbeiter eines Jobcenterd ware sicher anderer Meinung, aber Autorin hat nicht gefragt was das Weltbild sicher zerstört hätte. 
 
-> Auch sehr beliebt ist das Bild von der sich immer weiter öffnenden Schere zwischen »Arm und Reich«
+> Auch sehr beliebt ist das Bild von der sich immer weiter öffnenden Schere zwischen "Arm und Reich"
 
 
 Das ist am ganzen Buch der beste Absartz. Sie wiederspricht damit all den Menschen die sich wissenschaftlich, sozial und wirtschaftlich mit diesen Bereich beschäftigen. OECD, IWF,Universitäten, Sozialarbeitern, Organisationen, Club of Rome, einfach jeden au0er Autorin die es selbstverständlich besser weiß. Allein dieser Absatz disqualifiziert die Autorin.
