@@ -70,7 +70,7 @@ if [[ -d $sst/css ]]; then
   sassc -t compressed $sst/scss/layout.scss | ./node_modules/.bin/postcss --no-map -u autoprefixer postcss-opacity postcss-flexibility > $sst/css/layout.css
 
   # copy files to sync directory
-  rsync -avuzq $sst/css/ $dst/css/
+  rsync -auq $sst/css/ $dst/css/
 fi
 
 # js
@@ -88,12 +88,12 @@ fi
 
 # fonts
 if [[ -d $sst/fonts ]]; then
-  rsync -avuzq $sst/fonts/ $dst/fonts/
+  rsync -auq $sst/fonts/ $dst/fonts/
 fi
 
 # downloads
 if [[ -d $sst/downloads ]]; then
-  rsync -avuzq $sst/downloads/ $dst/downloads/
+  rsync -auq $sst/downloads/ $dst/downloads/
 fi
 
 # images
@@ -104,5 +104,5 @@ pngo="$(find $wdir -name "*.png" -mtime -1 -type f -exec pngfix -o -q {} \;)"
 webp="$(find $wdir -iregex ".*\.\(jpg\|png\|jpeg\)$" -mtime -1 -type f | parallel -eta cwebp -quiet {} -o {.}.webp)"
 
 if [[ $jpgo -eq 0 && $pngo -eq 0 && $webp -eq 0  ]] ; then
-  rsync -avuzq $wdir $odir
+  rsync -auq $wdir $odir
 fi
