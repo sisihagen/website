@@ -1,13 +1,9 @@
-<section class="two">
+<section class="one">
   <div class="brands">
   {{ if eq $.Site.Language.LanguageName "Русский" }}
     {{ range $.Page.Site.Data.brands_russia }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-          <picture>
-            <source srcset="{{ .webp }}" type="image/webp">
-            <source srcset="{{ .png }}" type="image/png">
-            <img src="{{ .png }}" alt="{{ .title }}">
-          </picture>
+          <span class="{{ .class }}"></span>
         </a>
     {{ end }}
   {{ end }}
@@ -15,11 +11,7 @@
   {{ if eq $.Site.Language.LanguageName "English" }}
     {{ range $.Page.Site.Data.brands_home }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-          <picture>
-            <source srcset="{{ .webp }}" type="image/webp">
-            <source srcset="{{ .png }}" type="image/png">
-            <img src="{{ .png }}" alt="{{ .title }}">
-          </picture>
+          <span class="{{ .class }}"></span>
         </a>
     {{ end }}
   {{ end }}
@@ -27,11 +19,7 @@
   {{ if eq $.Site.Language.LanguageName "Français" }}
     {{ range $.Page.Site.Data.brands_home }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-          <picture>
-            <source srcset="{{ .webp }}" type="image/webp">
-            <source srcset="{{ .png }}" type="image/png">
-            <img src="{{ .png }}" alt="{{ .title }}">
-          </picture>
+          <span class="{{ .class }}"></span>
         </a>
     {{ end }}
   {{ end }}
@@ -39,11 +27,7 @@
   {{ if eq $.Site.Language.LanguageName "Deutsch" }}
     {{ range $.Page.Site.Data.brands_home }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-          <picture>
-            <source srcset="{{ .webp }}" type="image/webp">
-            <source srcset="{{ .png }}" type="image/png">
-            <img src="{{ .png }}" alt="{{ .title }}">
-          </picture>
+          <span class="{{ .class }}"></span>
         </a>
     {{ end }}
   {{ end }}

@@ -1,14 +1,20 @@
 .brands {
   text-align: center;
 
-    img {
-      width: 150px;
-      height: auto;
-      padding: 1rem;
-
-
-      &:last-child {
-        padding-right: 0;
-      }
+  @include breakpoint('m') {
+    [class^="sprite"] {
+      transform: scale(1.4);
     }
+  }
+
+  a {
+    @include breakpoint('m') {
+      padding-right: 1rem;
+    }
+
+    span {
+      display: inline-block;
+      padding: .5rem;
+    }
+  }
 }

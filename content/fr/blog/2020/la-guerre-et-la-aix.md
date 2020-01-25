@@ -5,7 +5,7 @@ tags: "Politique"
 shorttext: "Les gens sont différents, avec des histoires différentes et une certaine attitude qui détermine l'action. Parfois ..."
 cover: "repression"
 draft: false
-lang: en
+lang: fr
 ---
 
 Ils se sont récemment rencontrés sur le site de Tagesschau: Sevim Dağdelen et Ursula von der Leyen. La députée du Bundestag de gauche Dağdelen a dû être Citée par le Tagesschau les dents serrées, parce qu'elle avait exposé un mensonge plat et anti-russe du gouvernement fédéral, dans la diffusion duquel L'ARD a été impliqué. Le gouvernement avait expulsé [des diplomates russes](https://www.sevimdagdelen.de/bundesregierung-hat-bei-ausweisung-russischer-diplomaten-oeffentlichkeit-getaeuscht/ "Bundesregierung hat bei Ausweisung russischer Diplomaten Öffentlichkeit getäuscht") au motif que leur gouvernement avait refusé de coopérer dans une affaire de meurtre à Berlin. Sevim Dağdelen avait révélé que quelques mois seulement après l'assassinat et même après l'expulsion des diplomates, les autorités allemandes avaient officiellement demandé une assistance juridique à la partie russe.

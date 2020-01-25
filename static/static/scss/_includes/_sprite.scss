@@ -1,0 +1,216 @@
+/* glue: 0.13 hash: e6463eb80f */
+.sprite-brands-ssf,
+.sprite-brands-fairtrade,
+.sprite-brands-gentoo,
+.sprite-brands-sea_shepherd,
+.sprite-brands-yarn,
+.sprite-brands-sublime,
+.sprite-brands-stopp_ramstein,
+.sprite-brands-rspamd,
+.sprite-brands-reg_ru,
+.sprite-brands-raspi,
+.sprite-brands-postfix,
+.sprite-brands-picum,
+.sprite-brands-ovh,
+.sprite-brands-nginx,
+.sprite-brands-msf,
+.sprite-brands-kinderhilfe,
+.sprite-brands-jack_wolfskin,
+.sprite-brands-hugo,
+.sprite-brands-gulp,
+.sprite-brands-fit,
+.sprite-brands-dovecot,
+.sprite-brands-debian,
+.sprite-brands-arfn,
+.sprite-brands-arch {
+            background-image: url('/static/img/brands/brands.png');
+            background-repeat: no-repeat;
+        }
+
+.webp [class^="sprite-brands"] {
+  background-image: url('/static/img/brands/brands.webp');
+  background-repeat: no-repeat;
+}
+
+        .sprite-brands-ssf {
+            background-position: 0 0;
+            width: 108px;
+            height: 142px;
+        }
+
+        .sprite-brands-fairtrade {
+            background-position: -108px 0;
+            width: 108px;
+            height: 120px;
+        }
+
+        .sprite-brands-gentoo {
+            background-position: -216px 0;
+            width: 108px;
+            height: 112px;
+        }
+
+        .sprite-brands-sea_shepherd {
+            background-position: 0 -142px;
+            width: 108px;
+            height: 110px;
+        }
+
+        .sprite-brands-yarn {
+            background-position: -108px -142px;
+            width: 108px;
+            height: 108px;
+        }
+
+        .sprite-brands-sublime {
+            background-position: -216px -142px;
+            width: 108px;
+            height: 108px;
+        }
+
+        .sprite-brands-stopp_ramstein {
+            background-position: -324px 0;
+            width: 108px;
+            height: 108px;
+        }
+
+        .sprite-brands-rspamd {
+            background-position: -324px -108px;
+            width: 108px;
+            height: 76px;
+        }
+
+        .sprite-brands-reg_ru {
+            background-position: 0 -252px;
+            width: 108px;
+            height: 73px;
+        }
+
+        .sprite-brands-raspi {
+            background-position: 0 -325px;
+            width: 108px;
+            height: 79px;
+        }
+
+        .sprite-brands-postfix {
+            background-position: -432px 0;
+            width: 108px;
+            height: 88px;
+        }
+
+        .sprite-brands-picum {
+            background-position: -432px -88px;
+            width: 108px;
+            height: 54px;
+        }
+
+        .sprite-brands-ovh {
+            background-position: -432px -142px;
+            width: 108px;
+            height: 59px;
+        }
+
+        .sprite-brands-nginx {
+            background-position: -432px -201px;
+            width: 108px;
+            height: 63px;
+        }
+
+        .sprite-brands-msf {
+            background-position: -432px -264px;
+            width: 108px;
+            height: 108px;
+        }
+
+        .sprite-brands-kinderhilfe {
+            background-position: -324px -184px;
+            width: 108px;
+            height: 61px;
+        }
+
+        .sprite-brands-jack_wolfskin {
+            background-position: -108px -325px;
+            width: 108px;
+            height: 78px;
+        }
+
+        .sprite-brands-hugo {
+            background-position: -108px -252px;
+            width: 108px;
+            height: 59px;
+        }
+
+        .sprite-brands-gulp {
+            background-position: 0 -404px;
+            width: 108px;
+            height: 82px;
+        }
+
+        .sprite-brands-fit {
+            background-position: -108px -404px;
+            width: 108px;
+            height: 79px;
+        }
+
+        .sprite-brands-dovecot {
+            background-position: -216px -325px;
+            width: 108px;
+            height: 69px;
+        }
+
+        .sprite-brands-debian {
+            background-position: -324px -325px;
+            width: 108px;
+            height: 64px;
+        }
+
+        .sprite-brands-arfn {
+            background-position: -540px 0;
+            width: 108px;
+            height: 99px;
+        }
+
+        .sprite-brands-arch {
+            background-position: -540px -99px;
+            width: 108px;
+            height: 60px;
+        }
+
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+          .sprite-brands-ssf,
+          .sprite-brands-fairtrade,
+          .sprite-brands-gentoo,
+          .sprite-brands-sea_shepherd,
+          .sprite-brands-yarn,
+          .sprite-brands-sublime,
+          .sprite-brands-stopp_ramstein,
+          .sprite-brands-rspamd,
+          .sprite-brands-reg_ru,
+          .sprite-brands-raspi,
+          .sprite-brands-postfix,
+          .sprite-brands-picum,
+          .sprite-brands-ovh,
+          .sprite-brands-nginx,
+          .sprite-brands-msf,
+          .sprite-brands-kinderhilfe,
+          .sprite-brands-jack_wolfskin,
+          .sprite-brands-hugo,
+          .sprite-brands-gulp,
+          .sprite-brands-fit,
+          .sprite-brands-dovecot,
+          .sprite-brands-debian,
+          .sprite-brands-arfn,
+          .sprite-brands-arch {
+                background-image: url('/static/img/brands/brands.png');
+                -webkit-background-size: 648px 486px;
+                -moz-background-size: 648px 486px;
+                background-size: 648px 486px;
+            }
+
+          .web [class^="sprite-brands"] {
+            background-image: url('/static/img/brands/brands.webp');
+            -webkit-background-size: 648px 486px;
+            -moz-background-size: 648px 486px;
+            background-size: 648px 486px;
+          }
+        }

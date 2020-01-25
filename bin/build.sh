@@ -84,6 +84,7 @@ if [[ -d $sst/js ]]; then
   # copy used js files
   cp $sst/js/site.js $dst/js/site.js
   cp ./node_modules/html5shiv/dist/html5shiv.min.js $dst/js
+  cp $sst/js/modernizr.js $dst/js/
 fi
 
 # fonts

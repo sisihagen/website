@@ -5,7 +5,8 @@
         "webp": "/static/img/brands/debian.webp",
         "png": "/static/img/brands/debian.png",
         "href": "http://www.debian.org",
-        "title": "Debian - The Universal Operating System"
+        "title": "Debian - The Universal Operating System",
+        "class": "sprite-brands-debian"
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "webp": "/static/img/brands/arch.webp",
         "png": "/static/img/brands/arch.png",
         "href": "http://www.archlinux.org",
-        "title": "Arch Linux"
+        "title": "Arch Linux",
+        "class": "sprite-brands-arch"
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "webp": "/static/img/brands/hugo.webp",
         "png": "/static/img/brands/hugo.png",
         "href": "http://www.gohugo.io",
-        "title": "The world’s fastest framework for building websites"
+        "title": "The world’s fastest framework for building websites",
+        "class": "sprite-brands-hugo"
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "webp": "/static/img/brands/reg_ru.webp",
         "png": "/static/img/brands/reg_ru.png",
         "href": "http://www.reg.ru",
-        "title": "Reg.ru the number one in Russia"
+        "title": "Reg.ru the number one in Russia",
+        "class": "sprite-brands-reg_ru"
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "webp": "/static/img/brands/ovh.webp",
         "png": "/static/img/brands/ovh.png",
         "href": "http://www.ovh.com",
-        "title": "OVH - Innovation for Freedom"
+        "title": "OVH - Innovation for Freedom",
+        "class": "sprite-brands-ovh"
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "webp": "/static/img/brands/nginx.webp",
         "png": "/static/img/brands/nginx.png",
         "href": "http://www.nginx.org",
-        "title": "Nginx Webserver"
+        "title": "Nginx Webserver",
+        "class": "sprite-brands-nginx"
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "webp": "/static/img/brands/dovecot.webp",
         "png": "/static/img/brands/dovecot.png",
         "href": "https://www.dovecot.org/",
-        "title": "Dovecot – The secure IMAP server"
+        "title": "Dovecot – The secure IMAP server",
+        "class": "sprite-brands-dovecot"
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "webp": "/static/img/brands/fairtrade.webp",
         "png": "/static/img/brands/fairtrade.png",
         "href": "https://www.fairtrade.net/",
-        "title": "World Fair Trade Organization"
+        "title": "World Fair Trade Organization",
+        "class": "sprite-brands-fairtrade"
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "webp": "/static/img/brands/gentoo.webp",
         "png": "/static/img/brands/gentoo.png",
         "href": "https://www.gentoo.org",
-        "title": "Welcome to Gentoo  a highly flexible  source-based Linux distribution."
+        "title": "Welcome to Gentoo  a highly flexible  source-based Linux distribution.",
+        "class": "sprite-brands-gentoo"
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "webp": "/static/img/brands/jack_wolfskin.webp",
         "png": "/static/img/brands/jack_wolfskin.png",
         "href": "https://www.jack-wolfskin.com/",
-        "title": "Your Everyday Companions"
+        "title": "Your Everyday Companions",
+        "class": "sprite-brands-jack_wolfskin"
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "webp": "/static/img/brands/rspamd.webp",
         "png": "/static/img/brands/rspamd.png",
         "href": "https://rspamd.com/",
-        "title": "Fast free and Open Source filtering system"
+        "title": "Fast free and Open Source filtering system",
+        "class": "sprite-brands-rspamd"
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "webp": "/static/img/brands/sea_shepherd.webp",
         "png": "/static/img/brands/sea_shepherd.png",
         "href": "https://seashepherd.org/",
-        "title": "Sea Shepherd Conservation Society"
+        "title": "Sea Shepherd Conservation Society",
+        "class": "sprite-brands-sea_shepherd"
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "webp": "/static/img/brands/postfix.webp",
         "png": "/static/img/brands/postfix.png",
         "href": "http://www.postfix.org/",
-        "title": "Postfix MTA"
+        "title": "Postfix MTA",
+        "class": "sprite-brands-postfix"
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "webp": "/static/img/brands/kinderhilfe.webp",
         "png": "/static/img/brands/kinderhilfe.png",
         "href": "https://www.kinderhilfe-afghanistan.de/",
-        "title": "Kinderhilfe Afghanistan"
+        "title": "Kinderhilfe Afghanistan",
+        "class": "sprite-brands-kinderhilfe"
     },
     {
         "id": 15,
@@ -117,62 +131,61 @@
         "webp": "/static/img/brands/msf.webp",
         "png": "/static/img/brands/msf.png",
         "href": "https://www.msf.org/",
-        "title": "An international independent medical humanitarian organisation"
+        "title": "An international independent medical humanitarian organisation",
+        "class": "sprite-brands-msf"
     },
     {
         "id": 16,
-        "name": "Gulp",
-        "webp": "/static/img/brands/gulp.webp",
-        "png": "/static/img/brands/gulp.png",
-        "href": "https://gulpjs.com/",
-        "title": "Automate and enhance your workflow"
-    },
-    {
-        "id": 17,
         "name": "Sublime Text",
         "webp": "/static/img/brands/sublime.webp",
         "png": "/static/img/brands/sublime.webp",
         "href": "https://www.sublimetext.com/",
-        "title": "A sophisticated text editor for code, markup and prose"
+        "title": "A sophisticated text editor for code, markup and prose",
+        "class": "sprite-brands-sublime"
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Fit GmbH",
         "webp": "/static/img/brands/fit.webp",
         "png": "/static/img/brands/fit.webp",
         "href": "https://www.fit.de",
-        "title": "FIT GmbH – DDR Geschichte lebt"
+        "title": "FIT GmbH – DDR Geschichte lebt",
+        "class": "sprite-brands-fit"
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Picum",
         "webp": "/static/img/brands/picum.webp",
         "png": "/static/img/brands/picum.webp",
         "href": "https://picum.org",
-        "title": "Platform for international cooperation on undocumented migrants"
+        "title": "Platform for international cooperation on undocumented migrants",
+        "class": "sprite-brands-picum"
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "SOSF",
         "webp": "/static/img/brands/ssf.webp",
         "png": "/static/img/brands/ssf.webp",
         "href": "https://www.sosf.ch",
-        "title": "Solidarité sans frontières"
+        "title": "Solidarité sans frontières",
+        "class": "sprite-brands-ssf"
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "Stopp Ramstein",
         "webp": "/static/img/brands/stopp_ramstein.webp",
         "png": "/static/img/brands/stopp_ramstein.webp",
         "href": "https://www.ramstein-kampagne.eu/",
-        "title": "STOPP RAMSTEIN - Kein Drohnenkrieg"
+        "title": "STOPP RAMSTEIN - Kein Drohnenkrieg",
+        "class": "sprite-brands-stopp_ramstein"
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "Yarn ",
         "webp": "/static/img/brands/yarn.webp",
         "png": "/static/img/brands/yarn.webp",
         "href": "https://yarnpkg.com",
-        "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT."
+        "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.",
+        "class": "sprite-brands-yarn"
     }
 ]
