@@ -8,17 +8,17 @@ draft: false
 lang: de
 ---
 
-Wenn der geneigte Medienkonsument die nächsten Meldungen über Syrien vom Mainstream entgegennehmen wird, dann hat er keinerlei Hintergrundwissen über die dortigen Geschehnisse. Er wird stattdessen, um es schlicht zu sagen, mehr oder weniger dreist angelogen. “Arme Zivilbevölkerung wird von Assads Truppen und den Russen bombardiert”, eine monatliche Falschmeldung. 
+Wenn der geneigte Medienkonsument die nächsten Meldungen über Syrien vom Mainstream entgegennehmen wird, dann hat er keinerlei Hintergrundwissen über die dortigen Geschehnisse. Er wird stattdessen, um es schlicht zu sagen, mehr oder weniger dreist angelogen. "Arme Zivilbevölkerung wird von Assads Truppen und den Russen bombardiert”, eine monatliche Falschmeldung. 
 
 Syrien informiert die Weltorganisation regelmäßig über das, was im Land geschieht. Am 13. Januar geschah das in zwei weiteren, gleichlautenden Briefen an die Vereinten Nationen. Diese Briefe handeln von al-Qaida in Syrien.
 
-> Wir erinnern uns noch, wer nach Auskunft der Hüter der einzigen Wahrheit verantwortlich für den “Angriff auf die freie Welt”, also die Zerstörung der Twin Towers und des WTC-Gebäudes Nummer 7 am 11. September 2001 verantwortlich ist und damit den Vorwand für den gigantischen, seitens westlicher Staaten geführten “Krieg gegen den Terror” einleitete? Genau, jene mysteriöse al-Qaida-Organisation, deren Ableger al-Nusra Front (Jabhat al-Nusra) – umgewidmet in Hayat Thahir al-Sham (HTS) – nun die syrische Provinz Idlib administriert und verdeckt Hilfen von der westlichen Wertegemeinschaft erhält.
+> Wir erinnern uns noch, wer nach Auskunft der Hüter der einzigen Wahrheit verantwortlich für den "Angriff auf die freie Welt”, also die Zerstörung der Twin Towers und des WTC-Gebäudes Nummer 7 am 11. September 2001 verantwortlich ist und damit den Vorwand für den gigantischen, seitens westlicher Staaten geführten "Krieg gegen den Terror” einleitete? Genau, jene mysteriöse al-Qaida-Organisation, deren Ableger al-Nusra Front (Jabhat al-Nusra) – umgewidmet in Hayat Thahir al-Sham (HTS) – nun die syrische Provinz Idlib administriert und verdeckt Hilfen von der westlichen Wertegemeinschaft erhält.
 
-Das ist schon ein komischer “Krieg gegen den Terror”? Falsch, denn es gibt ihn in Wirklichkeit gar nicht. Jedenfalls nicht dann, wenn wir von jenem Krieg der westlichen Wertegemeinschaft sprechen. Genauer gesagt ist es das Gegenteil: Staatsterrorismus der USA und deren “Partner”. In Syrien kann das der aufmerksame Beobachter kristallklar erkennen.
+Das ist schon ein komischer "Krieg gegen den Terror”? Falsch, denn es gibt ihn in Wirklichkeit gar nicht. Jedenfalls nicht dann, wenn wir von jenem Krieg der westlichen Wertegemeinschaft sprechen. Genauer gesagt ist es das Gegenteil: Staatsterrorismus der USA und deren "Partner”. In Syrien kann das der aufmerksame Beobachter kristallklar erkennen.
 
-Lassen wir uns nicht den Blick verkleistern: Auch wenn “Hilfen für Idlib” im Einzelfall tatsächlich in Form von Hilfen bis zur Bevölkerung durchgereicht werden mögen, lautet ihr primärer Zweck, die islamistische Herrschaft einer al-Qaida-Organisation in Syrien zu retten. Diese Rettung terroristischer Strukturen wird auch von den “Hilfen” aus Deutschland getragen. Wenn es um die “Verteidigung von Werten” geht, war der Westen, ob seiner skrupellosen Verfolgung eigener Interessen anderswo, schon immer sehr kreativ.
+Lassen wir uns nicht den Blick verkleistern: Auch wenn "Hilfen für Idlib” im Einzelfall tatsächlich in Form von Hilfen bis zur Bevölkerung durchgereicht werden mögen, lautet ihr primärer Zweck, die islamistische Herrschaft einer al-Qaida-Organisation in Syrien zu retten. Diese Rettung terroristischer Strukturen wird auch von den "Hilfen” aus Deutschland getragen. Wenn es um die "Verteidigung von Werten” geht, war der Westen, ob seiner skrupellosen Verfolgung eigener Interessen anderswo, schon immer sehr kreativ.
 
-Die syrische Regierung macht das Spiel des “Bäumchen wechsle dich” übrigens nicht mit und bezeichnet die stärkste islamistische Gruppierung in Idlib deshalb auch weiterhin konsequent al-Nusra. Im Folgenden der Wortlaut der in ihrem Auftrag verfassten Briefe an die Vereinten Nationen.
+Die syrische Regierung macht das Spiel des "Bäumchen wechsle dich” übrigens nicht mit und bezeichnet die stärkste islamistische Gruppierung in Idlib deshalb auch weiterhin konsequent al-Nusra. Im Folgenden der Wortlaut der in ihrem Auftrag verfassten Briefe an die Vereinten Nationen.
 
 > Im Auftrag der Syrischen Arabischen Republik und desweiteren in Bezug auf meinen vorherigen an die Vereinten Nationen gerichteten Brief, halte ich es für notwendig, die folgenden Punkte nochmals zu wiederholen.
 
@@ -28,13 +28,13 @@ Die syrische Regierung macht das Spiel des “Bäumchen wechsle dich” übrigen
 
 > Die Regierung der Syrischen Arabischen Republik möchte zudem die Aufmerksamkeit auf das Folgende lenken:
 
-> Die Stadt Idlib und eine Reihe von Gebieten in ihrer Umgebung werden von der “Befreiungsfront der Levante”, der sogenannten al-Nusra Front kontrolliert, die – als bewaffneter Arm von al-Qaida in Syrien – vom UN-Sicherheitsrat in der Liste der terroristischen Organisationen geführt wird.
+> Die Stadt Idlib und eine Reihe von Gebieten in ihrer Umgebung werden von der "Befreiungsfront der Levante”, der sogenannten al-Nusra Front kontrolliert, die – als bewaffneter Arm von al-Qaida in Syrien – vom UN-Sicherheitsrat in der Liste der terroristischen Organisationen geführt wird.
 
 > Diese Terroristengruppe hat die Missachtung der türkischen Regierung zur Erfüllung ihrer Verpflichtungen aus den Vereinbarungen von Astana und Sotschi ausgenutzt, um die Kontrolle über die Provinz Idlib zu übernehmen und die schlimmsten Verbrechen gegen dessen Bevölkerung zu begehen.
 
-> Die von der Syrischen Arabischen Armee und ihren Verbündeten durchgeführten Operationen sind eine Reaktion auf die systematischen Verbrechen, welche von der “Befreiungsfront der Levante” gegen Zivilisten der Stadt, so wie denen in den nahe gelegenen Dörfern und Städten begangen wurden. Die terroristische “Befreiungsfront der Levante”, die Idlib kontrolliert, hat Tausende von ausländischen Kämpfern in ihren Reihen.
+> Die von der Syrischen Arabischen Armee und ihren Verbündeten durchgeführten Operationen sind eine Reaktion auf die systematischen Verbrechen, welche von der "Befreiungsfront der Levante” gegen Zivilisten der Stadt, so wie denen in den nahe gelegenen Dörfern und Städten begangen wurden. Die terroristische "Befreiungsfront der Levante”, die Idlib kontrolliert, hat Tausende von ausländischen Kämpfern in ihren Reihen.
 
-> Die Terrorgruppe der “Befreiungsfront der Levante” benutzt Hunderttausende von Zivilisten der Stadt als menschliche Schutzschilde und begeht an ihnen die abscheulichsten und barbarischsten Verbrechen. Sie hat Tod und Zerstörung verbreitet und brachte zivile Einrichtungen, einschließlich Hospitäler und Schulen unter ihre Kontrolle, um sie in Kasernen und Zentren umzuwidmen, in denen sie Jene foltert und tötet, welche sich ihrer al-Nusras takfirischer und radikaler Ideologie verweigern.
+> Die Terrorgruppe der "Befreiungsfront der Levante” benutzt Hunderttausende von Zivilisten der Stadt als menschliche Schutzschilde und begeht an ihnen die abscheulichsten und barbarischsten Verbrechen. Sie hat Tod und Zerstörung verbreitet und brachte zivile Einrichtungen, einschließlich Hospitäler und Schulen unter ihre Kontrolle, um sie in Kasernen und Zentren umzuwidmen, in denen sie Jene foltert und tötet, welche sich ihrer al-Nusras takfirischer und radikaler Ideologie verweigern.
 
 > Darüber hinaus ist es erwiesen, dass diese Gruppe den größten Teil der humanitären Hilfe konfisziert, die in die Provinz gelangt, einschließlich der Hilfen, welche nach den Festlegungen der Resolution 2165 (2014) über die Grenze geliefert werden.
 

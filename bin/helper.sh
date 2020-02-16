@@ -31,27 +31,23 @@ case $1 in
     ;;
 
     diff)
-      # use ./bin/helper.sh compare 2020/02
+      # use ./bin/helper.sh diff
       # Directorys of contents
       de="./content/de/blog"
       en="./content/en/blog"
       fr="./content/fr/blog"
       ru="./content/ru/blog"
-
-      # check user input is right and not empty
-      if [[ -z "$2" ]]; then
-        printf "use it like ./bin/helper.sh diff and then the year and month folder\n"
-        exit 0
-      fi
+      year=$(date +"%Y")
+      month=$(date +"%m")
 
       # read out the filenames
-      for file in $de/$2/*; do
-          f1="$en/$2/$( basename "$file" )"
-          f2="$fr/$2/$( basename "$file" )"
-          f3="$ru/$2/$( basename "$file" )"
+      for file in $de/$year/$month/*; do
+          f1="$en/$year/$month/$( basename "$file" )"
+          f2="$fr/$year/$month/$( basename "$file" )"
+          f3="$ru/$year/$month/$( basename "$file" )"
 
           #compare name in english tree
-          if [ ! -e "$f2" ]; then
+          if [ ! -e "$f1" ]; then
               printf '%s\n' "$f1"
 
           #compare name in french tree
@@ -65,9 +61,47 @@ case $1 in
       done
     ;;
 
+    copy)
+      tmp='/tmp/source.txt'
+      year=$(date +"%Y")
+      month=$(date +"%m")
+
+
+      # create a files which contains all articles which be not in english
+      if [[ -f "$tmp" ]]; then
+        truncate -s 0 "$tmp"
+        ./bin/helper.sh diff > $tmp
+      else
+        ./bin/helper.sh diff > $tmp
+      fi
+
+      # delete article files which not need to translate
+      if [[ -f "$tmp" ]]; then
+        if [[ $(grep "the-unbearable-russia-frees-auschwitz" $tmp) ]]; then
+          sed -i '/the-unbearable-russia-frees-auschwitz/d' $tmp
+        fi
+      fi
+
+      # copy the files in english directory
+      de="./content/de/blog"
+      en="./content/en/blog"
+
+      if [[ -f "$tmp" ]]; then
+        sed -i 's|/en/|/de/|g' $tmp
+      fi
+
+      # read in the source file
+      readarray -t source < $tmp
+
+      for i in "${source[@]}" ; do
+        cp -v $i $en/$year/$month/
+      done
+    ;;
+
     *)
         printf "webp  > for converting jpg images to webp format\n"
         printf "month > to create month folder in blog folder\n"
         printf "diff  > to see which missing files give in blogs\n"
+        printf "copy  > copy the german files to english folder\n"
     ;;
 esac

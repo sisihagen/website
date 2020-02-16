@@ -1,0 +1,116 @@
+---
+title: "A future without Macron?"
+date: 2020-02-12
+tags: "State"
+shorttext: "Macron hoped the protests would run into Sand, but the protests are getting stronger. The local elections in March could bury Macron!"
+cover: "repression"
+draft: false
+lang: en
+---
+
+In view of the unabated strong protests against their pension reform, the government hopes that the Strikers will run out of air and that the protests will eventually run themselves to death. But things are not going as well for Macron as he had hoped. Sand is in gear. The will to resist in the population remains unbroken, about two thirds of the French still support the protests even after two months of strike. Ever new professional groups declare themselves in solidarity and join the protests. Now the state council reprimanded the bill and the Senate presidents reject the fast-track process for its adoption. In March there are local elections and Macron's LREM party is facing a heavy defeat. The next few weeks will be crucial. Also decisive for how long Macron will be France's President.
+
+Pension reform should be at the heart of Macron's reform plans. Two years of work was done on the preparation for this, numerous discussions were held in advance, including with Laurent Berger, the LREM's favourite trade unionist. Although the preparatory work on the pension plans already began in autumn 2017, the Details were kept secret from the beginning or only brought to the public in slices. Macron wanted to increase the chances of enforcement and make it difficult for the trade unions to mobilize against the project. From the beginning, the number of 42 different pension systems was repeated as a prayer mill. This was all far too complicated and unfair, privileges had to be abolished and a uniform system for all professional groups had to be established. That sounded reasonable at first.
+
+But Philippe and Macron do not plan to improve or simplify the pension system, as they always claim, on the contrary: they want to eliminate the pension system. Their pension reform is a neoliberal, arithmetical model aimed at safeguarding the special interests of large companies and opening up a lucrative market for pension funds and funded pensions. For this reason, the share of pensions is based solely on gross domestic product (GDP) and is fixed and fixed at 14% in the reform project. After more than four decades of work, the average pensioner should only receive a pension at the minimum subsistence level. Everything beyond that should be regulated privately.
+
+#### The schedule of the government
+
+The government wants to bring the bill through the two chambers, parliament and Senate, in a fast-track process. In fact, there are two legislative texts: the first on the creation of a single system of pension funds and the second on the creation of Ad hoc commissions, such as the commission, which is later to determine the monetary point value, or the commission, which is to determine the "age of equilibrium". Article 45 of the French Constitution allows a rapid legislative procedure, the procedure is as follows: the legislative text is first examined by a special commission set up specifically for this purpose. She has 14 days to do so. The members of the Pension Reform Commission have already been appointed. It has 71 members of Parliament. The draft law was adopted by the Council of ministers on 6 January and forwarded to the Council of state immediately afterwards. The latter must comment on the government's legislative projects. The Council of State is also, among other things, the government's advisory body on legal issues and checks the legality and constitutional conformity of the legislative project before it is presented to Parliament. The Council of state issued its opinion on 24 January 2020. 
+
+The special commission began its work on 3 February and will complete it by 17 February.  Among other things, it also hears the opinion of the social partners and the Pension Advisory Board. The debates will then be held in Parliament from 17 February. Parliament should adopt the final Text by 3 March at the latest, if necessary in meetings also on the weekends, but in time before the parliamentary recess before the local elections, which take place on 15 and 22 March.  After the passage of the bill, it is forwarded to the Senate, which must decide on it in the last instance. If the government's Plan works like this, the law could come into force around Pentecost.
+
+As you can see, Macron is suddenly in a great hurry. Although from a purely objective point of view this rush would not be necessary. The rapid procedure is actually intended to enable the government to quickly enact the necessary laws in emergencies in order to cope with an emergency situation. But where is the emergency in this case? There is no urgency apparent. But the social Situation in France is currently very tense, to put it mildly. The people are on the streets every day, the popularity of Macron and his government is at rock bottom. And anything that harms the popularity of the government majority should be eliminated as soon as possible. The pension reform threatens to become a fiasco for Macron in the longer term. Only the escape to the front helps.
+
+#### The opinion of the Council of State
+
+The Council of State in France is not exactly known for putting obstacles in the way of the government. Although the Council of State has only an advisory role and no decision-making power, its statement of 24 January on the pension project is a slap in the face for the Macron government.  Insufficient, put! The Council of State calls on the president to re-examine his legislative text. Although the Council of State has issued only one opinion, this is equivalent to an injunction.
+
+The most serious accusation of the State Council is the denounced unconstitutionality. This is about the promise of upgrading teachers in exchange for a new pension system, of which they would be the big losers. However, according to the State Council, the law on pension reform must not prescribe that further laws must be introduced later in order to fulfil the original promise to teachers. In other words, the “order” of the pension project to propose an additional law to upgrade teachers is not constitutional. Maintaining this provision would entail the risk of rejection of the text by the Constitutional Council.
+
+Moreover, the government's request for an opinion within three weeks did not enable the Council of state to fulfil its mandate with the necessary calm and reflection time to ensure the legal certainty of the examination it carried out, especially since the draft law was amended six more times in the same period.
+
+The Council of State also notes that the financial projections presented are completely incomplete. In addition, the bill contains provisions that authorize the government to issue 29 ordinances. The Council of state stresses that this will lose the "general visibility" required to assess the consequences of the Reform and, consequently, its constitutionality and constitutionality.
+
+The bill also does not create a “universal pension system“. Within the new system there are five systems, namely the general system for employees, the system for civil servants, judges and military personnel, the system for agricultural workers, the system for non-agricultural workers outside agriculture and the system for seamen. The profession of flight personnel, which is connected to the general system for employees, retains its supplementary system. Within each of these created or maintained schemes, rules are defined for different professions that differ from the principle of the general system.
+
+Finally, the Council of State points out that the objective that “every euro paid in opens up equal rights for all” only imperfectly reflects the complexity and diversity of the rules laid down in the bill for the payment of contributions or the opening up of rights.
+
+The Council of State also notes that the aim of the project is to stabilise pension expenditure at 14% of GDP. However, as the number of over-65s will increase by 70% by 2070, he draws the government's attention to the need to take into account the impact of such changes on the unemployment insurance accounts given the low employment rate of over-65s and on spending on minimum social amounts, all data missing from the study on the impact of the law.
+
+The Council of State further notes that the choice of an annual determination of the individual parameters of the system means that the foresight of the rules applicable to the insured shortly before retirement is restricted. The State Council further complains that there should be no consideration of periods of uncompensated unemployment for the minimum pension.
+
+A falling minimum pension in the public service and some special schemes would continue to result in a significant reduction in the amount of the minimum pension for the public service and certain special schemes under otherwise equal conditions ... by about 6.8% for the civil servants, 9.6% for the employees of the SNCF and 13.8% for the employees of the Banque de France”.
+
+Of course, the reactions from the ranks of the reform opponents were not long in coming. What is emphasized in most statements is the “dilettantism” of the government and the “poorly elaborated” character of the law. The CGT said that the government had asked the Council of state to issue a blank cheque to the bill. That had failed.
+
+29 ordinances, that is, 29 unknowns, which the present government, and all subsequent governments, can shape according to their own will. No one can know exactly what these ordinances will look like. No one can accurately foresee the effects of Macron's pension reform. It is left to the will of the government to decide with what content it will fill in the regulations again and again, depending on the current situation or on Gusto. A large number of the legal provisions remain unclear, will be postponed until later and outsourced to as yet unknown commissions.
+
+The legislative text is also full of exceptions and corporatist agreements for various professional groups to compensate for the losses caused by the pension reform. Especially for professional groups, such as the police and the military, with which the government does not want to spoil itself, they are needed to bring the opponents to rest through Repression. The government wants to stop the police from going on strike by promising them to maintain the Status quo for the time being.
+
+Police, military, Paris Opera, EDF, air-traffic controllers ... the list of sectors with which the government is trying to enter into corporatist agreements is getting longer and longer. The government is offering teachers to increase their salaries so that they can accept the pension reform. This is how the government wants to break the strike front. Since he cannot sell the Reform as a whole, Macron would like to sell it individually.
+
+The seemingly simple scoring system is unjust because it violates the most elementary foundation of the principle of Justice, which requires treating the same equally and the unequal unequally. It is not about the abolition of privileges, but about compensation for low wages and hard work throughout a working life and The Associated promise of an early and good old-age pension. With the introduction of a points system, promises are broken that people have oriented themselves towards in work and in life.
+
+Not only should the retirement age be increased, but the balance of the entire system should be maintained solely at the expense of the working population through a combination of a shift in age and a devaluation of the point value.
+
+The pension reform is economically nonsense. It only flushes money into the pockets of financial players. Even the Council of State confirms this in its report, if one reads it carefully. What sense should an extension of the working life by 2 years make, if there are 3.5 million unemployed in the country at the same time? What the state saves in the subsidies for pension insurance, it must put back on top in the care of the unemployed and old-age poverty. But Macron has also "reformed" the law on unemployment insurance and curtailed benefits there. But you cannot let the people who are no longer needed in the neoliberal System starve to death. But let them vegetate until they die, that seems to be possible.
+
+Although the LREM has a majority in Parliament to pass the law despite all the headwinds, this will be a rocky road, as the project has many legal and constitutional weaknesses. From a technical point of view, the proposed bill is at a very low level. The government has therefore already made it clear that if necessary, the law will be pushed through again by government decree, applying Article 49-3 of the Constitution.
+
+#### The Senate denounces the fast-track procedure
+
+The next reprimand for Macron came shortly afterwards from the House of Lords. On 28 January, the conference of presidents of the Senate demanded that the accelerated procedure for pension reform, which the government wants to put into effect before the summer, not be initiated. By a large majority, it decided to “oppose the introduction of the accelerated procedure”, which limits parliamentary discussion to one reading per chamber. This decision was communicated to the President of Parliament. The reservations expressed by the Council of State had reinforced the senators ' determination to demand that the expedited procedure be rejected: “we really want the government to recognize that we cannot deal with an issue like this in this way.”
+
+In order not to initiate the accelerated procedure, the motion must be adopted by the conference of presidents of the parliament, which has a majority there with the LREM. But this will hardly happen. Laurent Pietraszewski, state secretary for pensions, said that the government was against changing the timetable. ” The parliamentary time is sufficient to allow a debate under good conditions, " said Marc Fesneau, Minister for relations with Parliament, who attended the meeting in the Senate.
+
+The S & amp; D group said that “to examine such a botched law, which affects all French citizens and has a financial impact on about 14% of GDP, in an accelerated procedure is beyond contempt for parliamentary work, a real denial of democracy”.
+
+#### The Local Elections
+
+The Macron government also wants to push through the law in a fast-track process in order to get it under control before the local elections on 15 and 22 March and thus keep the discussions about it out of the elections as far as possible.  Many local politicians stand on the side of the strikers and threaten to throw themselves over with their party because of this.
+
+A local politician who is openly in favour of pension cuts has a bad chance of being elected if three-quarters of voters are against it at the same time. But if he takes a stand against Paris, he risks anger with and even exclusion from his party. There is a huge gap between Paris and local politicians. And how can we prevent the pension reform from being discussed at an election event when it is on everyone's lips throughout the country at the same time?
+
+Macron and the LREM in Paris are in danger of further trouble: the French mathematician and member of the LREM, Cédric Villani, has, against the will of Macron, maintained his candidacy as mayor of Paris for this year's local elections. He was expelled from the party last Thursday. Villani is very popular with the inhabitants of Paris and has a good chance of winning the elections. Villani is not the only LREM renegade. The LREM had previously expelled two deputies and several other opposition members from the party. Others have left the party of their own accord. A member of Parliament has now announced his intention to form a left Opposition within the LREM.
+
+The newspaper 20 minutes reports that in another 25 major French cities, including Lyon, the candidates of the LREM were no longer put up by the superiors in Paris and now want to go their own way. In many villages and towns in France, local representatives have left the LREM and are now running on their own or on another list.
+
+In order to conceal the LREM's impending electoral failure, at least statistically, interior minister Castaner had already sent a circular to all prefects in the individual departments on 10 December last year.  The Castaner circular asked the prefects to remove the political hue in cities with less than 9,000 inhabitants from the lists.
+
+In concrete terms, this meant that 96% of the municipalities and 50% of the voters would have disappeared from the results of the local elections, especially from the places where LREM is almost not represented. The circular also provided for the label “list of various centre parties” (LDVC), which is counted in favour of the ruling party, to be attributed to the lists of candidates not drawn up by the LREM but supported by it. It is about manipulating the election results in order to relativize the foreseeable difficulty of the LREM lists in the next local elections.
+The Council of state, having “serious doubts” as to the legality of the circular, now suspended it. This is a new slap in the face that the State Council has given the government, a few days after its fierce criticism of the Pension Reform Act. With this circular, the government tried to artificially inflate the results of the LREM in the local elections by not taking into account the political hues in the small towns where the presidential party is not represented or only insufficiently represented. To avoid misunderstandings: of course, the elections and the election results for the candidates themselves would not have been changed, but the official statistics.
+
+#### A law to ban strikes should be introduced
+
+Even when the oil refineries were on strike and no fuel left the factories, Philippe threatened the strikers with the police to break the strike in the refineries.
+Three incinerators in the Ile de France region have been closed since 23 January.  Garbage collection strikes have brought the collection of household waste to a standstill in almost all municipalities in the Paris region. The garbage is still on the streets. The management of the incinerators has now written a letter to the government asking for help, in particular to force the garbage men to resume work.
+
+In addition, the French railway SNCF has paid the workers who did not strike a bonus of between€ 500 and€ 1500 for their "availability during the strikes" with the January wage. While the Strikers had a zero on their pay slip for January, the strikebreakers got an extra bonus.
+
+While the pension reform is still on its way through the authorities, the Senate is already working on a law that attacks the right to strike in public transport by introducing a "minimum service". A bill to create " the guaranteed right to public transport” has already been presented in the committee on social affairs. The government seems determined to push hard to fundamentally restrict the right to strike.
+
+#### View
+
+Since the government is determined to push through the law against all opposition and without regard to losses, and even in the fast-track process, the next weeks will be decisive. There is hardly any going back for either side. Macron has leaned far out of the window and does not want to lose his face as a "Reformer". But the workers really don't care about the face of Macron. Because Macron has made up his mind either way. If he has to go, then certainly not to the employment office. For the workers, who have now been on strike for two months, things look very different. They have sacrificed two months of wages, their savings are exhausted and their future looks pretty bleak in the "Macronie", as the neoliberal system of Macron is now called everywhere. They will not give up now and just go home. The protests will not stop as long as this government has not taken its hat off in one way or another. The fronts are too hardened.
+
+The workers of the railway and the Paris Metro have temporarily resumed their service. They simply have no money left. The collections, which have since been launched nationwide to help the strikers, and which are also quite successful, are still not enough to make up for the lost wages.
+
+If the government continues to incite the police on the demonstrators, then there will soon be real street fights. The base is already in the process of organizing itself autonomously, the union bosses have fallen into disrepute due to their willingness to negotiate with the government. Even the yellow vests did not want to have much to do with the trade unions and these have in turn reviled the yellow vests.
+
+The CFDT and the UNSA have lost all credit, at the latest after leaving the trade union front. You can negotiate with Philippe, what you want, the base will not accept it. The strikers talk of betrayal and send back their membership cards en masse. Berger and Escure have lost all credit to the strikers and better not show up at an event or rally of the strike front.
+
+Macron is whistled out wherever he appears. The security forces had to evacuate him during a visit to the theater because they feared that the mass of people that had gathered in front of the Theater could get him out of there. This is reminiscent of the Sun King, whom the crowds had picked up from Versailles in 1789 and arrested. And some even threaten to take the Guillotine out of the cellar again.
+
+The special commission for pensions, which started its work this Monday, will also have fun. There have already been 22,000 amendments tabled by the parties, a record in this legislature. Of these, 19 000 come from La France Insoumise alone, which is pursuing a strategy to tire the commission.
+The 71 members of the special committee on pension reform will therefore have to tackle a mountain of changes. The deadline for submitting amendments expired last Friday. The amendments of the rapporteurs and the government, which are not subject to a deadline, will be added.
+
+On 3 February, lawyers, doctors and other liberal professions across the country, but especially in Paris, followed the call of the collective “SOS pensions” and demonstrated in large numbers against the pension reform. In Paris alone there were 15,000 white coats and black robes, with all 164 bar chambers striking again. Five Liberal Health and medical unions are also calling for an indefinite strike from 3 February.
+
+The opposition movement on the streets remains tireless. The following actions have already been announced for the next few days:
+
+  - 5 February: protests by various youth organisations with the support of the trade union front
+  - 6 February: another nationwide day of action by the trade union front
+  - 14 February: protest rally of hospital and emergency services personnel against working conditions in the health sector
+
+Surprising actions are also never excluded. The opposition to Macron is well connected and communication via social media allows it to be present everywhere in a short time.

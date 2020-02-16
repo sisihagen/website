@@ -10,7 +10,7 @@ lang: de
 
 Die jüngsten Ereignisse in der Region bestätigen, dass die Regierung der USA und die reaktionären Oligarchien die Hauptverantwortlichen für die gefährlichen Erschütterungen und die politische und soziale Instabilität Lateinamerikas und der Karibik sind.
 
-Der Erste Sekretär der Kommunistischen Partei Kubas, Armeegeneral Raúl Castro Ruz, erklärte am 1. Januar 2019 vorausschauend: „Diejenigen, die Illusionen bezüglich der Wiederherstellung der imperialistischen Dominanz über unsere Region hegen, sollten verstehen, dass sich Lateinamerika und die Karibik verändert haben und ebenso die Welt. [...] Die Region gleicht einer Prärie in Zeiten der Dürre. Ein Funke könnte ein unkontrollierbares Feuer auslösen, das allen nationalen Interessen schadet.“
+Der Erste Sekretär der Kommunistischen Partei Kubas, Armeegeneral Raúl Castro Ruz, erklärte am 1. Januar 2019 vorausschauend: "Diejenigen, die Illusionen bezüglich der Wiederherstellung der imperialistischen Dominanz über unsere Region hegen, sollten verstehen, dass sich Lateinamerika und die Karibik verändert haben und ebenso die Welt. [...] Die Region gleicht einer Prärie in Zeiten der Dürre. Ein Funke könnte ein unkontrollierbares Feuer auslösen, das allen nationalen Interessen schadet."
 
 Präsident Donald Trump verkündet die Gültigkeit der Monroe-Doktrin und appelliert an den McCarthyismus, um die imperialistische Vorherrschaft über die natürlichen Ressourcen der Region zu bewahren, die Ausübung der nationalen Souveränität und die Bestrebungen der regionalen Integration und Zusammenarbeit zu behindern; zu versuchen, seine unipolare Hegemonie auf weltweiter und hemisphärischer Ebene wiederherzustellen; progressive, revolutionäre und alternative Modelle zum wilden Kapitalismus zu beseitigen; und unabhängig vom Völkerrecht, den Spielregeln der repräsentativen Demokratie, der Umwelt oder dem Wohlergehen der Völker politische und soziale Eroberungen umzukehren und neoliberale Modelle durchzusetzen.
 
@@ -28,7 +28,7 @@ Die Völker fragen sich zu Recht, wo Demokratie und Rechtsstaatlichkeit verblieb
 
 Sehen wir uns einige Fakten an.
 
-Im März 2015 unterzeichnet Präsident Barack Obama eine Exekutivverordnung, in der die Bolivarische Republik Venezuela als „ungewöhnliche und außerordentliche Bedrohung für die nationale Sicherheit, Wirtschaft und Außenpolitik“ der Großmacht eingestuft wird.
+Im März 2015 unterzeichnet Präsident Barack Obama eine Exekutivverordnung, in der die Bolivarische Republik Venezuela als "ungewöhnliche und außerordentliche Bedrohung für die nationale Sicherheit, Wirtschaft und Außenpolitik" der Großmacht eingestuft wird.
 
 Im November 2015 kommt es in Argentinien zu der kostenreichen Wahlniederlage der Linken.
 

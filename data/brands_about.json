@@ -138,7 +138,7 @@
         "id": 16,
         "name": "Sublime Text",
         "webp": "/static/img/brands/sublime.webp",
-        "png": "/static/img/brands/sublime.webp",
+        "png": "/static/img/brands/sublime.png",
         "href": "https://www.sublimetext.com/",
         "title": "A sophisticated text editor for code, markup and prose",
         "class": "sprite-brands-sublime"
@@ -147,7 +147,7 @@
         "id": 17,
         "name": "Fit GmbH",
         "webp": "/static/img/brands/fit.webp",
-        "png": "/static/img/brands/fit.webp",
+        "png": "/static/img/brands/fit.png",
         "href": "https://www.fit.de",
         "title": "FIT GmbH – DDR Geschichte lebt",
         "class": "sprite-brands-fit"
@@ -156,7 +156,7 @@
         "id": 18,
         "name": "Picum",
         "webp": "/static/img/brands/picum.webp",
-        "png": "/static/img/brands/picum.webp",
+        "png": "/static/img/brands/picum.png",
         "href": "https://picum.org",
         "title": "Platform for international cooperation on undocumented migrants",
         "class": "sprite-brands-picum"
@@ -174,7 +174,7 @@
         "id": 20,
         "name": "Stopp Ramstein",
         "webp": "/static/img/brands/stopp_ramstein.webp",
-        "png": "/static/img/brands/stopp_ramstein.webp",
+        "png": "/static/img/brands/stopp_ramstein.png",
         "href": "https://www.ramstein-kampagne.eu/",
         "title": "STOPP RAMSTEIN - Kein Drohnenkrieg",
         "class": "sprite-brands-stopp_ramstein"
@@ -183,9 +183,36 @@
         "id": 21,
         "name": "Yarn ",
         "webp": "/static/img/brands/yarn.webp",
-        "png": "/static/img/brands/yarn.webp",
+        "png": "/static/img/brands/yarn.png",
         "href": "https://yarnpkg.com",
         "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.",
         "class": "sprite-brands-yarn"
+    },
+    {
+        "id": 22,
+        "name": "Hetzner",
+        "webp": "/static/img/brands/hetzner.webp",
+        "png": "/static/img/brands/hetzner.png",
+        "href": "https://hetzner.de",
+        "title": "Profi Webhosting, VPS &amp; Dedicated Root Server - Hetzner Online GmbH",
+        "class": "sprite-brands-hetzner"
+    },
+    {
+        "id": 23,
+        "name": "CityNet Telecom",
+        "webp": "/static/img/brands/citynet.webp",
+        "png": "/static/img/brands/citynet.png",
+        "href": "https://www.citynethost.com/",
+        "title": "We are committed the best value in the hosting business including Dedicated Servers, Cloud Hosting, Virtual Servers, and colocation.",
+        "class": "sprite-brands-citynet"
+    },
+    {
+        "id": 24,
+        "name": "Zappie Host",
+        "webp": "/static/img/brands/zappiehost.webp",
+        "png": "/static/img/brands/zappiehost.png",
+        "href": "https://zappiehost.com/",
+        "title": "VPS Server Hosting New Zealand | VPS Server Hosting South Africa | Dedicated Server Hosting - Zappie Host",
+        "class": "sprite-brands-zappiehost"
     }
 ]
