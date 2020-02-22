@@ -1,14 +1,19 @@
 #!/usr/bin/env bash
+# you append to the command the language, categories and the title
+# the script build a file and create the head content of it
+# the script also generate a english based filename
 
 # variables through user input
 lang=$1
-tags=$2
+cover=$2
 tmp_title=$3
-cover=$4
 
 # variables which we use in script
 # create a title with small letters and remove whitespace
-title=$(echo ${tmp_title,,} | sed -e 's/\s/-/g')
+title=$(echo ${tmp_title,,} | trans -brief :en | sed -e 's/\s/-/g')
+
+# categories
+categories=(computer media repression society)
 
 # date variables
 date=$(date +"%Y-%m-%d")
@@ -19,12 +24,6 @@ month=$(date +"%m")
 content_dir="./content/$lang/blog/$year/$month"
 file="$content_dir/$title.md"
 
-# language tag arrays
-de=(computer medien staat gesellschaft)
-en=(computer media state society)
-fr=(ordinateur journalisme politique société)
-ru=(Компьютер СМИ штат общество)
-
 # function
 function create_file()
 {
@@ -33,7 +32,7 @@ function create_file()
     echo "title: \"$tmp_title\""
     echo "date: $date"
     echo "draft: false"
-    echo "tags: \"$tags\""
+    echo "tags: \"$tag\""
     echo "shorttext:"
     echo "cover: \"$cover\""
     echo "lang: $lang"
@@ -45,7 +44,22 @@ case $1 in
   de)
     if test -n "$lang"; then
       # check tag is in array
-      if [[ ${de[*]} =~ $tags ]]; then
+      if [[ ${categories[*]} =~ $cover ]]; then
+
+        # translation tag > categories
+        if [[ $cover =~ "computer" ]]; then
+          tag="Computer"
+
+        elif [[ $cover =~ "media" ]]; then
+          tag="Medien"
+
+        elif [[ $cover =~ "repression" ]]; then
+          tag="Staat"
+
+
+        elif [[ $cover =~ "society" ]]; then
+          tag="Gesellschaft"
+        fi
 
         # check the folder structure is right
         if [[ -d "$content_dir" ]]; then
@@ -79,7 +93,21 @@ case $1 in
   en)
     if test -n "$lang"; then
       # check tag is in array
-      if [[ ${en[*]} =~ $tags ]]; then
+      if [[ ${categories[*]} =~ $cover ]]; then
+
+        # translation tag > categories
+        if [[ $cover =~ "computer" ]]; then
+          tag="Computer"
+
+        elif [[ $cover =~ "media" ]]; then
+          tag="Media"
+
+        elif [[ $cover =~ "repression" ]]; then
+          tag="State"
+
+        elif [[ $cover =~ "society" ]]; then
+          tag="Society"
+        fi
 
         # check the folder structure is right
         if [[ -d "$content_dir" ]]; then
@@ -113,7 +141,21 @@ case $1 in
   fr)
     if test -n "$lang"; then
       # check tag is in array
-      if [[ ${fr[*]} =~ $tags ]]; then
+      if [[ ${categories[*]} =~ $cover ]]; then
+
+        # translation tag > categories
+        if [[ $cover =~ "computer" ]]; then
+          tag="Ordinateur"
+
+        elif [[ $cover =~ "media" ]]; then
+          tag="Journalisme"
+
+        elif [[ $cover =~ "repression" ]]; then
+          tag="Politique"
+
+        elif [[ $cover =~ "society" ]]; then
+          tag="Société"
+        fi
 
         # check the folder structure is right
         if [[ -d "$content_dir" ]]; then
@@ -148,7 +190,21 @@ case $1 in
 
     if test -n "$lang"; then
       # check tag is in array
-      if [[ ${ru[*]} =~ $tags ]]; then
+      if [[ ${categories[*]} =~ $cover ]]; then
+
+        # translation tag > categories
+        if [[ $cover =~ "computer" ]]; then
+          tag="Компьютер"
+
+        elif [[ $cover =~ "media" ]]; then
+          tag="СМИ"
+
+        elif [[ $cover =~ "repression" ]]; then
+          tag="штат"
+
+        elif [[ $cover =~ "society" ]]; then
+          tag="Общество"
+        fi
 
         # check the folder structure is right
         if [[ -d "$content_dir" ]]; then
@@ -182,7 +238,8 @@ case $1 in
 
   info)
     echo "To work with this script you need append the follow stuff"
-    echo "./bin/new.sh lang tags title cover"
-    echo "./bin/news.sh en society 'This is a title' society"
+    echo "./bin/new.sh lang cover title"
+    echo "./bin/news.sh en society 'This is a title'"
+    echo "cover: computer, media, repression, society"
   ;;
 esac
