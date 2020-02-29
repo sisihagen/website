@@ -1,19 +1,55 @@
 #!/usr/bin/env bash
 
-if [[ -z "$1" ]]; then
-  printf "use it like ./bin/helper.sh function"
-  exit 0
-fi
-
 case $1 in
     # help to find images without webp part
     webp)
-      image_dir="./static/static/img/content"
-      year="$(date +"$Y")"
+      year=$(date +%Y)
+      img_dir="./static/static/img/content"
+      jpeg_file="jpg.txt"
+      webp_file="webp.txt"
+      diff_file="diff.txt"
 
-      # find jpeg files and optimize it
-      find "$image_dir"/"$year" -name "*.jpg" -ctime -7 -exec jpegoptim -q {} \;
-      find "$image_dir"/"$year" -iregex ".*\.\(jpg\|png\|jpeg\)$" -ctime -7 -type f | parallel -eta cwebp -quiet {} -o {.}.webp
+      if [[ -d "$img_dir/$year" ]]; then
+
+        cd "$img_dir/$year" || exit
+        ls ./*.jpg > $jpeg_file
+        ls ./*.webp > $webp_file
+        sed -i 's/.jpg//g' $jpeg_file
+        sed -i 's/.webp//g' $webp_file
+        diff $jpeg_file $webp_file | awk '{print $2}' | sed '/^$/d' > $diff_file
+
+        ### read the diff file for converting
+        while IFS= read -r line; do
+          cwebp -quiet "$line".jpg -o "$line".webp
+        done < diff.txt
+
+        ### clean the folder
+        rm $jpeg_file $webp_file $diff_file
+
+      fi
+    ;;
+
+    png)
+      year=$(date +%Y)
+      img_dir="./static/static/img/content"
+
+      for img in "$img_dir"/"$year"/*.png; do
+        optipng -quiet "$img";
+      done
+
+      for img in "$img_dir"/"$year"/*.png; do
+          filename=${img%.*}
+          convert "$filename.png" "$filename.jpg"
+      done
+
+      for img in "$img_dir"/"$year"/*.jpg; do
+          filename=${img%.*}
+          cwebp -quiet "$filename.jpg" -o "$filename.webp"
+      done
+
+      for img in "$img_dir"/"$year"/*.png; do
+          rm "$img";
+      done
     ;;
 
     month)
@@ -101,6 +137,9 @@ case $1 in
       for i in "${source[@]}" ; do
         cp -v $i $en/$year/$month/
       done
+
+      # set the right lang
+      find ./content/en/blog/$year/$month/ -type f -exec sed -i 's/lang: de/lang: en/g' {} \;
     ;;
 
     copy-fr)
@@ -131,6 +170,9 @@ case $1 in
       for i in "${source[@]}" ; do
         cp $i $fr/$year/$month/
       done
+
+      # set the right lang
+      find ./content/fr/blog/$year/$month/ -type f -exec sed -i 's/lang: en/lang: fr/g' {} \;
     ;;
 
     copy-ru)
@@ -161,10 +203,14 @@ case $1 in
       for i in "${source[@]}" ; do
         cp $i $ru/$year/$month/
       done
+
+      # set the right lang
+      find ./content/ru/blog/$year/$month/ -type f -exec sed -i 's/lang: en/lang: ru/g' {} \;
     ;;
 
     *)
         printf "webp     > for converting jpg images to webp format\n"
+        printf "png     > for converting png images to jpg|webp format\n"
         printf "month    > to create month folder in blog folder\n"
         printf "diff     > to see which missing files give in blogs\n"
         printf "copy-en  > copy the german files to english folder\n"
