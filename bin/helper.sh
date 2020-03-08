@@ -1,13 +1,44 @@
 #!/usr/bin/env bash
 
+# variables
+year=$(date +%Y)
+month=$(date +%m)
+img_dir='./static/static/img/content'
+jpeg_file='jpg.txt'
+webp_file='webp.txt'
+diff_file='diff.txt'
+de='./content/de/blog'
+en='./content/en/blog'
+fr='./content/fr/blog'
+ru='./content/ru/blog'
+tmp='/tmp/source.txt'
+tmp_dir='/tmp/md'
+
+# function
+function clean_dir()
+{
+  if [[ "$(ls -A $tmp_dir)" ]]; then
+    rm $tmp_dir/*.md
+  fi
+}
+
+function clean_file()
+{
+  if [[ -s "$tmp" ]]; then
+    truncate -s 0 $tmp
+  fi
+}
+
+function copy_files()
+{
+  for i in "${source[@]}" ; do
+    cp "$i" "$tmp_dir"
+  done
+}
+
 case $1 in
     # help to find images without webp part
     webp)
-      year=$(date +%Y)
-      img_dir="./static/static/img/content"
-      jpeg_file="jpg.txt"
-      webp_file="webp.txt"
-      diff_file="diff.txt"
 
       if [[ -d "$img_dir/$year" ]]; then
 
@@ -30,9 +61,6 @@ case $1 in
     ;;
 
     png)
-      year=$(date +%Y)
-      img_dir="./static/static/img/content"
-
       for img in "$img_dir"/"$year"/*.png; do
         optipng -quiet "$img";
       done
@@ -58,9 +86,6 @@ case $1 in
         exit 0
       fi
 
-      # time
-      year=$(date +%Y)
-
       # content
       month=(01 02 03 04 05 06 07 08 09 10 11 12)
       lang=$2
@@ -81,12 +106,6 @@ case $1 in
     diff)
       # use ./bin/helper.sh diff
       # Directorys of contents
-      de="./content/de/blog"
-      en="./content/en/blog"
-      fr="./content/fr/blog"
-      ru="./content/ru/blog"
-      year=$(date +"%Y")
-      month=$(date +"%m")
 
       # read out the filenames
       for file in $de/$year/$month/*; do
@@ -110,102 +129,143 @@ case $1 in
     ;;
 
     copy-en)
-      tmp='/tmp/source.txt'
-      year=$(date +"%Y")
-      month=$(date +"%m")
-
-
-      # create a files which contains all articles which be not in english
       if [[ -f "$tmp" ]]; then
-        truncate -s 0 "$tmp"
-        ./bin/helper.sh diff > $tmp
-      else
         ./bin/helper.sh diff > $tmp
       fi
-
-      # copy the files in english directory
-      de="./content/de/blog"
-      en="./content/en/blog"
 
       if [[ -f "$tmp" ]]; then
         sed -i 's|/en/|/de/|g' $tmp
       fi
 
+      if [[ ! -d "$tmp_dir" ]]; then
+          mkdir $tmp_dir
+      fi
+
       # read in the source file
       readarray -t source < $tmp
 
-      for i in "${source[@]}" ; do
-        cp -v $i $en/$year/$month/
+      # markdown files will be copied to $tmp_dir
+      copy_files
+
+      # manipulate the files in $tmp_dir
+      for files in $tmp_dir/*.md ; do
+        # set the right lang settings
+        sed -i 's/lang: de/lang: en/g' $files
+
+        # set the right tags
+        sed -i 's/tags: "Gesellschaft"/tags: "Society"/g' $files
+        sed -i 's/tags: "Medien"/tags: "Media"/g' $files
+        sed -i 's/tags: "Staat"/tags: "State"/g' $files
+
+        # set the right title
+        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief -e bing :en )"'"/' $files
+
+        # set the right shorttext
+        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief -e bing :en )"'"/' $files
       done
 
-      # set the right lang
-      find ./content/en/blog/$year/$month/ -type f -exec sed -i 's/lang: de/lang: en/g' {} \;
+      # copy files when finished manipulation
+      cp -v $tmp_dir/*.md $en/$year/$month
+
+      # clean the dir $tmp_dir
+      clean_dir
+
+      # clean the source file $tmp
+      clean_file
     ;;
 
     copy-fr)
-      tmp='/tmp/source.txt'
-      year=$(date +"%Y")
-      month=$(date +"%m")
-
-
-      # create a files which contains all articles which be not in english
       if [[ -f "$tmp" ]]; then
-        truncate -s 0 "$tmp"
-        ./bin/helper.sh diff > $tmp
-      else
         ./bin/helper.sh diff > $tmp
       fi
-
-      # copy the files in french directory
-      en="./content/en/blog"
-      fr="./content/fr/blog"
 
       if [[ -f "$tmp" ]]; then
         sed -i 's|/fr/|/en/|g' $tmp
       fi
 
+      if [[ ! -d "$tmp_dir" ]]; then
+          mkdir $tmp_dir
+      fi
+
       # read in the source file
       readarray -t source < $tmp
 
-      for i in "${source[@]}" ; do
-        cp $i $fr/$year/$month/
+      # markdown files will be copied to $tmp_dir
+      copy_files
+
+      # manipulate the files in $tmp_dir
+      for files in $tmp_dir/*.md ; do
+        # set the right lang settings
+        sed -i 's/lang: en/lang: fr/g' $files
+
+        # set the right tags
+        sed -i 's/tags: "Society"/tags: "Société"/g' $files
+        sed -i 's/tags: "Media"/tags: "Journalisme"/g' $files
+        sed -i 's/tags: "State"/tags: "Politique"/g' $files
+        sed -i 's/tags: "Computer"/tags: "Ordinateur"/g' $files
+
+        # set the right title
+        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief -e bing :fr )"'"/' $files
+
+        # set the right shorttext
+        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief -e bing :fr )"'"/' $files
       done
 
-      # set the right lang
-      find ./content/fr/blog/$year/$month/ -type f -exec sed -i 's/lang: en/lang: fr/g' {} \;
+      # copy files when finished manipulation
+      cp -v $tmp_dir/*.md $fr/$year/$month
+
+      # clean the dir $tmp_dir
+      clean_dir
+
+      # clean the source file $tmp
+      clean_file
     ;;
 
     copy-ru)
-      tmp='/tmp/source.txt'
-      year=$(date +"%Y")
-      month=$(date +"%m")
-
-
-      # create a files which contains all articles which be not in english
       if [[ -f "$tmp" ]]; then
-        truncate -s 0 "$tmp"
-        ./bin/helper.sh diff > $tmp
-      else
         ./bin/helper.sh diff > $tmp
       fi
-
-      # copy the files in french directory
-      en="./content/en/blog"
-      ru="./content/ru/blog"
 
       if [[ -f "$tmp" ]]; then
         sed -i 's|/ru/|/en/|g' $tmp
       fi
 
+      if [[ ! -d "$tmp_dir" ]]; then
+          mkdir $tmp_dir
+      fi
+
       # read in the source file
       readarray -t source < $tmp
 
-      for i in "${source[@]}" ; do
-        cp $i $ru/$year/$month/
+      # markdown files will be copied to $tmp_dir
+      copy_files
+
+      # manipulate the files in $tmp_dir
+      for files in $tmp_dir/*.md ; do
+        # set the right lang settings
+        sed -i 's/lang: en/lang: ru/g' $files
+
+        # set the right tags
+        sed -i 's/tags: "Society"/tags: "Общество"/g' $files
+        sed -i 's/tags: "Media"/tags: "СМИ"/g' $files
+        sed -i 's/tags: "State"/tags: "штат"/g' $files
+        sed -i 's/tags: "Computer"/tags: "Компьютер"/g' $files
+
+        # set the right title
+        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief -e bing :ru )"'"/' $files
+
+        # set the right shorttext
+        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief -e bing :ru )"'"/' $files
       done
 
-      # set the right lang
-      find ./content/ru/blog/$year/$month/ -type f -exec sed -i 's/lang: en/lang: ru/g' {} \;
+      # copy files when finished manipulation
+      cp -v $tmp_dir/*.md $ru/$year/$month
+
+      # clean the dir $tmp_dir
+      clean_dir
+
+      # clean the source file $tmp
+      clean_file
     ;;
 
     *)

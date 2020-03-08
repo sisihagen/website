@@ -1,6 +1,5 @@
 enableRobotsTXT = true
-pygmentsCodeFences = true
-pygmentsStyle = "vim"
+
 publishDir = "public/build"
 assetDir = "static"
 enableGitInfo = true
@@ -11,10 +10,16 @@ enableGitInfo = true
 [taxonomies]
     tag = "tags"
 
-[blackfriday]
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.blackFriday]
     angledQuotes = false
     hrefTargetBlank = true
-    extensionsmask = ['headerIds', 'autoHeaderIds']
+    nofollowLinks = true
+    noreferrerLinks = true
+[markup.highlight]
+  codeFences = true
+  style = "vim"
 
 [related]
   threshold = 80
