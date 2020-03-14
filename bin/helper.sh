@@ -129,7 +129,10 @@ case $1 in
     ;;
 
     copy-en)
-      if [[ -f "$tmp" ]]; then
+      if [[ ! -f "$tmp" ]]; then
+        ./bin/helper.sh diff > $tmp
+      else
+        clean_file
         ./bin/helper.sh diff > $tmp
       fi
 
@@ -175,7 +178,10 @@ case $1 in
     ;;
 
     copy-fr)
-      if [[ -f "$tmp" ]]; then
+      if [[ ! -f "$tmp" ]]; then
+        ./bin/helper.sh diff > $tmp
+      else
+        clean_file
         ./bin/helper.sh diff > $tmp
       fi
 
@@ -222,7 +228,10 @@ case $1 in
     ;;
 
     copy-ru)
-      if [[ -f "$tmp" ]]; then
+      if [[ ! -f "$tmp" ]]; then
+        ./bin/helper.sh diff > $tmp
+      else
+        clean_file
         ./bin/helper.sh diff > $tmp
       fi
 
