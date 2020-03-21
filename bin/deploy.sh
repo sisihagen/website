@@ -30,7 +30,7 @@ case "$1" in
     ;;
 
     *)
-        rsync -auq --delete --exclude "sisi-plancher.com" --exclude "log" --exclude "silviosiefke.ru" --exclude "scss" $workdir/ france:/var/www/
+        rsync -auq --delete --exclude "sisi-plancher.com" --exclude "debt.silviosiefke.com" --exclude "log" --exclude "silviosiefke.ru" --exclude "scss" $workdir/ france:/var/www/
         rsync -auq --delete --exclude "sisi-plancher.com" --exclude "log" --exclude "scss" --exclude "silviosiefke.de" --exclude "silviosiefke.fr" --exclude "silviosiefke.com" $workdir/ ru-web:/var/www/
     ;;
 esac

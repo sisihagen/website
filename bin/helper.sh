@@ -161,10 +161,10 @@ case $1 in
         sed -i 's/tags: "Staat"/tags: "State"/g' $files
 
         # set the right title
-        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief -e bing :en )"'"/' $files
+        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :en )"'"/' $files
 
         # set the right shorttext
-        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief -e bing :en )"'"/' $files
+        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief :en )"'"/' $files
       done
 
       # copy files when finished manipulation
@@ -211,10 +211,10 @@ case $1 in
         sed -i 's/tags: "Computer"/tags: "Ordinateur"/g' $files
 
         # set the right title
-        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief -e bing :fr )"'"/' $files
+        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :fr )"'"/' $files
 
         # set the right shorttext
-        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief -e bing :fr )"'"/' $files
+        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief :fr )"'"/' $files
       done
 
       # copy files when finished manipulation
@@ -261,10 +261,10 @@ case $1 in
         sed -i 's/tags: "Computer"/tags: "Компьютер"/g' $files
 
         # set the right title
-        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief -e bing :ru )"'"/' $files
+        sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :ru )"'"/' $files
 
         # set the right shorttext
-        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief -e bing :ru )"'"/' $files
+        sed -E -i 's/(^shorttext: ).*/\1"'"$(egrep 'shorttext:' $files | sed 's/shorttext: //g; s/"//g' | trans -brief :ru )"'"/' $files
       done
 
       # copy files when finished manipulation
