@@ -1,0 +1,31 @@
+---
+title: "L'Afghanistan a-t-il échoué?"
+date: 2020-03-23
+tags: "Politique"
+shorttext: "Il y a maintenant deux présidents en Afghanistan qui ont prêté serment en même temps. C'est la politique du pouvoir en Afghanistan et aux alentours."
+cover: "repression"
+draft: false
+lang: fr
+---
+
+Lundi dernier, le président afghan Ashraf Ghani a été élu président pour la deuxième fois à L'Arg. Deux semaines plus tôt, la Commission électorale indépendante (ICE) l'avait déclaré vainqueur des précédentes élections présidentielles. Ceux-ci avaient eu lieu en octobre et, curieusement, il avait fallu cinq mois pour que tous les votes soient comptés, alors que moins de vingt pour cent des électeurs éligibles étaient effectivement allés aux urnes. Comme lors des élections précédentes, il y a eu une accusation de fraude électorale. Mais cette fois, le principal adversaire Abdullah Abdullah, qui dans le passé a toujours été plié, n'a pas voulu accepter le résultat de l'élection et a provoqué une rupture en s'étant lui-même assermenté en tant que président en même temps que Ghani.
+
+Lire correctement. Il y a maintenant deux présidents en Afghanistan. Cela provoque non seulement de nombreuses blagues parmi les Afghans, mais aussi à l'étranger. Peu de temps après la double prestation de serment, Trevor Noah a suggéré dans son émission quotidienne que les deux présidents pourraient travailler jour et nuit.
+
+{{< youtube "ZMcaOx-EofU" >}}
+
+Mais si amusant, les événements actuels à Kaboul semblent être: la situation est très grave et peut contribuer à une nouvelle escalade. Il y a deux semaines, les États-Unis ont signé un accord de retrait avec les talibans afghans au Qatar. Les termes de l'accord comprenaient des pourparlers intra-Afghans visant à garantir une paix à plus long terme dans le pays après le retrait des troupes de l'OTAN. Ces pourparlers étaient censés avoir lieu en ce moment, mais ce n'est pas le cas, car les élites politiques de Kaboul sont plus divisées que jamais. Ironiquement, c'était ces mêmes élites qui ont souligné à plusieurs reprises dans le passé que les Talibans n'étaient pas un groupe uni. Mais maintenant, à l'exact opposé est le cas.
+
+#### Un pays, trois gouvernements
+
+Selon cela, il y a actuellement trois gouvernements différents en Afghanistan: ceux de Ghani et Abdullah, ainsi que le soi-disant Émirat islamique des talibans, qui peuvent actuellement contrôler plus de zones que les deux présidents. Il y a plusieurs raisons pourquoi la crise actuelle s'est produite. Les partisans de Ghani blâment D'abord Abdullah et l'accusent de refuser de reconnaître le résultat officiel des élections. Bien sûr, la chose n'est pas aussi simple que cela.
+
+La soi-disant Commission électorale indépendante ne semble plus être indépendante, mais agit comme un instrument de Ghani. Au moins les critiques le prétendent, y compris des observateurs internationaux tels que le professeur américain Thomas H. Johnson de la Naval Postgraduate School de Monterey, en Californie, qui a écrit un long rapport sur "[la falsification électorale de Ghani](/static/downloads/Final_AISS_2019_election_Paper-English.pdf "The 2019 Presidential Election: A Continuation of Problematic Processes and Results")" dans lequel il accuse L'équipe D'Ashraf Ghani de manipulation électorale ciblée et planifiée de longue date.
+
+Des allégations similaires étaient déjà en 2014 et 2009. Dans tous les cas, Abdullah a émergé comme le perdant. Lors de l'élection présidentielle de 2014, Abdullah était initialement en première place. Après une élection de ruissellement contre Ghani, il a perdu. Même alors, le différend a empiré Temporairement jusqu'à ce qu'il soit finalement "résolu" par le Secrétaire D'État américain de L'époque, John Kerry, après plusieurs apparitions à Kaboul. Pour Abdullah, le poste de PDG a été créé, une sorte de chef de gouvernement qui n'existe pas selon la constitution afghane. Ghani a été nommé président, pas élu. Sélection au lieu d'élection, littéralement. En 2009, Abdullah a perdu contre L'ancien président Hamid Karzai. Même alors, on parlait de fraude électorale.
+
+Ironiquement, C'est Karzai qui trouve actuellement les bons mots et pointe du doigt les Américains. Ils étaient responsables de la misère et pourrait avoir résolu le Dilemme prématurément s'il y avait eu la Volonté, et en fait c'est pas si mal. Le projet de démocratie américaine a échoué en Afghanistan. La raison en est pas les gens simples, parce qu'ils étaient conscients de leur responsabilité et ont toujours essayé d'aller aux urnes malgré les menaces des Talibans. Ce sont les élites corrompues qui sont arrivées au pouvoir grâce à l'aide occidentale et ne sont pas prêtes pour des élections équitables. Ils voient toujours leurs positions de pouvoir, surtout l'accès aux fonds étrangers, menacés – et ils semblent tout accepter pour la préservation continue de la même chose. Même une fragmentation de l'état.
+
+Il n'est certainement pas faux de qualifier l'Afghanistan d'état en faillite en 2020. Où cela mènera, reste ouverte. Une réconciliation interne Afghane, qui serait nécessaire d & apos; urgence, n & apos; est toujours pas en vue. Au lieu de cela, il y a un jeu de division et de règle qui, grâce à des acteurs étrangers, se joue sur les épaules des Afghans. Les événements actuels à Kaboul rappellent des scénarios historiques qui se sont déroulés il y a environ deux cents ans. Même alors, plusieurs princes se sont déclarés le nouveau roi en même temps et se sont battus, alors qu'ils étaient soutenus par différents côtés.
+
+En Afghanistan, le grand jeu a été joué entre les Britanniques et les Russes, la guerre froide entre L'Est et L'Ouest et, depuis 2001, une "guerre contre le terrorisme" dans laquelle les parties belligérantes sont devenues plus impénétrables, changeant de camp couramment ou agissant parfois de plusieurs côtés. Alors que la prestation de Serment de Ghani était accompagnée par des représentants occidentaux, surtout les Américains, les représentants de la Russie, de L'Iran et de la TURQUIE ont été trouvés à la cérémonie D'Abdullah. Cela ne veut pas dire grand-chose. Cependant, cela signifie quelque chose, à savoir que le Grand Jeu du 21ème siècle. En Afghanistan au début du 20e siècle, il n'y a toujours pas de fin en vue.
