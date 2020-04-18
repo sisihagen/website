@@ -1,11 +1,7 @@
 #!/usr/bin/env bash
 
-workdir=public/dest
-de=silviosiefke.de/htdocs
-en=silviosiefke.com/htdocs
-fr=silviosiefke.fr/htdocs
-ru=silviosiefke.ru/htdocs
-st=static.silviosiefke.com/htdocs
+# variables
+source ./bin/variables.sh
 
 case "$1" in
     de)

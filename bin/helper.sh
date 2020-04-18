@@ -1,40 +1,10 @@
 #!/usr/bin/env bash
 
 # variables
-year=$(date +%Y)
-month=$(date +%m)
-img_dir='./static/static/img/content'
-jpeg_file='jpg.txt'
-webp_file='webp.txt'
-diff_file='diff.txt'
-de='./content/de/blog'
-en='./content/en/blog'
-fr='./content/fr/blog'
-ru='./content/ru/blog'
-tmp='/tmp/source.txt'
-tmp_dir='/tmp/md'
+source ./bin/variables.sh
 
 # function
-function clean_dir()
-{
-  if [[ "$(ls -A $tmp_dir)" ]]; then
-    rm $tmp_dir/*.md
-  fi
-}
-
-function clean_file()
-{
-  if [[ -s "$tmp" ]]; then
-    truncate -s 0 $tmp
-  fi
-}
-
-function copy_files()
-{
-  for i in "${source[@]}" ; do
-    cp "$i" "$tmp_dir"
-  done
-}
+source ./bin/function.sh
 
 case $1 in
     # help to find images without webp part
@@ -108,10 +78,10 @@ case $1 in
       # Directorys of contents
 
       # read out the filenames
-      for file in $de/$year/$month/*; do
-          f1="$en/$year/$month/$( basename "$file" )"
-          f2="$fr/$year/$month/$( basename "$file" )"
-          f3="$ru/$year/$month/$( basename "$file" )"
+      for file in $mdde/$year/$month/*; do
+          f1="$mden/$year/$month/$( basename "$file" )"
+          f2="$mdfr/$year/$month/$( basename "$file" )"
+          f3="$mdru/$year/$month/$( basename "$file" )"
 
           #compare name in english tree
           if [ ! -e "$f1" ]; then
@@ -168,7 +138,7 @@ case $1 in
       done
 
       # copy files when finished manipulation
-      cp -v $tmp_dir/*.md $en/$year/$month
+      cp -v $tmp_dir/*.md $mden/$year/$month
 
       # clean the dir $tmp_dir
       clean_dir
@@ -218,7 +188,7 @@ case $1 in
       done
 
       # copy files when finished manipulation
-      cp -v $tmp_dir/*.md $fr/$year/$month
+      cp -v $tmp_dir/*.md $mdfr/$year/$month
 
       # clean the dir $tmp_dir
       clean_dir
@@ -268,7 +238,7 @@ case $1 in
       done
 
       # copy files when finished manipulation
-      cp -v $tmp_dir/*.md $ru/$year/$month
+      cp -v $tmp_dir/*.md $mdru/$year/$month
 
       # clean the dir $tmp_dir
       clean_dir
