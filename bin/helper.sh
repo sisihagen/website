@@ -247,6 +247,10 @@ case $1 in
       clean_file
     ;;
 
+    remhref)
+      sed -i -e 's/([^()]*)//g' "$2"
+    ;;
+
     *)
         printf "webp     > for converting jpg images to webp format\n"
         printf "png     > for converting png images to jpg|webp format\n"
@@ -255,5 +259,6 @@ case $1 in
         printf "copy-en  > copy the german files to english folder\n"
         printf "copy-fr  > copy the english files to french folder\n"
         printf "copy-ru  > copy the english files to russian folder\n"
+        printf "remhref  > delete links in markdown files\n"
     ;;
 esac
