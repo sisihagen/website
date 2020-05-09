@@ -22,13 +22,14 @@
     "autoprefixer": "^9.6.0",
     "cssnano": "^4.1.10",
     "flexibility": "^2.0.1",
-    "html5shiv": "^3.7.3",
-    "jquery": "^3.4.1",
-    "picturefill": "^3.0.3",
-    "postcss-cli": "^6.1.3",
+    "postcss-cli": "7.1.1",
     "postcss-flexibility": "^2.0.0",
     "postcss-opacity": "^5.0.0",
     "uglify-js": "^3.6.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.4.1",
+    "picturefill": "^3.0.3"
+  }
 }

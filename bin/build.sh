@@ -9,6 +9,9 @@ source ./bin/variables.sh
 # folder
 ./bin/folder.sh
 
+# markdown clean
+./bin/markdown_clean.sh
+
 # hugo build
 ./bin/hugo.sh hugobuild
 
