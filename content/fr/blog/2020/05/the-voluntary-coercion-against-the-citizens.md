@@ -1,0 +1,43 @@
+---
+title: "La coercition volontaire contre les citoyens"
+date: 2020-05-17
+draft: false
+tags: "Société"
+shorttext: "La carte d'immunité a été retirée pour le moment. Mais un prix sous forme de surveillance, d'usurpation d'identité et de division sociale devrait toujours être autorisé pour un retour à la normale."
+cover: "society"
+lang: fr
+---
+
+Jens Spahn (CDU) ne veut pas une introduction légale d'une carte d'immunité après une infection Corona survécu, comme le rapportent les médias. En conséquence, il s'est également prononcé contre la vaccination obligatoire lundi. Dans un projet de loi qui sera débattu au Bundestag jeudi, Spahn avait initialement prévu une carte d'immunité. Ces plans avaient provoqué l'indignation de ces derniers jours parce qu'ils avaient divisé la société en deux classes supplémentaires.
+
+#### La "normalité" est seulement contre le contrôle de masse "volontaire"
+
+Cependant, le fait que Spahn revienne temporairement sur ce point et le renvoie au Conseil d'éthique ne signifie pas que les droits fondamentaux soient clairs. La tendance à faire dépendre le retour à la "normalité" sociale de la volonté des citoyens de la contrôler se fait de plus en plus sentir. Tout récemment, le "Handelsblatt"a décrit la carte d'immunité retirée comme un"passage à travers la vie de la "nouvelle normale"". Au niveau européen, "les plans pour cela ont été élaborés il y a longtemps – avant même Corona. J'ai peur que le débat revienne", a déclaré Andrej Hunko sur Twitter.
+
+{{< tweet "1257529156511858689" >}}
+
+Cette évolution peut également être observée dans le débat sur une application Corona "volontaire": ici, le citoyen ne devrait pas être contraint d'installer une application douteuse selon des critères de protection des données sur son téléphone personnel. Cependant, il est clairement indiqué que le suivi des citoyens, de leurs contacts et de leurs emplacements est nécessaire pour un" retour à la normalité". Ceux qui ne participent pas nuisent donc indirectement à la communauté et apparaissent paranoïaques. "[Telepolis](https://www.heise.de/newsticker/meldung/Corona-Tracing-Apps-Freiwilligkeit-bedeutet-nicht-Freiwilligkeit-4713114.html "Corona-Tracing-Apps: Freiwilligkeit bedeutet nicht Freiwilligkeit")" décrit que "volontarisme" dans le cas de L'application ne signifie nullement volontarisme. En revanche ,la critique [FAZ](https://www.faz.net/aktuell/politik/inland/app-gegen-corona-das-gefasel-von-der-totalen-ueberwachung-16733681.html "Das Gefasel von der totalen Überwachung") de la participation volontaire à son propre suivi décrit comme "parler de surveillance totale". Le journal présente un chèque en blanc aux mécanismes de notre démocratie et à lui même un témoignage de pauvreté:
+
+> "Mettez le cas, L'Institut Robert Koch muté dans un empire sombre et voulait construire une dictature de la santé avec les données obtenues. Qu'arriverait-il? La Cour constitutionnelle fédérale déclarerait l'application inconstitutionnelle, la réputation du RKI serait en pagaille, et les partis gouvernementaux seraient envoyés à la prochaine occasion sur les conseils. ( ... ) Tout l'argument semble être un différend entre les soldats quant à savoir si leur char a encore TÜV ou non."
+
+Cependant, une récente déclaration du [juge constitutionnel](https://web.de/magazine/regio/baden-wuerttemberg/verfassungsrichter-verstaendnis-politik-krise-34672714 "Verfassungsrichter hat Verständnis für Politik in Krise") Stephan Harbarth donne un aperçu de la façon dont l'érosion des institutions décrites par la FAZ comme une garantie légale progresse en période d'urgence sanitaire présumée. Ici, il appelle ses collègues juges à rendre des jugements indulgents, par exemple en ce qui concerne la politique: "en ce moment, nous sommes dans une situation de crise tout à fait extraordinaire, dans laquelle il n'y a clairement pas de moyen facile de la surmonter”, a déclaré Harbarth au "Stuttgarter Zeitung". À l'heure actuelle, il "n'envie aucun décideur exécutif ou législatif le lourd fardeau qui repose sur ses épaules”, a déclaré Harbarth aux journaux. Les juges devraient” prendre conscience de cette pression pour prendre des décisions " lorsqu'ils évaluent légalement les mesures individuelles.
+
+Selon DPA, L'application D'avertissement Corona du gouvernement allemand sera développée par Deutsche Telekom et le SAP Software group, tandis que la société Fraunhofer et L'Institut Helmholtz CISPA conseilleront sur son développement. En Mai, Google et Apple prévoient de débloquer des interfaces sur leurs plates-formes de smartphones que les développeurs D'applications Corona peuvent compter sur.
+
+#### Inconvénients du refus
+
+Le tambour pour une application Corona et la lutte pour une carte d'immunité et la désignation des deux comme le prix d'un "retour à la normalité", comme Hunko a également décrit, ne se limite pas à L'Allemagne. Par exemple, cette [revue de presse européenne](https://www.eurotopics.net/de/239161/keine-normalitaet-ohne-corona-apps "Keine Normalität ohne Corona-Apps?") est déjà dirigée avec le slogan: "Pas de normalité sans Corona Apps?"La plupart des articles cités soutiennent cette thèse, certains exigent déjà un engagement pour L'Installation d'une telle application par les citoyens européens.
+
+Ces voix, qui exigent une [obligation d'installer l'application](https://www.lesechos.fr/idees-debats/cercle/opinion-stopcovid-le-volontariat-ou-la-loi-1196500 "StopCovid : le volontariat ou la loi") ou de vacciner, sont encore minoritaires. Le courant politico-médiatique tente (encore) de suggérer un "volontarisme" (seulement apparent) dans ces mesures. Cependant, ce volontarisme peut se révéler une amère déception une fois les plans réalisés: parce que ceux qui ne seraient alors pas suivis avec une application et qui refuseraient de prouver définitivement leur état de santé actuel, pourraient subir des désavantages sociaux considérables à long terme: le refus d'accès aux autorités, aux banques, aux gares, aux événements ou aux voyages à l'étranger ainsi qu'une attitude générale de suspicion pourraient en être les conséquences.
+
+#### Le Virus comme ouvreur de porte pour la surveillance radicale?
+
+Les craintes légitimes des citoyens quant à ce que tout cela pourrait conduire, si on le permet maintenant, vont bien au-delà des limites potentielles décrites ici. Il existe des preuves que les acteurs influents s'efforcent de créer une " identité numérique "pour tous les citoyens du monde, dans laquelle, selon le journaliste Norbert Häring," l'historique des voyages, les données bancaires, l'hébergement à l'hôtel, les réservations de location de voitures, les documents des universités, des bureaux et bien plus encore " seraient stockés. Selon cette interprétation, le statut vaccinal actuellement débattu, le suivi "pour la prévention du Virus" et d'autres contraintes de santé présumées peuvent être interprétés comme un ouvre-porte pour une Vision beaucoup plus complète.
+
+"[Telepolis](https://www.heise.de/tp/features/Ueber-Impfstoffe-zur-digitalen-Identitaet-4713041.html?seite=all "Über Impfstoffe zur digitalen Identität?")" notes sur l'identité numérique,  "l'objectif est une identité numérique personnalisée, portable, biométriquement connecté qui dure toute une vie." Les partenaires fondateurs incluent la société de Gates Microsoft, L'Alliance GAVI Vaccine financée avec des sommes importantes par la BMGF, le cabinet de conseil en gestion Accenture, qui a également participé à L'affaire du Conseil de la Bundeswehr, et la Fondation Rockefeller, l'une des plus grandes fondations aux États-Unis.
+
+#### De belles paroles, de mauvais effet
+
+Les critiques de l'application et d'une carte d'immunité peuvent être facilement diffamés. Refuser d'installer L'application peut être présenté avec succès comme un obstacle à la "normalisation" de toute la société, c'est-à-dire comme antisocial. Les critiques d'une campagne mondiale de vaccination ont du mal dans le débat, car la critique fondamentale de la vaccination avant Corona était plutôt une opinion de niche. Par exemple, Je ne suis pas un opposant de principe à la vaccination, je me suis toujours interrogé sur la résistance, par exemple, contre le devoir de vacciner la rougeole. Mais ce qui est maintenant prévu a une qualité complètement différente. Et ces projets n'ont qu'une partie à voir avec la santé et la prévention.
+
+Une fois réalisées, elles peuvent être utilisées comme un puissant Instrument de harcèlement, de gaieté, de division et de surveillance. Les phrases mélodieuses ne sont pas utilisées pour la première fois pour introduire des choses qui peuvent ensuite être utilisées à des fins non mélodieuses.

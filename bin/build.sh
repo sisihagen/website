@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 # read in variables
 source ./bin/variables.sh
 
@@ -13,7 +15,7 @@ source ./bin/variables.sh
 ./bin/markdown_clean.sh
 
 # hugo build
-./bin/hugo.sh hugobuild
+./bin/hugo.sh hugobuild || exit
 
 # html
 ./bin/html.sh
