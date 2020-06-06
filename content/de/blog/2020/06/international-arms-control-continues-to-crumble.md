@@ -1,0 +1,19 @@
+---
+title: "Die internationale Rüstungskontrolle bröckelt weiter"
+date: 2020-06-05
+draft: false
+tags: "Staat"
+shorttext: "Die USA wollen aus dem multilateralen Open Skies-Abkommen aussteigen, das zur Förderung des gegenseitigen Vertrauens gedacht war."
+cover: "repression"
+lang: de
+---
+
+Dem Gebäude internationaler Rüstungskontrolle droht weiterer Abbruch. Nach ihrem Rückzug aus dem Atomabkommen mit Iran und dem mit Moskau vereinbarten bilateralen INF-Vertrag zum Verbot landgestützter nuklearer Mittelstreckenraketen wollen die USA auch aus dem multilateralen "Open Skies" (Offene Himmel) genannten Abkommen über vertrauensbildende militärische Beobachtungsflüge aussteigen. Das kündigte Präsident Donald Trump am Donnerstagabend an und verwies zur Begründung auf angebliche Vertragsverletzungen durch Russland. Deutschlands Aussenminister Heiko Maas erklärte, die Bundesregierung wolle gemeinsam mit europäischen Bündnispartnern versuchen, Washington von dem Ausstieg aus dem Vertrag, der in sechs Monaten erfolgen würde, abzuhalten.
+
+Der "Open Skies"-Vertrag ist seit 2002 in Kraft. Er erlaubt seinen 34 Vertragsstaaten – USA, Kanada, Russland und weitere 31 europäische Länder – mehrfach im Jahr kurzfristig angekündigte Überwachungsflüge im gesamten Luftraum "zwischen Vancouver und Wladiwostok". In den letzten 18 Jahren fanden über 1500 derartige Flüge statt, an denen immer sowohl Vertreter der beobachtenden als auch der beobachteten Staaten teilnehmen. Die Überwachungsflüge sollen unter anderem dazu dienen, die Einhaltung des 1990 ebenfalls im Rahmen der KSZE vereinbarten Vertrages über die Begrenzung konventioneller Waffen und Streitkräfte in Europa (KSE) zu überwachen.
+
+Die Trump-Administration wirft Moskau vor, Kontrollflüge über der russischen Exklave Kaliningrad – wo Washington die Stationierung atomarer Mittelstreckenraketen vermutet – einzuschränken sowie über dem Grenzgebiet zwischen Russland und Georgien, das zwischen den Regierungen in Moskau und Tiflis umstritten ist. Dadurch werde "die Transparenz in einem sehr militarisierten Gebiet reduziert", erklärte das Pentagon. Das russische Aussenministerium kritisierte Trumps Ankündigung zum Ausstieg aus dem Vertrag als "absolut unbegründet".
+
+Kritik an Moskau hat zwar auch die NATO seit 2018 geäussert. Zugleich hat das Militärbündnis aber die rüstungskontrollpolitische Bedeutung des Vertrages unterstrichen und an Washington appelliert, an dem Vertrag festzuhalten. Auf Grund der unterschiedlichen Entwicklungen in der Rüstungs- und Überwachungstechnologie seit der Aushandlung des Vertrages ist er inzwischen allerdings von unterschiedlicher Bedeutung für die Partner im NATO-Bündnis. Anders als die Europäer verfügen die USA inzwischen über Überwachungssatelliten, mit denen sie alle militärischen Aktivitäten Russlands viel genauer und verlässlicher kontrollieren und ausspionieren können, als mit Flugzeugen. Umgekehrt hat Russland auf die Verbesserung flugzeuggestützter Überwachungstechnologie gesetzt und ist nach Auskunft von Experten möglicherweise bereits in der Lage, Luftaufnahmen mit einer Auflösungsgenauigkeit unterhalb der im "Open Skies"-Vertrag festgelegten Grenze von 30 Quadratzentimetern zu machen. US-Präsident Trump war laut "New York Times" sehr verärgert über einen Flug der russischen Luftwaffe über seinem Golf-Resort im Bundesstaat New Jersey im Jahr 2017.
+
+Das "Open Skies"-Abkommen wurde zwischen 1990 und 1992 von den damals 35 Mitgliedsstaaten der "Konferenz (heute: Organisation) für Sicherheit und Zusammenarbeit" (K/OSZE) ausgehandelt und bis zu seinem Inkrafttreten im Jahr 2002 schliesslich von 34 Staaten unterschrieben und ratifiziert: den damals 16 NATO-Staaten, allen Mitgliedern des ehemaligen Warschauer Pakts sowie von acht der seinerzeit zwölf blockunabhängigen KSZE-Mitgliedern. Österreich, Schweiz, Zypern, Lichtenstein und Andorra blieben dem Abkommen fern.

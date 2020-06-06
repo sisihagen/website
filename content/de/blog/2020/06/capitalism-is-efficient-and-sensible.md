@@ -1,0 +1,17 @@
+---
+title: "Kapitalismus ist effizient und sinnvoll"
+date: 2020-06-04
+draft: false
+tags: "Gesellschaft"
+shorttext: "Der Kapitalismus hat sich zur Religion gemausert, Glaube alles und hinterfrage wenig, dass zeigen nicht nur die weltweiten Proteste."
+cover: "society"
+lang: de
+---
+
+Es gibt 1,5mal so viel zu Essen auf der Erde, wie für alle Menschen reichen würden. Trotzdem hungern fast 10 Prozent der Bevölkerung. Was ist von einem Wirtschaftssystem zu halten, das derartige Ergebnisse hervorruft? "Ein Kind, das an Hunger stirbt, wird ermordet", hätte Jean Ziegler, Schweizer Soziologe, langjähriger Uno-Sonderberichterstatter für das Recht auf Nahrung und damals Vizepräsident des beratenden Ausschusses des Uno-Menschenrechtsrats, in der Eröffnungsrede zu den Salzburger Festspielen 2011 gesagt. Er wurde wieder ausgeladen. Dabei wäre seine Aussage eine Untertreibung gewesen, denn was er über verhungernde Kinder sagte, gilt für alle, die sterben, ohne dass es nötig wäre – Menschen allen Alters, durch Hunger, Krieg, weil Medikamente wegen Patenten zu teuer sind, weil ihnen eine Wohnung fehlt. Hinzu kommen weitere Aspekte: Vier Milliarden Menschen wären locker zusätzlich zu ernähren, wenn nicht ständig riesige Mengen Nahrung an Tiere verfüttert würden, die noch dazu überwiegend qualvoll gehalten und getötet werden. Auch das dient vor allem den Profit – und damit zeigt allein dieses kleine Beispiel: Der Kapitalismus ist weder effizient noch gut für die Menschen. 
+
+Selbst seine Verheißungen sind trügerisch, denn der ewige Zwang, alles ständig immer wieder in Wert zu verwandeln und nur einzusetzen, um noch mehr Profit zu machen, verwandelt selbst beste Ideen und Erfindungen in Bedrohung von Mensch und Natur. Der technische Fortschritt sollte das Leben erleichtern, schwere Arbeit abnehmen und neue Möglichkeiten schaffen. Das ist auch gelungen – aber statt mehr Lebensfreude ist der Mangel an Arbeit zu einer Geißel geworden. Technische Meisterleistungen helfen weniger den Menschen, sondern optimieren Kriegswaffen, Überwachung und Ausbeutung. 
+
+Kapitalistisches Wirtschaften unterwirft dabei nicht nur den Menschen und saugt seine Kräfte aus, wo immer es geht. Er ist genauso räuberisch gegenüber der Natur. Denn der Gewinn, den Unternehmen in diesem Wirtschaftssystem erzielen wollen, weil sie ihn erzielen müssen, basiert neben der Werbelist, potentielle Käufer zu viel und möglichst teurem Konsum zu veranlassen, auf der maximalen Ausbeutung der Faktoren Arbeit und der Natur. 
+
+Ob Rohstoffe gesucht und ausgebeutet, Atomkraftwerke oder Windräder gebaut oder Dienstleistungen angeboten werden – stets geht es darum, Aufwand und Geld zu sparen, um die Gewinnspannen zu erhöhen. Den Schutz der Umwelt bei Emissionen, Rohstoffverbrauch und Flächenauswahl zu berücksichtigen, kostet Geld und Zeit. Beides einzusparen, erhöht Wettbewerbsfähigkeit und Gewinnspanne. Die daraus folgende Zerstörung von Natur wird genauso wie die Ruinierung menschlicher Gesundheit missachtet oder, als Reparaturbetrieb, von der Gesellschaft allgemein bezahlt. So ist rücksichtloses Verhalten gegen Mensch und Natur im kapitalistischen System höchst rational und wird mit mehr Gewinn und Expansion belohnt. Wer dazu Nein sagt, ist im oder als Unternehmen tot. Ein Wandel unter diesen Zwängen ist nicht möglich, so oft und intensiv das mit kleinen sozialen Ablasshandlungen oder Greenwashings auch versucht wird. Das Wirtschaftssystem als solches muss ausgetauscht werden.
