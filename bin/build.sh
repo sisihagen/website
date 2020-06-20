@@ -2,6 +2,9 @@
 
 set -e
 
+# read in variables
+source ./bin/variables.sh
+
 case "$1" in
   git)
     git add . && git commit -m "Articles and fixes for week $weeknumber" &&  git push && git push github
@@ -12,8 +15,6 @@ case "$1" in
   ;;
 
   *)
-    # read in variables
-    source ./bin/variables.sh
 
     # clean
     ./bin/clean.sh
