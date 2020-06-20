@@ -2,7 +2,7 @@
 title: "Comment les parties sont nourries"
 date: 2020-02-26
 draft: false
-tags: "StatePolitique"
+tags: "Politique"
 shorttext: "L'an dernier, les entreprises et les groupes de lobbying ont versé des sommes considérables aux partis sans que le public en soit informé."
 cover: "repression"
 lang: fr

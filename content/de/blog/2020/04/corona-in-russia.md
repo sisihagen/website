@@ -70,7 +70,7 @@ Noch gibt es kein klares Konzept, wie die Regierung die Krise meistern will. Man
 
 #### Finanzexperte: "Wohlstandsfond" als Sicherheitspolster im Falle weiterer Sanktionen
 
-Das wichtigste russische Finanzpolster ist der nationale [Wohlstandsfond](https://owc.de/2019/08/08/grafik-der-woche-wohlstandsfonds-starkes-wachstum/ "Wohlstandsfonds – starkes Wachstum"). Er hat zurzeit ein Volumen von 127 Milliarden Dollar. Bisher wird dieser Fond genutzt, um die russischen Steuerausfälle durch den gefallenen Ölpreis zu kompensieren.
+Das wichtigste russische Finanzpolster ist der nationale Wohlstandsfond. Er hat zurzeit ein Volumen von 127 Milliarden Dollar. Bisher wird dieser Fond genutzt, um die russischen Steuerausfälle durch den gefallenen Ölpreis zu kompensieren.
 
 Wenn man die Folgen der Corona-Krise so bekämpfe wie Europa und die USA, dann wären die Mittel des Wohlstandsfonds im nächsten Jahr komplett verbraucht, meinte Investitionsbroker Timur Nigmatulllin gegenüber der Nesawisimaja Gaseta. Die russische Regierung werde den Wohlstandsfond nicht antasten, so der Broker, denn es könnte jederzeit neue Sanktionen des Westens geben und dann brauche man dieses Geld.
 

@@ -68,7 +68,7 @@ Il n'y a toujours pas de concept clair sur la façon dont le gouvernement entend
 
 #### Expert financier:" Fonds de Prospérité " comme coussin de sécurité en cas de nouvelles sanctions
 
-Le coussin financier russe le plus important est le national [wealth Fund](https://owc.de/2019/08/08/grafik-der-woche-wohlstandsfonds-starkes-wachstum/ "Wohlstandsfonds – starkes Wachstum"). Il a actuellement un volume de 127 milliards de dollars. Jusqu'à présent, ce fonds a été utilisé pour compenser les pertes fiscales russes causées par la chute du prix du pétrole.
+Le coussin financier russe le plus important est le national wealth Fund. Il a actuellement un volume de 127 milliards de dollars. Jusqu'à présent, ce fonds a été utilisé pour compenser les pertes fiscales russes causées par la chute du prix du pétrole.
 
 Si les conséquences de la crise Corona devaient être traitées de la même manière que L'Europe et les États-Unis, alors les ressources du Fonds de prospérité seraient complètement épuisées l'année prochaine, a déclaré le courtier D'investissement Timur Nigmatullin à Nesawisimaja Gazeta. Le gouvernement russe ne touchera pas le Fonds de fortune, a déclaré le courtier, car il pourrait y avoir de nouvelles sanctions de l'Ouest à tout moment et vous avez besoin de cet argent.
 

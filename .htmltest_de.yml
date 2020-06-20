@@ -1,0 +1,5 @@
+DirectoryPath: "./public/dest/silviosiefke.de/htdocs"
+CheckLinks: false
+CheckImages:  false
+CheckScripts: false
+IgnoreDirectoryMissingTrailingSlash: true

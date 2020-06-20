@@ -22,7 +22,7 @@ Die Gleichsetzung der beiden Staatsformen als Elemente eines Totalitarismus, dem
 
 Ein Beispiel hierfür ist ein Interview der Konrad-Adenauer-Stiftung mit dem inzwischen verstorbenen CDU-Politiker Werner Dolata aus dem Jahr 2013, in dem dieser formulierte: "[Die Ähnlichkeiten überwiegen zwischen der NS-Zeit und der DDR](/static/downloads/Interview_Jugend_in_zwei_Diktaturen.pdf "Jugend in zwei Diktaturen")". Er differenzierte diese Aussage dann zwar teilweise, doch die Aussagen am Anfang eines Texts bleiben am ehesten im Bewusstsein der Menschen haften.
 
-Ein weiteres Beispiel zeigt die Systematik des Antisozialismus: Der damalige Vorsitzende der [CDU-Fraktion Mecklenburg-Vorpommern Harry Glawe](https://mv-schlagzeilen.de/8mai-ist-tag-der-erinnerung-und-mahnung-an-zwei-diktaturen/9286/ "8.Mai ist Tag der Erinnerung und Mahnung an zwei Diktaturen") sagte 2009: 
+Ein weiteres Beispiel zeigt die Systematik des Antisozialismus: Der damalige Vorsitzende der CDU-Fraktion Mecklenburg-Vorpommern Harry Glawe sagte 2009: 
 
 > Mit der Befreiung der letzten Konzentrationslager und Verhaftung und späteren Aburteilung der Verantwortlichen wurde mit dem 8. Mai 1945 der Holocaust und damit eines der dunkelsten Kapitel deutscher Geschichte beendet. Gleichzeitig markiert der 8. Mai 1945 für die neuen Bundesländer jedoch auch den Beginn einer weiteren Diktatur, die mit Geschichtsumdeutungen und verordnetem Schweigen einherging. Unter dem Zeichen von Hammer und Sichel begann neues Unrecht. So gehört es sicher zu den dunklen Kapiteln unserer Geschichte, dass in Konzentrationslagern (...) auch nach dem 8. Mai 1945 gefoltert und gemordet wurde. Die Opfer der beiden deutschen Diktaturen dürfen nicht in Vergessenheit geraten.
 

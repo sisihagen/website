@@ -1,7 +1,7 @@
 ---
 title: "CDU, la réalité des mensonges de la vie"
 date: 2020-02-12
-tags: "Society"
+tags: "Société"
 shorttext: "AKK s'en va et déjà la CDU se bat pour son histoire. Roland Koch est perdu dans l'histoire moderne du 21e siècle."
 draft: false
 lang: fr

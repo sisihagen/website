@@ -16,7 +16,7 @@ ILSI wurde vor vier Jahrzehnten von einer Coca-Cola-Führungskraft gegründet un
 
 Auffällig ist die Verflechtung von ILSI mit den Behörden, welche die Auswirkungen von ungesunder Ernährung bekämpfen sollen. So teilt sich das Institut in China Mitarbeitende und Büroräume mit jenen, welche die Epidemie von Krankheiten bekämpfen sollen, die mit Fettleibigkeit zu tun haben. In Brasilien haben ILSI Vertreter Sitze in verschiedenen Ernährungs-Panels inne, die früher Universitäts-Forschenden vorbehalten waren.
 
-{{< image srcwebp="/static/img/content/2019/214.webp" srcalt="/static/img/content/content/214.jpg" title="ILSI have offices around the world" >}}
+{{< image srcwebp="/static/img/content/2019/214.webp" srcalt="/static/img/content/2019/214.jpg" title="ILSI have offices around the world" >}}
 
 #### Der Fuchs im Hühnerstall
 

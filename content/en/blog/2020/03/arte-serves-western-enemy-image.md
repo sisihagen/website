@@ -14,7 +14,7 @@ The Corona Virus covers all other topics at the moment, which is partly understa
 
 The Franco-German TV channel accordingly presented a theme evening on Tuesday on Russian President Vladimir Putin. For this hour – long exercise in distorting opinion-making, various documentaries were broadcast-on the Situation in Syrian Idlib, on the relationship between US President Donald Trump and Putin, on Putin's beginnings as a formative politician and on the "Propaganda 3.0" that Russia would unfold towards the West.
 
-The consideration should begin with the [Arte report](https://www.arte.tv/de/videos/030273-753-A/arte-reportage/ "Syrien: Auf der Flucht aus Idlib") on Syria, which can only be described as scandalous. The embattled Idlib is transfigured as the" last Bastion of resistance". According to the report, the war (like a force of nature) just "broke out" – naturally after a "democratic Revolution". And also" nine years after the beginning of the Revolution in Syria "Idlib is the last heavily contested region" of the rebels."These "rebels" are the good ones, the bad ones are "the Regime", Russia and Iran. "Places of public life" regularly target "the Regime"":
+The consideration should begin with the [Arte report](https://www.arte.tv/de/videos/094559-000-A/syrien-auf-der-flucht-aus-idlib/ "Syrien: Auf der Flucht aus Idlib") on Syria, which can only be described as scandalous. The embattled Idlib is transfigured as the" last Bastion of resistance". According to the report, the war (like a force of nature) just "broke out" – naturally after a "democratic Revolution". And also" nine years after the beginning of the Revolution in Syria "Idlib is the last heavily contested region" of the rebels."These "rebels" are the good ones, the bad ones are "the Regime", Russia and Iran. "Places of public life" regularly target "the Regime"":
 
 > Anyone who can flee flees from the bombs of the regime, which is supported by Russia and Iran.
 
@@ -30,7 +30,7 @@ The presentation of the documentary is once again radically shortened – thus t
 
 #### "Oppositionists are shot in Russia"
 
-In connection with the machinations of opinion discussed here, the Scandalization of Russian Propaganda by Arte must of course appear hypocritical – because the Arte theme evening fulfills exactly the facts he accuses the Russian side of. But that does not stop the broadcaster from broadcasting the documentary "[Propaganda 3.0. - Putin and the West](https://www.arte.tv/de/videos/075222-000-A/propaganda-3-0-putin-und-der-westen/ "Putin und der Westen")". According to this, "the Kremlin" is trying to divide "Europe and the USA" with a media war":
+In connection with the machinations of opinion discussed here, the Scandalization of Russian Propaganda by Arte must of course appear hypocritical – because the Arte theme evening fulfills exactly the facts he accuses the Russian side of. But that does not stop the broadcaster from broadcasting the documentary "[Propaganda 3.0. - Putin and the West](https://programm.ard.de/TV/arte/propaganda-3-0---putin-und-der-westen/eid_28724550220085 "Putin und der Westen")". According to this, "the Kremlin" is trying to divide "Europe and the USA" with a media war":
 
 > The Kremlin's main weapons are two international state media: RT (Russia Today) and the Sputnik News portal.
 

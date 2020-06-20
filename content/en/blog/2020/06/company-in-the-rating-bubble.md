@@ -2,7 +2,7 @@
 title: "Companies in the valuation bubble"
 date: 2020-06-01
 draft: false
-tags: "Gesellschaft"
+tags: "Society"
 shorttext: "During the financial crisis, lax accounting rules at the banks had acted like accelerators. The same could happen again in the corona crisis – but now with the companies."
 cover: "society"
 lang: en

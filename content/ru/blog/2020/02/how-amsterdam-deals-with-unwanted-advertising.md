@@ -1,7 +1,7 @@
 ---
 title: "Вот как Амстердам справляется с нежелательной рекламой"
 date: 2020-02-19
-tags: "Society"
+tags: "Общество"
 shorttext: "Если вы хотите разместить рекламу в почтовом ящике, вы должны прямо сказать об этом в некоторых голландских городах. Это экономит много мусора."
 draft: false
 lang: ru
@@ -36,7 +36,7 @@ cover: "society"
 
 Рекламодатели подали в суд на новое постановление, и город Амстердам подал апелляцию. Речь шла о том, допускается ли явное согласие или английский" Opt-in " в распространении рекламы. 24 сентября 2019 года [суд постановил](https://www.parool.nl/amsterdam/rechter-amsterdam-mag-ja-ja-sticker-reclamefolders-invoeren~b8176d4d/?referer=https%3A%2F%2Fwww.infosperber.ch%2FArtikel%2FUmwelt%2FMullvermeidung-wie-Amsterdam-mit-unerwunschter-Reklame-umgeht "Rechter: Amsterdam mag ja/ja-sticker reclamefolders invoeren"), что Амстердам может сохранить наклейки. "Очень хорошие новости в борьбе с бумажными отходами",-сказала Марике ван Дорнинк, левый зеленый советник из Амстердама.
 
-Другие голландские города сначала ожидали вердикта, но быстро [последовали](https://nos.nl/artikel/2303148-amsterdam-mag-de-ja-ja-sticker-houden-andere-gemeenten-volgen.html "Amsterdam mag de Ja/Ja-sticker houden, andere gemeenten volgen") его примеру. Утрехт, Роттердам и Харлем также ввели наклейку "да-да"к 2020 году. [Гаага начинает с метода регистрации в апреле](https://www.denhaag.nl/en/in-the-city/news/the-hague-planning-to-introduce-jaja-sticker-.htm "The Hague planning to introduce Ja/Ja sticker"), другие города еще не имеют фиксированной даты.
+Другие голландские города сначала ожидали вердикта, но быстро [последовали](https://nos.nl/artikel/2303148-amsterdam-mag-de-ja-ja-sticker-houden-andere-gemeenten-volgen.html "Amsterdam mag de Ja/Ja-sticker houden, andere gemeenten volgen") его примеру. Утрехт, Роттердам и Харлем также ввели наклейку "да-да"к 2020 году. Гаага начинает с метода регистрации в апреле, другие города еще не имеют фиксированной даты.
 
 #### Рекламодатели требуют национального регулирования, журналисты опасаются за рекламный лист
 

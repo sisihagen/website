@@ -1,7 +1,7 @@
 ---
 title: "La femme silencieuse et courageuse"
 date: 2019-12-30
-tags: "Society"
+tags: "Société"
 shorttext: "Les médias informent parfois sur les militantes des droits des femmes en Chine ou en Iran, mais rarement sur des militantes tout aussi courageuses dans d'autres pays."
 draft: false
 lang: fr

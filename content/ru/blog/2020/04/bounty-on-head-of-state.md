@@ -28,7 +28,7 @@ lang: ru
 
 
   1. https://www.stern.de/news/usa-setzen-kopfgeld-von-15-millionen-dollar-gegen-maduro-aus-9200064.html
-  2. https://www.wz.de/politik/ausland/usa-setzen-kopfgeld-auf-maduro-aus_aid-49771405
+  2. https://www.zeit.de/politik/ausland/2020-03/venezuela-nicolas-maduro-kopfgeld-drogen-terrorismus-belohnung-usa
   3. https://www.jungewelt.de/artikel/375805.zerst%C3%B6rer-vor-caracas.html
   4. https://www.breitbart.com/latin-america/2019/02/01/john-bolton-venezuelas-maduro-should-retire-pretty-beach-not-guantanamo/
   5. https://deutsch.rt.com/kurzclips/83018-regime-change-in-venezuela-oppositioneller/

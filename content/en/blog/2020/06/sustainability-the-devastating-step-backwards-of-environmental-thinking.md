@@ -1,11 +1,11 @@
 ---
-title: "Nachhaltigkeit der verheerende Rückschritt des Umweltgedankens"
+title: "Sustainability the devastating regression of environmental thinking"
 date: 2020-06-01
 draft: false
-tags: "Gesellschaft"
-shorttext: "In den 1990 Jahren war der Umweltgedanke ein anderer, weiter als heute. Die Oligarchen haben es geschafft Umwelt durch Nachhaltigkeit zum Kommerzleben zu verdonern."
+tags: "Society"
+shorttext: "In the 1990's the environmental concept was different, further than today. The oligarchs have managed to convert the environment into commercial life through sustainability."
 cover: "society"
-lang: de
+lang: en
 ---
 
 Originally, it was clear: Ecology takes precedence over Economics. In the environmental debate of the 1970s and 1980s, not even conservative parties would have dared to portray Profit and growth as equivalent to protecting the environment and preserving livelihoods. Although practical action in the heads of parties, administrations, governments and corporations looked different, this is also the case today. Although social issues have almost always been forgotten by environmental organisations, the idea of the sustainability debate was to give the economy an independent and high value that is equal to the protection of the environment and the needs of people.

@@ -22,7 +22,7 @@ Le Secrétaire général de L'ONU António Guterres: déclaration à l'occasion 
 
 > Lorsque des journalistes sont visés, l'entreprise dans son ensemble en paie le prix. Si nous ne sommes pas en mesure de protéger les journalistes, nous pouvons difficilement rester informés et contribuer à la prise de décision. Sans journalistes capables de faire leur travail en toute sécurité, il y a un risque de désinformation et de confusion.
 
-> En cette Journée internationale pour mettre fin à l'impunité des crimes contre les journalistes, travaillons ensemble pour les journalistes, la vérité et la Justice. ([unric.org](https://www.unric.org/de/pressemitteilungen/28786-un-generalsekretaer-antonio-guterres-erklaerung-zum-internationalen-tag-zur-beendigung-der-straflosigkeit-fuer-verbrechen-gegen-journalisten-2-november "UN-Generalsekretär António Guterres: Erklärung zum Internationalen Tag zur Beendigung der Straflosigkeit für Verbrechen gegen Journalisten, 2. Novembe"))
+> En cette Journée internationale pour mettre fin à l'impunité des crimes contre les journalistes, travaillons ensemble pour les journalistes, la vérité et la Justice. (unric.org)
 
 L'une des caractéristiques les plus frappantes du vrai journalisme, c'est le courage de puissance. Il est le courage de révéler les abus par ce pouvoir. Par Julian Assange et ses collègues de WikiLeaks les crimes de guerre ont été découverts, ce à quoi le chef de la communauté de valeurs autoproclamée occidentale doit répondre. Pour ce courage, Assange paie aujourd'hui un prix extrêmement élevé. Il est temps pour la Journaille sortir de son anxiété et de réaliser que l'attaque sur Assange est aussi une attaque sur elle-même.
 

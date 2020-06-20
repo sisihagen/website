@@ -14,7 +14,7 @@ Le virus Corona couvre tous les autres sujets en ce moment, ce qui est en partie
 
 La chaîne de télévision Franco-allemande a ainsi présenté mardi une soirée thématique sur le Président russe Vladimir Poutine. Pour cet exercice d'une heure de distorsion de l'opinion, divers documentaires ont été diffusés-sur la Situation à Idlib Syrienne, sur la relation entre le président américain Donald Trump et Poutine, sur les débuts de Poutine en tant que politicien formateur et sur la "propagande 3.0" que la Russie allait déployer vers l'Occident.
 
-L'examen devrait commencer par le [rapport Arte](https://www.arte.tv/de/videos/030273-753-A/arte-reportage/ "Syrien: Auf der Flucht aus Idlib") sur la Syrie, qui ne peut être qualifié que de scandaleux. La Ville assiégée D'Idlib est transfigurée comme le "dernier Bastion de la résistance". Selon le rapport, la guerre (comme une force de la nature), juste de "l'éclate" – naturellement, après une "Révolution démocratique". Et aussi " neuf ans après le début de la Révolution en Syrie "Idlib est la dernière région fortement contestée" des rebelles."Ces "rebelles" sont les bons, les mauvais sont "le Régime", la Russie et l'Iran. Les" lieux de vie publique " ciblent régulièrement "le régime"":
+L'examen devrait commencer par le [rapport Arte](https://www.arte.tv/de/videos/094559-000-A/syrien-auf-der-flucht-aus-idlib/ "Syrien: Auf der Flucht aus Idlib") sur la Syrie, qui ne peut être qualifié que de scandaleux. La Ville assiégée D'Idlib est transfigurée comme le "dernier Bastion de la résistance". Selon le rapport, la guerre (comme une force de la nature), juste de "l'éclate" – naturellement, après une "Révolution démocratique". Et aussi " neuf ans après le début de la Révolution en Syrie "Idlib est la dernière région fortement contestée" des rebelles."Ces "rebelles" sont les bons, les mauvais sont "le Régime", la Russie et l'Iran. Les" lieux de vie publique " ciblent régulièrement "le régime"":
 
 > Quiconque peut fuir fuit les bombes du régime, soutenu par la Russie et L'Iran.
 
@@ -30,7 +30,7 @@ La présentation du documentaire est une fois de plus radicalement raccourcie �
 
 #### "Oppositionists sont tournés en Russie"
 
-En relation avec les machinations d'opinion discutées ici, le scandale de la propagande russe par Arte doit bien sûr apparaître hypocrite-parce que la soirée thématique d'Arte remplit exactement les faits qu'il accuse du côté russe. Mais cela n'empêche pas le radiodiffuseur de diffuser le documentaire "[Propaganda 3.0. - Poutine et l'Occident](https://www.arte.tv/de/videos/075222-000-A/propaganda-3-0-putin-und-der-westen/ "Putin und der Westen")". Selon cela, "le Kremlin" tente de diviser "L'Europe et les États-Unis" avec une guerre médiatique":
+En relation avec les machinations d'opinion discutées ici, le scandale de la propagande russe par Arte doit bien sûr apparaître hypocrite-parce que la soirée thématique d'Arte remplit exactement les faits qu'il accuse du côté russe. Mais cela n'empêche pas le radiodiffuseur de diffuser le documentaire "[Propaganda 3.0. - Poutine et l'Occident](https://programm.ard.de/TV/arte/propaganda-3-0---putin-und-der-westen/eid_28724550220085 "Putin und der Westen")". Selon cela, "le Kremlin" tente de diviser "L'Europe et les États-Unis" avec une guerre médiatique":
 
 > Les principales armes du Kremlin sont deux médias d'état internationaux: RT (Russia Today) et le portail D'information Spoutnik.
 

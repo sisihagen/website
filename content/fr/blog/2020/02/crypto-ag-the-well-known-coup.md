@@ -48,7 +48,7 @@ Fefe écrit [pour cela](https://blog.fefe.de/?ts=a0bc69cb "Crypto Leaks, Fefe Bl
 
 #### «Éditions contrôlées»
 
-[SPR](https://swprs.org/2020/02/12/crypto-leaks/ "Crypto-Leaks") fait le point sur ce qui suit :
+SPR fait le point sur ce qui suit :
 
 > Les faits sur la Crypto AG suisse (...) sont connus depuis 25 ans, voir À propos de Spiegel 1996. Le tourbillon actuel, comme c’est souvent le cas, n’est pas basé sur le journalisme d’investigation, mais sur un rapport de la CIA « joué- up ». "joué" par qui ? De la CIA elle-même, bien sûr. Pourquoi? Étant donné que l’opération est maintenant terminée, toutes les traces ont été floues et peuvent maintenant être publiées de manière contrôlée.
 

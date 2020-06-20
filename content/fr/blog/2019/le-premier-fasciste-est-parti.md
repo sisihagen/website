@@ -1,7 +1,7 @@
 ---
 title: "Le premier fasciste est parti"
 date: 2019-09-12
-tags: "StatePolitique"
+tags: "Politique"
 shorttext: "C'est officiel ... le faucon, le fasciste, le Seigneur de la guerre, le vieux guerrier froid mécontent quitte Trump ..."
 cover: "repression"
 draft: false

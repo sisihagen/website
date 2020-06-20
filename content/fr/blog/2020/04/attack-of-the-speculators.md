@@ -5,7 +5,7 @@ draft: false
 tags: "Société"
 shorttext: "Le plus grand hedge fund du monde parie 14 milliards de dollars sur le déclin des entreprises européennes."
 cover: "society"
-lang: en
+lang: fr
 ---
 
 Alors que le monde est de plus en plus affecté par la pandémie corona, le marché boursier connaît sa plus grande crise en dix ans. Les spéculateurs les utilisent et les distorsions associées sur les marchés pour en tirer Profit. Par exemple, le plus grand fonds spéculatif au monde, Bridgewater Associates, a parié 14 milliards de dollars que les actions des entreprises européennes continueront de baisser en raison de la propagation du Virus Corona. Ceci est rapporté par l'agence de presse "[Bloomberg](https://www.bloomberg.com/news/articles/2020-03-16/bridgewater-builds-14-billion-short-bet-against-european-stocks "Bridgewater Makes $14 Billion Short Against European Stocks")".

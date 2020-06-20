@@ -22,7 +22,7 @@ UN Secretary-General António Guterres: statement on the International day to en
 
 > When journalists are targeted, the company as a whole pays the price. If we are unable to protect journalists, we are hardly able to stay informed and contribute to decision-making. Without journalists who are able to do their work in safety, there is the danger of disinformation and confusion.
 
-> On this International Day to end impunity for crimes against journalists, let us work together for journalists, the truth and Justice. ([unric.org](https://www.unric.org/de/pressemitteilungen/28786-un-generalsekretaer-antonio-guterres-erklaerung-zum-internationalen-tag-zur-beendigung-der-straflosigkeit-fuer-verbrechen-gegen-journalisten-2-november "UN-Generalsekretär António Guterres: Erklärung zum Internationalen Tag zur Beendigung der Straflosigkeit für Verbrechen gegen Journalisten, 2. Novembe"))
+> On this International Day to end impunity for crimes against journalists, let us work together for journalists, the truth and Justice. (unric.org)
 
 One of the most striking features of true journalism is the courage to power. It is the courage to reveal the abuse by this power. By Julian Assange and his colleagues at WikiLeaks war crimes were uncovered, which the leader of the self-proclaimed Western community of values has to answer. For this courage, Assange is now paying an extremely high price. It is time for the Journaille to break out of her anxiety and realize that the attack on Assange is also an attack on herself.
 

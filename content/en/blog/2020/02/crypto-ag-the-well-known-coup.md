@@ -48,7 +48,7 @@ Fefe writes [for this](https://blog.fefe.de/?ts=a0bc69cb "Crypto Leaks, Fefe Blo
 
 #### "Controlled Publishing"
 
-[SPR](https://swprs.org/2020/02/12/crypto-leaks/ "Crypto-Leaks") takes stock of the following:
+SPR takes stock of the following:
 
 > The facts about the Swiss Crypto AG (...) have been known for 25 years, see About Spiegel 1996. The current swirl, as is so often the case, is not based on investigative journalism, but on a "played-up" CIA report. "played" by whom? From the CIA itself, of course. Why? Because the operation has now been completed, all traces have been blurred, and can now be published in a controlled manner.
 

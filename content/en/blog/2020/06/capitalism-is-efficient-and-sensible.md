@@ -2,7 +2,7 @@
 title: "Capitalism is efficient and sensible"
 date: 2020-06-04
 draft: false
-tags: "Gesellschaft"
+tags: "Society"
 shorttext: "Capitalism has blossomed into religion, believe everything and question little, which is not only demonstrated by the worldwide protests."
 cover: "society"
 lang: en

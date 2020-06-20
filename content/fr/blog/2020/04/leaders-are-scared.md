@@ -1,11 +1,11 @@
 ---
-title: "Leaders are afraid"
+title: "Les dirigeants ont peur"
 date: 2020-04-08
 draft: false
 tags: "Society"
-shorttext: "Covid-19, the pandemic that makes us feel like we're in prison and losing our lives. But who is more afraid? We, or the elites?"
+shorttext: "Covid-19, la pandémie qui nous donne l'impression d'être en prison et de perdre la vie. Mais qui est le plus peur? Nous, ou les élites?"
 cover: "society"
-lang: en
+lang: fr
 ---
 
 Vous pouvez presque sentir la sueur chargée de peur suintant des pores des émissions de télévision et des messages de médias sociaux comme il se lève enfin sur nos établissements politiques et médiatiques ce que le coronavirus signifie réellement. Et je ne parle pas de la menace posée à notre santé.

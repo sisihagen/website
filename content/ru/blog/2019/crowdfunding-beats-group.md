@@ -1,7 +1,7 @@
 ---
 title: "Crowdfunding бьет компанию"
 date: 2019-09-13
-tags: "Society"
+tags: "Общество"
 shorttext: "In Canada, corporations wanted to 'open up' another untouched landscape. A collection of money has successfully prevented this."
 draft: false
 lang: ru

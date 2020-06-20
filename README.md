@@ -10,20 +10,22 @@ I use the following frameworks.
 * [PostCSS](http://postcss.org) for dealing with css files
 * [Icomoon](https://icomoon.io) for svg Files
 * [Minify](https://github.com/tdewolff/minify) to minify html files
+* [htmltest](https://github.com/wjdp/htmltest) for test external links
+* [linkcheck](https://github.com/filiph/linkcheck) for test internal links
 
 
 If you want play with the page install [Hugo](https://gohugo.io "The world’s fastest framework for building websites"), [Git](https://www.git-scm.com/ "distributed VCS designed for speed and efficiency"), [yarn](https://yarnpkg.com/lang/en/ "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.") and [Nodejs](https://nodejs.org/en/) I use Arch and Gentoo so I not know how to install the stuff on other operating systems. 
 
 ```bash
-pacman -S hugo git nodejs python-pygments yarn
+pacman -S hugo git nodejs python-pygments yarn 
 emerge -av hugo net-libs/nodejs git pygments yarn
 ```
 
 Now the basis is installed we can try to run the projects.
 
 ```bash
-git clone https://github.com/sisihagen/webroot
-cd webroot
+git clone https://github.com/sisihagen/website
+cd website
 yarn install
 ./bin/hugo.sh 
 ```

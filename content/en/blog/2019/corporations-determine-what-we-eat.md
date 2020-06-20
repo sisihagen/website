@@ -16,7 +16,7 @@ FOUNDED four decades ago by a Coca-Cola executive, ILSI now has offices in 17 co
 
 The interdependence of ILSI with the authorities, which are supposed to combat the effects of unhealthy diets, is striking. For example, the Institute in China shares employees and offices with those who are supposed to fight the epidemic of diseases related to obesity. In Brazil, ILSI representatives hold seats on various nutrition panels previously reserved for university researchers.
 
-{{< image srcwebp="/static/img/content/2019/214.webp" srcalt="/static/img/content/content/214.jpg" title="ILSI have offices around the world" >}}
+{{< image srcwebp="/static/img/content/2019/214.webp" srcalt="/static/img/content/2019/214.jpg" title="ILSI have offices around the world" >}}
 
 #### The fox in the chicken coop
 

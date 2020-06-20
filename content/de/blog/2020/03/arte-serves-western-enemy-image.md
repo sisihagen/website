@@ -14,7 +14,7 @@ Das Corona-Virus verdeckt im Moment alle anderen Themen, das ist zum Teil auch n
 
 Der deutsch-französische TV-Sender hat dementsprechend am Dienstag einen Themenabend zum russischen Präsidenten Wladimir Putin präsentiert. Für diese stundenlange Übung in verzerrender Meinungsmache wurden verschiedene Dokumentationen ausgestrahlt – zur Situation im syrischen Idlib, zum Verhältnis zwischen US-Präsident Donald Trump und Putin, zu Putins Anfängen als prägender Politiker und zur "Propaganda 3.0", die Russland gegenüber dem Westen entfalten würde.
 
-Beginnen soll die Betrachtung mit dem [Arte-Bericht](https://www.arte.tv/de/videos/030273-753-A/arte-reportage/ "Syrien: Auf der Flucht aus Idlib") über Syrien, den man nur als skandalös bezeichnen kann. Das umkämpfte Idlib wird als "letzte Bastion des Widerstands" verklärt. Laut dem Bericht "brach" der Krieg (wie eine Naturgewalt) einfach so "aus" – natürlich nach einer "demokratischen Revolution". Und auch "neun Jahre nach dem Beginn der Revolution in Syrien" sei Idlib die letzte schwer umkämpfte Region "der Rebellen." Diese "Rebellen" sind demnach die Guten, die Bösen sind "das Regime", Russland und Iran. "Orte des öffentlichen Lebens" nehme "das Regime" denn auch "regelmäßig ins Visier":
+Beginnen soll die Betrachtung mit dem [Arte-Bericht](https://www.arte.tv/de/videos/094559-000-A/syrien-auf-der-flucht-aus-idlib/ "Syrien: Auf der Flucht aus Idlib") über Syrien, den man nur als skandalös bezeichnen kann. Das umkämpfte Idlib wird als "letzte Bastion des Widerstands" verklärt. Laut dem Bericht "brach" der Krieg (wie eine Naturgewalt) einfach so "aus" – natürlich nach einer "demokratischen Revolution". Und auch "neun Jahre nach dem Beginn der Revolution in Syrien" sei Idlib die letzte schwer umkämpfte Region "der Rebellen." Diese "Rebellen" sind demnach die Guten, die Bösen sind "das Regime", Russland und Iran. "Orte des öffentlichen Lebens" nehme "das Regime" denn auch "regelmäßig ins Visier":
 
 > Wer fliehen kann, der flieht vor den Bomben des Regimes, das unterstützt wird von Russland und dem Iran.
 
@@ -30,7 +30,7 @@ Die Darstellung der Doku ist einmal mehr radikal verkürzt – dadurch werden di
 
 #### "Oppositionelle werden in Russland erschossen"
 
-Im Zusammenhang mit der hier besprochenen Meinungsmache muss die Skandalisierung russischer Propaganda durch Arte natürlich heuchlerisch erscheinen – denn der Arte-Themenabend erfüllt genau den Tatbestand, den er der russischen Seite vorwirft. Das hält aber den Sender nicht von der Ausstrahlung der Dokumentation "[Propaganda 3.0. – Putin und der Westen](https://www.arte.tv/de/videos/075222-000-A/propaganda-3-0-putin-und-der-westen/ "Putin und der Westen")" ab. Demnach versucht "der Kreml", mit einem medialen Krieg "Europa und die USA zu spalten":
+Im Zusammenhang mit der hier besprochenen Meinungsmache muss die Skandalisierung russischer Propaganda durch Arte natürlich heuchlerisch erscheinen – denn der Arte-Themenabend erfüllt genau den Tatbestand, den er der russischen Seite vorwirft. Das hält aber den Sender nicht von der Ausstrahlung der Dokumentation "[Propaganda 3.0. – Putin und der Westen](https://programm.ard.de/TV/arte/propaganda-3-0---putin-und-der-westen/eid_28724550220085 "Putin und der Westen")" ab. Demnach versucht "der Kreml", mit einem medialen Krieg "Europa und die USA zu spalten":
 
 > Die wichtigsten Waffen des Kremls sind zwei internationale Staatsmedien: der Fernsehsender RT (Russia Today) und das Nachrichtenportal Sputnik.
 

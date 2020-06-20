@@ -1,7 +1,7 @@
 ---
 title: "C'est ainsi Qu'Amsterdam traite de la publicité indésirable"
 date: 2020-02-19
-tags: "Society"
+tags: "Société"
 shorttext: "Si vous voulez de la publicité dans la boîte aux lettres, vous devez le dire explicitement dans certaines villes néerlandaises. Cela permet d'économiser beaucoup de déchets."
 draft: false
 lang: fr
@@ -36,7 +36,7 @@ C'est ce à quoi cela ressemblait à Amsterdam avant l'introduction des autocoll
 
 Les annonceurs ont intenté une action en justice contre le nouveau règlement, et la ville D'Amsterdam a fait appel. Il s'agissait de savoir si le consentement explicite ou l'anglais un "Opt-in" est autorisé dans la distribution publicitaire. Le 24 septembre 2019 [La Cour a statué](https://www.parool.nl/amsterdam/rechter-amsterdam-mag-ja-ja-sticker-reclamefolders-invoeren~b8176d4d/?referer=https%3A%2F%2Fwww.infosperber.ch%2FArtikel%2FUmwelt%2FMullvermeidung-wie-Amsterdam-mit-unerwunschter-Reklame-umgeht "Rechter: Amsterdam mag ja/ja-sticker reclamefolders invoeren") Qu'Amsterdam pouvait conserver les autocollants. "Très bonne nouvelle dans la lutte contre les déchets de papier", a déclaré Marieke van Doorninck, conseillère de gauche D'Amsterdam.
 
-D'autres villes néerlandaises avaient d'abord attendu le verdict, [mais ont rapidement emboîté le pas](https://nos.nl/artikel/2303148-amsterdam-mag-de-ja-ja-sticker-houden-andere-gemeenten-volgen.html "Amsterdam mag de Ja/Ja-sticker houden, andere gemeenten volgen"). Utrecht, Rotterdam et Haarlem ont également introduit l'autocollant"oui-oui" d'ici 2020. [La Haye commence par la méthode Opt-in en avril](https://www.denhaag.nl/en/in-the-city/news/the-hague-planning-to-introduce-jaja-sticker-.htm "The Hague planning to introduce Ja/Ja sticker"), d'autres villes n'ont pas encore de date fixe.
+D'autres villes néerlandaises avaient d'abord attendu le verdict, [mais ont rapidement emboîté le pas](https://nos.nl/artikel/2303148-amsterdam-mag-de-ja-ja-sticker-houden-andere-gemeenten-volgen.html "Amsterdam mag de Ja/Ja-sticker houden, andere gemeenten volgen"). Utrecht, Rotterdam et Haarlem ont également introduit l'autocollant"oui-oui" d'ici 2020. La Haye commence par la méthode Opt-in en avril, d'autres villes n'ont pas encore de date fixe.
 
 #### Les annonceurs exigent une réglementation nationale, les journalistes craignent pour la feuille d'annonce
 

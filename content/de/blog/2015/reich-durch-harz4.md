@@ -71,7 +71,7 @@ Warum wohl? Die 1970 waren der Anfang vom Ende. die Menschen haben verstanden da
 
 > 3500 Erntehelfer auf seinen Salat- und Kohlfeldern beschäftigt, darunter trotz drei Millionen Arbeitsloser nicht ein einziger Deutscher
 
-Das ist auch ein Märchen, wie die alternde Gesellschaft und Fachkräftemangel. Diese Erntehelfer werden speziell aus dem Ausland heran geschafft, damit der Landwirt wenig Kosten hat und so seinen Profit maximieren. Daran ist natürlich der Verbraucher schuld, der nur billige Waren will und entsprechend muss man sich jedes mal die wiederholten Nachrichten anhören, nicht neu Politik ist eben nur Stillstand, statt Fortschritt. Übrigens gehören die Erntehelfer zu denen die [nicht einmal vom Mindestlohn](http://www.rbb-online.de/was/archiv/20150225_2215/preise.html "Preisentwicklung seit Mindestlohn in der Landwirtschaft") profitieren. 
+Das ist auch ein Märchen, wie die alternde Gesellschaft und Fachkräftemangel. Diese Erntehelfer werden speziell aus dem Ausland heran geschafft, damit der Landwirt wenig Kosten hat und so seinen Profit maximieren. Daran ist natürlich der Verbraucher schuld, der nur billige Waren will und entsprechend muss man sich jedes mal die wiederholten Nachrichten anhören, nicht neu Politik ist eben nur Stillstand, statt Fortschritt. Übrigens gehören die Erntehelfer zu denen die nicht einmal vom Mindestlohn profitieren. 
 
 > Ich fuhr zusammen mit dem Kamerateam zu Suppenküchen und fand viele Kinder vor, deren Eltern nicht arm, aber überfordert waren.
 

@@ -68,7 +68,7 @@ There is still no clear concept of how the government intends to overcome the cr
 
 #### Financial expert:" Prosperity Fund " as security cushion in case of further sanctions
 
-The most important Russian financial cushion is the national [wealth Fund](https://owc.de/2019/08/08/grafik-der-woche-wohlstandsfonds-starkes-wachstum/ "Wohlstandsfonds – starkes Wachstum"). It currently has a volume of 127 billion dollars. So far, this fund has been used to compensate for Russian tax losses caused by the falling oil price.
+The most important Russian financial cushion is the national wealth Fund. It currently has a volume of 127 billion dollars. So far, this fund has been used to compensate for Russian tax losses caused by the falling oil price.
 
 If the consequences of the Corona crisis were to be tackled in the same way as Europe and the USA, then the resources of the prosperity fund would be completely used up next year, investment broker Timur Nigmatulllin told Nesawisimaja Gazeta. The Russian government will not touch the wealth fund, said the Broker, because there could be new sanctions from the West at any time and then you need this money.
 

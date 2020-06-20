@@ -7,3 +7,4 @@ yarn.lock
 php
 resources
 static/static/downloads
+tmp

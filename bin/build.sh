@@ -2,33 +2,45 @@
 
 set -e
 
-# read in variables
-source ./bin/variables.sh
+case "$1" in
+  git)
+    git add . && git commit -m "Articles and fixes for week $weeknumber" &&  git push && git push github
+  ;;
 
-# clean
-./bin/clean.sh
+  version)
+    npm version patch
+  ;;
 
-# folder
-./bin/folder.sh
+  *)
+    # read in variables
+    source ./bin/variables.sh
 
-# markdown clean
-./bin/markdown_clean.sh
+    # clean
+    ./bin/clean.sh
 
-# hugo build
-./bin/hugo.sh hugobuild || exit
+    # folder
+    ./bin/folder.sh
 
-# html
-./bin/html.sh
+    # markdown clean
+    ./bin/markdown_clean.sh
 
-# assets
-./bin/css.sh
-./bin/downloads.sh
-./bin/fonts.sh
-./bin/images.sh
-./bin/js.sh
+    # hugo build
+    ./bin/hugo.sh hugobuild || exit
 
-# deploy
-./bin/deploy.sh
+    # html
+    ./bin/html.sh
 
-# raspi
-./bin/raspi.sh
+    # assets
+    ./bin/css.sh
+    ./bin/downloads.sh
+    ./bin/fonts.sh
+    ./bin/images.sh
+    ./bin/js.sh
+
+    # deploy
+    ./bin/deploy.sh
+
+    # raspi
+    ./bin/raspi.sh
+  ;;
+esac

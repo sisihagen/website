@@ -20,6 +20,9 @@ st=static.silviosiefke.com/htdocs
 
 year=$(date +%Y)
 month=$(date +%m)
+day=$(date +%d)
+weeknumber=$(date +%V)
+
 img_dir='./static/static/img/content'
 jpeg_file='jpg.txt'
 webp_file='webp.txt'
@@ -30,3 +33,9 @@ mdde='./content/de/blog'
 mden='./content/en/blog'
 mdfr='./content/fr/blog'
 mdru='./content/ru/blog'
+
+deext='./tmp/link_ext_de.log'
+deint='./tmp/link_int_de.log'
+enint='./tmp/link_int_en.log'
+frint='./tmp/link_int_fr.log'
+ruint='./tmp/link_int_ru.log'
