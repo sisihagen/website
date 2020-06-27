@@ -1,0 +1,79 @@
+---
+title: "Die herrschenden zündeln"
+date: 2020-06-22
+draft: false
+tags: "Gesellschaft"
+shorttext: "Wir sind in einer missbräuchlichen Beziehung gefangen. Jetzt haben wir genug und nun kommen die Täter mit Blumen und Entschuldigungen hinter uns her und wollen es nie wieder tun."
+cover: "society"
+lang: de
+---
+
+Wir sind in einem gewalttätigen Amts- / Machtmissbrauch gefangen. Wenn wir endlich genug haben, kommt unser Täter mit Blumen und Entschuldigungen hinter uns her und verspricht, es nie wieder zu tun.
+
+Die Polizei benutzt das Knie. NASCAR und das U.S. Marine Corps verbieten das Zeigen der Konföderationsflagge. Nancy Pelosi benutzt einen Kente-Schal als politische Propaganda. Joe Biden, eine der treibenden Kräfte hinter der Militarisierung der Polizei, der massiven Ausweitung der Masseneinkerkerung und der Verdoppelung und Verdreifachung der Strafen, spricht bei der Beerdigung von George Floyd. Die National Football League entschuldigt sich für ihre Unempfindlichkeit gegenüber Rassismus, obwohl keine Mannschaften mit Colin Kaepernick zu verhandeln scheinen.
+
+Die Bürgermeisterin von Washington D.C., Muriel Bower, ließ die Worte "Black Lives Matter" in 35 Fuß hohen Buchstaben auf eine Straße in der Nähe des Weißen Hauses malen, hat aber auch eine Erhöhung des Polizeibudgets um 45 Millionen Dollar und den Bau eines neuen Gefängnisses im Wert von 500 Millionen Dollar vorgeschlagen. Die Presse, die sich nicht mit der Macht der Konzerne auseinandersetzt und nur selten über die Armen berichtet, indem sie sie und ihre Gemeinden unsichtbar macht, engagiert sich in kreisförmigen Erschießungskommandos und entlässt oder ermahnt Redakteure und Journalisten wegen rassistisch unsensibler Gedankenverbrechen, um für ihr Engagement für farbige Menschen zu werben.
+
+Wieder einmal sehen wir Gesetzesvorschläge, die eine Polizeireform vorschreiben - mehr Körperkameras, Einverständniserklärungen, überarbeitete Richtlinien für den Einsatz von Gewalt, Verbot von Würgegriffen, zivile Untersuchungsausschüsse, Verpflichtung der Beamten, einzugreifen, wenn sie Fehlverhalten feststellen, Verbot von Durchsuchungsmaßnahmen ohne anzuklopfen, mehr Training in Deeskalationstaktiken, eine Verpflichtung der Strafverfolgungsbehörden zur Meldung von Daten über die Gewaltanwendung, national durchgesetzte Standards für die Polizeiausbildung und eine höhere Flexibilität - Vorschläge, die in Folge zahlreicher anderer Polizeimorde, darunter die von Eric Garner, Michael Brown und Philando Castile, gemacht und in mehreren Fällen angenommen wurden. Die Polizei von Minneapolis beispielsweise hat nach dem Mord an Brown in Ferguson im Jahr 2014 eine Einschreitenotwendigkeit von Polizeibeamten verpflichtend eingeführt. Diese Anforderung hat George Floyd nicht gerettet.
+
+{{< image srcwebp="/static/img/content/2020/199.webp" srcalt="/static/img/content/2020/199.jpg" title="The dominant sparkles" >}}
+
+Polizeigewerkschaften, oft kaum mehr als weiße Hassgruppen, haben weiterhin die unangreifbare Macht, Möchtegern-Reformer, darunter Gemeindeprüfungsausschüsse, Bürgermeister und Polizeichefs, beiseite zu drängen. Diese Gewerkschaften finanzieren großzügig die Kampagnen gewählter Amtsträger, einschließlich der Staatsanwälte, die sich nach ihren Wünschen verhalten. Polizeigewerkschaften und -verbände haben allein im Bundesstaat New York 7 Millionen Dollar an Kandidaten für ein Amt gespendet, davon [600.000 Dollar](https://jacobinmag.com/2020/6/andrew-cuomo-police-unions-donations-protests "For New York Democratic Politicians, Blue Money Matters") an Andrew Cuomo während seiner Gouverneurskampagnen.
+
+Es ist, wie Yogi Berra sagte, "déjà vu all over again".
+
+Die öffentlichen Solidaritätsbekundungen sind wie in der Vergangenheit nur Schall und Rauch, eine Pantomime der falschen Angst und des Mitgefühls der bankrotten herrschenden Eliten, einschließlich der meisten schwarzen Politiker, die von der Demokratischen Partei pfleglich behandelt werden und nicht mit der täglichen Demütigung, dem Stress des wirtschaftlichen Elends und des Leidens in Berührung kommen, die das Leben vieler der Protestierenden bestimmen.
+
+Diese Eliten haben nicht die Absicht, mehr als eine kosmetische Veränderung herbeizuführen. Sie weigern sich, die wichtigen Fragen zu stellen, weil sie die Antworten nicht hören wollen. Sie sind Systemmanager. Sie nutzen diese symbolischen Gesten, um die Öffentlichkeit zu täuschen und unsere gescheiterte Demokratie, von der sie und ihre korporativen Wohltäter profitieren, unangetastet zu lassen.
+
+{{< image srcwebp="/static/img/content/2020/200.webp" srcalt="/static/img/content/2020/200.jpg" title="The dominant sparkles" >}}
+
+Was wir in diesem Ausbruch von Fernseh-Solidarität mit den Opfern von Polizeigewalt sehen, ist ein Beispiel für das, was Bertram Gross "freundlichen Faschismus" nennt, die "nette Maske", mit der der Despotismus der Ultrareichen und unserer korporativen Aufseher verschleiert werden soll. Was auch immer Sie über Donald Trump denken, er ist zumindest offen über seinen Rassismus, seine Gier nach staatlicher Gewalt und sein Engagement für die Vorherrschaft der Weißen.
+
+Die Krise, mit der wir konfrontiert sind, ist nicht, wie die herrschenden Eliten uns glauben machen wollen, auf Polizeigewalt beschränkt. Es ist eine Klassen- und Generationenrevolte. Sie wird nicht mit neuen Polizeireformen gelöst werden, die, wie die Princeton-Professorin Naomi Murakawa in ihrem Buch "The First Civil Right: How Liberals Built Prison America" aufzeigt, immer zu weniger rechenschaftspflichtigen, größeren und tödlicheren Polizeikräften führen.
+
+Das Problem ist ein wirtschaftliches und politisches System, das mit Absicht eine Nation von Leibeigenen und unverschämt reichen Herren geschaffen hat. Das Problem ist die Deindustrialisierung, die Verlagerung der Produktion, die Automatisierung und die Sparprogramme, die es ermöglichen, Familien aus unserem gewinnorientierten Gesundheitssystem herauszupreisen und in Kauf zu nehmen, daß fast jedes fünfte Kind(Link ist extern) im Alter von 12 Jahren oder jünger nicht genug zu essen hat.
+
+{{< image srcwebp="/static/img/content/2020/201.webp" srcalt="/static/img/content/2020/201.jpg" title="The dominant sparkles" >}}
+
+Das Problem ist ein Wahlsystem, in dem Bestechung legalisiert wird, um einer winzigen, nicht rechenschaftspflichtigen Kabale von Oligarchen zu dienen, die sich an legalisierten Steuerboykotten, Deregulierung, Diebstahl und Finanzbetrug beteiligen. Das Problem ist, dass mindestens die Hälfte der Arbeiterklasse und der Working Poor, eine Zahl, die exponentiell wächst, während die Pandemie die Reihen der Arbeitslosen anwachsen lässt, als menschlicher Abfall beiseite geworfen wurde und auf dem Altar des Profits geopfert wird, während sich das Land wieder für die Wirtschaft öffnet und die Pandemie Welle um Welle auf die Arbeiter an der Front übergreift.
+
+Das Problem ist die Abzweigung staatlicher Mittel, darunter mehr als die Hälfte aller ermessensabhängigen Bundesausgaben, an eine nicht rechenschaftspflichtige Militärmaschinerie, die endlose und sinnlose Kriege in Übersee führt, das grausame Gesicht der weißen Vorherrschaft jenseits unserer Grenze. Diese Militärmaschinerie perfektioniert ihre brutalen Taktiken und Werkzeuge zur Kontrolle von farbigen Menschen im Nahen Osten, wie sie es auch in anderen Epochen in Vietnam, Lateinamerika und auf den Philippinen getan hat.
+
+{{< image srcwebp="/static/img/content/2020/202.webp" srcalt="/static/img/content/2020/202.jpg" title="The dominant sparkles" >}}
+
+Sie gibt dieses Wissen zusammen mit ihrer überschüssigen Ausrüstung, darunter hoch entwickelte Ausrüstung für die Großraumüberwachung, Drohnen, schwer bewaffnete SWAT-Teams, Granatwerfer und gepanzerte Fahrzeuge, an die Polizei zu Hause weiter. Bei einer nächtlichen Polizeirazzia in Detroit eine Tür einzuschlagen und eine Familie zu terrorisieren sieht nicht anders aus als bei einer nächtlichen Razzia, die von Army Rangers in Kandahar gegen eine afghanische Familie durchgeführt wurde.
+
+Imperien zerstören sich schließlich selbst. Thukydides schrieb über das athenische Reich, dass die Tyrannei, die es anderen auferlegte, es schließlich sich selbst auferlegte.
+
+Der tief verwurzelte Rassismus in den Vereinigten Staaten hat schon immer dazu geführt, dass arme farbige Menschen als erste in der Gesellschaft beiseite geworfen werden und unverhältnismäßig stark unter den brutalsten Formen der sozialen Kontrolle durch die Polizei und das Gefängnissystem leiden. Aber es wird, wie Martin Luther King betont hat, keine Rassengerechtigkeit geben, solange es keine wirtschaftliche Gerechtigkeit gibt. Und es wird keine wirtschaftliche Gerechtigkeit geben, solange wir die Macht nicht aus den Händen unserer Konzernchefs zurückgewinnen.
+
+Bis es soweit ist, werden wir eine Serie weiterer brutaler Polizeimorde und eine Reihe von Entschuldigungen und Reformversprechungen durchlaufen. Wir sind in einer einem gewalttätigen Amts- / Machtmissbrauch gefangen. Wenn wir endlich genug haben, wenn wir vor Schmerz schreien und hinausgehen, kommt unser Täter mit Blumen und Entschuldigungen und verspricht, sich zu ändern. Zurück gehen wir erst wenn wir mehr erreichen.
+
+Ich hoffe, dass das Gaslighting diesmal nicht funktioniert. Die Demonstranten, die in rund 750 Städten auf die Straße gegangen sind, sind jung, vielfältig, wütend und versiert. Viele wurden von der Parteienhierarchie der Demokraten verraten, die sich wieder einmal gegen Bernie Sanders verbündet hat, um uns einen korporativen Handlanger an den Hals zu werfen, wobei die Berechnung der herrschenden Eliten lautet, dass wir, so schrecklich Joe Biden auch ist, für ihn stimmen werden, weil er nicht Donald Trump ist. Dass diese Taktik 2016 fehlschlug, scheint die Oligarchen nicht zu beunruhigen.
+
+Viele Menschen auf den Straßen finden keine sinnvolle Arbeit, sind oft durch hohen Studienschulden belastet und haben erkannt, dass sie in dieser Welt der Leibeigenen und Herren Mächtigen keine große Zukunft haben. Sie verstehen, dass diese Proteste, wenn sie Erfolg haben sollen, von farbigen Menschen angeführt werden müssen, die unverhältnismäßig stark unter den Ungerechtigkeiten und der Gewalt leiden, die von den Besatzungstruppen des korporativen Staates ausgehen. Und sie wissen auch, dass die soziale Ungleichheit die Wurzel des Übels ist, das wir besiegen müssen.
+
+Die herrschenden Eliten werden die Polizei, die die Steuerzahler jährlich 100 Milliarden Dollar kostet und oft die Hälfte des städtischen Budgets verschlingt, niemals bereitwillig definanzieren oder abschaffen, und zwar aus demselben Grund, aus dem sie den 2,3 Millionen Gefangenen, die in unserem immer größer werdenden Gulag arbeiten, niemals einen Mindestlohn zahlen werden. Durch die Entschuldigung oder Abschaffung der Polizei oder durch die Zahlung fairer Löhne an die Strafvollzugsbediensteten wird das wichtigste Bollwerk, mit dem eine unterjochte Bevölkerung in Schach gehalten wurde, beseitigt oder im Falle der Gefängnisse das System der Neosklaverei finanziell unhaltbar gemacht.
+
+Vielmehr werden die Eliten, während sie uns versichern, dass sie unseren Schmerz fühlen, darauf bestehen, wie Jo Biden es tut, dass die Polizei, indem sie noch mehr Geld auf die Polizei wirft und [die Zahl der Polizisten auf den Straßen](https://theintercept.com/2020/06/11/defund-the-police-joe-biden-cops/ "AS CALLS TO DEFUND THE POLICE GROW LOUDER, JOE BIDEN WANTS TO GIVE THEM MORE MONEY") unserer Städte erhöht, zur Rechenschaft gezogen wird. Das ist wahr. Aber die Polizei wird nicht uns, sondern der herrschenden Klasse gegenüber rechenschaftspflichtig sein.
+
+Im Jahr 1994 setzte der damalige Senator Biden das Gewaltverbrechen- und Strafverfolgungsgesetz (Violent Crime and Law Enforcement Act; [H.R. 3355](https://www.congress.gov/bill/103rd-congress/house-bill/3355 "H.R.3355 - Violent Crime Control and Law Enforcement Act of 1994"), [Pub.L.](https://en.wikipedia.org/wiki/Act_of_Congress "Act of Congress") [103–322](https://uslaw.link/citation/us-law/public/103/322 "Pub. L. 103-322") durch. Sie wurde vom "Congressional Black Caucus" (CBC) unterstützt, ein Beweis für die wachsende Kluft zwischen den schwarzen politischen Eliten und denen, die sie schützen sollten. Angesichts der aktuellen Krise hat die Fraktion erneut die müden und zahnlosen Reformen gefordert, die uns in diesen Schlamassel gebracht haben. "Schwarze gewählte Amtsträger sind geschickt darin geworden, die Stärken schwarzer Identität ohne jeglichen politischen Inhalt zu mobilisieren", bemerkt Keeanga-Yamahtta Taylor in der [New York Times](https://www.nytimes.com/2020/06/13/opinion/sunday/black-politicians-george-floyd-protests.html "The End of Black Politics").
+
+Der Gesetzentwurf genehmigte 30,2 Milliarden Dollar über sechs Jahre für Polizei und Gefängnisse. Biden brüstete sich damit, dass er "in die Bundesgesetze über 50 Todesstrafen wieder aufgenommen hat - 50 Umstände, unter denen eine Person, wenn sie auf Bundesebene für ein Verbrechen verurteilt wird, für die Todesstrafe in Frage kommt". Der Gesetzentwurf, so prahlte er, autorisierte "über 70 erhöhte - 70, sieben Null - 70 erhöhte Strafen bei neuen Straftaten, die Gewaltverbrechen, Drogenhandel und Waffenverbrechen abdecken".
+
+{{< image srcwebp="/static/img/content/2020/203.webp" srcalt="/static/img/content/2020/203.jpg" title="The dominant sparkles" >}}
+
+Sie rief auch das "[Community Oriented Policing Services- oder COPS-Programm](https://cops.usdoj.gov/ "Community Oriented Policing Services- oder COPS-Programm")" ins Leben, das mehr als 14 Milliarden Dollar an Landes- und Kommunalregierungen überwiesen hat, wobei das meiste Geld zur Einstellung weiterer Polizisten verwendet wurde. COPS stellte auch 1 Milliarde Dollar zur Verfügung, um die Polizei in Schulen zu positionieren und damit die Kriminalisierung von Kindern zu beschleunigen.
+
+Der Gesetzentwurf von 1994 hat die Zahl der Gefängnisinsassen mehr als verdoppelt. Die Vereinigten Staaten haben heute 25 Prozent der weltweiten Gefängnispopulation, obwohl wir 4 Prozent der Weltbevölkerung sind. Die Hälfte der 2,3 Millionen Menschen in unseren Gefängnissen wurde noch nie angeklagt, einen anderen Menschen körperlich verletzt zu haben, und 94 Prozent hatten noch nie einen Schwurgerichtsprozess, bei dem sie gezwungen wurden, sich in unserem maroden Justizsystem zu verteidigen.
+
+{{< image srcwebp="/static/img/content/2020/204.webp" srcalt="/static/img/content/2020/204.jpg" title="The dominant sparkles" >}}
+
+Biden sagte 1994 stolz, dass er eine neue Demokratische Partei vertrat, die sich streng an Recht und Ordnung hielt. "Lassen Sie mich den liberalen Flügel der Demokratischen Partei definieren", sagte er damals.
+
+> "Der liberale Flügel der Demokratischen Partei ist nun für 60 neue Todesstrafen. Das ist es, was in diesem Gesetzesentwurf steht. Der liberale Flügel der Demokratischen Partei hat 70 verschärfte Strafen, und meine Freundin aus Kalifornien, Senatorin Dianne Feinstein, hat jede einzelne von ihnen erläutert. Ich habe ihr heute eine Liste gegeben. Sie fragte, was für jeden einzelnen von ihnen da drin ist. Der liberale Flügel der Demokratischen Partei ist für 100.000 Polizisten. Der liberale Flügel der demokratischen Partei ist für 125.000 neue staatliche Gefängniszellen".
+
+{{< image srcwebp="/static/img/content/2020/205.webp" srcalt="/static/img/content/2020/205.jpg" title="The dominant sparkles" >}}
+
+Es gibt nur einen Weg, diese Besatzungsmächte und die herrschenden Eliten, die sie schützen, zu besiegen. Es geht nicht durch Abstimmungen. Sie wird von den Straßen kommen, wo Zehntausende mutiger Männer und Frauen, die mit Verhaftungen, wahlloser Polizeigewalt, wirtschaftlicher Verzweiflung und der Bedrohung durch Covid-19 konfrontiert sind, nicht nur für ein Ende des Rassismus, sondern für Freiheit kämpfen.

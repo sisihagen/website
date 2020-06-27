@@ -1,0 +1,54 @@
+---
+title: "L'Allemagne assassine au Yémen"
+date: 2020-06-23
+draft: false
+tags: "Société"
+shorttext: "Les massacres sont à l'ordre du jour depuis plus de cinq ans dans la guerre du Yémen et l'Allemagne, avec son approvisionnement continu en armes, est l'un des plus grands complices de ces crimes."
+cover: "society"
+lang: fr
+---
+
+Lundi, des avions de chasse Saoudiens ont bombardé un véhicule civil dans le nord du Yémen, tuant les 13 occupants, dont quatre enfants. La coalition saoudienne-Emirats - est silencieuse au sujet de l'incident. De tels massacres sont à l'ordre du jour depuis plus de cinq ans de la guerre Yéménite – et L'Allemagne, avec son approvisionnement continu en armes, est l'un des plus grands complices de ces crimes. Le rapport sur les exportations d'armes 2019 publié hier montre que l'année dernière, le gouvernement fédéral a approuvé plus de 8 milliards d'armes à 131 pays qu'il n'avait pas approuvés depuis au moins 25 ans. Plus de 1,2 milliard sont allés aux huit pays de la coalition anti-Yémen seul.
+
+Lundi, des avions de chasse Saoudiens ont effectué deux frappes aériennes sur un véhicule civil au Yémen, tuant tous les occupants 13, a déclaré le Dr Yousef Alhadri, porte-parole du Ministère de la santé dirigé par les Houthis, dans un communiqué aux pages de réflexion. Jusqu'à présent, la coalition Saudi-Emirates n'a pas commenté cela. La frappe aérienne a eu lieu sur une autoroute dans le District de Shada, dans le gouvernorat de Sa'Da, dans le nord du Yémen, dans la zone frontalière avec l'Arabie Saoudite. Plusieurs chefs tribaux [ont confirmé](https://apnews.com/17dca7a0cab9057ee838d4a7f0c92fc0 "Yemen’s rebels: Saudi coalition airstrike kills 13 civilians") les attaques à L'Associated Press, ainsi que deux secouristes locaux au chinois Xinhua News, qui ont continué à dire que les [producteurs de fruits morts](http://www.xinhuanet.com/english/2020-06/16/c_139143620.htm "13 killed in Saudi-led airstrike on northern Yemen: medics") étaient sur le chemin du retour.
+
+#### "La liste de la honte"
+
+"Le Ministère de la Santé condamne les auteurs de ce crime, qui fait partie d'une longue liste de crimes commis par l'arabie Saoudite Coalition Américaine aux yeux de la communauté internationale ... ont été commis", a poursuivi le communiqué du porte-parole du Ministère Houthi.
+
+Cynisme pur: le jour même où les quatre enfants innocents ont été tués, L'ONU a retiré la coalition Saudi-Emirats de sa liste des responsables de crimes de guerre contre les enfants, la soi-disant "[liste de la honte](https://apnews.com/a37cd41b56727a8784d41d6fb95041f0 "UN chief takes Saudis off blacklist for harming Yemen’s kids")", même si la coalition a tué ou grièvement blessé 222 enfants au cours de la seule année dernière et que le bombardement de cinq ans est avant tout une guerre contre les enfants du Yémen, comme je l'ai montré ailleurs. Les pétrodollars saoudiens et un ami puissant à la Maison Blanche empêchent la dénonciation publique des crimes contre les enfants, les mécanismes de sanctions deviennent une Farce – juste un autre exemple de la nécessité de réformer l'ONU à partir de zéro.
+
+#### La complicité de l'Occident
+
+L'attaque de lundi a eu lieu dans le gouvernorat de SA'da, Bastion des rebelles Houthis, dont la coalition de guerre tente d'écraser l'insurrection depuis mars 2015 et de reprendre les zones du pays tenues par les Houthis. Dans la capitale Sanaa, la marionnette saoudienne Abed Rabbo Mansur Hadi doit être ramenée au pouvoir. Au total, plus de 112 000 personnes ont été tuées par la violence armée au Yémen, mais la coalition saoudienne-Emirats utilise aussi délibérément la faim et les épidémies comme armes de guerre pour briser la résistance de la population: de loin la plus grande épidémie de choléra jamais enregistrée dans le monde fait rage et l'ONU voit le Yémen au bord de la "[pire famine en 100 ans](https://www.independent.co.uk/news/world/middle-east/yemen-famine-civil-war-conflict-food-shortage-civilians-starvation-un-deaths-a8585006.html "Yemen facing the 'world's worst famine in 100 years' if fighting does not stop, warns the UN")". Si ces phénomènes secondaires sont inclus, le nombre réel de victimes de la guerre s'élève à un quart de millions de dollars.
+
+Les Massacres de la population civile par la coalition saoudienne-Emirats ont toujours été à l'ordre du jour: à maintes reprises des écoles, des mariages, des funérailles, des marchés, des bateaux de réfugiés, des hôpitaux et des mosquées [ont été délibérément bombardés](https://www.thenation.com/article/archive/war-crimes-united-states-saudi-arabia-yemen/ "Both Saudi Arabia and the United States Are Probably Guilty of War Crimes in Yemen"). Au total, la coalition a effectué [21 259 frappes aériennes](https://www.yemendataproject.org/ "YEMEN DATA PROJECT") contre le Yémen en plus de cinq ans, soit une moyenne de plus de 11 attaques par jour. Étant donné que les forces de la coalition – à l & apos; exception de l & apos; Égypte-n & apos; ont que des industries d & apos; armement rudimentaires, elles dépendent de la complicité d & apos; exportateurs d & apos; armes essentiellement occidentaux pour commettre leurs crimes de guerre. Après les États-Unis, La France, la Russie et la Grande-Bretagne, L'Allemagne occupe la cinquième place parmi les principaux exportateurs vers les huit pays de la coalition dans les années de guerre.
+
+#### L'Allemagne continue de livrer
+
+Hier, le gouvernement fédéral a présenté le [rapport D'exportation D'armes](/static/downloads/ruestungsexportbericht_2019.pdf "Bericht der Bundesregierung über ihre Exportpolitik für konventionelle Rüstungsgüter im Jahre 2019") officiel pour 2019. Cela montre que l'année dernière, le gouvernement Merkel a exporté un total de 8,02 milliards d'euros d'armes vers 131 pays (!), ce qui correspond à une augmentation d'un énorme 66 pour cent par rapport à l'année précédente 2018 (4,82 milliards d'euros) et représente la valeur la plus élevée depuis au moins 25 ans. Les permis d'exportation vers les partenaires de l'UE ont augmenté de plus de deux pour atteindre 3,14 milliards d'euros l'an dernier, tandis que ceux destinés aux Pays de l'OTAN et aux Pays analogues à L'OTAN n'ont augmenté que légèrement pour atteindre 1,34 milliard d'euros. L'augmentation de plus d'un milliard vers les pays tiers, qui ont reçu des permis d'une valeur de 3,53 milliards d'euros, est remarquable.
+
+Les derniers chiffres montrent que Berlin a de nouveau vendu des systèmes d'armes aux huit pays de la coalition anti-Yémen en 2019-en violation flagrante des stipulations de GroKo auto – imposées: la [phrase](/static/downloads/koalitionsvertrag_2018.pdf "Koalitionsvertrag zwischen CDU, CSU und SPD") infâme de l'accord de coalition, "ne pas autoriser les exportations vers les pays tant qu'ils sont directement impliqués dans la guerre au Yémen."En 2019, huit pays (Egypte, Bahreïn, Jordanie, Koweït, Maroc, Arabie Saoudite, Soudan, Emirats Arabes Unis) ont été approuvés pour un total de ventes d'armes d'une valeur de 1,24 milliard d'euros. L'année précédente 2018, les bras ont été vendu "seulement" d'un montant de 605 millions d'euros en 2019 Berlin a plus que doublé cette valeur.
+
+Exportations d'armes autorisées du gouvernement fédéral vers la coalition anti-Yémen 2019 (en euros):
+
+|Pays                        |Commerciale  |
+|----------------------------|-------------|
+|Egypte                      |801.874.706  |
+|Émirats Arabes Unis         |256.866.626  |
+|Koweït                      |90.997.312   |
+|Maroc                       |61.433.954   |
+|Jordanie                    |22.217.353   |
+|Bahreïn                     |3.984.861    |
+|Arabie                      |831.003      |
+|Soudan                      |4.116        |
+|Tout                        |1.238.209.931|
+
+
+L'Egypte, qui a reçu 802 millions d'euros, entre autres, des missiles et des pièces de missiles, est le leader du groupe de tous les pays en développement: trois des cinq ventes d'armes approuvées aux pays en développement sont allées à la dictature militaire du putschiste Al-Sisi. Avec plus de 206 millions d'euros, les Emirats sont en deuxième place parmi les pays de la coalition anti-Yémen, et de nouvelles exportations ont également été approuvées vers L'Arabie Saoudite, bien qu'une interdiction complète des exportations étendue jusqu'à la fin de 2020 soit effectivement en vigueur contre le Royaume.
+
+Et en 2020, il y avait déjà les premières [ventes d'armes](https://www.ohne-ruestung-leben.de/nachrichten/article/bundesregierung-genehmigt-weitere-ruestungsexporte-in-nahen-mittleren-osten-356.html "Bundesregierung genehmigt weitere Rüstungsexporte in den Nahen und Mittleren Osten") confirmées à la coalition, comme le montre la réponse du BMWi à une question du politicien de gauche Sevim Dağdelen en avril. Au cours du seul Premier trimestre de 2020, des exportations d'une valeur de plus de 290 millions d'euros ont été approuvées vers L'Egypte, dont la marine peut s'attendre à un nouveau sous-marin S43 avec huit tubes lance-torpilles DE ThyssenKrupp. Le Pakistan-qui est un membre non officiel de la coalition-reçoit un nouvel avion de chasse de L'Allemagne. Non moins problématiques sont les nouveaux permis de munitions de Rheinmetall d'une valeur de 179 millions d'euros au Qatar, qui faisait partie de la coalition anti-Yémen jusqu'en 2017, et pour quatre navires de guerre à Israël, que la coalition soutient logistiquement, par exemple, en formant des [mercenaires](https://www.haaretz.com/.premium-yemen-s-war-is-a-mercenary-heaven-are-israelis-reaping-the-profits-1.6938348 "Yemen's War Is a Mercenary Heaven. Are Israelis Reaping the Profits?") Colombiens qui se battent pour la coalition sur les lignes de front au Yémen.
+
+Au cours des cinq années de la guerre Yéménite, le gouvernement fédéral a autorisé un total de plus de 6,4 milliards d'euros d'exportations d'armes vers les huit partenaires de la coalition. Si l'on tient compte des livraisons aux membres non officiels du Pakistan et du Sénégal ainsi qu'aux belligérants aussi actifs des États-Unis et de la Grande-Bretagne, cette valeur Double même à plus de 12,6 milliards d'euros (calculs inédits de l'auteur à partir des rapports d'exportation d'armes correspondants du gouvernement fédéral). Les permis à ces douze États seulement représentent plus de 37 pour cent de toutes les exportations d'armes allemandes: la guerre Yéménite est – le cynisme est pardonné à ce stade-une véritable "entreprise de bombes" pour l'industrie allemande de l'armement.
+
+Selon toute vraisemblance, la frappe aérienne sanglante des Saoudiens lundi a été réalisée par des avions de chasse Tornado ou Eurofighter - dans les deux projets communs européens, L'Allemagne est significativement impliquée dans la production. Encore une fois, c'est l'ingénierie allemande qui a causé la mort de 13 enfants, femmes et hommes innocents.
