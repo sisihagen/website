@@ -10888,6 +10888,10 @@ return jQuery;
         newele.text($(ele).prop("title"));
         $('aside div.article__source').append(newele);
 
+        if ($('.article__source').children().length <=1) {
+          $('.article__source').hide();
+        }
+
         if($('.article__source a[href*="twitter"]').length > 0){
           $('.article__source a[href*="twitter"]').hide();
         }
@@ -10902,16 +10906,9 @@ return jQuery;
         $('aside div.article__gallery').append($(ele));
     });
 
-
-
-
     // check if linklist and gallery have values
     if ($('.article__gallery').children().length <=1) {
       $('.article__gallery').hide();
-    }
-
-    if ($('.article__source').children().length <=1) {
-      $('.article__source').hide();
     }
   }
 

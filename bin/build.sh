@@ -32,11 +32,12 @@ case "$1" in
     ./bin/html.sh
 
     # assets
-    ./bin/css.sh
-    ./bin/downloads.sh
-    ./bin/fonts.sh
-    ./bin/images.sh
-    ./bin/js.sh
+    ./bin/css.sh &
+    ./bin/downloads.sh &
+    ./bin/fonts.sh &
+    ./bin/images.sh &
+    ./bin/js.sh &
+    wait
 
     # deploy
     ./bin/deploy.sh
