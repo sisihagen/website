@@ -1,0 +1,81 @@
+---
+title: "Enfin proscrire les sanctions"
+date: 2020-07-15
+draft: false
+tags: "Politique"
+shorttext: "La pandémie corona a attiré l'attention sur une politique incompétente et meurtrière. Désormais, ces sanctions doivent enfin être criminalisées et interdites."
+cover: "repression"
+lang: fr
+---
+
+La pandémie de corona a contribué à faire prendre conscience des effets néfastes d'une politique généralement ignorée: les "sanctions" plus ou moins sévères imposées par les États– Unis-en partie avec les états de l'UE-sur un total de 39 Pays. Certains, comme les blocus économiques contre Cuba, L'Iran, Le Venezuela et la Russie sont bien connus. Cependant, les conséquences dévastatrices des mesures prises contre des pays déjà complètement appauvris comme le Nicaragua, Le Mali, Le Zimbabwe ou le Laos n'ont même pas de groupes de défense des droits de l'homme sur leur Radar.
+
+#### Sanctions: un terme trompeur
+
+Cependant, le terme "sanctions" est complètement trompeur ici. Parce que rien et personne ne donne aux États-Unis ou à l'UE le droit de s'imposer glorieusement des mesures punitives. Seul le Conseil de sécurité des Nations Unies est légitimé à cet effet. En fait, il s'agit de mesures coercitives arbitraires qui violent le droit international et les accords internationaux à bien des égards. Bien qu'ils soient généralement justifiée, sur le plan humanitaire, des droits de l'homme et des motifs semblables, ce sont des actes d'arbitraire qui ne peut être imposée par se dominants des grandes puissances et sont également imposées presque exclusivement par les États-unis et de ses alliés. En même temps, ils peuvent être sûrs que même dans les pires crimes, tels que les guerres contre la Yougoslavie, L'Irak ou la Libye, ils ne deviendront pas eux-mêmes la cible de telles mesures.
+
+Pour éviter les malentendus: dans ce contexte, il ne s'agit pas de mesures limitées, telles que l'exclusion des manifestations sportives ou même des campagnes de boycott de la société civile, qui sont souvent citées comme exemples positifs dans le débat sur les "sanctions". Les embargos sur les armes sont également une question complètement différente, car les livraisons d'armes ne sont pas couvertes par le commerce normal, mais par un soutien militaire. Il s'agit plutôt des restrictions étendues sur le commerce, les finances, les transactions financières, les transports, etc.qui sont imposées à de plus en plus de pays et dans de nombreux cas prennent le caractère de guerres économiques.
+
+#### L'objectif: subordination et " changement de régime"
+
+Peu importe si les accusations portées contre les États touchés sont partiellement justifiées, et aussi peu importe combien il est affirmé que les mesures ne sont dirigées contre le gouvernement respectif, le régime respectif, dès qu'ils restreignent effectivement les exportations, les importations et les transactions financières, ils affectent toujours principalement la population. Ce n'est en aucun cas un effet secondaire indésirable, car ils visent directement à perturber de manière sensible ou même à étrangler l'économie de l'adversaire.
+
+Les blocus économiques sont une forme de chantage visant à forcer les gouvernements des pays touchés à se soumettre aux politiques des puissances occidentales. Souvent, comme dans le cas de Cuba, De La Syrie, De l'Iran ou du Venezuela, ils luttent ouvertement pour des "changements de régime" en essayant de forcer la population à se révolter par une détérioration drastique des conditions de vie. Tous les citoyens des pays concernés sont ainsi pris en otage.
+
+#### Forme insidieuse de la guerre moderne
+
+Selon Alfred de Zayas, L'ancien Rapporteur spécial du Conseil des droits de l'homme des Nations unies pour L'Amérique latine, les "sanctions économiques" sont fondamentalement comparables aux "sièges médiévaux des villes", qui devraient être forcés de se rendre. "Cependant, les sanctions du 21ème siècle tentent de mettre à genoux non seulement une ville mais aussi des pays souverains."Contrairement au Moyen Age, les blocus du 21ème siècle n'auraient pas été possibles. Dans la première moitié du 20ème siècle, "la Manipulation de l'opinion publique par les "Fake News", le travail de relations publiques agressif et la rhétorique Pseudo-Droits De l'homme s'accompagnent de donner l'impression que le " but " des droits de l'homme [justifie les moyens criminels](https://deutsch.rt.com/amerika/83314-un-sonderberichterstatter-sanktionen-gegen-venezuela/ "UN-Sonderberichterstatter: Die Sanktionen gegen Venezuela töten viele Menschen")."
+
+Pendant ce temps, cette forme insidieuse de guerre moderne est également la plus couramment utilisée. Il attire à peine l'attention et peut donc être utilisé en grande partie sans contestation, il est également ouvertement loué par les politiciens américains comme une Alternative moins chère aux interventions militaires, car ils entraînent des risques et des effets secondaires significativement plus faibles pour les attaquants. Mais ces guerres sont également destructrices et détruisent des décennies de progrès dans les pays touchés dans les domaines des soins de santé, de l'assainissement, du logement, des infrastructures de base et du développement industriel.
+
+#### Armes De Destruction Massive Potentielles
+
+Même si les biens dits humanitaires, tels que la nourriture et les médicaments, sont officiellement exclus des blocus, les goulets d'étranglement de l'approvisionnement sont inévitables. En raison de la menace générale de sanctions contre toutes les entreprises qui continuent à commercer avec elles, les pays concernés ont d'énormes problèmes, même dans la recherche de fournisseurs et d'options de transport. L'exclusion de leurs banques de paiements internationaux bancaires et les prive des moyens habituels de financement des importations, la restriction des exportations prive les devises étrangères nécessaires. En bloquant la fourniture de biens ordinaires parce qu'ils peuvent également jouer un rôle dans la production d'armes et d'autres produits indésirables en tant que biens dits "à double usage", la production interne de machines, de pièces de rechange, d'engrais végétaux et de médicaments est gravement compromise.
+
+Les sociétés industrielles modernes reposent sur un réseau fragile d'infrastructures et de technologies essentielles. Lorsque les pompes, les générateurs ou les systèmes d'égouts ne fonctionnent plus en raison d'un manque de pièces de rechange simples, des districts entiers peuvent sombrer dans le marais et les épidémies de choléra et de typhoïde peuvent se propager. Si les agriculteurs sont privés de semences, d'engrais, d'outils et de machines, ou si la nourriture, les médicaments et le matériel vital ne peuvent pas être importés de manière adéquate en raison des blocus financiers, des situations d'urgence mettant leur vie en danger se produisent.
+
+Les guerres économiques peuvent donc faire plus de victimes que les guerres militaires, surtout si les États-Unis et leurs alliés cherchent à étrangler leurs adversaires par des blocages complets, tout en menaçant des pays tiers avec des sanctions dites "secondaires" ou "[extraterritoriales](https://jacobinmag.com/2019/09/us-iran-sanctions-donald-trump-iran-deal-oil-banks/ "US Sanctions Are Designed to Kill")".
+
+Sévère blocus économiques peuvent devenir des armes de destruction massive. Selon une étude du fonds des Nations unies pour l'enfance UNICEF, l'Embargo global imposé à L'Iraq de 1990 à 2003 a coûté la vie à environ 500 000 enfants. Au total, plus d'un Million d'Irakiens sont morts en conséquence. Les scientifiques ont donc parlé de "sanctions de destruction massive".
+
+#### La " mort silencieuse"
+
+Même si les blocus commerciaux et financiers actuels contre des pays comme la Syrie, L'Iran, Le Venezuela ou Cuba n'ont pas encore été aussi dévastateurs que l'embargo sur L'Irak, ils sont sans aucun doute aussi meurtriers. Selon les estimations du Centre for Economic and Policy Research (CEPR) de L'Institut de recherche de Washington, les sanctions américaines et européennes contre le Venezuela ont déjà fait [environ 40 000 morts entre 2017 et 2018](https://cepr.net/report/economic-sanctions-as-collective-punishment-the-case-of-venezuela/ "Economic Sanctions as Collective Punishment: The Case of Venezuela").
+
+En Iran aussi, les mesures de blocus américaines, qui ont été renforcées à nouveau à partir de 2018, avaient déjà entraîné des pénuries massives de biens essentiels, y compris des médicaments, à la fin de 2019. Selon Human Rights Watch, la Politique de "pression maximale" de L'Administration Trump sur la République islamique "constitue une grave menace pour [le droit des Iraniens à la santé](https://www.hrw.org/report/2019/10/29/maximum-pressure/us-economic-sanctions-harm-iranians-right-health "Maximum Pressure") et leur accès aux médicaments essentiels."
+
+Pour de nombreux patients atteints de cancer, par exemple, il est [fatal](https://foreignpolicy.com/2019/08/14/u-s-sanctions-are-killing-cancer-patients-in-iran/ "U.S. Sanctions Are Killing Cancer Patients in Iran"), comme le célèbre journal américain Foreign Policy l'a rapporté en août dernier.
+
+La situation en Syrie est encore plus dramatique. Selon les recherches du Rapporteur spécial des Nations unies sur les conséquences négatives des mesures coercitives unilatérales, Idriss Jazairy, les effets des blocus économiques des États-Unis et de l'UE sur la population sont maintenant pires que ceux de la guerre. Leurs victimes ne meurent que "d'une mort silencieuse". L'Expert Algérien des droits de l'homme récemment décédé a donc fortement contredit la justification souvent avancée par les partisans selon laquelle les "sanctions" sont une "Alternative non violente à la guerre".
+
+Les mesures économiques coercitives visant à réaliser des objectifs politiques, comme dans le cas de l & apos; Iran, De Cuba et du Venezuela, sont également en contradiction flagrante avec les droits de l & apos; homme et les normes des relations diplomatiques internationales.
+
+"Quand une grande puissance utilise sa position dominante dans le système financier international même contre ses propres alliés pour causer des difficultés économiques aux États souverains", a-t-il déclaré, faisant référence aux États-Unis "[loi Helms-Burton](https://www.heise.de/tp/features/UN-Experte-kritisiert-zunehmend-aggressive-US-Sanktionen-4417130.html "UN-Experte kritisiert zunehmend aggressive US-Sanktionen")" contre Cuba", elle viole le droit international et porte inévitablement atteinte aux droits de l'homme."
+
+Il est également "difficile de comprendre comment des mesures qui détruisent l'économie vénézuélienne" pourraient être "destinées à aider le peuple Vénézuélien", a souligné l'expert de l'ONU, soulignant l'absurdité de la justification occidentale de sa politique de blocus contre le Venezuela. Les Sanctions conduisent à la faim, et l'approvisionnement médical" ne pourrait pas être "la réponse à la crise au Venezuela".
+
+#### Politique occidentale contre la majorité onusienne
+
+Bien qu'elles ne soient guère critiquées en Occident, l'écrasante majorité des États membres de l'ONU condamnent depuis longtemps les mesures coercitives unilatérales en principe. Dès 1991, l'Assemblée Générale des Nations unies a adopté une résolution appelant la communauté internationale à "prendre des mesures urgentes et efficaces pour empêcher l'utilisation de mesures économiques coercitives unilatérales par certains pays développés contre les pays en développement" visant à influencer les [décisions souveraines des pays touchés](/static/downloads/A-RES-46-210.pdf "UN GA Resolution"). Plus récemment, en novembre 2019, la Deuxième Commission de l'Assemblée Générale des Nations unies a de nouveau adopté une résolution à cet effet.
+
+Selon la teneur de toutes les résolutions, de telles mesures économiques unilatérales ne sont pas autorisées par les organes de l'ONU, violent le droit international et la Charte des Nations unies. Ils contredisent les normes et les principes régissant les relations pacifiques entre les États et les principes de base du système commercial multilatéral.
+
+En bloquant le commerce extérieur d'un pays qui en dépend pour sa survie, selon le verdict commun des avocats internationaux, la vie de la population civile dans son ensemble est menacée. Les blocus économiques globaux constituent donc, quelle que soit leur justification, de graves violations des droits de l & apos; homme. Ils comprennent, en particulier, le mépris pour le droit à la vie, ainsi qu'une nutrition adéquate et des soins de santé. Ils constituent également une forme de châtiment collectif qui contraste totalement avec les principes fondamentaux du droit.
+
+#### Blocus en temps de Corona-un crime contre l'humanité
+
+La propagation mondiale du COVID-19 a plus clairement que jamais porté à la lumière de l'opinion publique la pratique des blocus économiques unilatéraux, qui est contraire au droit international et immorale. Les pays qui y sont confrontés, en particulier L'Iran, Le Venezuela, Cuba, La Syrie et le Yémen, ont été rendus massivement difficiles par eux à prendre des mesures de protection et à préparer leurs systèmes de santé à l'augmentation des maladies.
+
+De nombreux pays, institutions internationales et personnalités, telles que la [Haut-Commissaire des Nations unies aux droits de l'homme](https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25769&LangID=E "UN rights expert urges Governments to save lives by lifting all economic sanctions amid COVID-19 pandemic"), Michelle Bachelet et le successeur de Jazairy, L'avocate internationale biélorusse Alena Douhan,, exigent que les "sanctions" soient suspendues au moins pendant la pandémie et cessent immédiatement toutes les mesures qui empêchent le financement de l'achat de médicaments, de matériel médical, de
+
+"[C'est le moment de la solidarité, pas de l'exclusion](https://www.jungewelt.de/loginFailed.php?ref=/artikel/375944.gegen-zwangsma%C3%9Fnahmen-hilfe-statt-sanktionen.html "Hilfe statt Sanktionen")", a conclu le Secrétaire général des Nations Unies, António Guterres, en appelant Washington et l'UE.
+
+Mais malgré ces appels et toutes leurs propres expressions de solidarité internationale à L'ère Corona, les gouvernements des États-Unis et de l'UE s'en tiennent fermement à leurs mesures de blocus.
+
+Alors que Cuba a envoyé des équipes médicales dans 27 pays pour aider à lutter contre le Coronavirus, l'Administration Trump exacerbe encore le blocus de 60 ans contre le pays. Les mesures coercitives contre la Syrie sont également étendues avec la "loi César pour la protection de la population syrienne". À cet égard, le pays a besoin de rien de plus urgent que de l'important appui international pour la reconstruction de l'infrastructure et du système de santé ainsi que les soins de la population.
+
+#### Majorité parlementaire avec les verts pour les barrages
+
+Déjà dans des circonstances normales inhumaines, les blocus économiques dans cette Situation constituent clairement un crime contre l'humanité. Une motion du groupe de gauche au Bundestag, qui appelait le gouvernement fédéral à "travailler au niveau international et dans l'UE pour la fin immédiate de toutes les sanctions économiques unilatérales qui affectent les populations respectives et permettent ainsi aux États touchés de lutter efficacement contre la pandémie de la couronne", a été rejetée par les partis au pouvoir avec les verts sans beaucoup de débat.
+
+"Le monde après la pandémie devrait être un monde de solidarité internationale-sans mesures coercitives unilatérales", déclare L'expert en droits de L'homme De Zayas. "Le moment est venu pour la communauté internationale de réaffirmer les principes du multilatéralisme contenus dans la Charte des Nations unies et d'exiger que les mesures coercitives unilatérales causant la mort et la souffrance soient condamnées par la Cour pénale internationale comme [crimes contre l'humanité](https://www.zeit-fragen.ch/archiv/2020/nr-7-7-april-2020/prioritaet-muss-sein-jetzt-leben-zu-retten-die-weltweite-verurteilung-von-sanktionen-muss-folgen.html "Priorität muss sein, jetzt Leben zu retten – die weltweite Verurteilung von Sanktionen muss folgen").

@@ -22,7 +22,7 @@ if [[ "$1" == "de" ]]; then
   rm $deint $deext_tmp $deext $statuscodes
 
   # check internal links
-  linkcheck https://silviosiefke.de > $deint
+  linkchecker https://silviosiefke.de > $deint
 
   # check external links
   htmltest -c .htmltest_de.yml > $deext_tmp

@@ -27,6 +27,16 @@
           {{ end }}
         </div>
       </div>
+
+      <p> {{ i18n "linuxshell" }} </p>
+
+      <div class="linux-shell">
+        {{ range $.Page.Site.Data.linux_shell}}
+        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+          <span class="{{ .class }}"></span>
+        </a>
+        {{ end }}
+      </div>
     </aside>
   </main>
 

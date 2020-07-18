@@ -51,3 +51,6 @@ other = "Программное обеспечение я использую и 
 
 [tags]
 other = "метка"
+
+[linuxshell]
+other = "My Linux Shells"

@@ -1,0 +1,28 @@
+.linux-shell {
+  text-align: center;
+
+  span {
+    display: block;
+    padding: 2rem 0px;
+  }
+}
+
+.bg-arch {
+    width: 945px; height: 300px;
+    background: url('/static/img/content/sf.png') -10px -10px;
+}
+
+.bg-freebsd {
+    width: 945px; height: 300px;
+    background: url('/static/img/content/sf.png') -975px -10px;
+}
+
+.bg-gentoo {
+    width: 945px; height: 300px;
+    background: url('/static/img/content/sf.png') -1940px -10px;
+}
+
+.bg-pi {
+    width: 945px; height: 300px;
+    background: url('/static/img/content/sf.png') -2905px -10px;
+}

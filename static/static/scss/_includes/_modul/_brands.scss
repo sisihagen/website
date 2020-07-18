@@ -1,15 +1,9 @@
 .brands {
   text-align: center;
 
-  @include breakpoint('m') {
-    [class^="sprite"] {
-      transform: scale(1.4);
-    }
-  }
-
   a {
     @include breakpoint('m') {
-      padding-right: 1rem;
+      padding-right: 2rem;
     }
 
     span {
