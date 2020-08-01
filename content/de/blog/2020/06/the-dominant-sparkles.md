@@ -32,7 +32,7 @@ Was wir in diesem Ausbruch von Fernseh-Solidarität mit den Opfern von Polizeige
 
 Die Krise, mit der wir konfrontiert sind, ist nicht, wie die herrschenden Eliten uns glauben machen wollen, auf Polizeigewalt beschränkt. Es ist eine Klassen- und Generationenrevolte. Sie wird nicht mit neuen Polizeireformen gelöst werden, die, wie die Princeton-Professorin Naomi Murakawa in ihrem Buch "The First Civil Right: How Liberals Built Prison America" aufzeigt, immer zu weniger rechenschaftspflichtigen, größeren und tödlicheren Polizeikräften führen.
 
-Das Problem ist ein wirtschaftliches und politisches System, das mit Absicht eine Nation von Leibeigenen und unverschämt reichen Herren geschaffen hat. Das Problem ist die Deindustrialisierung, die Verlagerung der Produktion, die Automatisierung und die Sparprogramme, die es ermöglichen, Familien aus unserem gewinnorientierten Gesundheitssystem herauszupreisen und in Kauf zu nehmen, daß fast jedes fünfte Kind(Link ist extern) im Alter von 12 Jahren oder jünger nicht genug zu essen hat.
+Das Problem ist ein wirtschaftliches und politisches System, das mit Absicht eine Nation von Leibeigenen und unverschämt reichen Herren geschaffen hat. Das Problem ist die Deindustrialisierung, die Verlagerung der Produktion, die Automatisierung und die Sparprogramme, die es ermöglichen, Familien aus unserem gewinnorientierten Gesundheitssystem herauszupreisen und in Kauf zu nehmen, daß fast jedes fünfte Kind im Alter von 12 Jahren oder jünger nicht genug zu essen hat.
 
 {{< image srcwebp="/static/img/content/2020/201.webp" srcalt="/static/img/content/2020/201.jpg" title="The dominant sparkles" >}}
 
