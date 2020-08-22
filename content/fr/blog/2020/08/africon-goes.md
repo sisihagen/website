@@ -1,0 +1,33 @@
+---
+title: "Africon va"
+date: 2020-08-18
+draft: false
+tags: "Politique"
+shorttext: "Le retrait des troupes de Donald Trump affecte également le tristement célèbre centre de commandement d'Africom à Stuttgart."
+cover: "repression"
+lang: fr
+---
+
+Le retrait des troupes de Donald Trump affecte également le célèbre centre de commandement D'Africom à Stuttgart. Mais alors que les politiciens et les entreprises regrettent le retrait, le fait que les meurtres de drones sont coordonnés à Stuttgart est supprimé.
+
+Depuis un certain temps, le président et commandant en chef des États-Unis, Donald Trump, prête serment de ramener des milliers de soldats à la maison. Maintenant, il semble être le temps. Le retrait touche non seulement des pays comme l'Afghanistan, mais aussi L'Allemagne. Selon les "plans stratégiques" de Trump, 12 000 soldats américains devraient quitter le pays. Parmi les soldats retirés, quelque 6 400 doivent être renvoyés aux États-Unis et 5 400 transférés dans d'autres pays européens. Selon le Ministre de la Défense Mark Esper, le retrait partiel devrait être mis en œuvre "dès que possible". La procédure est également présentée par Washington comme une sorte de punition, car l'Allemagne aurait suffisamment manqué à ses obligations au titre de l'OTAN. "Nous ne voulons plus être les ventouses", a déclaré Trump lors d'une conférence de presse à la Maison Blanche mercredi dernier.
+
+Les plans concernent la Bavière, la Rhénanie-Palatinat et, bien sûr, le Bade-Wurtemberg. Les réactions de la Politique et des affaires n'auraient pas pu être plus prévisibles. Markus Söder a regretté la "décision consciente contre L'Allemagne" et a parlé d'une tension sur la relation germano-américaine. Le maire de Stuttgart Fritz Kuhn a critiqué L'approche de Trump. "Avec sa décision, l'administration américaine sous le président Trump annonce la coopération étroite qui s'est développée au fil des décennies dans une action punitive contre un allié et sans consensus au Congrès américain", a déclaré Kuhns.
+
+Pendant ce temps, d'autres s'inquiètent des conséquences économiques. "Les troupes stationnées sont des consommateurs, elles investissent dans des biens et utilisent des services dans la région de Stuttgart", a déclaré Johannes Schmalzl, directeur général de la chambre de Commerce et D'industrie de la région de Stuttgart.
+
+Il est maintenant clair que les deux centres de commandement Eucom et Africom seront relocalisés. Mais alors que le premier doit déménager de Stuttgart-Vaihingen à Mons, en Belgique, Le nouvel emplacement D'Africom reste inconnu. Cela ne devrait pas être surprenant, étant donné qu'à cette époque, c'est-à-dire avant 2008, de nombreux États européens ne montraient aucun intérêt à stationner, alors que L'Allemagne s'offrait volontiers.
+
+D'autant plus inquiétant que, dans le contexte du retrait des troupes, on parle presque exclusivement de conséquences économiques et de relations transatlantiques. Car, semble – t-il, beaucoup de gens ne semblent pas savoir ce qui se passe réellement dans ces bases militaires-ou, pire, ils ignorent ces circonstances et deviennent ainsi pratiquement complices.
+
+#### Complices dans la guerre des Ombres
+
+Lire correctement. Le mot "auteur" est approprié. Cela devient clair, par exemple, quand, pour une fois, on ne se concentre pas sur les conséquences pour la campagne, mais sur les scènes dont personne ne parle ces jours-ci. Un exemple de ceci est la ville de Jilib en Somalie. Il y a environ deux semaines, il y a eu d'autres frappes de drones qui ont tué [au moins trois enfants](http://halganmedia.net/us-drone-strike-kills-three-children-in-somalia/ "US Drone Strike Kills Three Children In Somalia").
+
+Selon les médias locaux, la ville est contrôlée par la milice militante Al-Shabab. L'objectif, cependant, était un quartier habité principalement par des civils. Les frappes de drones en Somalie ont augmenté massivement ces derniers mois et ces dernières années. Amnesty International rapporte que 32 civils ont été tués ou blessés au cours des trois dernières années. L'organisation [Airwars](https://airwars.org/conflict/us-forces-in-somalia/ "US Forces in Somalia"), qui surveille la guerre de l'ombre américaine en Somalie depuis février dernier, affirme qu'entre 72 et 145 civils ont été tués par les opérations américaines au cours des treize dernières années. Dans tous les cas, les nombres minimaux doivent être supposés. Comme dans d'autres pays, comme L'Afghanistan ou le Pakistan, la plupart des régions touchées sont situées et difficiles à atteindre. Les journalistes et observateurs occidentaux ne sont presque jamais présents.
+
+Africom est responsable de toute cette terreur. Chaque attaque de drone en Somalie est planifiée et coordonnée à Stuttgart. Selon Africom, seulement cinq civils ont été tués depuis le début des opérations en 2007. Toutes les autres victimes sont considérées comme des" terroristes " comme d'habitude. Même après l'attaque de la semaine dernière, on n'a parlé que de terroristes présumés tués et blessés.
+
+Les enquêtes sur le terrain n'ont jamais eu lieu, ce qui a déjà été critiqué à plusieurs reprises. En plus de cela, [Africom n'aime pas les journalistes](https://theintercept.com/2018/01/13/we-dont-consider-you-a-legitimate-journalist-how-i-got-blacklisted-by-the-pentagons-africa-command/ "'WE DON’T CONSIDER YOU A LEGITIMATE JOURNALIST' — HOW I GOT BLACKLISTED BY THE PENTAGON’S AFRICA COMMAND"). Cela est devenu clair, par exemple, dans le cas du journaliste américain Nick Turse, qui traite avec l'armée américaine en Afrique depuis des années. À un moment donné, il a reçu un rejet clair de Africom, parce qu'il n'était pas considéré comme un journaliste correct, c'est-à-dire conforme au système.
+
+Tous ces faits sont ignorés en Allemagne ces jours-ci. Au lieu de cela, les soldats américains sont considérés principalement comme de bons consommateurs. Ou vous pouvez consciemment appuyer sur la glande lacrymale et parler d'amitiés de longue date, qui sont maintenant détruites. Cela va au-delà de tout cynisme, car les faits sont clairs: L'Allemagne est complice de la guerre secrète des États-Unis. Les civils Somaliens sont exécutés à la pression d'un bouton par équipes avant que les responsables se livrent à leur brassage de la ferme du soir et dynamisent l'économie locale grâce à leur appétit américain. C'est un crime. Le fait que "les bons" soient les auteurs ne change pas cette circonstance connue depuis longtemps. De Berlin à Stuttgart, les responsables ont longtemps évité cette réalité. Ils l'ont évincée et ignorée, mais maintenant ils ont été rattrapés par elle d'une manière légèrement différente. C'est une bonne chose, et Qu'Africom quitte Stuttgart aussi.
