@@ -1,0 +1,37 @@
+---
+title: "Medienkompetenz in der Schule steigt"
+date: 2020-09-18
+draft: false
+tags: "Gesellschaft"
+shorttext: "Zahlreiche Lehrerinnen und Lehrer misstrauen den etablierten Medien, wie eine aktuelle Studie feststellt."
+cover: "society"
+lang: de
+---
+
+Zahlreiche Lehrerinnen und Lehrer misstrauen den etablierten Medien, wie eine aktuelle Studie feststellt. Das beunruhigt diese Medien, ist aber auch eine gute Nachricht: Die begründete Medien-Skepsis in der Gesellschaft steigt und sie wird an die nächste Generation vermittelt. Die ist dann vielleicht besser gewappnet gegen die Fake-News-Kampagnen der großen Medien.
+
+"Fake News kommen vor allem aus dem Internet und werden von politisch rechts stehenden oder verwirrten Einzelpersonen oder Gruppen in Blogs, Alternativmedien und Foren verbreitet. Die großen etablierten Medien geben sich große Mühe, diese Fake News aufzuklären und die Bürger kritisch und unabhängig über den Lauf der Welt zu unterrichten." So lautet das Mantra der großen Medien zum Komplex Fake News.
+
+#### Die Fake News der großen Medien
+
+Doch das ist selber eine Falschnachricht – denn viele große Medien gehören ihrerseits zu den größten Produzenten von Fake News: Großflächige Medien-Kampagnen wie jene zu Syrien, zur Verteufelung des Corona-Protests, zur Aufrechterhaltung der liberalen Wirtschaftsordnung, zur Privatisierung der Rente oder ganz aktuell zu Alexej Nawalny und Nordstream2 können von Blogs und Foren gar nicht in vergleichbar massiver Weise inszeniert werden. Um den politischen Gleichklang herzustellen, der bei vielen zentralen Themen in den großen deutschen Medien oft vorherrscht, braucht es ein Netzwerk aus großen Medien und großen Nachrichtenagenturen sowie ein entsprechend konditioniertes Personal. Links zu Fake-News-Kampagnen großer deutscher Medien folgen weiter unten.
+
+Eine repräsentative [Studie](/static/downloads/Bericht_Lehrkräftebefragung_Nachrichtenkompetenz_neutral.pdf "Die Vermittlung von Nachrichtenkompetenz in der Schule") sollte nun untersuchen, wie es um die Medienkompetenz bei Lehrkräften bestellt ist, wie etwa die "[taz](https://taz.de/Medienkompetenz-von-Lehrerinnen/!5706779/ "Erstaunliche Vorstellungen")" berichtet. Auch dieser Untersuchung und dem ausführenden "Allensbach-Institut" soll hier die gebührende Skepsis entgegengebracht werden. Aber auch wenn man die Studie und ihre Ergebnisse unter Vorbehalt sieht, so sind doch auch die Reaktionen darauf interessant. In der Untersuchung, die sich unter diesem Link findet, habe sich laut "taz" gezeigt:
+
+> "Ein erstaunlich großer Teil der Lehrkräfte steht Medien ablehnend oder feindselig gegenüber – oder geht implizit davon aus, dass in Deutschland keine Pressefreiheit existiert."
+
+Die "taz" nutzt im Artikel eine in der deutschen Presselandschaft weitverbreitete Strategie, mit der Medien sich von Kritik abschirmen wollen: Sie bezeichnet Medienkritik als "rechts". Das ist (zumindest zum Teil) eine absurde Aussage: Die Kritik an Medienkonzentration und einer daraus folgenden Eintönigkeit und Unterschlagung von unbequemen Aspekten ist eine auch linke Tradition. Das müssten eigentlich die Gründer der "taz" besonders gut wissen, schließlich wurde die Zeitung auch aus diesen Motiven heraus geschaffen. Das ist lange her und inzwischen beteiligt sich die "taz" selber an der Abschirmung von Medienkonzernen gegen Kritik. Diese Aussage soll natürlich nicht verneinen, dass auch unter Lehrern der Einfluss der Rechten zum Teil erfolgreich ist – das ist bedenklich, aber Medienskepsis allein ist dafür noch kein Symptom.
+
+#### Simple Gleichung: "böse Alternativmedien" und "seriöse Groß-Medien"
+
+Die Ergebnisse der Studie sind erstaunlich, vorausgesetzt die Standards bei der Untersuchung wurden eingehalten. Diese Ergebnisse sind einerseits beunruhigend für die bestimmenden Macher in der deutschen Presselandschaft. Andererseits können sie zumindest teilweise Hoffnung darauf machen, dass den Schülern zukünftig mehr Medienkompetenz vermittelt wird als die simple und dominante Gleichung von den "bösen Alternativmedien" und den "seriösen Groß-Medien".
+
+Die Studie wurde durch die Stiftervereinigung der Presse in Auftrag gegeben. Dafür hat das "Allensbach-Institut" 500 Deutsch- und SozialkundelehrerInnen der Sekundarstufe I befragt, in einer "repräsentativen Stichprobe". Während laut "taz" fast alle Befragten (95 Prozent) Nachrichtenkompetenz als mindestens "wichtig" einstuften, waren sich nur 60 Prozent sicher, dass es Aufgabe der Medien ist, "die Mächtigen kritisch zu beobachten und zu kontrollieren". 40 Prozent hätten angegeben, Medien seien dafür da, "die Bevölkerung für bestimmte Anliegen zu mobilisieren". 10 Prozent waren demnach der Meinung, dass Medien "die Meinungsbildung im Sinne der Regierung lenken" sollen. Und 6 Prozent würden denken, dass Medien Nachrichten "zurückhalten sollen, wenn die Gefahr besteht, dass dadurch die öffentliche Meinung negativ beeinflusst wird", so die "taz”. Die zitierten Aussagen seien in der Befragung vorformuliert angeboten worden, Mehrfachnennungen waren demnach möglich. Die Erhebung wurde übrigens vor dem Ausrufen der "Pandemie" durchgeführt – das extrem unseriöse Medienverhalten zu Corona dürfte das Misstrauen vieler LehrerInnen gegenüber vielen großen Medien inzwischen nochmals erheblich gesteigert haben.
+
+#### Je stärker die Kritik, desto schwächer die Medienkompetenz?
+
+Gerade unter dem Eindruck der aktuellen Kampagnen zu Corona und zum Fall Nawalny ist die folgende Aussage interessant: Nämlich, dass "viele Nachrichten, die eigentlich wichtig sind, in den normalen Medien verschwiegen werden und man sie nur in sozialen Netzwerken, Foren oder Blogs findet". Dem stimmten 19 Prozent der Befragten zu. Das finden viele Medien sicher beunruhigend – man könnte aber auch andererseits beunruhigend finden, dass ca. 80 Prozent der Befragten das anders sehen. Denn LehrerInnen, die diese Aussage negieren, beweisen dadurch keineswegs größere Medienkompetenz – im Gegenteil. Eine bizarre, aber von vielen großen Medien verbreitete Losung lautet dennoch sinngemäß, dass je größer die Kritik sei, desto geringer sei die Medienkompetenz: Durch das Äußern von Medienkritik befinde man sich praktisch schon in der Hand der "rechten Rattenfänger". Auch die "taz" nutzt die Untersuchung, wie gesagt, für ein gespieltes Erstaunen über die Abwendung von unseriösen Medien sowie für die erneute Feststellung, Medienkritik sei vor allem etwas für Rechte:
+
+> "Das sind Positionen, die beunruhigen müssen, weil sie übersetzt bedeuten: Diese Befragten finden, dass es hierzulande keine funktionierende freie Presse gebe. Sie offenbaren ein Verständnis von Medien als Teil der Regierung, des Staates, der Obrigkeit, wie es seit Jahren von rechts aktiv verbreitet und verfestigt wird."
+
+Für Dietmar Wolff, Hauptgeschäftsführer des Verlegerverbands BDZV ist die Studie laut Pressemitteilung "ein besorgniserregender Befund". Auf Nachfrage der "taz" sagte Wolff, die Ergebnisse der Studie legten nahe, "dass das Thema Nachrichtenkompetenz  einen viel größeren Raum als bisher im Unterricht einnehmen sollte". Dem ist natürlich zuzustimmen. Es ist aber davon auszugehen, dass der Verbandschef hier nicht die kritische und unabhängige Information der Bürger meint, sondern die Abschirmung der "klassischen" Medien von Kritik. Dazu spricht Wolff auch eine "Drohung" aus: Er fordert eine regelmäßige "Fortbildung der Lehrkräfte".
