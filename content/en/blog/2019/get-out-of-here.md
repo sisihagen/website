@@ -30,11 +30,11 @@ This includes the tightening up of the asylum seekers Benefits Act, which provid
 
 > There will be sanctions up to a total exclusion of benefits after two weeks for recognized refugees who migrate from another EU country to Germany. (Kerstin Becker)
 
-And since even more fits into a package and everything en bloc was "whipped" by the Bundestag, What has happened in the majority relations in the Bundestag with the greatest possible voluntary and willingness to participate, one has also introduced a law, the "data exchange Improvement Act“:
+And since even more fits into a package and everything en bloc was "whipped" by the Bundestag, What has happened in the majority relations in the Bundestag with the greatest possible voluntary and willingness to participate, one has also introduced a law, the "data exchange Improvement Act":
 
 > With the Initiative, the federal government aims to improve the exchange of data on refugees between the bodies involved in the reception and at the same time to facilitate the control of those affected. ( ... ) It is planned that in future, for example, the youth offices, the nationality and distribution authorities as well as the Federal Foreign Office and its missions abroad will be able to retrieve data from the AZR in an automated process 'in real time'. ([Heise](https://www.heise.de/newsticker/meldung/Datenaustausch-Ueberwachung-von-Fluechtlingen-entzweit-den-Bundestag-4363642.html "Datenaustausch: Überwachung von Flüchtlingen entzweit den Bundestag"))
 
-The network data protection expertise was called on the deputies in vain, to revise the law fundamentally, and to establish a “collective protection” for asylum seekers. "The overall concept is 'anti - constitutional and European law', because a 'impenetrable and ubiquitous surveillance network is thrown over the people concerned'. However, they would not be granted guarantees and safeguards. The Central register should not be used as a data hub.
+The network data protection expertise was called on the deputies in vain, to revise the law fundamentally, and to establish a "collective protection” for asylum seekers. "The overall concept is 'anti - constitutional and European law', because a 'impenetrable and ubiquitous surveillance network is thrown over the people concerned'. However, they would not be granted guarantees and safeguards. The Central register should not be used as a data hub.
 
 #### Foreigners, Russians, Chinese, Iranians do not undermine democracy, they just have to go to their funeral.
 

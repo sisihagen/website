@@ -24,7 +24,7 @@ For example, the former president of the European Commission, José Manuel Barro
 
 Barroso himself stressed that his new Job was only a kind of consultancy. What this looked like in Detail was then [documented](https://www.spiegel.de/wirtschaft/soziales/jose-manuel-barroso-lobbyiert-fuer-goldman-sachs-a-1194344.html "Was José Barroso wirklich für Goldman Sachs tut") by a letter. In his new Job, Barroso met EU deputy commissioner Jyrki Katainen, for example, in the immediate vicinity of the commission's main building. There were no companions, no notes, no written documents. The meeting was officially registered on the website of the EU Commission as a lobby meeting, but only after it had reported.
 
-"Commissioner Katainen's letter strongly suggests that Barroso is actually using his privileged Position to influence the EU on behalf of Goldman Sachs, "Margarida Silva of Alter-EU, an association of about 200 NGOs and Trade Unions, told Der Spiegel. "No one outside the Institution has more Insider knowledge, contacts and ongoing influence than the former president of the commission.»
+"Commissioner Katainen's letter strongly suggests that Barroso is actually using his privileged Position to influence the EU on behalf of Goldman Sachs, "Margarida Silva of Alter-EU, an association of about 200 NGOs and Trade Unions, told Der Spiegel. "No one outside the Institution has more Insider knowledge, contacts and ongoing influence than the former president of the commission."
 
 #### The Fox and the chicken
 

@@ -24,17 +24,17 @@ His testimony has been kept secret for more than two years. According to journal
 
 Henry's statements to the Intelligence Committee repeatedly refer to "evidence" of data theft, but these cannot disguise the fact that no reliable evidence could be presented. Henry admits this in several of his answers to committee members ' questions:
 
-  - "We had no concrete evidence that the data from the DNC Server was moved electronically, but we have evidence that it was diverted.“
+  - "We had no concrete evidence that the data from the DNC Server was moved electronically, but we have evidence that it was diverted."
 
-  - "There are examples where we can see that data has been accessed, and we can prove this conclusively. But in this case, it looks like they were set up for Exfiltration, but we just don't have the evidence to say that they were actually transferred.“
+  - "There are examples where we can see that data has been accessed, and we can prove this conclusively. But in this case, it looks like they were set up for Exfiltration, but we just don't have the evidence to say that they were actually transferred."
 
-  - "There is no evidence that they were actually stolen. There is evidence, but no evidence, that they were actually stolen.“
+  - "There is no evidence that they were actually stolen. There is evidence, but no evidence, that they were actually stolen."
 
-  - "There is evidence that this data was taken from the network ... but we did not have a Sensor that specifically observed how the data left the network. Based on circumstantial evidence, we have claimed that the data flowed. That was the conclusion we drew.“
+  - "There is evidence that this data was taken from the network ... but we did not have a Sensor that specifically observed how the data left the network. Based on circumstantial evidence, we have claimed that the data flowed. That was the conclusion we drew."
 
 As for the claim that agents of the Russian state were responsible for this so-called Schrödinger Hack, Henry simply told the intelligence committee what he "assumed."
 
-  - "There are certainly other states that collect this kind of information," he said, "but the – as we would call it – tactics and techniques corresponded to what we have seen in connection with the Russian state.“
+  - "There are certainly other states that collect this kind of information," he said, "but the – as we would call it – tactics and techniques corresponded to what we have seen in connection with the Russian state."
 
 CrowdStrike's internal investigation revealed "activities that we believed were consistent with activities that we had previously seen and associated with the Russian government."
 

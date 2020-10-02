@@ -24,7 +24,7 @@ Nous pouvons tous imaginer ce que les manchettes seraient sur la Russie et la Sy
 
 La différence est visible à première vue. La source est déjà un no go. L'ONU est sur le terrain, interroge des témoins, enquête et fait des reportages. Le seul combattant en Syrie ne fait pas ça. Il s'assied devant les dés dans la soirée, puis décide ce qu'il vend comme un message à lubrifier des pinsons comme des miroirs, rapports désolés. 
 
-Les chiffres dans le miroir, soit dit en passant, s'élèvent à quatre ans, la Russie, au contraire, n'a pas organisé un massacre, que l'on pourrait penser. Les États-Unis sont très embarrassés dans le «nouvelles» et 6 mois sont choisis comme la période. Ca ne ressemble pas à "dramatique". Le Mirror manipule ainsi l'actualité en faveur des Etats-Unis, des criminels occidentaux de l'OTAN, et apporte l'ancienne et nouvelle image ennemie OST dans le cerveau des moutons.
+Les chiffres dans le miroir, soit dit en passant, s'élèvent à quatre ans, la Russie, au contraire, n'a pas organisé un massacre, que l'on pourrait penser. Les États-Unis sont très embarrassés dans le "nouvelles" et 6 mois sont choisis comme la période. Ca ne ressemble pas à "dramatique". Le Mirror manipule ainsi l'actualité en faveur des Etats-Unis, des criminels occidentaux de l'OTAN, et apporte l'ancienne et nouvelle image ennemie OST dans le cerveau des moutons.
 
 Le Miroir se trouve avec des chiffres qui sont 8.300 victimes ne doivent pas être vérifiés, mais supposons que c'est vrai. Par rapport aux [victimes en Syrie](https://www.pbs.org/wgbh/frontline/article/a-staggering-new-death-toll-for-syrias-war-470000/ "A Staggering New Death Toll for Syria’s War — 470,000") avec 250 000 de 2011 à 2014, un petit nombre, écrit cyniquement.
 

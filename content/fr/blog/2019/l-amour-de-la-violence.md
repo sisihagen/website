@@ -8,17 +8,17 @@ draft: false
 lang: fr
 ---
 
-Le vice-président américain Mike Pence [s'adresse](https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-west-point-graduation-ceremony/ "Remarks by Vice President Pence at the West Point Graduation Ceremony") à la dernière année à West Point le 25 mai 2019. Il a dit aux diplômés qu'ils allaient certainement « atterrir sur un champ de bataille pour les États-Unis » et « passer au son des armes à feu ».
+Le vice-président américain Mike Pence [s'adresse](https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-west-point-graduation-ceremony/ "Remarks by Vice President Pence at the West Point Graduation Ceremony") à la dernière année à West Point le 25 mai 2019. Il a dit aux diplômés qu'ils allaient certainement " atterrir sur un champ de bataille pour les États-Unis " et " passer au son des armes à feu ".
 
 Il n'a pas dit pour quels objectifs ils se battraient, que ce soit pour les compagnies pétrolières, ou les banques, peut-être pour l'idéologie de la domination mondiale de nous, ou pour les trafics de drogue de la CIA. En fait, les diplômés de West Point mourront sans savoir pour quels intérêts ils se battaient.
 
-Le discours de Pence illustre parfaitement le fonctionnement de la matrice. Innocent et ignorant, comme le sont les diplômés, c'est un jeu d'enfant de les recruter comme ce que Smedley Butler, général de l'US Navy, a appelé «[un tueur de contrat pour les intérêts des entreprises américaines](https://www.paulcraigroberts.org/2019/05/27/something-to-think-about-on-memorial-day/ "Something to Think About on Memorial Day")».
+Le discours de Pence illustre parfaitement le fonctionnement de la matrice. Innocent et ignorant, comme le sont les diplômés, c'est un jeu d'enfant de les recruter comme ce que Smedley Butler, général de l'US Navy, a appelé "[un tueur de contrat pour les intérêts des entreprises américaines](https://www.paulcraigroberts.org/2019/05/27/something-to-think-about-on-memorial-day/ "Something to Think About on Memorial Day")".
 
 Depuis Clinton, les États-Unis ont excellé principalement par la guerre et les préparatifs de la guerre. Dans l'histoire des États-Unis, les guerres ont toujours été menées pour l'Empire, ainsi que pour les intérêts économiques et financiers de ceux qui bénéficient de l'Empire. Il n'y a eu que quelques années dans l'histoire des États-Unis où le gouvernement n'était en guerre contre personne. Jusqu'à présent, Trump a cloué les nombreuses critiques.
 
 Il y a cinquante-six ans, le 10 juin 1963, un homme beaucoup plus grand que Pence, le président John F. Kennedy, a prononcé le discours de clôture à l'American University à Washington. Le discours a choqué le complexe militaire et de sécurité. Il a révélé à un président déterminé à établir des relations pacifiques avec l'Union soviétique que la paix mettrait en péril le budget, le pouvoir et l'importance de ce complexe.
 
-Le discours de Kennedy a été sans doute un autre déclencheur d'un meurtre qui a mis fin à la vie de l'homme cinq mois plus tard. Qui est derrière le meurtre, nous ne saurons probablement jamais, le «auteur» a également été abattu.
+Le discours de Kennedy a été sans doute un autre déclencheur d'un meurtre qui a mis fin à la vie de l'homme cinq mois plus tard. Qui est derrière le meurtre, nous ne saurons probablement jamais, le "auteur" a également été abattu.
 
 #### L'aventure de la paix
 
@@ -36,7 +36,7 @@ Kennedy a placé une confiance dans les Etats-Unis, qui après lui n'ont eu aucu
 
 > Nous pouvons nous efforcer de nous détendre tout en nous vigilants. Nous n'avons pas non plus besoin de faire des menaces pour prouver que nous sommes déterminés. Nous n'avons pas besoin de bloquer les radiodiffuseurs étrangers parce que nous craignons que notre foi ne soit compromise. Nous ne voulons pas imposer notre système à quiconque n'en veut pas, mais nous pouvons et nous voulons concurrencer pacifiquement tous les pays du monde.
 
-Comparez Washington d'aujourd'hui au président Kennedy, et vous voyez l'effondrement total des États-Unis. Aujourd'hui, nous essayons de supprimer toutes les nouvelles qui ne viennent pas de la presse de haricement qui répète les déclarations officielles. Nous bloquons les chaînes étrangères en forçant les organes de presse russes à s'enregistrer en tant qu'« agents étrangers ». Nous ne connaissons pas de diplomatie, seulement des menaces.
+Comparez Washington d'aujourd'hui au président Kennedy, et vous voyez l'effondrement total des États-Unis. Aujourd'hui, nous essayons de supprimer toutes les nouvelles qui ne viennent pas de la presse de haricement qui répète les déclarations officielles. Nous bloquons les chaînes étrangères en forçant les organes de presse russes à s'enregistrer en tant qu'" agents étrangers ". Nous ne connaissons pas de diplomatie, seulement des menaces.
 
 En fait, les menaces sont la marque des États-Unis, les menaces de guerre, les menaces de sanctions. Le Président des États-Unis distribue le territoire d'autres pays et nomme le président du Venezuela. Les États-Unis d'aujourd'hui craignent une concurrence pacifique et imposent des droits de douane punitifs à tout le monde, du Mexique à la Chine.
 

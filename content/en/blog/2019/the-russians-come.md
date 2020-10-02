@@ -74,7 +74,7 @@ After all, Goltz does not provide any evidence for his claim that Russia reports
 
 So, if you accuse Russia of something and conceal the fact that the US and other states are doing it the same way, then this is not an objective reporting, but "lying by omitting".
 
-And anyone who cites the "internet newspaper Meduza" as a source should also mention that this "newspaper" according to its own data is practically completely financed by [Khodorkovsky](https://meduza.io/feature/2016/08/11/korporatsiya-hodorkovskiy "Корпорация «Ходорковский» Что сделал бывший олигарх за два с половиной года на свободе. Репортаж Ильи Жегулева"), which is one of the largest opponents of Putin. As I said, This is legitimate, but the reader should know, because Meduza is everything, but not a neutral source.
+And anyone who cites the "internet newspaper Meduza" as a source should also mention that this "newspaper" according to its own data is practically completely financed by [Khodorkovsky](https://meduza.io/feature/2016/08/11/korporatsiya-hodorkovskiy "Корпорация "Ходорковский" Что сделал бывший олигарх за два с половиной года на свободе. Репортаж Ильи Жегулева"), which is one of the largest opponents of Putin. As I said, This is legitimate, but the reader should know, because Meduza is everything, but not a neutral source.
 
 But, as you can see, Thumann does not provide any reliable sources for his claims, and even more so no figures, so that one can check whether this is true at all and, above all, how much money Russia allegedly hides in the "shadow budgets" from the public. It is easy to believe Mr Thumann that the reader has no Chance of examining his allegations and allegations.
 

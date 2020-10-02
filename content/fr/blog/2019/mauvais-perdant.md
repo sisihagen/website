@@ -42,7 +42,7 @@ La Chine a évidemment un plan pour faire face aux conséquences négatives de l
 
 #### La seule réponse de Trump : les droits de douane
 
-La seule stratégie de Trump pour s'opposer à la Chine est d'imposer plus de droits de douane et de menacer avec encore plus de droits de douane. Il a déclaré publiquement à plusieurs reprises que les droits imposés sont de l'argent « gratuit » versé par la Chine.
+La seule stratégie de Trump pour s'opposer à la Chine est d'imposer plus de droits de douane et de menacer avec encore plus de droits de douane. Il a déclaré publiquement à plusieurs reprises que les droits imposés sont de l'argent " gratuit " versé par la Chine.
 
 Quelqu'un doit lui dire que cet argent gratuit nuit au consommateur américain parce qu'il rend les marchandises plus chères et vide les portefeuilles. L'argent n'est pas en vain et il ne vient pas non plus de Chine.
 
@@ -76,7 +76,7 @@ En fabriquant des composants internes des wagons aux États-Unis, le produit fin
 
 Mais quand la première voiture a été livrée à Boston, le seul commentaire du sénateur de New York Chuck Schumer était qu'il craignait que la Chine puisse utiliser les voitures pour [l'espionnage](https://www.boston.com/news/local-news/2019/05/19/chuck-schumer-crrc-mbta "Chuck Schumer is calling for a probe of the Chinese company making the new MTA and MBTA cars") contre les États-Unis. Récemment, Harley Rouda, membre du Congrès, est allé encore plus loin, en asoutenu une loi qui interdirait l'achat de wagons de la CRRC avec des fonds fédéraux.
 
-[Rouda](https://www.americanmanufacturing.org/press-releases/entry/aam-letter-to-congress-american-taxpayer-dollars-are-not-for-chinese-s "AAM Letter to Congress: American Taxpayer Dollars Are Not for Chinese SOEs") a dit : « L'argent durement gagné des contribuables américains ne devrait pas encourager les entreprises chinoises à saper les industries qui sont essentielles à notre sécurité nationale. » Il est soit confus, soit simplement hostile aux étrangers, parce que les Américains depuis des décennies ne sont plus produire des wagons de métro.
+[Rouda](https://www.americanmanufacturing.org/press-releases/entry/aam-letter-to-congress-american-taxpayer-dollars-are-not-for-chinese-s "AAM Letter to Congress: American Taxpayer Dollars Are Not for Chinese SOEs") a dit : " L'argent durement gagné des contribuables américains ne devrait pas encourager les entreprises chinoises à saper les industries qui sont essentielles à notre sécurité nationale. " Il est soit confus, soit simplement hostile aux étrangers, parce que les Américains depuis des décennies ne sont plus produire des wagons de métro.
 
 S'il s'agit bien d'une industrie importante pour la sécurité nationale des États-Unis, elle devrait mieux se dépêcher et relancer les entreprises dans le cimetière.
 

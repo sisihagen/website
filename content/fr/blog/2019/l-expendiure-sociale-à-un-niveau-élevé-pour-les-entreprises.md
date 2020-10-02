@@ -14,7 +14,7 @@ Richement, l'argument selon lequel les sociétés créent plus d'emplois grâce 
 
 Les entreprises pourraient obtenir des milliards de dollars en dépenses sociales en dépensant des centaines de millions de dollars en lobbying et candidats aux élections, a déclaré Reich.
 
-Les petites et moyennes entreprises ne pouvaient que rêver de tels « programmes d'aide sociale ».
+Les petites et moyennes entreprises ne pouvaient que rêver de tels " programmes d'aide sociale ".
 
 Ce que le professeur Reich ne mentionne pas dans son bref résumé : les sociétés reçoivent des subventions ou des allégements fiscaux dans l'ensemble de l'industrie sans que l'État ne contrôle jamais si des entreprises individuelles créent des emplois, par exemple, ou dans des installations de production plus efficaces, ou s'ils utilisent à mauvais escient leurs profits pour acheter leurs propres actions à grande échelle ou pour verser une rémunération exorbitante à la direction et au conseil d'administration. Les fonds dédiés ne sont pas non plus vérifiés, mais simplement payés. L'emploi est l'argument qui protège contre le contrôle. 
 

@@ -39,7 +39,7 @@ China still relies on peace and has not threatened anyone with war. Of course, t
 
 Of course, Western politicians and media have a different view on this. The Mirror titled The Chinese white paper "China's military strategy-staged peacefulness" and wrote about it:
 
-> For example, China accuses the United States and its allies of increasing insecurity in Asia with their military action. "The Chinese leadership is trying to turn the tide of the war and is giving the US as an Aggressor, which messes up the global fabric," says Legarda. The US would specifically strengthen its "military alliances in the Asia-Pacific region" and expand the presence of its armed forces, according to the White Paper. This will make the security situation "more complex“
+> For example, China accuses the United States and its allies of increasing insecurity in Asia with their military action. "The Chinese leadership is trying to turn the tide of the war and is giving the US as an Aggressor, which messes up the global fabric," says Legarda. The US would specifically strengthen its "military alliances in the Asia-Pacific region" and expand the presence of its armed forces, according to the White Paper. This will make the security situation "more complex"
 
 Only why is China supposed to"turn the spit"? What is wrong with the Chinese statement? It is the United States that are becoming more and more widespread in the space, it is not China that is increasing its presence in Mexico or the Caribbean. And it is the US, which has just concluded a billion deal with Taiwan on arms supplies, and not China, which is equipping Mexico.
 
@@ -51,9 +51,9 @@ We always read in the media, whether it is the Persian Gulf or Taiwan or other r
 
 {{< youtube "3wgAFHxB3-Y" >}}
 
-The United States, for example, repeatedly demonstratively send warships through the streets of Taiwan and justify this with the freedom of shipping. There is no understanding of China's indignation in the Western media. The last such case, at the end of July wrote the "time“:
+The United States, for example, repeatedly demonstratively send warships through the streets of Taiwan and justify this with the freedom of shipping. There is no understanding of China's indignation in the Western media. The last such case, at the end of July wrote the "time":
 
-> The US has sent a warship to the road of Taiwan. "Transit through Taiwan street shows the United States's commitment to a free and open IndoPacific," said a spokesman for the seventh fleet of the U.S. Navy in Washington. "The U.S. Navy will continue to fly, sail and operate wherever international law permits.“
+> The US has sent a warship to the road of Taiwan. "Transit through Taiwan street shows the United States's commitment to a free and open IndoPacific," said a spokesman for the seventh fleet of the U.S. Navy in Washington. "The U.S. Navy will continue to fly, sail and operate wherever international law permits."
 
 But does the West Stand Up for free shipping when it happens at its own doorstep?
 
@@ -69,7 +69,7 @@ That's not all. The US has terminated the INF Treaty and since August 2, it has 
 
 It goes on ...
 
-> How China wants to react exactly, Fu did not say. However, it was " all options on the table“
+> How China wants to react exactly, Fu did not say. However, it was " all options on the table"
 
 Of course, true to Western Propaganda, the statement is shortened by Essential!
 

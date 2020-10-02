@@ -24,7 +24,7 @@ Par exemple, L'ancien président de la Commission européenne, José Manuel Barr
 
 M. Barroso lui-même a souligné que son nouveau poste n'était qu'une sorte de conseil. Ce que cela ressemblait en détail a ensuite été [documenté](https://www.spiegel.de/wirtschaft/soziales/jose-manuel-barroso-lobbyiert-fuer-goldman-sachs-a-1194344.html "Was José Barroso wirklich für Goldman Sachs tut") par une lettre. Dans le cadre de son nouveau travail, M. Barroso a rencontré le commissaire adjoint de l'UE, Jyrki Katainen, par exemple, à proximité immédiate du bâtiment principal de la commission. Il n'y avait pas de compagnons, pas de notes, pas de documents écrits. La réunion a été officiellement enregistrée sur le site internet de la Commission européenne en tant que réunion de lobby, mais seulement après qu'elle ait fait rapport.
 
-"La lettre du commissaire Katainen suggère fortement que Barroso utilise sa position privilégiée pour influencer l'UE au nom de Goldman Sachs", a déclaré à Der Spiegel Margarida Silva, D'Alter-EU, une association d'environ 200 ONG et Syndicats. "Personne en dehors de l'Institution n'a plus de connaissances, de contacts et d'influence que l'ancien président de la commission.»
+"La lettre du commissaire Katainen suggère fortement que Barroso utilise sa position privilégiée pour influencer l'UE au nom de Goldman Sachs", a déclaré à Der Spiegel Margarida Silva, D'Alter-EU, une association d'environ 200 ONG et Syndicats. "Personne en dehors de l'Institution n'a plus de connaissances, de contacts et d'influence que l'ancien président de la commission."
 
 ### Le renard et le poulet
 

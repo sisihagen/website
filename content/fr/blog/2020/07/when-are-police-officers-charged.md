@@ -58,7 +58,7 @@ Avec une obligation constante d'étiquetage des agents de police, cette lacune p
 
 {{< image srcwebp="/static/img/content/2020/210.webp" srcalt="/static/img/content/2020/210.jpg" title="When are police officer charged" >}}
 
-#### "Déclaration de faillite de l'état de droit“
+#### "Déclaration de faillite de l'état de droit"
 
 {{< tweet "1276822081053888513" >}}
 

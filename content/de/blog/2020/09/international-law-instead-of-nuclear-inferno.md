@@ -1,0 +1,29 @@
+---
+title: "Völkerrecht statt nukleares Inferno"
+date: 2020-09-29
+draft: false
+tags: "Gesellschaft"
+shorttext: "Der Militärstandort Kalkar ist eine Schaltzentrale für den Krieg. Das Geschehen dort widerspricht den Überlebensinteressen der Menschen in Europa und dem Völkerrecht!"
+cover: "society"
+lang: de
+---
+
+Am Tag der Deutschen Einheit demonstriert die Friedensbewegung gegen eine Drehscheibe der Kriegsplanung der Nato für – wie es die Militärs nennen – den "Krieg im 21. Jahrhundert”. In Kalkar am nordöstlichen Rand des Ruhrgebiets bauen die Nato und die Bundesluftwaffe sowie weitere Investoren hinter einem Nebelschleier medialer Nichtbeachtung mit dreistelligen Millionenbeträgen eine Schaltzentrale für jenen "Krieg im 21. Jahrhundert" immer weiter aus. Der damalige Kommandeur des Zentrums Luftoperationen der Bundeswehr in Kalkar, Generalleutnant Joachim Wundrak, erklärte 2016:
+
+> "Der Standort gehört zu den großen Playern in den deutschen Streitkräften, aber auch in der Nato.”
+
+Kein Wunder, befindet sich hier doch eine Luft- und Raum-Leitzentrale für fliegende militärische Objekte, für ein Gebiet, das sich vom Golf über Mali bis zum Nordatlantik bis an die russische Westgrenze und sicher darüber hinaus erstreckt, wie dieser Bericht der regional verbreiteten "[Rheinischen Post](https://rp-online.de/politik/ausland/syrien-russische-kampfjets-verfolgen-deutsche-tornados_aid-9667873 "Russische Kampfjets verfolgen deutsche Tornados")" zeigt:
+
+> "Viel Erfahrung im Umgang mit russischen Militärflugzeugen haben die deutschen Piloten bereits bei den regelmäßigen Nato Air-Policing-Einsätzen über dem Baltikum und der Ostsee gewonnen: ... Bereits seit Monaten sind weit über 100 Kampfflugzeuge über Syrien. ... Das 2013 am Doppelstandort Kalkar/Uedem in Dienst gestellte Zentrum Luftoperationen führt 40 Verbände und Dienststellen der Luftwaffe. ‚Unser Weltraumlagezentrum wird ... zusammen mit Frankreich, Großbritannien, Italien und Spanien zusätzliche operationelle Dienste für die EU erbringen‘, sagt Wundrak: ‚Unter anderem geht es dabei um Kollisionswarnungen für europäische Satellitenbetreiber.‘ ... 1300 Soldaten und Zivilisten aus 20 Nationen sind dort inzwischen stationiert."
+
+Zur Luftleitzentrale gehört ein 24-Stunden-Gefechtsstand zur Führung der Nato-Luftstreitkräfte in Europa. Sie übernimmt immer mehr Aufgaben bei der Planung, Führung und Beauftragung militärischer Luftkriegshandlungen der [Nato](https://rp-online.de/nrw/staedte/kleve/nato-standort-kalkar-uedem-waechst-weiter_aid-18939075 "Nato-Standort Kalkar/Uedem wächst weiter") und ihrer Vorbereitung. "In Gebäude, Infrastruktur und IT würden bis 2020 rund 100 Millionen Euro investiert, von weiteren 30 Millionen Euro profitiere der multinationale Gefechtsstand der Nato."
+
+Zu den weiteren Einrichtungen zählt vor allem die Strategieschmiede für den "Krieg im 21. Jahrhundert", das so genannte Joint Air Power Competence Center (JAPCC), das 2005 gegründet wurde und aus Mitteln der Nato und vor allem des Bundesetats finanziert wird. Seine Jahreskonferenzen dokumentieren die gefährlichen Inhalte der Strategien und die herausragende Bedeutung des JAPCC für die Nato. Die Jahreskonferenz [2014](https://nrw-archiv.vvn-bda.de/texte/1518_japcc_jw.htm "Wer zuerst schießt, stirbt als zweiter") erklärte, es sei anzuzweifeln, dass es keinen großen Krieg mehr in Europa gebe. Die Jahreskonferenz 2017 verlangte von den [Nuklearmächten](https://www.japcc.org/deterrence-in-the-21st-century/ "Joint Air & Space Power Conference 2017") der Nato Pläne zum Einsatz ihrer thermonuklearen Potentiale. Die Strategen entwickelten diesen verbrecherischen Wahnsinn auch mit fiskalpolitischen Begründungen, da eine konventionelle Verteidigung des Baltikums zu [kostenintensiv](https://www.japcc.org/conference-proceedings-2017-panel-2/ "The JAPCC Conference 2017") ausfallen könne.
+
+Allein die [Friedensbewegung](https://essener-friedensforum.de/wp-content/uploads/2020/09/20-10-03Kalkar.pdf "Demonstration für Frieden und Abrüstung 2020") protestiert und informiert die überregionale Öffentlichkeit über das brandgefährliche Geschehen in den Militäranlagen von Kalkar. Der nächste Anlass für die friedliche Aufklärung und den Protest ist eine Friedensdemonstration, die die Friedensbewegung am Tag der Deutschen Einheit, dem 3. Oktober, von der Kaserne Kalkar bis zum Marktplatz in der Stadt durchführt.
+
+Am "Tag der Deutschen Einheit" erinnert die Friedensbewegung auch an den 2+4-Vertrag zur Regelung der deutschen Frage, auf dessen Grundlage Deutschland in seiner heutigen Form existiert. Dort legt die Präambel die deutsche [Politik](https://www.bpb.de/nachschlagen/gesetze/zwei-plus-vier-vertrag/44112/praeambel "Zwei-plus-Vier-Vertrag") auf diese Prinzipien fest:
+
+> " ... in Übereinstimmung mit ihren Verpflichtungen aus der Charta der Vereinten Nationen freundschaftliche, auf der Achtung vor dem Grundsatz der Gleichberechtigung und Selbstbestimmung der Völker beruhende Beziehungen zwischen den Nationen zu entwickeln und andere geeignete Maßnahmen zur Festigung des Weltfriedens zu treffen, EINGEDENK der Prinzipien der in Helsinki unterzeichneten Schlußakte der Konferenz über Sicherheit und Zusammenarbeit in Europa, IN ANERKENNUNG, daß diese Prinzipien feste Grundlagen für den Aufbau einer gerechten und dauerhaften Friedensordnung in Europa geschaffen haben, ENTSCHLOSSEN, die Sicherheitsinteressen eines jeden zu berücksichtigen, ÜBERZEUGT von der Notwendigkeit, Gegensätze endgültig zu überwinden und die Zusammenarbeit in Europa fortzuentwickeln, IN BEKRÄFTIGUNG ihrer Bereitschaft, die Sicherheit zu stärken, insbesondere durch wirksame Maßnahmen zur Rüstungskontrolle, Abrüstung und Vertrauensbildung..."
+
+Die Friedensbewegung macht deutlich, dass das Geschehen im Militärstandort Kalkar nicht nur den Überlebensinteressen der Menschen in Europa widerspricht, sondern auch dem Völkerrecht.

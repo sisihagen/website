@@ -10,7 +10,7 @@ cover: "society"
 
 Le seuil de pauvreté d'un pays est clairement décrit à l'échelle internationale : ceux qui reçoivent moins de 60 pour cent du revenu médian sont exposés au risque de pauvreté. L'Office fédéral de la statistique (destatis) a calculé ce seuil pour l'Allemagne en 2018 à 1 035 euros nets. L'étude Bertelsmann, basée sur les calculs de l'Institut allemand de recherche économique (DIW), arrive à d'autres conclusions: elle réduit le seuil de pauvreté pour les personnes de plus de 65 ans de 130 euros à 905 euros.
 
-La façon dont il le fait n'est pas explicitement expliquée dans [l'étude](http://www.seniorenaufstand.de/wp-content/uploads/2019/09/bst_diw_studie_2019_altersarmut.pdf "Anstieg der Altersarmut in Deutschland: Wie wirken verschiedene Rentenreformen?"). Toutefois, il ressort clairement d'un tableau à la page 87, qui montre le « revenu moyen de la population âgée », à partir duquel le seuil de pauvreté de 60 % est ensuite calculé.
+La façon dont il le fait n'est pas explicitement expliquée dans [l'étude](http://www.seniorenaufstand.de/wp-content/uploads/2019/09/bst_diw_studie_2019_altersarmut.pdf "Anstieg der Altersarmut in Deutschland: Wie wirken verschiedene Rentenreformen?"). Toutefois, il ressort clairement d'un tableau à la page 87, qui montre le " revenu moyen de la population âgée ", à partir duquel le seuil de pauvreté de 60 % est ensuite calculé.
 
 Il s'agit d'une mauvaise manipulation, car le texte explicatif suggère que la méthode d'enquête suit les règles internationales. UE-SILC, statistiques de l'UE sur le revenu et les conditions de vie, l'enquête de l'UE sur le revenu et les conditions de vie, est à juste titre toujours basée sur les revenus de l'ensemble de la population.
 
@@ -27,7 +27,7 @@ Le nouveau seuil de sécurité de base ne peut donc être pertinent que pour une
 
 #### Échecs médiatiques de la "Welt" à la "Neuen Deutschland"
 
-La Fondation Bertelsmann a lancé une étude qui vise clairement à changer les normes de pauvreté. Hier soir, une émission de NDR-Info sur la pauvreté des personnes âgées était déjà modérée avec «il s'agit de personnes qui ont moins de 905 euros par mois pour vivre sur '...
+La Fondation Bertelsmann a lancé une étude qui vise clairement à changer les normes de pauvreté. Hier soir, une émission de NDR-Info sur la pauvreté des personnes âgées était déjà modérée avec "il s'agit de personnes qui ont moins de 905 euros par mois pour vivre sur '...
 
 Ces résultats de l'étude ont également été adoptés sans critique par presque tous les médias. Il n'est pas remis en question, apparemment même pas enregistré, que destatis sur la pauvreté et donc aussi sur la pauvreté des personnes âgées publie des chiffres complètement différents de la Fondation Bertelsmann.
 
@@ -37,4 +37,4 @@ Les concepts de réforme examinés dans l'étude sont, en partie, tout à fait i
 
 > Afin de compenser la baisse du niveau de pension, les prestations de retraite privées devraient être davantage accordées à la protection du revenu pendant la vieillesse. Si l'on suppose que l'objectif de la prestation de retraite complémentaire est la propagation du GRV, cela n'a pas encore été fait dans la mesure requise.
 
-Il est à craindre que les « experts » qui représentent de telles positions et exigences soient parmi les conseillers scientifiques de la Commission des pensions. La réalité reste cachée dans le secret absolu des travaux de la Commission.
+Il est à craindre que les " experts " qui représentent de telles positions et exigences soient parmi les conseillers scientifiques de la Commission des pensions. La réalité reste cachée dans le secret absolu des travaux de la Commission.

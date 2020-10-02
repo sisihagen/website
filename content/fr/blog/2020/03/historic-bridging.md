@@ -20,7 +20,7 @@ Le plateau iranien comprend historiquement L'Afghanistan et des parties de l'Asi
 
 Les Perses ont engagé les Phéniciens dans la côte Syrienne comme leurs partenaires pour gérer le commerce maritime en Méditerranée. Des gens entreprenants à Tyr ont établi Carthage comme un nœud entre la Méditerranée orientale et occidentale. En raison du partenariat avec les Phéniciens, les Perses seraient inévitablement contrariés par les Grecs – une puissance commerciale maritime.
 
-Lorsque les Chinois, faisant la promotion des nouvelles routes de la soie, mettent l'accent sur “l'échange de personnes à personnes " comme l'un de ses principaux traits, ils signifient le dialogue millénaire Euro-Asie. L'histoire peut même avoir avorté deux rencontres massives et directes.
+Lorsque les Chinois, faisant la promotion des nouvelles routes de la soie, mettent l'accent sur "l'échange de personnes à personnes " comme l'un de ses principaux traits, ils signifient le dialogue millénaire Euro-Asie. L'histoire peut même avoir avorté deux rencontres massives et directes.
 
 Le premier était après Alexandre le Grand a vaincu Darius III de Perse. Mais alors les successeurs Séleucides D'Alexandre ont dû combattre la puissance montante en Asie centrale: les Parthes-qui ont fini par prendre la Perse et la Mésopotamie et ont fait de l'Euphrate les limes entre eux et les Séleucides.
 
@@ -54,7 +54,7 @@ Et le reste-l'hégémonie de L'Atlantique Nord-est de l'histoire.
 
 #### Éclairée de l'arrogance
 
-Les lumières ne pouvaient pas enfermer L'Asie dans ses propres géométries rigides. L'Europe a cessé de comprendre L'Asie, a proclamé qu'il s'agissait d'une sorte de détritus historique protéiforme et a tourné toute son attention vers des terres “vierges” ou “promises” ailleurs sur la planète.
+Les lumières ne pouvaient pas enfermer L'Asie dans ses propres géométries rigides. L'Europe a cessé de comprendre L'Asie, a proclamé qu'il s'agissait d'une sorte de détritus historique protéiforme et a tourné toute son attention vers des terres "vierges” ou "promises” ailleurs sur la planète.
 
 Nous savons tous comment L'Angleterre, à partir du 18ème siècle, a pris le contrôle de l'ensemble des routes trans-océaniques et a transformé la suprématie de L'Atlantique Nord en un jeu de superpuissance Solitaire-jusqu'à ce que le manteau soit usurpé par les États-Unis.
 

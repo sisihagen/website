@@ -12,13 +12,13 @@ If the inclined media consumer will receive the next messages about Syria from t
 
 Syria regularly informs the World Organization about what is happening in the country. On January 13, this happened in two other identical letters to the United Nations. These letters are about al-Qaeda in Syria.
 
-> We still remember who, according to the Guardians of the only truth, was responsible for the “attack on the free world”, that is, the destruction of the Twin Towers and the WTC Building number 7 on September 11, 2001, thus initiating the pretext for the gigantic Western-led “war on Terror”? Exactly, that mysterious al-Qaeda organization whose offshoot al - Nusra Front (Jabhat al-Nusra)-rededicated to Hayat Thahir al – Sham (HTS) - now administers the Syrian province of Idlib and receives covert aid from the Western community of values.
+> We still remember who, according to the Guardians of the only truth, was responsible for the "attack on the free world”, that is, the destruction of the Twin Towers and the WTC Building number 7 on September 11, 2001, thus initiating the pretext for the gigantic Western-led "war on Terror”? Exactly, that mysterious al-Qaeda organization whose offshoot al - Nusra Front (Jabhat al-Nusra)-rededicated to Hayat Thahir al – Sham (HTS) - now administers the Syrian province of Idlib and receives covert aid from the Western community of values.
 
 > This is already a funny "war on Terror"? Wrong, because in reality it does not exist. At least not when we speak of that war of the Western community of values. More precisely, it is the opposite: state terrorism of the USA and its”partners". In Syria, the observant observer can see this crystal clear.
 
-> Let's not get bogged down: even if “aid to Idlib” may actually be passed through to the population in individual cases in the form of aid, its primary purpose is to save the Islamist rule of an al-Qaeda organization in Syria. This rescue of terrorist structures is also supported by” aid " from Germany. When it comes to” defending values, " the West has always been very creative in its ruthless pursuit of its own interests elsewhere.
+> Let's not get bogged down: even if "aid to Idlib” may actually be passed through to the population in individual cases in the form of aid, its primary purpose is to save the Islamist rule of an al-Qaeda organization in Syria. This rescue of terrorist structures is also supported by” aid " from Germany. When it comes to” defending values, " the West has always been very creative in its ruthless pursuit of its own interests elsewhere.
 
-> By the way, the Syrian government does not play the game of “change trees” and therefore consistently refers to the strongest Islamist group in Idlib as al-Nusra. The following is the text of the letters to the United Nations written on your behalf.
+> By the way, the Syrian government does not play the game of "change trees” and therefore consistently refers to the strongest Islamist group in Idlib as al-Nusra. The following is the text of the letters to the United Nations written on your behalf.
 
 > On behalf of the Syrian Arab Republic and also in relation to my previous letter to the United Nations, I consider it necessary to repeat the following points.
 
@@ -28,13 +28,13 @@ Syria regularly informs the World Organization about what is happening in the co
 
 > The government of the Syrian Arab Republic would also like to draw attention to the following:
 
-> The city of Idlib and a number of areas around it are controlled by the “Liberation Front of the Levant”, the so-called Al – Nusra Front, which-as an armed Arm of al – Qaeda in Syria-is listed by the UN Security Council as a terrorist organization.
+> The city of Idlib and a number of areas around it are controlled by the "Liberation Front of the Levant”, the so-called Al – Nusra Front, which-as an armed Arm of al – Qaeda in Syria-is listed by the UN Security Council as a terrorist organization.
 
 > This terrorist group has taken advantage of the Turkish government's disregard for its obligations under the Astana and Sochi agreements to take control of Idlib province and commit the worst crimes against its people.
 
-> The operations carried out by the Syrian Arab Army and its allies are a response to the systematic crimes committed by the “Liberation Front of the Levant” against civilians in the city, as well as those in nearby villages and towns. The terrorist “liberation front of the Levant”, which controls Idlib, has thousands of foreign fighters in their ranks.
+> The operations carried out by the Syrian Arab Army and its allies are a response to the systematic crimes committed by the "Liberation Front of the Levant” against civilians in the city, as well as those in nearby villages and towns. The terrorist "liberation front of the Levant”, which controls Idlib, has thousands of foreign fighters in their ranks.
 
-> The terrorist group of the “Liberation Front of the Levant” uses hundreds of thousands of civilians of the city as human shields and commits the most heinous and barbaric crimes against them. It has spread death and destruction and brought civilian institutions, including hospitals and schools, under its control to turn them into barracks and centers where it tortures and kills those who refuse to accept Al-Nusra's takfirian and radical ideology.
+> The terrorist group of the "Liberation Front of the Levant” uses hundreds of thousands of civilians of the city as human shields and commits the most heinous and barbaric crimes against them. It has spread death and destruction and brought civilian institutions, including hospitals and schools, under its control to turn them into barracks and centers where it tortures and kills those who refuse to accept Al-Nusra's takfirian and radical ideology.
 
 > In addition, it has been proven that this group confiscates most of the humanitarian aid that reaches the province, including aid delivered across the border in accordance with Resolution 2165 (2014).
 

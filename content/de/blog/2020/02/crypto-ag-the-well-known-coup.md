@@ -50,6 +50,6 @@ Fefe schreibt [dazu](https://blog.fefe.de/?ts=a0bc69cb "Crypto Leaks, Fefe Blog"
 
 SPR zieht folgende Bilanz:
 
-> Die Fakten zur Schweizer Crypto AG (...) sind schon seit 25 Jahren bekannt, siehe etwa Spiegel 1996. Der aktuelle Wirbel beruht, wie so oft, nicht auf Investigativjournalismus, sondern auf einem »zugespielten« CIA-Bericht. Von wem »zugespielt«? Von der CIA selbst natürlich. Warum? Weil die Operation inzwischen abgeschlossen ist, alle Spuren verwischt sind, und nun kontrolliert publiziert werden kann.
+> Die Fakten zur Schweizer Crypto AG (...) sind schon seit 25 Jahren bekannt, siehe etwa Spiegel 1996. Der aktuelle Wirbel beruht, wie so oft, nicht auf Investigativjournalismus, sondern auf einem "zugespielten" CIA-Bericht. Von wem "zugespielt"? Von der CIA selbst natürlich. Warum? Weil die Operation inzwischen abgeschlossen ist, alle Spuren verwischt sind, und nun kontrolliert publiziert werden kann.
 
 Es ist teils eine mediale Praxis zu beobachten, die von anderen Vorgängen bekannt ist, wenn diese nicht länger als Verschwörungstheorie diffamiert werden können: erst lange leugnen, dann als "normal" abtun, schließlich als "Enthüllung" feiern.

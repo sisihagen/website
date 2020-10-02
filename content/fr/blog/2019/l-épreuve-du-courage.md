@@ -30,7 +30,7 @@ Quels mots viennent à l'esprit maintenant? Quels sont les sentiments impliqués
 
 c'est Bien. Mais ce n'est que la première étape. L'épreuve du courage est la seconde. Car il s'agit de reconnaître que tout ce que nous accusons d'un autre dit d'abord et avant tout quelque chose sur nous-mêmes. Même si nous essayons de tourner et de tourner, la boussole continue de se déplacer dans notre direction. C'est nous qui tenons les cordes de notre instrument dans nos mains.
 
-Donc, si la chaîne est «stubbornly» frappé, puis dans ce jeu la règle est que je dois me demander comment je me comporte obstinément. Où suis-je implacable ? Qu'est-ce que je ne peux pas entendre, voir, accepter? Où suis-je injuste envers moi-même et les autres? Où ne respecte-je pas mes propres limites? Où suis-je moi-même agressé ?
+Donc, si la chaîne est "stubbornly" frappé, puis dans ce jeu la règle est que je dois me demander comment je me comporte obstinément. Où suis-je implacable ? Qu'est-ce que je ne peux pas entendre, voir, accepter? Où suis-je injuste envers moi-même et les autres? Où ne respecte-je pas mes propres limites? Où suis-je moi-même agressé ?
 
 Si vous lisez encore maintenant, vous avez déjà passé le plus grand test de courage. Il ouvre que ce ne sont pas les autres qui sont la cause de son mal, mais son propre comportement. Ce qui suit maintenant est le jeu d'enfant. Donc, en face de nous sont des cartes avec des mots sur elle qui rendent la vie difficile pour nous. Le fait est que même si nous le froissons, les déchirer, les brûler ou les jeter, nous ne serons pas vraiment se débarrasser d'eux. Ils s'en tiennent à nous encore et encore. Nous devons donc le faire différemment.
 

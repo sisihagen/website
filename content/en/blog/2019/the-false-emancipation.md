@@ -38,7 +38,7 @@ But what does all this have to do with the Bundeswehr and its current web series
 
 With "Banger Beats", modern Corporate Design, fast video editing and typical" YouTuber-Vlogger " Videostyle is transported to the viewer a particularly casual, cool and funny Vibe, which is supposed to make you really feel like. Want a career at the Bundeswehr.
 
-The advertising series is not new, since November 2016 "recruits" already exist in the network. But what is new is that this Time the focus is clearly on female recruits. Pure women's power! In the spirit of the new-seminist wave, which, fortunately, is becoming ever stronger, topics such as Menstruation, sexuality, but also sexual violence, femininity, shame, women's rights and equal rights are increasingly being flushed into public discourse. It is clear that the Bundeswehr is trying to swim with one another and target young women: "you women want equal rights? Well, then, come to us! Here you can show that you have exactly the Same plan as the men!“
+The advertising series is not new, since November 2016 "recruits" already exist in the network. But what is new is that this Time the focus is clearly on female recruits. Pure women's power! In the spirit of the new-seminist wave, which, fortunately, is becoming ever stronger, topics such as Menstruation, sexuality, but also sexual violence, femininity, shame, women's rights and equal rights are increasingly being flushed into public discourse. It is clear that the Bundeswehr is trying to swim with one another and target young women: "you women want equal rights? Well, then, come to us! Here you can show that you have exactly the Same plan as the men!"
 
 #### Germany's Next Topmodel-only worse!
 

@@ -8,7 +8,7 @@ cover: "society"
 lang: fr
 ---
 
-Pendant des années, une usine de recyclage des déchets de batteries dans une banlieue de Mombasa a contaminé la région avec du plomb. L’exposition permanente au plomb a rendu malades de nombreux habitants du village d’Owino Uhuru, et plusieurs centaines de personnes sont mortes d’une intoxication au plomb. Aujourd’hui, le tribunal de l’environnement kenyan a condamné les propriétaires de l’usine et le gouvernement kenyan à verser une indemnisation importante : les quelque 3 000 habitants de la pauvre colonie recevront plus de dix millions d’euros, rapporte « Spiegel Online".
+Pendant des années, une usine de recyclage des déchets de batteries dans une banlieue de Mombasa a contaminé la région avec du plomb. L’exposition permanente au plomb a rendu malades de nombreux habitants du village d’Owino Uhuru, et plusieurs centaines de personnes sont mortes d’une intoxication au plomb. Aujourd’hui, le tribunal de l’environnement kenyan a condamné les propriétaires de l’usine et le gouvernement kenyan à verser une indemnisation importante : les quelque 3 000 habitants de la pauvre colonie recevront plus de dix millions d’euros, rapporte " Spiegel Online".
 
 Le tribunal a également ordonné au gouvernement de nettoyer le site de l’usine contaminée par le plomb et le règlement adjacent. Si le gouvernement ne se conforme pas à cette exigence, il devra payer 7 millions d’euros d’amendes supplémentaires.
 

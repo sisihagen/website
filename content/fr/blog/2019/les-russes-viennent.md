@@ -74,7 +74,7 @@ Après tout, Goltz ne fournit aucune preuve pour son affirmation que la Russie r
 
 Ainsi, si vous accusez la Russie de quelque chose et dissimulez le fait que les États-Unis et d'autres États le font de la même manière, ce n'est pas un rapport objectif, mais un "mensonge en omettant".
 
-Et quiconque cite le " journal Internet Meduza "comme source devrait aussi mentionner que ce" journal " selon ses propres données est pratiquement entièrement financé par [Khodorkovsky](https://meduza.io/feature/2016/08/11/korporatsiya-hodorkovskiy "Корпорация «Ходорковский» Что сделал бывший олигарх за два с половиной года на свободе. Репортаж Ильи Жегулева"), qui est l'un des plus grands opposants de Poutine. Comme je l'ai dit, C'est légitime, mais le lecteur doit savoir, parce que Meduza est tout, mais pas une source neutre.
+Et quiconque cite le " journal Internet Meduza "comme source devrait aussi mentionner que ce" journal " selon ses propres données est pratiquement entièrement financé par [Khodorkovsky](https://meduza.io/feature/2016/08/11/korporatsiya-hodorkovskiy "Корпорация "Ходорковский" Что сделал бывший олигарх за два с половиной года на свободе. Репортаж Ильи Жегулева"), qui est l'un des plus grands opposants de Poutine. Comme je l'ai dit, C'est légitime, mais le lecteur doit savoir, parce que Meduza est tout, mais pas une source neutre.
 
 Mais, comme vous pouvez le voir, Thumann ne fournit aucune source fiable pour ses revendications, et encore plus aucun chiffre, de sorte que l'on peut vérifier si cela est vrai du tout et, surtout, combien d'argent la Russie cache prétendument dans les "budgets fictifs" du public. Il est facile de croire M. Thumann que le lecteur n'a aucune Chance d'examiner ses allégations.
 

@@ -8,11 +8,11 @@ cover: "society"
 lang: fr
 ---
 
-Le maire de Londres Sadiq Khan a tweeté : « Nous avons gagné ! Le verdict d’aujourd’hui est une grande victoire pour tous les Londoniens qui veulent surmonter l’urgence climatique et défendre la qualité de l’air. "Son enthousiasme est compréhensible: la Cour d’appel, la Cour d’appel nationale, a décidé que la troisième piste prévue à l’aéroport d’Heathrow ne doit pas être construite pour des raisons environnementales. Après tout, avec la signature de l’accord de Paris sur le climat en 2016, le gouvernement britannique s’est engagé à prendre des mesures pour protéger le climat et réduire les émissions nocives à zéro net d’ici 2050. L’agrandissement de l’aéroport contredit cela.
+Le maire de Londres Sadiq Khan a tweeté : " Nous avons gagné ! Le verdict d’aujourd’hui est une grande victoire pour tous les Londoniens qui veulent surmonter l’urgence climatique et défendre la qualité de l’air. "Son enthousiasme est compréhensible: la Cour d’appel, la Cour d’appel nationale, a décidé que la troisième piste prévue à l’aéroport d’Heathrow ne doit pas être construite pour des raisons environnementales. Après tout, avec la signature de l’accord de Paris sur le climat en 2016, le gouvernement britannique s’est engagé à prendre des mesures pour protéger le climat et réduire les émissions nocives à zéro net d’ici 2050. L’agrandissement de l’aéroport contredit cela.
 
 #### Illégaux
 
-Comme l’écrit le journal «[The Guardian](https://www.theguardian.com/environment/2020/feb/27/heathrow-third-runway-ruled-illegal-over-climate-change "Heathrow third runway ruled illegal over climate change")» ( Lord Justice Keith Lindblom justifie le jugement comme suit : l’Accord de Paris aurait dû être pris en compte dans la décision relative à la piste. Comme cela ne s’était pas produit, le gouvernement avait violé la loi.
+Comme l’écrit le journal "[The Guardian](https://www.theguardian.com/environment/2020/feb/27/heathrow-third-runway-ruled-illegal-over-climate-change "Heathrow third runway ruled illegal over climate change")" ( Lord Justice Keith Lindblom justifie le jugement comme suit : l’Accord de Paris aurait dû être pris en compte dans la décision relative à la piste. Comme cela ne s’était pas produit, le gouvernement avait violé la loi.
 
 Selon le Guardian, c’est la première fois qu’un tribunal inclut l’accord de Paris sur le climat dans son raisonnement et lui accorde plus de poids que les intérêts économiques.
 
@@ -24,7 +24,7 @@ L’aéroport d’Heathrow est déjà l’une des plus grandes plaques tournante
 
 #### La protection du climat doit être intégrée dans la prise de décision
 
-L’organisation environnementale [Plan B](https://planb.earth/plan-b-v-heathrow-expansion/ "Plan B v Heathrow Expansion") avait poursuivi la cour d’appel. Le Guardian cite le représentant du Plan B, Tim Crosland, qui a déclaré : «Maintenant, il est clair que notre gouvernement ne peut pas dire qu’il veut mettre en œuvre l’accord de Paris sur le climat tout en le violant clairement.» l’accord, les objectifs qui y sont fixés étaient devenus une partie intégrante de la gouvernance. Par conséquent, il aurait dû être évalué comment une troisième piste pourrait être conciliée avec l’objectif de limiter le réchauffement climatique à 1,5 pour cent.
+L’organisation environnementale [Plan B](https://planb.earth/plan-b-v-heathrow-expansion/ "Plan B v Heathrow Expansion") avait poursuivi la cour d’appel. Le Guardian cite le représentant du Plan B, Tim Crosland, qui a déclaré : "Maintenant, il est clair que notre gouvernement ne peut pas dire qu’il veut mettre en œuvre l’accord de Paris sur le climat tout en le violant clairement." l’accord, les objectifs qui y sont fixés étaient devenus une partie intégrante de la gouvernance. Par conséquent, il aurait dû être évalué comment une troisième piste pourrait être conciliée avec l’objectif de limiter le réchauffement climatique à 1,5 pour cent.
 
 #### Conséquences mondiales
 

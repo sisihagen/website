@@ -23,13 +23,13 @@ soldat en question.
 
 Le président Michel Aoun s\'est exprimé mardi dans une interview avec Al
 Mayadeen sur les demandes des manifestants pour un gouvernement de
-technocrates. « Un gouvernement fondé uniquement sur des technocrates ne
-peut pas déterminer la politique du pays », dit Aoun. Il voulait former
+technocrates. " Un gouvernement fondé uniquement sur des technocrates ne
+peut pas déterminer la politique du pays ", dit Aoun. Il voulait former
 un gouvernement de technocrates et de politiciens.
 
 Les manifestants ont appelé Aoun à libérer le pays après quatre semaines
-de manifestations : « S\'ils continuent à le faire, ils détruiront le
-Liban et ses propres intérêts. » A la question de savoir si le Premier
+de manifestations : " S\'ils continuent à le faire, ils détruiront le
+Liban et ses propres intérêts. " A la question de savoir si le Premier
 ministre à la retraite Saad Hariri reviendrait au pouvoir, Aoun a
 répondu que rien n\'avait encore été décidé. Entre-temps, l\'ancien
 ministre des Finances Mohammad Safadi avait été proposé pour prendre la
@@ -112,7 +112,7 @@ De même, Sofia Saadeh, professeur émérite de la nouvelle histoire du
 Moyen-Orient à Beyrouth, décrit la situation. Au début, il s\'agissait
 de salaires équitables, l\'électricité, l\'eau, les soins de santé, les
 gens ont protesté contre la corruption. Maintenant, les slogans étaient
-similaires à ceux connus de la Syrie: «Ils veulent le renversement du
+similaires à ceux connus de la Syrie: "Ils veulent le renversement du
 régime, mais au Liban il n\'y a pas de régime comme en Syrie.
 Manifestants. Le gouvernement et le président ont invité au dialogue,
 ont proposé des réformes, et le Parlement devrait en discuter. Mais les
@@ -141,13 +141,13 @@ devait s\'en libérer et construire sa propre agriculture et son propre
 industrie. Les investissements chinois pour cela ont été promis que ce
 serait dans l\'intérêt national.
 
-« Le marché en Irak est une opportunité historique pour le Liban », a
+" Le marché en Irak est une opportunité historique pour le Liban ", a
 encore déclaré Nasrallah. Le différend en cours au sujet de la frontière
 maritime avec Israel le long des réserves de pétrole et de gaz de la
 Méditerranée orientale a empêché le Liban de promouvoir son pétrole et
 son gaz.
 
 Selon Nasrallah, les enquêtes pénales contre des politiciens et des
-fonctionnaires pour corruption possible sont soutenues. « S\'il y a un
+fonctionnaires pour corruption possible sont soutenues. " S\'il y a un
 cas qui a à voir avec un représentant du Hezbollah, je vous exhorte à
 commencer par nous. Je vous garantis le respect du Hezbollah.

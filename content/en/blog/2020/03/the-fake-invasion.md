@@ -38,7 +38,7 @@ In the meantime, in the article with the wrong tank image, the WDR had exchanged
 
 #### The same tank picture web.de for Russian Invasion 2014 and 2013, in a Blog
 
-"Ukraine crisis: Russian tanks invade Ukraine“ and" Putin's tanks roll over border " reported the web.de News Page on 7 November 2014 with a picture of the Russian tanks allegedly invading Ukraine.  However, the same picture was taken more than a year earlier — on March 19, 2013 — by a Blog in the article "What does Russia's defense industry expect?“ used.
+"Ukraine crisis: Russian tanks invade Ukraine" and" Putin's tanks roll over border " reported the web.de News Page on 7 November 2014 with a picture of the Russian tanks allegedly invading Ukraine.  However, the same picture was taken more than a year earlier — on March 19, 2013 — by a Blog in the article "What does Russia's defense industry expect?" used.
 
 {{< image srcwebp="/static/img/content/2020/097.webp" srcalt="/static/img/content/2020/097.jpg" title="5 years between the same photo" >}}
 
@@ -52,7 +52,7 @@ The ZDF article " search for peace for Ukraine. Liveblog: Kiev reports 50 Russia
 
 Spiegel Online claimed on 23 April 2015 that Russian troops were in Ukraine and shows a picture of a military vehicle with an air defense system, which is said to have just been sent to eastern Ukraine:
 
-"The US government accuses Russia of breaking the Minsk agreement: despite all the assurances, Moscow is said to have sent additional army units to eastern Ukraine.“
+"The US government accuses Russia of breaking the Minsk agreement: despite all the assurances, Moscow is said to have sent additional army units to eastern Ukraine."
 
 The same image was already used by Polskie Radio on August 14, 2014 and shows a Russian military vehicle in the Russian region of Rostov. Der Spiegel also suggests by his choice of words that the Minsk agreement stated that Russia would be standing with troops in Ukraine. But that is not in the agreement, and Russia would never have signed it.
 
@@ -66,7 +66,7 @@ The Zeit-Online article " Russian tanks apparently crossing Ukrainian border "is
 
 #### Business Insider, rebels on 28 October 2014-Frankfurter Rundschau," Russia sends tank column " on 7 November 2014. 
 
-On November 7, 2014, the Frankfurter Rundschau reports on an alleged Russian invasion of eastern Ukraine with 32 tanks.  This is illustrated with a“ proof image " of an alleged Russian tank convoy. A few days earlier, this AFP Image was used on other Websites, such as the site Business Insider. The article of 29 October 2014 states that the picture shows "pro — Russian separatists" on a tank-on 28 October. 
+On November 7, 2014, the Frankfurter Rundschau reports on an alleged Russian invasion of eastern Ukraine with 32 tanks.  This is illustrated with a" proof image " of an alleged Russian tank convoy. A few days earlier, this AFP Image was used on other Websites, such as the site Business Insider. The article of 29 October 2014 states that the picture shows "pro — Russian separatists" on a tank-on 28 October. 
 
 {{< image srcwebp="/static/img/content/2020/101.webp" srcalt="/static/img/content/2020/101.jpg" title="5 years between the same photo" >}}
 
@@ -76,13 +76,13 @@ Also on November 7, 2014, the world reported an alleged Russian Invasion with 32
 
 "Tanks and howitzers — Moscow enters Ukraine".
 
-This is illustrated with a“ proof image " of an alleged Russian tank convoy on which four tanks can be seen. A few days earlier, this AFP Image was still used on other Websites, for example on the Site 20minutes.fr. it says that the picture shows tanks with "pro-Russian separatists". Pictured in the article is the same scenery as in the previously mentioned article of the Frankfurter Rundschau, the FR Tank is the last tank of this Panzergruppe of four tanks that stop the traffic. Compare the white truck behind on both pictures.
+This is illustrated with a" proof image " of an alleged Russian tank convoy on which four tanks can be seen. A few days earlier, this AFP Image was still used on other Websites, for example on the Site 20minutes.fr. it says that the picture shows tanks with "pro-Russian separatists". Pictured in the article is the same scenery as in the previously mentioned article of the Frankfurter Rundschau, the FR Tank is the last tank of this Panzergruppe of four tanks that stop the traffic. Compare the white truck behind on both pictures.
 
 {{< image srcwebp="/static/img/content/2020/102.webp" srcalt="/static/img/content/2020/102.jpg" title="5 years between the same photo" >}}
 
 #### The above mentioned Russian air defense system in Rostov, Russia, as an invasion symbol in the HAZ.
 
-The Hannoversche Allgemeine Zeitung (HAZ) offers a very nice example of the symbolic tactics. The previously mentioned image of a Russian air defense system in Russia used by Spiegel on 23 April 2015 as evidence of the "deployment of further Russian troops" was used by HAZ on 15 August 2014 to accuse Russia of an invasion of Ukraine in the article "Russian military vehicles spotted in Ukraine“ :
+The Hannoversche Allgemeine Zeitung (HAZ) offers a very nice example of the symbolic tactics. The previously mentioned image of a Russian air defense system in Russia used by Spiegel on 23 April 2015 as evidence of the "deployment of further Russian troops" was used by HAZ on 15 August 2014 to accuse Russia of an invasion of Ukraine in the article "Russian military vehicles spotted in Ukraine" :
 
 > 23 armored personnel carriers along with tankers and other supply vehicles have crossed the border from Russia.
 
@@ -94,11 +94,11 @@ Although there has been no Russian Invasion and the readers, listeners and viewe
 
 A particularly bizarre example of this is the coverage of the Panama Papers tax haven scandal. A Ukrainian billionaire was also involved in the affair and at least seven journalists, some of them high-ranking journalists, managed to tell the story of the alleged Russian invasion of Ukraine in 2014 through this link between 4 and 8 April 2016.  And this, mind you, in the context of a scandal about tax evasion and money laundering in the Central American country of Panama.
 
-Konrad Schuller (FAZ) - " Ukraine and Panama Papers. Expulsion from the tax Paradise“:
+Konrad Schuller (FAZ) - " Ukraine and Panama Papers. Expulsion from the tax Paradise":
 
 > The outrageous thing is that in August 2014, at the height of the Russian military intervention, the president and commander-in-chief of the Armed Forces founded a company in a tax haven.
 
-Paul Ronzheimer (picture) - " scandal about money trickery / does Poroshenko rush through the Panama account?“:
+Paul Ronzheimer (picture) - " scandal about money trickery / does Poroshenko rush through the Panama account?":
 
 > And then Ilovaisk happened — in the village near Donetsk hundreds of Ukrainian soldiers were surrounded and killed by Russian soldiers. To this day it is the biggest defeat of the Ukrainians in the war.
 
@@ -106,19 +106,19 @@ Moritz Gatmann (Übermedien) — "Offshore Disclosure. Panama, Putin, Poroshenko
 
 > Most of the Poroshenko dish is a sauce called 'Ilovaisk'. This is the name of a place in eastern Ukraine where the Ukrainians lost a decisive battle against separatists and Russian special forces in August 2014.
 
-Benjamin Bidder (Spiegel) — "Panama Papers: why Poroshenko is wrongly pilloried this time“:
+Benjamin Bidder (Spiegel) — "Panama Papers: why Poroshenko is wrongly pilloried this time":
 
 > In order to prevent the imminent defeat of the self-proclaimed ‘People's Republics’, Moscow then increased the deployment: in mid-August, Russian army units intervened in the fighting. When the Mail was sent to Panama, however, nothing indicated this development.
 
-T-Online "Offshore company founded. Poroshenko under pressure over 'Panama Papers' “:
+T-Online "Offshore company founded. Poroshenko under pressure over 'Panama Papers' ":
 
 > Emails to the law firm Mossack Fonseca, which is at the centre of the 'Panama Papers', date back more than a week before the climax of the confrontation with Russia.
 
-Florian Willershausen (Wirtschaftswoche) - " Panama Papers and Ukraine. Unjustly pilloried“:
+Florian Willershausen (Wirtschaftswoche) - " Panama Papers and Ukraine. Unjustly pilloried":
 
 > Just in August, when Ukrainian troops suffered heavy defeats in the battle in eastern Ukraine against Russian special forces and pro-Russian separatists, the mailbox company Prime Asset Partners was opened in the tax port of the British Virgin Islands.
 
-Christian weisflog (NZZ) - "the president's Offshore companies“:
+Christian weisflog (NZZ) - "the president's Offshore companies":
 
 > During the conquest of Ilovaisk, Kiev's troops were encircled by Russian units. Almost 500 Ukrainian soldiers were killed and almost as many wounded.
 

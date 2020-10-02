@@ -111,7 +111,7 @@ With the beginning of the decline and gradual disintegration of the Soviet Union
 
 > ( ... ) Now that Europe is at the beginning of a new age, we are determined to expand and strengthen friendly relations and cooperation between the states of Europe, the United States of America and Canada and to promote friendship between our peoples. ( ... ) In accordance with our obligations under the Charter of the United Nations and the Helsinki Final Act, we renew our solemn promise to abstain from any threat or use of force directed against the territorial integrity or political independence of a state or any other act incompatible with the principles or objectives of such documents. (…)
 
-We reaffirm our commitment to the peaceful settlement of disputes. We decide to develop mechanisms to prevent and resolve conflicts between participating states.“
+We reaffirm our commitment to the peaceful settlement of disputes. We decide to develop mechanisms to prevent and resolve conflicts between participating states."
 
 It was therefore decided to establish a regional system of mutual collective security. Mutual and common security should be ensured through the organisation for security and cooperation in Europe (OSCE) resulting from the CSCE negotiations.
 
@@ -168,7 +168,7 @@ This debate inevitably leads to the question of whether energy and Internet secu
 
 Among the many voices in this choir, Zbigniew Brzezinski also speaks out, which should be well informed about the debates in NATO and does not happen to represent the globalist Position in the official journal Foreign Affairs.
 
-However, this globe has changed, the global hierarchy has been resolved by a Diffusion of global Power, more and more States have nuclear weapons, some of them — especially Pakistan — are extremely unstable. And " unfortunately, in recent years, the US leadership has contributed unintentionally, but most unwise, to the current threatening state of affairs. The combination of Washington's arrogant unilateralism in Iraq and its demagogic Islamophobic phrases have weakened the unity of NATO and Muslim resentment against the United States and the West in General intensified.“
+However, this globe has changed, the global hierarchy has been resolved by a Diffusion of global Power, more and more States have nuclear weapons, some of them — especially Pakistan — are extremely unstable. And " unfortunately, in recent years, the US leadership has contributed unintentionally, but most unwise, to the current threatening state of affairs. The combination of Washington's arrogant unilateralism in Iraq and its demagogic Islamophobic phrases have weakened the unity of NATO and Muslim resentment against the United States and the West in General intensified."
 
 Against the background of this analysis, Brzezinski comes to his conclusion, which provides for the strengthening and tightening of NATO in order to create a global network. This has four central tasks:
 

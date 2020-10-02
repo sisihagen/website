@@ -8,7 +8,7 @@ lang: fr
 cover: "society"
 ---
 
-En Australie, des tentatives sont en cours depuis plusieurs années dans diverses régions pour verser de l'aide sociale sur les cartes de débit. Celles-ci visent à contrôler le comportement des propriétaires. Ils ne peuvent pas être utilisés pour payer certains biens et services. Le gouvernement « compassion-conservateur » veut maintenant étendre le programme à l'ensemble du pays face à la résistance.
+En Australie, des tentatives sont en cours depuis plusieurs années dans diverses régions pour verser de l'aide sociale sur les cartes de débit. Celles-ci visent à contrôler le comportement des propriétaires. Ils ne peuvent pas être utilisés pour payer certains biens et services. Le gouvernement " compassion-conservateur " veut maintenant étendre le programme à l'ensemble du pays face à la résistance.
 
 Le [site Web du gouvernement](https://www.dss.gov.au/families-and-children/programmes-services/welfare-conditionality/cashless-debit-card-overview "Cashless Debit Card") décrit le programme comme suit :
 
@@ -34,7 +34,7 @@ Il ne faut pas beaucoup d'imagination pour imaginer comment un tel programme, un
 
 Apparemment, il n'y a pas d'enquête indépendante sur l'efficacité du programme. Quoi qu'il en soit, selon [les rapports de journaux](https://www.theguardian.com/australia-news/2019/sep/24/labor-to-oppose-cashless-welfare-card-expansion-unless-it-is-voluntary "Labor to oppose cashless welfare card expansion unless it is voluntary"), l'opposition veut en voir un avant d'accepter l'expansion et l'intensification. Il souhaite également que le programme soit limité à la participation volontaire.
 
-Si vous pensiez : « Mauvais, mais l'Australie est loin », alors vous devez être conscient que de nombreuses banques allemandes facturent déjà des frais élevés [frais supplémentaires](https://www.faz.net/aktuell/finanzen/neue-regelung-visa-kartengebuehr-beim-gluecksspielen-15562102.html "Neue Extra-Gebühren für Kreditkarten") pour les paiements par carte de crédit qui ont quelque chose à voir avec le jeu. Cela peut être un petit billet de loterie. Comme le gouvernement australien, les banques utilisent un système de code qui attribue un numéro à chaque catégorie de produits. Les possibilités de contrôle et de gestion de la population sont énormes.
+Si vous pensiez : " Mauvais, mais l'Australie est loin ", alors vous devez être conscient que de nombreuses banques allemandes facturent déjà des frais élevés [frais supplémentaires](https://www.faz.net/aktuell/finanzen/neue-regelung-visa-kartengebuehr-beim-gluecksspielen-15562102.html "Neue Extra-Gebühren für Kreditkarten") pour les paiements par carte de crédit qui ont quelque chose à voir avec le jeu. Cela peut être un petit billet de loterie. Comme le gouvernement australien, les banques utilisent un système de code qui attribue un numéro à chaque catégorie de produits. Les possibilités de contrôle et de gestion de la population sont énormes.
 
 Dans une vidéo promotionnelle critique-parodiste pour et contre le programme, le modérateur demande :
 

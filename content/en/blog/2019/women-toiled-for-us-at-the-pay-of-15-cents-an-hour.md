@@ -27,7 +27,7 @@ As a result, virtually all home workers received between 50 and 90 percent less 
 
 Working at home or in a small improvised workshop is not only extremely low paid. It also captivates the workers to the house in order to fulfil the existing orders quickly and promptly, so that they earn at least a minimum. Recovery breaks, work safety and health-safing working conditions are hardly possible. Chronic diseases, including back pain and visual loss, are common under these conditions. Medical care and help usually don't exist: The subcontractors let down the female workers.
 
-[Siddharth Kara](https://en.wikipedia.org/wiki/Siddharth_Kara "Siddharth Kara"), a longtime connoisseur of modern slavery who authored the research report, explained in The «The New York Times on February 6»:
+[Siddharth Kara](https://en.wikipedia.org/wiki/Siddharth_Kara "Siddharth Kara"), a longtime connoisseur of modern slavery who authored the research report, explained in The "The New York Times on February 6":
 
 "Due to the lack of transparency and the informal nature of homework, women workers have virtually no opportunity to defend themselves against abusive or unfair conditions." 
 
@@ -37,9 +37,9 @@ In addition, this work is carried out almost exclusively by people who, because 
 
 Such homework is also common in Bangladesh, Vietnam and China.
 
-About twenty percent of women workers in India were girls between the ages of 10 and 18. Most of those surveyed mainly in northern India said they were doing the homework because of "some form of coercion," including severe financial hardship, family pressure or non-existent alternatives. Most often, they give fashionable garments the «finishing touches»: Emphidery embroidery, tassels, fringes, or buttons.
+About twenty percent of women workers in India were girls between the ages of 10 and 18. Most of those surveyed mainly in northern India said they were doing the homework because of "some form of coercion," including severe financial hardship, family pressure or non-existent alternatives. Most often, they give fashionable garments the "finishing touches": Emphidery embroidery, tassels, fringes, or buttons.
 
-From the subcontractors, the garments reach the established clothing companies and well-known brands. Around 85 percent of the fashionable dresses for which home workers do the «finish» go to the clothes shops of Europe and the USA for sale, the report says.
+From the subcontractors, the garments reach the established clothing companies and well-known brands. Around 85 percent of the fashionable dresses for which home workers do the "finish" go to the clothes shops of Europe and the USA for sale, the report says.
 
 #### Neither trade unions nor written employment contracts
 

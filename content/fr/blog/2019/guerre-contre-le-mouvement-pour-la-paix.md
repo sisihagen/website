@@ -11,23 +11,23 @@ cover: "society"
 
 Ceux qui sont engagés pour la paix aujourd'hui ont besoin d'un gilet pare-balles. Ce sont des moments bizarres... Les militants pour la paix sont discrédités, et les belligérants sont inondés de séries Netflix et de prix Nobel de la paix. Une seule folie à deux poids, deux mesures. Aujourd'hui, il ne reste plus grand-chose de l'ancienne splendeur du mouvement pour la paix, alors qu'il y avait une opposition généralisée aux préparatifs de guerre et au sabre-rattling. La guerre est maintenant plus acceptable que jamais, et ceux qui s'y opposent sont de plus en plus combattus.
 
-Le cliquetis du sabre est accompagné d'un multimédia. Ce qui était « journalistes intégrés » sur la ligne de front à l'époque sont maintenant les journalistes alpha sur le nouveau front de la propagande : les écrans nationaux.
+Le cliquetis du sabre est accompagné d'un multimédia. Ce qui était " journalistes intégrés " sur la ligne de front à l'époque sont maintenant les journalistes alpha sur le nouveau front de la propagande : les écrans nationaux.
 
 Dans le cas des militants pour la paix, chaque mot est placé sur l'échelle d'or. Chaque discours, chaque phrase à l'envers et l'histoire s'agite pour filtrer le pire.
 
 Malheur à toute personne qui a utilisé un mauvais mot dans un commentaire ou un e-mail dans un commentaire ou un e-mail il ya x ans ou s'est exprimé de manière inexacte. Peu importe la taille du faux pas, peu importe la façon dont détaillée l'explication ou la correction:
 
-Le pilori médiatique est préparé et les « Bals de la Médial » volent de toutes les directions.
+Le pilori médiatique est préparé et les " Bals de la Médial " volent de toutes les directions.
 
 {{< youtube "22vuam8oeRU" >}}
 
 Comment discréditer les militants pour la paix ne joue qu'un rôle mineur. Comme le goût de Coca-Cola, la diffamation est adaptée aux personnes sur une base spécifique à chaque pays.
 
-Dans ce pays, on est rapidement marqué comme « droit » ou « antisémite » parce qu'il s'agit d'un critère d'exclusion dans la société germanophone. Aux États-Unis, par exemple, les gens sont marqués « socialiste » ou « communiste » afin d'être ostracisés par la société majoritaire.
+Dans ce pays, on est rapidement marqué comme " droit " ou " antisémite " parce qu'il s'agit d'un critère d'exclusion dans la société germanophone. Aux États-Unis, par exemple, les gens sont marqués " socialiste " ou " communiste " afin d'être ostracisés par la société majoritaire.
 
-Même si les termes négatifs changent, la fonction de ces termes de lutte est toujours la même: «Vous ne vous parlez pas» - «Juste ne pas écouter cela» - «Attention, il est dangereux, un fou» et cetera.
+Même si les termes négatifs changent, la fonction de ces termes de lutte est toujours la même: "Vous ne vous parlez pas" - "Juste ne pas écouter cela" - "Attention, il est dangereux, un fou" et cetera.
 
-La situation est tout à fait différente avec les belligérants, les producteurs d'armes et le sabre-rattling. La compréhension est montrée pour leur « emploi » — tuer des gens ou fournir des outils qui peuvent tuer d'autres personnes. Les emplois et les routes commerciales sont sauvegardés. Le lieu de travail individuel au coin de la rue compte plus que les innombrables vies humaines partout ailleurs dans le monde.
+La situation est tout à fait différente avec les belligérants, les producteurs d'armes et le sabre-rattling. La compréhension est montrée pour leur " emploi " — tuer des gens ou fournir des outils qui peuvent tuer d'autres personnes. Les emplois et les routes commerciales sont sauvegardés. Le lieu de travail individuel au coin de la rue compte plus que les innombrables vies humaines partout ailleurs dans le monde.
 
 Aujourd'hui, les faits comptent de moins en moins, mais l'image médiatique est importante. Ce n'est pas ce que vous faites qui importe, mais comment vous êtes emballé dans les médias.
 

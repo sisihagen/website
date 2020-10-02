@@ -18,9 +18,9 @@ And so the Germans are again in the same place as they were then. Not able to id
 
 Young women who, in their insecurity about what they want to make out of their lives, choose the way to the covenant. Material prosperity, while intra-emotional neglect, which occurs when you Receive the Videos subliminally-a-days. Enny's father then leaves a spell from the pile, which makes really stunned: "if you cry, then cry in the pillow!"The warm-heartedness jumps directly towards you. Man is a product of his environment, so many sociologists would note.
 
-In almost all home stories is grilled. We recall Tolstoy's words: "as long as there are abattoirs, there will always be battlefields.“
+In almost all home stories is grilled. We recall Tolstoy's words: "as long as there are abattoirs, there will always be battlefields."
 
-And on precisely these battlefields, the German families are fooling around. Leah's mother says: "My first thought was: I don't want to see my child dead in a crisis region. ( ... ) (I am) aware that it can end up in a crisis area.“
+And on precisely these battlefields, the German families are fooling around. Leah's mother says: "My first thought was: I don't want to see my child dead in a crisis region. ( ... ) (I am) aware that it can end up in a crisis area."
 
 There are two questions here. Why doesn't the mother intervene when she cares about her daughter? For example, out of pride, because it does something great when it defends Germany in a" crisis region " à la Hindu Kush or exports democracy there? This is followed by the second question: is international law completely forgotten? The Non-Interference Principle? The ban on interfering in the internal conflicts of a state? The principle of the sovereignty of States? The illegal nature of these operations is simply hidden.
 
@@ -28,7 +28,7 @@ This is seamlessly linked to the cascade of systematic militarization actions in
 
 The disillusionment that we Germans did not teach from the first two World Wars is also set on the crown by an Orwell's turn of history. After the re-interpretation of history by the European Parliament, the non-aggression pact between Hitler-Germany and the Soviet Union would have provided the [initial ignition](http://www.europarl.europa.eu/doceo/document/TA-9-2019-0021_EN.html "European Parliament resolution of 19 September 2019 on the importance of European remembrance for the future of Europe") for the outbreak of World War II. Here we get the narrative framework that can be used for a war against Russia, without bad Conscience, set-up, because we — the Germans — are now the Good, while over at Ivan slumbers supposedly the evil spirit of totalitarianism.
 
-So bad. The Homestorys then end cynically with the words of the recruits before their departure: "if you want to see what is coming from me, then next time you turn on and subscribe to this channel.“
+So bad. The Homestorys then end cynically with the words of the recruits before their departure: "if you want to see what is coming from me, then next time you turn on and subscribe to this channel."
 
 #### With the teddy bear to the Bundeswehr
 

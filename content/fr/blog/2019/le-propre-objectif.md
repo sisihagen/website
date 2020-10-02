@@ -16,13 +16,13 @@ Les tarifs ne sont pas une solution. L'administration Trump affirme que les tari
 
 #### Il n'y a pas de guerre commerciale
 
-Les médias financiers sont pleins de prédictions sur les conséquences d'une « guerre commerciale » entre les États-Unis et la Chine. Il n'y a pas de guerre commerciale. Il s'agit d'une guerre commerciale lorsque les pays tentent de protéger leurs industries en érigeant des barrières tarifaires contre l'importation de produits moins chers de l'étranger. Mais au moins la moitié des marchandises importées de Chine sont importées d'entreprises américaines. Les tarifs de Trump s'adressent aux entreprises américaines ou aux consommateurs américains.
+Les médias financiers sont pleins de prédictions sur les conséquences d'une " guerre commerciale " entre les États-Unis et la Chine. Il n'y a pas de guerre commerciale. Il s'agit d'une guerre commerciale lorsque les pays tentent de protéger leurs industries en érigeant des barrières tarifaires contre l'importation de produits moins chers de l'étranger. Mais au moins la moitié des marchandises importées de Chine sont importées d'entreprises américaines. Les tarifs de Trump s'adressent aux entreprises américaines ou aux consommateurs américains.
 
 Il faut s'étonner qu'il n'y ait pas un seul économiste dans toute l'administration Trump, dans la banque centrale américaine, ou n'importe où ailleurs à Washington qui soit capable de comprendre les faits et de transmettre cette connaissance au président Trump. est capable de.
 
 #### Récession mondiale à cause des tarifs douaniers de Trump?
 
-Un effet de l'ignorance économique globale de Washington est le brassage de l'histoire des médias financiers que « les tarifs de Trump » conduisent non seulement les Américains dans la récession, mais le monde entier. D'une certaine manière, les tarifs sur les ordinateurs et iPhones d'Apple, nike et chaussures Levi Jeans sont l'envoi du monde dans la récession ou pire. Il s'agit d'une conclusion économique extraordinaire, mais l'esprit a presque disparu aux États-Unis.
+Un effet de l'ignorance économique globale de Washington est le brassage de l'histoire des médias financiers que " les tarifs de Trump " conduisent non seulement les Américains dans la récession, mais le monde entier. D'une certaine manière, les tarifs sur les ordinateurs et iPhones d'Apple, nike et chaussures Levi Jeans sont l'envoi du monde dans la récession ou pire. Il s'agit d'une conclusion économique extraordinaire, mais l'esprit a presque disparu aux États-Unis.
 
 La question pour les médias financiers est la suivante: les tarifs douaniers de Trump aux États-Unis ou dans le monde entier provoquer une récession qui lui coûtera sa réélection? C'est une question très stupide. Les États-Unis sont en récession depuis au moins deux décennies parce que leur potentiel de production, d'industrie et d'ingénierie a été transféré à l'étranger. La récession américaine est toujours très bonne pour la partie asiatique du monde. En effet, la Chine doit son ascension étonnamment rapide à la puissance mondiale au transfert d'emplois, de capitaux, de technologie et de savoir-faire commercial des États-Unis à la Chine — et seulement pour que les actionnaires puissent recevoir des gains en capital et que les gestionnaires américains reçoivent des primes pour cela. qu'ils ont rendu ces gains possibles en réduisant les coûts de main-d'œuvre.
 
@@ -41,7 +41,7 @@ Les États-Unis ont été décapitalisés au 21e siècle, et le niveau de vie a 
 
 #### L'argent ne stimule pas la production
 
-L'«équipe de protection contre les chutes» de la Réserve fédérale (Fed) et du ministère des Finances peut soutenir le marché boursier en achetant les contrats à terme financiers de Standard and Poor's. La Fed peut injecter plus d'argent dans le système pour faire monter les prix des actifs. L'argent, cependant, ne fait pas monter la production parce que les emplois et les activités économiques qui représentent les emplois ont été déplacés à l'étranger. La mondialisation a donc déplacé l'économie américaine vers la Chine.
+L'"équipe de protection contre les chutes" de la Réserve fédérale (Fed) et du ministère des Finances peut soutenir le marché boursier en achetant les contrats à terme financiers de Standard and Poor's. La Fed peut injecter plus d'argent dans le système pour faire monter les prix des actifs. L'argent, cependant, ne fait pas monter la production parce que les emplois et les activités économiques qui représentent les emplois ont été déplacés à l'étranger. La mondialisation a donc déplacé l'économie américaine vers la Chine.
 
 #### Comment l'inflation transforme la croissance économique en
 

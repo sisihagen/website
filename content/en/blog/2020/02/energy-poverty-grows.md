@@ -94,7 +94,7 @@ The association Tacheles E. V. demands for a long time the implementation of the
 
   - Adjustment of the design method of the additional demand for decentralized hot water supply
 
-  - Creation of " energy security agencies“
+  - Creation of " energy security agencies"
 
   - Defusing the deadline until the possible energy lock
 

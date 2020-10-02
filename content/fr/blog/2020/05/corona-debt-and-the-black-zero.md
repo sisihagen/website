@@ -3,7 +3,7 @@ title: "Couronne, dette et zéro noir"
 date: 2020-05-27
 draft: false
 tags: "Politique"
-shorttext: "Le coût de la «crise corona» est substantiel, mais les politiciens et les entrepreneurs demandent des réductions d'impôts. À quel point une personne peut-elle être stupide?"
+shorttext: "Le coût de la crise corona est substantiel, mais les politiciens et les entrepreneurs demandent des réductions d'impôts. À quel point une personne peut-elle être stupide?"
 cover: "repression"
 lang: fr
 ---

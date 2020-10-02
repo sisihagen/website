@@ -9,13 +9,13 @@ draft: false
 lang: fr
 ---
 
-Les médias établis sont l'observateur ethnique de la campagne anti-russe des médias occidentaux. L'émission hebdomadaire de NS sous le couvert of ARD / ZDF se distingue particulièrement fortement quand il s'agit du sujet de la construction d'image ennemie la Russie et la Chine. Le 1er août 2019, la ZDF a diffusé une «documentation» qui construit hardiment l'image ennemie de la Russie et invoque les citoyens pour le réarmement et la guerre. Les cinéastes travaillent avec des moyens qu'ils accuseraient immédiatement la télévision d'État russe de «propagande» dans le cas contraire.
+Les médias établis sont l'observateur ethnique de la campagne anti-russe des médias occidentaux. L'émission hebdomadaire de NS sous le couvert of ARD / ZDF se distingue particulièrement fortement quand il s'agit du sujet de la construction d'image ennemie la Russie et la Chine. Le 1er août 2019, la ZDF a diffusé une "documentation" qui construit hardiment l'image ennemie de la Russie et invoque les citoyens pour le réarmement et la guerre. Les cinéastes travaillent avec des moyens qu'ils accuseraient immédiatement la télévision d'État russe de "propagande" dans le cas contraire.
 
 {{< youtube "VA2ZOsei1dY" >}}
 
-Lorsque la télévision publique présente un documentaire politique sur l'OTAN et la Russie, les téléspectateurs critiques savent maintenant avec certitude à quoi s'attendre. Les expériences avec les travaux précédents d'ARD/ZDF, tels que «Power Man Putin», «Poutine contre USA» et de nombreux articles de magazines et de nouvelles sont trop pertinents.
+Lorsque la télévision publique présente un documentaire politique sur l'OTAN et la Russie, les téléspectateurs critiques savent maintenant avec certitude à quoi s'attendre. Les expériences avec les travaux précédents d'ARD/ZDF, tels que "Power Man Putin", "Poutine contre USA" et de nombreux articles de magazines et de nouvelles sont trop pertinents.
 
-Le film intitulé «Old Alliances, New Threats: Germany's Role in NATO and the Wel» de Nick Gol'ke et Michael Mueller est classé par ZDF comme un «documentaire» - mais en fait il ne s'agit pas tant d'une émission documentaire journalistique que d'une série extrêmement partiale de cl objectifs et exigences. Pour comprendre le message que le film transmet, il suffit de regarder la première et la dernière minute.
+Le film intitulé "Old Alliances, New Threats: Germany's Role in NATO and the Wel" de Nick Gol'ke et Michael Mueller est classé par ZDF comme un "documentaire" - mais en fait il ne s'agit pas tant d'une émission documentaire journalistique que d'une série extrêmement partiale de cl objectifs et exigences. Pour comprendre le message que le film transmet, il suffit de regarder la première et la dernière minute.
 
 En fait, même ce qui est nécessaire ne serait pas aussi partisan de façon prévisible, et ce qui n'est pas du tout un aspect unilatéral est ce que la radiodiffusion de service public a dû rendre compte du sujet pendant des années. La seule surprise est que Vladimir Poutine est à peine diabolisé. Ce n'est que deux fois qu'il entre en scène, mais il est ensuite critiqué comme d'habitude comme un provocateur belliqueux et imprévisible qui envoie ses chars dans d'autres pays. Mais pour une émission de 43 minutes ZDF sur un tel sujet, c'est remarquablement peu.
 
@@ -59,27 +59,27 @@ Quiconque soutient que les films individuels n'ont pas à être équilibrés, ta
 
 Le scientifique des médias et chercheur en propagande Florian Zollmann, qui enseigne à l'Université de Newcastle, reconnaît les méthodes de propagande dans la représentation partisane globale du conflit politique mondial dans les médias établis.
 
-Le discours qui considère la Russie (et la Chine) comme la seule menace est de servir les intérêts de l'OTAN.» L'intégration de l'OTAN de tous les États de l'ancien Pacte de Varsovie, malgré la promesse du contraire en 1990, est, bien sûr, une menace pour les intérêts de la Russie, Zollmann Explique.
+Le discours qui considère la Russie (et la Chine) comme la seule menace est de servir les intérêts de l'OTAN." L'intégration de l'OTAN de tous les États de l'ancien Pacte de Varsovie, malgré la promesse du contraire en 1990, est, bien sûr, une menace pour les intérêts de la Russie, Zollmann Explique.
 
-«C'est-à-dire qu'une confrontation avec les relations entre la Russie, la Chine et l'OTAN, qui ne traite pas de ces questions évidentes, peut très bien être considérée comme sélective et donc propagandiste selon les définitions scientifiques conventionnelles. médiation de l'information.
+"C'est-à-dire qu'une confrontation avec les relations entre la Russie, la Chine et l'OTAN, qui ne traite pas de ces questions évidentes, peut très bien être considérée comme sélective et donc propagandiste selon les définitions scientifiques conventionnelles. médiation de l'information.
 
 Ce qui manque aussi, c'est l'opinion de la population allemande, affirme le journaliste formé. Si le documentaire avait présenté les résultats de l'enquête correspondante, le spectateur militaire-sceptique ne se sentirait pas si seul et serait moins facilement convaincu des thèses du film.
 
 #### Principes de propagande de guerre
 
-Les «[Principes élémentaires de propagande de guerre](https://fr.wikipedia.org/wiki/Principes_%C3%A9l%C3%A9mentaires_de_propagande_de_guerre "Principes élémentaires de propagande de guerre")» que l'homme politique et pacifiste anglais Lord Arthur Ponsonby a établis après la Première Guerre mondiale et que l'historienne belge Anne Morelli a systématisées en 2004 sont utiles à l'identification.
+Les "[Principes élémentaires de propagande de guerre](https://fr.wikipedia.org/wiki/Principes_%C3%A9l%C3%A9mentaires_de_propagande_de_guerre "Principes élémentaires de propagande de guerre")" que l'homme politique et pacifiste anglais Lord Arthur Ponsonby a établis après la Première Guerre mondiale et que l'historienne belge Anne Morelli a systématisées en 2004 sont utiles à l'identification.
 
 Si vous regardez la liste point par point, vous verrez que six des dix principes apparaissent déjà dans le documentaire ZDF, même si la guerre supposée imminente avec la Russie n'a pas encore commencé.
 
 L'Occident ne veut pas la guerre, en cas de guerre on ne se défend et d'une manière noble tous ceux qui ne peuvent pas se défendre.
 
-Agressif n'est que le camp adverse, dont le chef est malveillant et dictatorial. La Russie utilise des armes illicites, viole ainsi le traité INF, et quiconque veut remettre tout cela en question, c'est-à-dire veut étouffer le débat sur les armes, agit naïvement et crée une situation «dangereuse» entièrement dans le sens de l'ennemi.
+Agressif n'est que le camp adverse, dont le chef est malveillant et dictatorial. La Russie utilise des armes illicites, viole ainsi le traité INF, et quiconque veut remettre tout cela en question, c'est-à-dire veut étouffer le débat sur les armes, agit naïvement et crée une situation "dangereuse" entièrement dans le sens de l'ennemi.
 
 #### "Un film qui vous fait peur"
 
 Le chercheur en médias Uwe Kr'ger confirme cette impression. "Il y a des critères pour Ponsonby, que je vois aussi remplis par le film ZDF." Il n'y a pas de vision critique du complexe militaro-industriel de l'Occident, qui bénéficie de l'objectif de 2 pour cent de l'OTAN.
 
-Les intérêts géopolitiques et économiques des États membres de l'OTAN sont un angle mort du film, et le provocateur dans les relations entre la Russie et l'Occident est toujours appelé seulement Poutine. Même Frank-Walter Steinmeier, en tant que ministre allemand des Affaires étrangères, a déjà accusé l'OTAN de «saber-rattling et hurlement de guerre», souligne M. Kr'ger.
+Les intérêts géopolitiques et économiques des États membres de l'OTAN sont un angle mort du film, et le provocateur dans les relations entre la Russie et l'Occident est toujours appelé seulement Poutine. Même Frank-Walter Steinmeier, en tant que ministre allemand des Affaires étrangères, a déjà accusé l'OTAN de "saber-rattling et hurlement de guerre", souligne M. Kr'ger.
 
 "Quiconque regarde le film sans aucune connaissance de fond spéciale tirera probablement les conclusions suivantes: nous sommes les bons gars, Poutine est le mal et à la recherche de l'expansion, une guerre avec la Russie est imminente et l'Allemagne fait beaucoup trop peu pour s'armer pour elle. Le film est effrayant et représente l'armement comme une solution.
 
@@ -93,15 +93,15 @@ Les États-Unis mènent des guerres, menacent et déstabilisent de nombreux autr
 
 #### Postes vacants en Russie
 
-Il montre que les avions de guerre russes mènent des «attaques fictives» contre des navires de guerre américains dans la mer Baltique à 130 kilomètres au large de Kaliningrad (11 h 20). ZDF: "Les provocations s'accumulent." Absurdement, la provocation pour le documentaire n'est pas la présence de navires de guerre américains au large de Kaliningrad, mais la présence active de l'armée de l'air russe sur leur propre porte.
+Il montre que les avions de guerre russes mènent des "attaques fictives" contre des navires de guerre américains dans la mer Baltique à 130 kilomètres au large de Kaliningrad (11 h 20). ZDF: "Les provocations s'accumulent." Absurdement, la provocation pour le documentaire n'est pas la présence de navires de guerre américains au large de Kaliningrad, mais la présence active de l'armée de l'air russe sur leur propre porte.
 
 Bien sûr, le documentaire mentionne que les habitants des pays baltes ont peur de l'occupation russe en raison de leur expérience historique. Bien sûr, il ne mentionne pas que le peuple de Russie ont aussi peur des invasions occidentales à la suite d'expériences historiques. Incidemment, la Baltique a également été occupée par l'Allemagne pendant plusieurs années, ce qui ne semble pas soulever de préoccupations historiques, ni dans les pays baltes ni dans ce pays.
 
-Vladimir Poutine est accusé d'avoir testé les frontières de l'OTAN (11:06) — par exemple, avec «l'invasion de l'est de l'Ukraine». Puisque ZDF ne semble toujours pas avoir de photos de cette invasion après cinq ans, on montre des chars ukrainiens, avec un grand drapeau ukrainien sur elle, le peuple doofen ne le remarque pas.
+Vladimir Poutine est accusé d'avoir testé les frontières de l'OTAN (11:06) — par exemple, avec "l'invasion de l'est de l'Ukraine". Puisque ZDF ne semble toujours pas avoir de photos de cette invasion après cinq ans, on montre des chars ukrainiens, avec un grand drapeau ukrainien sur elle, le peuple doofen ne le remarque pas.
 
 Ce sont les images suggestives maintenant habituelles qui n'ont rien à voir avec le journalisme. Les cinéastes ne se soucient pas que l'Ukraine n'est pas un membre de l'OTAN à tous.
 
-Presque sensationnel, que l'on admet dans le documentaire que la Russie se sentait «provoquée» par l'élargissement de l'OTAN vers l'est. Notez que les cinéastes ne parlent pas d'une situation de menace objective, comme celle de l'OTAN, mais seulement de sentiments. Plus tard dans le documentaire, un journaliste russe critique de Poutine se réfère même à ce «sentiment» comme «paranoïa».
+Presque sensationnel, que l'on admet dans le documentaire que la Russie se sentait "provoquée" par l'élargissement de l'OTAN vers l'est. Notez que les cinéastes ne parlent pas d'une situation de menace objective, comme celle de l'OTAN, mais seulement de sentiments. Plus tard dans le documentaire, un journaliste russe critique de Poutine se réfère même à ce "sentiment" comme "paranoïa".
 
 #### Un documentaire plein d'espaces vides
 
@@ -109,7 +109,7 @@ Le documentaire donne l'impression que les dépenses de défense allemandes sont
 
 L'Allemagne est ainsi classée 8ème sur environ 200 pays dans le monde.
 
-Plus tard dans l'article, la Chine est également un problème et est fortement stylisée comme menace militaire à l'ouest. Le message chinois à tout le monde est le même : «Nous sommes grands, nous sommes puissants, et nous prenons ce que nous voulons», affirme le documentaire de la ZDF.
+Plus tard dans l'article, la Chine est également un problème et est fortement stylisée comme menace militaire à l'ouest. Le message chinois à tout le monde est le même : "Nous sommes grands, nous sommes puissants, et nous prenons ce que nous voulons", affirme le documentaire de la ZDF.
 
 En réalité, la Chine n'a rien pris du tout. Il n'a pas commencé une guerre ou annexé Taiwan, le documentaire met en garde. En fait, ce sont les États-Unis qui laissent leurs navires de guerre naviguer en mer de Chine méridionale, c'est-à-dire à la porte de l'agresseur présumé.
 
@@ -117,7 +117,7 @@ Le documentaire est plein de telles omissions, toutes dans l'intérêt de Washin
 
 #### ZDF: L'UE est un nain dépendant des Etats-Unis
 
-Dans ce contexte, l'étrange conclusion du documentaire n'est guère surprenante. Il dit, par exemple, que l'UE est «politiquement et militairement un grand nain au goutte-à-goutte des États-Unis» (41:00). Moment, donc l'UE est politiquement dépendante de Washington? C'est bien qu'il soit enfin dit en public.
+Dans ce contexte, l'étrange conclusion du documentaire n'est guère surprenante. Il dit, par exemple, que l'UE est "politiquement et militairement un grand nain au goutte-à-goutte des États-Unis" (41:00). Moment, donc l'UE est politiquement dépendante de Washington? C'est bien qu'il soit enfin dit en public.
 
 Si cette phrase est prise au sérieux, la ZDF doute en fait de la souveraineté de l'Union européenne — une déclaration remarquable. Parce que ce n'est pas ce que n'importe quel Reichsbârger ou Vladimir Poutine dit, mais la deuxième télévision allemande.
 
@@ -135,9 +135,9 @@ Le film actuel de la ZDF s'inscrit dans le schéma bien connu des contributions 
 
 Il est frappant de constater que la publicité ouverte et non varnisée pour l'armement et la guerre atteint de nouvelles dimensions non seulement sur les affiches de la Bundeswehr, mais aussi à la télévision publique, qui semblait presque inimaginable il y a seulement quelques années.
 
-Si de telles images de manœuvres, comme celles du documentaire, devaient être diffusées en marche arrière avec des chars russes à la télévision d'État — les mêmes cinéastes allemands parleraient probablement de gestes menaçants, de sabre-rattling et de militarisme. Ils se plaignaient de la façon dont sans critique et à la hâte les «guerriers de l'information» russes accompagnent la politique étrangère agressive de leurs dirigeants, laissant tomber toutes les informations inappropriées sous la table. Ils parlaient de «propagande d'État».
+Si de telles images de manœuvres, comme celles du documentaire, devaient être diffusées en marche arrière avec des chars russes à la télévision d'État — les mêmes cinéastes allemands parleraient probablement de gestes menaçants, de sabre-rattling et de militarisme. Ils se plaignaient de la façon dont sans critique et à la hâte les "guerriers de l'information" russes accompagnent la politique étrangère agressive de leurs dirigeants, laissant tomber toutes les informations inappropriées sous la table. Ils parlaient de "propagande d'État".
 
-Avec ce film, ZDF construit des images ennemies et alimente la peur de la Russie afin d'apporter le réarmement et la préparation mentale pour la guerre. Le documentaire agit comme le programme d'accompagnement de l'échec rhétorique d'Ursula von der Leyen en avril 2018, lorsqu'elle a recommandé de parler à la Russie «à partir d'une position de force (militaire)». Le ministre russe de la Défense Sergueï Choïgou avait alors répondu:
+Avec ce film, ZDF construit des images ennemies et alimente la peur de la Russie afin d'apporter le réarmement et la préparation mentale pour la guerre. Le documentaire agit comme le programme d'accompagnement de l'échec rhétorique d'Ursula von der Leyen en avril 2018, lorsqu'elle a recommandé de parler à la Russie "à partir d'une position de force (militaire)". Le ministre russe de la Défense Sergueï Choïgou avait alors répondu:
 
 "Après tout ce que l'Allemagne a fait à notre pays, il vaut mieux ne rien dire sur le sujet pendant encore 200 ans."
 

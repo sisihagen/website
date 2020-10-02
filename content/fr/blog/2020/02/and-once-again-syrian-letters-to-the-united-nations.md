@@ -12,13 +12,13 @@ Si le consommateur de médias incliné recevra les prochains messages sur la Syr
 
 La Syrie informe régulièrement l'Organisation Mondiale de ce qui se passe dans le pays. Le 13 janvier, cela s'est produit dans deux autres lettres identiques adressées aux Nations unies. Ces lettres concernent al-Qaïda en Syrie.
 
-> Nous nous souvenons encore qui, selon les gardiens de la seule vérité, était responsable de “l'attaque contre le monde libre", c'est-à-dire de la destruction des tours jumelles et du bâtiment numéro 7 du WTC le 11 septembre 2001, ouvrant ainsi le prétexte à la gigantesque “guerre contre le terrorisme”menée par L'Occident? Exactement, cette mystérieuse organisation Al-Qaïda dont le Front al - Nusra (Jabhat al-Nusra)-redédié à Hayat Thahir al – Sham (HTS) - administre maintenant la province syrienne D'Idlib et reçoit une aide secrète de la communauté occidentale des valeurs.
+> Nous nous souvenons encore qui, selon les gardiens de la seule vérité, était responsable de "l'attaque contre le monde libre", c'est-à-dire de la destruction des tours jumelles et du bâtiment numéro 7 du WTC le 11 septembre 2001, ouvrant ainsi le prétexte à la gigantesque "guerre contre le terrorisme”menée par L'Occident? Exactement, cette mystérieuse organisation Al-Qaïda dont le Front al - Nusra (Jabhat al-Nusra)-redédié à Hayat Thahir al – Sham (HTS) - administre maintenant la province syrienne D'Idlib et reçoit une aide secrète de la communauté occidentale des valeurs.
 
 > C'est déjà une drôle de "guerre contre le terrorisme"? Mal, parce qu'en réalité elle n'existe pas. Du moins pas quand nous parlons de cette guerre de la communauté occidentale des valeurs. Plus précisément, c'est le contraire: le terrorisme d'état des états-unis et ses”partenaires". En Syrie, l'observateur observateur peut le voir limpide.
 
 > Ne nous enlisons pas: même si "l'aide à Idlib" peut effectivement être transmise à la population dans des cas individuels sous forme d'aide, son but premier est de sauver le pouvoir islamiste d'une organisation al-Qaïda en Syrie. Ce sauvetage des structures terroristes est également soutenu par "l'aide" de L'Allemagne. Quand il s'agit de” défendre des valeurs", L'Occident a toujours été très créatif dans sa Poursuite impitoyable de ses propres intérêts ailleurs.
 
-> En passant, le gouvernement syrien ne joue pas le jeu du “changement d'arbre” et se réfère donc systématiquement au groupe islamiste le plus fort d'Idlib comme al-Nusra. On trouvera ci-après le texte des lettres adressées à l & apos; organisation des Nations unies en votre nom.
+> En passant, le gouvernement syrien ne joue pas le jeu du "changement d'arbre” et se réfère donc systématiquement au groupe islamiste le plus fort d'Idlib comme al-Nusra. On trouvera ci-après le texte des lettres adressées à l & apos; organisation des Nations unies en votre nom.
 
 > Au nom de la République arabe syrienne et en relation avec ma précédente lettre aux Nations unies, j'estime nécessaire de répéter les points suivants.
 
@@ -28,7 +28,7 @@ La Syrie informe régulièrement l'Organisation Mondiale de ce qui se passe dans
 
 > Le gouvernement de la République Arabe Syrienne souhaite également attirer l'attention sur les éléments suivants:
 
-> La ville D'Idlib et un certain nombre de zones autour de celle-ci sont contrôlées par le “Front de libération du Levant”, le soi – disant Front al-Nosra, qui – en tant que bras armé d'al-Qaïda en Syrie-est répertorié par le Conseil de sécurité de l'ONU comme une organisation terroriste.
+> La ville D'Idlib et un certain nombre de zones autour de celle-ci sont contrôlées par le "Front de libération du Levant”, le soi – disant Front al-Nosra, qui – en tant que bras armé d'al-Qaïda en Syrie-est répertorié par le Conseil de sécurité de l'ONU comme une organisation terroriste.
 
 > Ce groupe terroriste a profité du mépris du gouvernement turc pour ses obligations en vertu des accords D'Astana et de Sotchi pour prendre le contrôle de la province D'Idlib et commettre les pires crimes contre son peuple.
 

@@ -30,7 +30,7 @@ En effet, les grandes multinationales sont tenues d'établir en détail dans leu
 
 #### Critique de la rémunération
 
-C'est là que les ONG commencent à critiquer. Par exemple, le rapport de Total, publié au printemps 2019, est incomplet et flou. En Ouganda, les ONG ont constaté des « violations ou de graves risques graves de violations des droits de l'homme » par une filiale de Total et deux sous-traitants.
+C'est là que les ONG commencent à critiquer. Par exemple, le rapport de Total, publié au printemps 2019, est incomplet et flou. En Ouganda, les ONG ont constaté des " violations ou de graves risques graves de violations des droits de l'homme " par une filiale de Total et deux sous-traitants.
 
 Comme Dickens Kamugisha, avocat et directeur général de l'association [AFIEGO](https://www.afiego.org/ "Africa Institute for Energy Governance"), l'a déclaré lors d'une conférence de presse, six millions de personnes vivent dans la région en question. 50 000 habitants devraient quitter leur pays pour faire place aux projets de Total. Les personnes concernées n'ont d'autre choix que d'accepter l'indemnisation de Total, a déclaré M. Kamugisha. Un système qui fonctionne avec des données de point les oblige à le faire. Sinon, ils risqueraient de tout perdre.
 

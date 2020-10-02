@@ -12,7 +12,7 @@ Wer glaubt, man könne jetzt mit einer Milliarde mal schnell Grundwasser retten 
 
 {{< image srcwebp="/static/img/content/2020/081.webp" srcalt="/static/img/content/2020/081.jpg" title="Agriculture" >}}
 
-Aber ein Weiter so, sicher auch um der Agrarindustrie und den vor- und nachgelagerten Branchen nicht zu schaden, wird die Situation nur noch weiter verschärfen. Wenn auch bisher noch nicht endgültig geklärt ist, wofür diese „Bauern-Milliarde“ – der Name an sich ist schon eine Frechheit – verwendet werden soll, so ist doch davon auszugehen, dass in erster Linie Güllelager, Gülletransport, Güllefässer, Gülleseparierung und evtl. ein paar Agrarumweltmaßnahmen gefördert werden.
+Aber ein Weiter so, sicher auch um der Agrarindustrie und den vor- und nachgelagerten Branchen nicht zu schaden, wird die Situation nur noch weiter verschärfen. Wenn auch bisher noch nicht endgültig geklärt ist, wofür diese "Bauern-Milliarde" – der Name an sich ist schon eine Frechheit – verwendet werden soll, so ist doch davon auszugehen, dass in erster Linie Güllelager, Gülletransport, Güllefässer, Gülleseparierung und evtl. ein paar Agrarumweltmaßnahmen gefördert werden.
 
 Um diesen Irrsinn zu verstehen, muss man ein bisschen ins Detail gehen: Die [Düngeverordnung von 2017](https://www.buzer.de/s1.htm?g=D%C3%BCV&f=1 "Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen") soll ein Instrument sein, um die Nitratwerte im Grundwasser und die Amoniak-Ausgasungen aus der Landwirtschaft zu reduzieren. Sollten die Maßnahmen nicht wirksam sein, drohen Deutschland Strafzahlungen an Brüssel von 800.000 € täglich. Nun ist es schon sehr erstaunlich, dass erst dieser Druck aus Brüssel notwendig war, dass die Politik in Deutschland den Handlungsbedarf überhaupt erkannte.
 
@@ -36,7 +36,7 @@ Dazu muss man noch wissen, dass die Kosten für die jeweilige Investition meist 
 
 {{< image srcwebp="/static/img/content/2020/084.webp" srcalt="/static/img/content/2020/084.jpg" title="Agriculture" >}}
 
-Die durch viele Bauern und Bäuerinnen ertüftelten und über viele Jahre erprobten Alternativen, wie z.B. Güllebehandlung mit Steinmehl oder effektiven Mikroorganismen, was auch zu einer Reduktion der Amoniakausgasung führt, wird nicht zugelassen. Nein, es müssen ja immer technische „Lösungen“ her, die uns Bauern viel Geld kosten.
+Die durch viele Bauern und Bäuerinnen ertüftelten und über viele Jahre erprobten Alternativen, wie z.B. Güllebehandlung mit Steinmehl oder effektiven Mikroorganismen, was auch zu einer Reduktion der Amoniakausgasung führt, wird nicht zugelassen. Nein, es müssen ja immer technische "Lösungen" her, die uns Bauern viel Geld kosten.
 
 #### Gülletransporte
 
@@ -48,7 +48,7 @@ Sinnvoller wäre eine flächengebundene Tierhaltung mit max. zwei Großvieheinhe
 
 #### Ist es Naivität oder Kalkül?
 
-Mir scheint, diese Düngeverordnung ist genau so konzipiert, dass das bestehende System erhalten bleibt und man versucht, mit ein paar kleinen Stellschräubchen den Strafzahlungen der EU zu entkommen. In die Reihe der visionslosen Agrarpolitik und der stümperhaften Düngeverordnung passt das rausgeschmissene Geld der „Bauern-Milliarde“ ausgezeichnet. Sie wird nur dazu dienen, Bauern und Verbraucher noch weiter auseinander zu bringen.
+Mir scheint, diese Düngeverordnung ist genau so konzipiert, dass das bestehende System erhalten bleibt und man versucht, mit ein paar kleinen Stellschräubchen den Strafzahlungen der EU zu entkommen. In die Reihe der visionslosen Agrarpolitik und der stümperhaften Düngeverordnung passt das rausgeschmissene Geld der "Bauern-Milliarde" ausgezeichnet. Sie wird nur dazu dienen, Bauern und Verbraucher noch weiter auseinander zu bringen.
 
 {{< image srcwebp="/static/img/content/2020/086.webp" srcalt="/static/img/content/2020/086.jpg" title="Agriculture" >}}
 

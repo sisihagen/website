@@ -18,7 +18,7 @@ C'est ce qui est clairement exposé partout dans l'Ouest, mais le Royaume-Uni es
 
 Il est apparu au cours du week — end que Dominic Cummings, la centrale idéologique derrière le premier ministre bouffon de la Grande-Bretagne Boris Johnson, a été essentiel pour retarder la réponse du gouvernement britannique au coronavirus-conduisant efficacement la Grande-Bretagne sur la (mauvaise) voie de contagion italienne plutôt que la (bonne) Sud-Coréenne.
 
-Selon les rapports [des médias](https://www.theguardian.com/politics/2020/mar/22/no-10-denies-claim-dominic-cummings-argued-to-let-old-people-die "No 10 denies claim Dominic Cummings argued to 'let old people die'") du week-end, Cummings a initialement bloqué l'action du gouvernement, arguant de la peste à venir que “si cela signifie que certains retraités meurent, tant pis."Cette approche explique le traînage des talons pendant de nombreux jours, puis des jours plus de tramage qui vient seulement maintenant à une résolution.
+Selon les rapports [des médias](https://www.theguardian.com/politics/2020/mar/22/no-10-denies-claim-dominic-cummings-argued-to-let-old-people-die "No 10 denies claim Dominic Cummings argued to 'let old people die'") du week-end, Cummings a initialement bloqué l'action du gouvernement, arguant de la peste à venir que "si cela signifie que certains retraités meurent, tant pis."Cette approche explique le traînage des talons pendant de nombreux jours, puis des jours plus de tramage qui vient seulement maintenant à une résolution.
 
 {{< tweet "1242195497181478912" >}}
 
@@ -30,13 +30,13 @@ Et bien sûr, ces monétaristes purs et durs deviennent déjà tranquillement de
 
 Comme je l'avais prédit dans mon dernier post, le gouvernement britannique a jeté la semaine dernière les politiques d'austérité qui ont été la référence de l'orthodoxie du Parti conservateur pendant plus d'une décennie et a annoncé une folie des dépenses pour sauver les entreprises sans entreprise ainsi que les membres du public ne sont plus en mesure de gagner leur vie.
 
-Depuis le krach financier de 2008, les conservateurs ont réduit les dépenses sociales et sociales à l'OS, créant une sous-classe massive en Grande-Bretagne, et ont laissé les autorités locales sans le sou et incapables de couvrir le déficit. Au cours de la dernière décennie, le gouvernement conservateur a excusé son approche brutaliste avec le mantra qu'il n'y avait pas “arbre d'argent magique” pour aider dans les moments difficiles.
+Depuis le krach financier de 2008, les conservateurs ont réduit les dépenses sociales et sociales à l'OS, créant une sous-classe massive en Grande-Bretagne, et ont laissé les autorités locales sans le sou et incapables de couvrir le déficit. Au cours de la dernière décennie, le gouvernement conservateur a excusé son approche brutaliste avec le mantra qu'il n'y avait pas "arbre d'argent magique” pour aider dans les moments difficiles.
 
 Le libre marché, ont-ils soutenu, était la seule voie fiscalement responsable. Et dans sa sagesse infinie, le marché avait décidé que le pourcentage 1 - les millionnaires et les milliardaires qui avaient tankisé l'économie dans ce krach 2008 — deviendraient encore plus riches qu'ils ne l'étaient déjà. Pendant ce temps, le reste d'entre nous verrait siphonner nos salaires et nos perspectives afin que le pourcentage 1 puisse horde encore plus de richesse sur les îles offshore où nous et le gouvernement ne pourrions jamais mettre la main dessus.
 
 Le ”néolibéralisme" est devenu un terme mystificateur utilisé pour réimaginer le capitalisme d'entreprise non durable, non seulement comme un système rationnel et juste, mais comme le seul système qui n'impliquait pas de goulags ou de files d'attente de pain.
 
-Non seulement les politiciens britanniques (y compris la plupart du Parti travailliste parlementaire) y souscrivaient, mais l'ensemble des médias corporatifs y souscrivaient, même si le “libéral” [Guardian](https://www.theguardian.com/world/2019/may/28/uk-and-territories-are-greatest-enabler-of-tax-avoidance-study-says "This article is more than 10 months old UK and territories are 'greatest enabler' of tax avoidance, study says")  se demandait très occasionnellement et très inefficacement s'il était temps de rendre ce capitalisme turbo-chargé un peu plus attentionné.
+Non seulement les politiciens britanniques (y compris la plupart du Parti travailliste parlementaire) y souscrivaient, mais l'ensemble des médias corporatifs y souscrivaient, même si le "libéral” [Guardian](https://www.theguardian.com/world/2019/may/28/uk-and-territories-are-greatest-enabler-of-tax-avoidance-study-says "This article is more than 10 months old UK and territories are 'greatest enabler' of tax avoidance, study says")  se demandait très occasionnellement et très inefficacement s'il était temps de rendre ce capitalisme turbo-chargé un peu plus attentionné.
 
 Seulement trompé, dangereux Jeremy Corbyn ”cultistes" pensé différent.
 
@@ -50,9 +50,9 @@ On n'a pas besoin d'être un génie comme Dominic Cummings pour voir à quel poi
 
 {{< tweet "1242096188859584514" >}}
 
-C'est pourquoi cette semaine, le politicien conservateur Zac Goldsmith, le fils d'un milliardaire récemment élevé à la Chambre des Lords, a décrit comme un “con” quiconque avait la témérité de devenir un “critique de siège arrière” de Boris Johnson. Et c'est pourquoi la “journaliste politique” Isabel Oakeshott – anciennement du Sunday Times et une habituée de L'heure des questions de la BBC-s'est rendue sur twitter pour applaudir Mike Hancock et Johnson pour leur sacrifice et leur dévouement au service public face au virus:
+C'est pourquoi cette semaine, le politicien conservateur Zac Goldsmith, le fils d'un milliardaire récemment élevé à la Chambre des Lords, a décrit comme un "con” quiconque avait la témérité de devenir un "critique de siège arrière” de Boris Johnson. Et c'est pourquoi la "journaliste politique” Isabel Oakeshott – anciennement du Sunday Times et une habituée de L'heure des questions de la BBC-s'est rendue sur twitter pour applaudir Mike Hancock et Johnson pour leur sacrifice et leur dévouement au service public face au virus:
 
-> Être prêt. Au cours des prochaines semaines, de plus en plus de journalistes vont sonner comme le corps de presse de la Corée du Nord, avec des païens à “le Cher leader” et exige que nous ayons confiance qu'il sait mieux ce qui doit être fait dans notre heure de besoin.
+> Être prêt. Au cours des prochaines semaines, de plus en plus de journalistes vont sonner comme le corps de presse de la Corée du Nord, avec des païens à "le Cher leader” et exige que nous ayons confiance qu'il sait mieux ce qui doit être fait dans notre heure de besoin.
 
 ### Sauvé par les renflouements
 
@@ -70,7 +70,7 @@ Les renflouements n'ont pas réparé le capitalisme, ils ont simplement retardé
 
 > L'histoire qu'ils nous racontent depuis 40 ans ou plus sur les dures réalités économiques est sur le point d'être exposée comme un conte de fées égoïste.
 
-Le capitalisme est encore structurellement défectueux. Sa dépendance à une consommation toujours croissante ne peut répondre aux crises environnementales qu'entraîne nécessairement cette consommation. Et les économies qui sont artificiellement “cultivées", en même temps que les ressources s'épuisent, créent finalement des bulles gonflées de néant — des bulles qui vont bientôt éclater à nouveau.
+Le capitalisme est encore structurellement défectueux. Sa dépendance à une consommation toujours croissante ne peut répondre aux crises environnementales qu'entraîne nécessairement cette consommation. Et les économies qui sont artificiellement "cultivées", en même temps que les ressources s'épuisent, créent finalement des bulles gonflées de néant — des bulles qui vont bientôt éclater à nouveau.
 
 #### Mode De Survie
 
@@ -84,7 +84,7 @@ La vérité est que dans une période d'effondrement, comme cette décennie, le 
 
 Le deuxième "arbre de l'argent magique", nécessaire pour faire face à ce qui deviendra le coût économique encore plus désastreux causé par le virus, a dû être élargi pour nous inclure. Mais ne vous méprenez pas. Le cercle de bienfaisance a été élargi non pas parce que le capitalisme se soucie soudainement des sans-abri et de ceux qui dépendent des banques alimentaires. Le capitalisme est un système économique amoral entraîné par l'accumulation de profits pour les propriétaires du capital. Et ce n'est pas vous ou moi.
 
-Non, le capitalisme est maintenant en mode Survie. C'est pourquoi les gouvernements occidentaux vont, pendant un certain temps, essayer de “renflouer” une partie de leurs publics, en leur redonnant une partie de la richesse communautaire qui a été extraite pendant de nombreuses décennies. Ces gouvernements tenteront de dissimuler un peu plus longtemps le fait que le capitalisme est tout à fait incapable de résoudre les crises mêmes qu'il a créées. Ils vont essayer d'acheter notre déférence à un système qui a détruit notre planète et l'avenir de nos enfants.
+Non, le capitalisme est maintenant en mode Survie. C'est pourquoi les gouvernements occidentaux vont, pendant un certain temps, essayer de "renflouer” une partie de leurs publics, en leur redonnant une partie de la richesse communautaire qui a été extraite pendant de nombreuses décennies. Ces gouvernements tenteront de dissimuler un peu plus longtemps le fait que le capitalisme est tout à fait incapable de résoudre les crises mêmes qu'il a créées. Ils vont essayer d'acheter notre déférence à un système qui a détruit notre planète et l'avenir de nos enfants.
 
 Cela ne fonctionnera pas indéfiniment, comme Dominic Cummings le sait trop bien. C'est pourquoi le gouvernement Johnson, ainsi que L'administration Trump et leurs découpages au Brésil, en Hongrie, en Israël, en Inde et ailleurs, sont en train de rédiger [une législation d'urgence draconienne](https://www.independent.co.uk/news/uk/politics/coronavirus-boris-johnson-emergency-laws-powers-vote-a9416251.html "Boris Johnson faces Commons revolt over emergency coronavirus laws") qui aura un objectif à plus long terme que celui immédiat de prévenir la contagion.
 

@@ -12,7 +12,7 @@ Ms. Sacharova kindly and not without irony and sarcasm draws up a list for the [
 
 {{< youtube "2klW9wWHGcY" >}}
 
-According to the media, US Permanent Representative to NATO Kay Bailey Hutchison presented Turkey with an ultimatum during a [CNN interview](https://www.cnbc.com/2019/06/04/us-nato-ambassador-turkey-must-cancel-russia-s-400-missile-purchase.html "US NATO ambassador says Turkey must back down on Russian missile purchase"): the Turkish Government must abstain from buying S-400 surface-to-air missile systems from Russia if it wants to acquire US-made F-35 fighters. “So, what happens is that they will have to make a choice, they have the right to make that choice, but it is one or the other, not both,” she noted.
+According to the media, US Permanent Representative to NATO Kay Bailey Hutchison presented Turkey with an ultimatum during a [CNN interview](https://www.cnbc.com/2019/06/04/us-nato-ambassador-turkey-must-cancel-russia-s-400-missile-purchase.html "US NATO ambassador says Turkey must back down on Russian missile purchase"): the Turkish Government must abstain from buying S-400 surface-to-air missile systems from Russia if it wants to acquire US-made F-35 fighters. "So, what happens is that they will have to make a choice, they have the right to make that choice, but it is one or the other, not both,” she noted.
 
 The news has arrived that the US ambassador to NATO, Kay Bailey Hutchison, has issued an ultimatum to Turkey in an [interview for CNBC]. According to the Turkish government, it should refrain from buying Russian S-400 missile complexes if it wants to obtain F-35 fighter jets from the US.
 
@@ -42,6 +42,6 @@ As I see it, the US Department of State should have done this work. They should 
 
   - Speaking of Russia, I am afraid to even start listing what it must do.
 
-I have a question: isn’t Washington afraid that the world might, at some stage, ask it to pay for these services after the results of this “must-do” policy are announced?
+I have a question: isn’t Washington afraid that the world might, at some stage, ask it to pay for these services after the results of this "must-do” policy are announced?
 
 I cannot help but say that, of course, all countries must also accommodate US military bases on their territories. Just look at the map.

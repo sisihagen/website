@@ -2,8 +2,7 @@
 title: "Au-delà de toute morale"
 date: 2019-08-24
 tags: "politique"
-keywords: "Venezuela, Iran, Israel, Sanctions, Boycott, ONU, ONU, Paix, Guerre, Alimentation, Médecine"
-shorttext: "Le Venezuela et l'Iran sont dans le collimateur d'une hypocrite «société du meurtrier» qui jette toutes les règles internationales sur le dessus."
+shorttext: "Le Venezuela et l'Iran sont dans le collimateur d'une hypocrite société du meurtrier qui jette toutes les règles internationales sur le dessus."
 cover: "repression"
 draft: false
 lang: fr
@@ -11,7 +10,7 @@ lang: fr
 
 > L'hypocrisie est un vice privilégié qui ferme la bouche du monde de sa propre main et jouit de son impunité en paix. (Molière Don Juan)
 
-Don Juan est le prototype de l'hypocrite sans prétention qui ne tient pas compte de toutes les mœurs, valeurs et idéaux et ne respecte aucune norme ou règle sociale. 360 ans plus tard, nous assistons à cette hypocrisie sur la scène politique internationale, des acteurs qui bafouent toutes les règles, appliquent deux poids, deux mesures et crient « Gardez le voleur ! » lorsqu'ils sont pris.
+Don Juan est le prototype de l'hypocrite sans prétention qui ne tient pas compte de toutes les mœurs, valeurs et idéaux et ne respecte aucune norme ou règle sociale. 360 ans plus tard, nous assistons à cette hypocrisie sur la scène politique internationale, des acteurs qui bafouent toutes les règles, appliquent deux poids, deux mesures et crient " Gardez le voleur ! " lorsqu'ils sont pris.
 
 Imaginez si le monde se ressaisirait, qu'il en avait enfin assez de l'arrogance meurtrière agressive des États-Unis et de ses vassaux européens, ainsi que de leur organisation terroriste commune, l'OTAN. Imaginez en outre que ce monde, sans Washington et ses vassaux, bloquerait soudainement toutes les livraisons aux États-Unis; chaque port, aéroport, toutes les routes d'accès. Hermétiquement, rien ne serait introduit. rien. Pas de nourriture, pas de médicaments, pas d'électronique, pas de voitures. Et rien ne pouvait quitter le pays. Pas d'exportations, pas de carburant, pas de céréales, pas de viande, pas de médicaments et pas d'armes. Rien du tout.
 
@@ -31,7 +30,7 @@ Les États-Unis élargissent maintenant leur répertoire de méthodes de meurtre
 
 On pourrait penser que les institutions internationales telles que l'ONU et ses organisations associées et sœurs ne resteraient pas silencieuses à ce sujet, mais c'est exactement ce qu'elles font.
 
-Lorsqu'un haut fonctionnaire fait une légère critique des États-Unis ou d'Israel, il apparaît un instant dans les «nouvelles», mais disparaît immédiatement comme si cela ne s'était jamais produit. Et en fait, rien ne se passe.
+Lorsqu'un haut fonctionnaire fait une légère critique des États-Unis ou d'Israel, il apparaît un instant dans les "nouvelles", mais disparaît immédiatement comme si cela ne s'était jamais produit. Et en fait, rien ne se passe.
 
 Ils — les États-Unis et Israel — continuent de commettre leurs crimes en toute impunité.
 
@@ -47,7 +46,7 @@ Personne ne dit un ton. Oui, il y a quelques protestations collectives de pays s
 
 #### Tenez le voleur !
 
-Les plus intéressants, cependant, sont les hypocrites qui écrivent et crient que les Vénézuéliens meurent de faim, que le gouvernement Maduro néglige son propre peuple, tandis que les «procureurs» permettent aux États-Unis et à ses vassaux d'étrangler le Venezuela, les actifs étrangers, l'or, la nourriture et importations de médicaments. Ils ne disent rien, absolument rien, absolument rien. Ici, ils ne font que regarder.
+Les plus intéressants, cependant, sont les hypocrites qui écrivent et crient que les Vénézuéliens meurent de faim, que le gouvernement Maduro néglige son propre peuple, tandis que les "procureurs" permettent aux États-Unis et à ses vassaux d'étrangler le Venezuela, les actifs étrangers, l'or, la nourriture et importations de médicaments. Ils ne disent rien, absolument rien, absolument rien. Ici, ils ne font que regarder.
 
 #### La Commission des droits de l'homme est-elle toujours crédible?
 

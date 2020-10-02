@@ -39,7 +39,7 @@ Not to mention various variations with "Propaganda"and their derivatives. There 
 
 Sometimes it takes bizarre forms. It was apparently a bad awakening for the "political planner for AKK and CDU", according to his own Twitter-information, Nico Lange, when one day he looked around on Google after recent contributions to Ukraine — and first A RT German article against him from the screen:
 
-"Really, @GoogleDE? The relevant google Alerts for #Ukraine are all from RT German, Sputnik Germany and Contra magazine? #Disinoweek @apolyakova @geyshapaola #disinformation,“ tweeted Nico for a Long indignant. "Why can you send in Germany at all? This was when politics was supposed to act,“ said the head of the CDU-related PR agency MSL Germany Axel Wallrabenstein.
+"Really, @GoogleDE? The relevant google Alerts for #Ukraine are all from RT German, Sputnik Germany and Contra magazine? #Disinoweek @apolyakova @geyshapaola #disinformation," tweeted Nico for a Long indignant. "Why can you send in Germany at all? This was when politics was supposed to act," said the head of the CDU-related PR agency MSL Germany Axel Wallrabenstein.
 
 The reason was profane and had nothing to do with an implied clandestine collaboration between Google and the Russians: RT Deutsch and Sputnik have reported what all German Mainstream media have ignored-tumults with right — wing radicals after an election appearance Poroschenko. The Google Algorithms do not seem to have the fine ideological sense as Kramp cart Builder, a media consultant.
 

@@ -19,7 +19,7 @@ If Netanyahu visits somewhere where Jews were murdered in the context of the Hol
 
 [Olena Teliha](https://www.thejc.com/news/news-features/ukraine-s-leader-in-the-%EF%AC%81ght-against-jew-hate-bends-holocaust-history-1.434037 "Ukraine’s leader in the ﬁght against Jew-hate bends Holocaust history") était une poétesse douée, à la tête de l'Association des écrivains ukrainiens, rédactrice en chef d'un magazine littéraire et rédactrice en chef du journal Ukrayins'ke Slovo. Et, surtout, elle était une ardente nationaliste et juive-haineuse. En 1939, elle rejoint l'organisation [OUN](http://www.encyclopediaofukraine.com/display.asp?AddButton=pages\O\R\OrganizationofUkrainianNationalists.htm "Organization of Ukrainian Nationalists"), qui participe au meurtre de milliers de Juifs pendant et après la Seconde Guerre mondiale.
 
-Peu de temps après le massacre de Babyn Jar en septembre 1941, Olena Teliha a souligné dans son journal que les Juifs vivaient encore à Kiev, qui avaient obtenu de faux papiers pour de l'argent cher et vivaient une vie cachée ici sous un faux nom. Le peuple ukrainien devrait maintenant signaler dès que possible ces personnes, qui n'auraient pas le droit d'exister en Ukraine ou ailleurs, et s'assurer que le pays, les villages et les beaux paysages, « par les partisans, les juifs et les commissaires rouges ». nettoyés ".
+Peu de temps après le massacre de Babyn Jar en septembre 1941, Olena Teliha a souligné dans son journal que les Juifs vivaient encore à Kiev, qui avaient obtenu de faux papiers pour de l'argent cher et vivaient une vie cachée ici sous un faux nom. Le peuple ukrainien devrait maintenant signaler dès que possible ces personnes, qui n'auraient pas le droit d'exister en Ukraine ou ailleurs, et s'assurer que le pays, les villages et les beaux paysages, " par les partisans, les juifs et les commissaires rouges ". nettoyés ".
 
 {{< image srcwebp="/static/img/content/2019/156.webp" srcalt="/static/img/content/2019/156.jpg" title="Olena Teliha: Ukraine must be cleansed of the Jews as soon as possible." >}}
 
@@ -31,7 +31,7 @@ Dans l'Ukraine d'aujourd'hui, la haine des Juifs est non seulement tolérée, ma
 
 {{< image srcwebp="/static/img/content/2019/158.webp" srcalt="/static/img/content/2019/158.jpg" title="Olena Teliha - Commemorative" >}}
 
-Le fait qu'Olena Teliha ait été abattue par la Gestapo quelques mois après le massacre de Babyn Yar, parce qu'Hitler ne voulait pas créer un État ukrainien indépendant, est bien sûr très pratique pour les faiseurs d'histoire d'aujourd'hui : l'Ukraine n'était qu'une victime. , pas aussi les auteurs. Olena Teliha a également été victime des nazis en tant que « nationaliste romantique ».
+Le fait qu'Olena Teliha ait été abattue par la Gestapo quelques mois après le massacre de Babyn Yar, parce qu'Hitler ne voulait pas créer un État ukrainien indépendant, est bien sûr très pratique pour les faiseurs d'histoire d'aujourd'hui : l'Ukraine n'était qu'une victime. , pas aussi les auteurs. Olena Teliha a également été victime des nazis en tant que " nationaliste romantique ".
 
 {{< youtube "Q3ShfLt-LA" >}}
 

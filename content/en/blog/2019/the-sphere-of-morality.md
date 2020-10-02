@@ -34,7 +34,7 @@ Sin is completely free, because we are actually a bunch of primates with relativ
 
 If you unravel these stories from the power of faith, then the almost ridiculously transparent marketing concept behind them becomes visible.
 
-"Shall we tell you something? Do you know that when you feel like you're basically fine? No, it doesn't! Because you're infected with sin, and only the One True ReligionTM can save you from it! It's true! You can cut and sniff with it — and keep your soul from the eternal hellfire! Yes, this is the One True ReligionTM! The follow is A True ReligionTM and you will be freed from the burden of sin. Also, you'll get to the best place you can imagine when you're dead. Refuse to obey one true Religion, and all this sin will cause the worst that you can imagine, so only after you're dead, not immediately. Act now, supplies are running out! The basket for tithing now turns out to be, buy yourself into a true Religion today!“
+"Shall we tell you something? Do you know that when you feel like you're basically fine? No, it doesn't! Because you're infected with sin, and only the One True ReligionTM can save you from it! It's true! You can cut and sniff with it — and keep your soul from the eternal hellfire! Yes, this is the One True ReligionTM! The follow is A True ReligionTM and you will be freed from the burden of sin. Also, you'll get to the best place you can imagine when you're dead. Refuse to obey one true Religion, and all this sin will cause the worst that you can imagine, so only after you're dead, not immediately. Act now, supplies are running out! The basket for tithing now turns out to be, buy yourself into a true Religion today!"
 
 Ridiculous, manipulative bullshit.
 

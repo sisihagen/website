@@ -27,7 +27,7 @@ Cette logique a fonctionné et, malgré toutes les tensions, a sauvé le monde d
 
 Les États-Unis ont unilatéralement mis fin au traité en 2002. À l'époque, la Russie était faible, et les États-Unis estimaient qu'il n'était plus nécessaire d'en tenir compte. Ils ont développé leur défense antimissile stratégique (officiellement contre l'Iran et la Corée du Nord), qu'ils ont ensuite mis en place loin de ces pays à la frontière avec la Russie. Aujourd'hui, les installations sont situées en Roumanie et en Pologne.
 
-Le « missile défensif » semble inoffensif, c'est un système agressif. Le but de cette «défense» est de mener une première frappe contre la Russie , dans l'espoir que la contre-attaque russe alors faible peut être largement intercepté avec la défense antimissile.
+Le " missile défensif " semble inoffensif, c'est un système agressif. Le but de cette "défense" est de mener une première frappe contre la Russie , dans l'espoir que la contre-attaque russe alors faible peut être largement intercepté avec la défense antimissile.
 
 La défense antimissile avec ses quelques missiles, d'autre part, n'offre aucune protection contre une première frappe des Russes, qui aurait lieu avec des centaines ou des milliers de missiles. Mais une contre-attaque avec quelques dizaines de missiles restants était espérée pour une certaine protection.
 
@@ -35,7 +35,7 @@ La logique perverse de la guerre froide était ainsi devenue encore plus pervers
 
 Un autre problème est que la défense antimissile peut être utilisée non seulement pour la défense, mais aussi pour les premières frappes. La raison en est les dispositifs de lancement de la défense antimissile. Ce sont les MK-41, qui sont également utilisés sur les navires pour lancer les missiles Tomahawk.
 
-Cela permet aux États-Unis de lancer non seulement les missiles défensifs à partir de là, mais aussi les missiles Tomahawk à pointe nucléaire. Cela fait en fait de la « défense antimissile » un système d'attaque. Il s'agit également d'une violation flagrante du traité INF, puisque l'établissement de telles rampes de lancement sur terre est sans équivoque interdit dans ce traité. Nous en viendrons au traité INF dans un certain temps.
+Cela permet aux États-Unis de lancer non seulement les missiles défensifs à partir de là, mais aussi les missiles Tomahawk à pointe nucléaire. Cela fait en fait de la " défense antimissile " un système d'attaque. Il s'agit également d'une violation flagrante du traité INF, puisque l'établissement de telles rampes de lancement sur terre est sans équivoque interdit dans ce traité. Nous en viendrons au traité INF dans un certain temps.
 
 En outre, la Russie avait déjà réagi en 2002 en annonçant, après la fin du traité ABM, qu'elle réagirait de manière asymétrique et développerait des missiles qui pourraient contourner la défense antimissile.
 
@@ -49,7 +49,7 @@ Le contexte de l'enstation de missiles soviétiques SS-20 en RDA dans les année
 
 Cependant, il ne s'agissait que de roquettes terrestres, c'est pourquoi, par exemple, les roquettes Tomahawk des États-Unis ne violent pas le traité, parce qu'elles ne sont pas tirées par la terre, mais par des avions ou des navires.
 
-Soit dit en passant, les Tomahawks ont été initialement développés pour une utilisation avec des armes nucléaires. Les Russes n'avaient rien de tel, et ce n'est que récemment, avec le missile «Kibir», ils ont ajouté un système d'armes similaire à leurs arsenaux, qui, comme le Tomahawk, peut être abattu par des avions, des navires et des sous-marins, mais pas par la terre.
+Soit dit en passant, les Tomahawks ont été initialement développés pour une utilisation avec des armes nucléaires. Les Russes n'avaient rien de tel, et ce n'est que récemment, avec le missile "Kibir", ils ont ajouté un système d'armes similaire à leurs arsenaux, qui, comme le Tomahawk, peut être abattu par des avions, des navires et des sous-marins, mais pas par la terre.
 
 The INF Treaty was extremely important, especially for Europe, because short-and medium-range missiles do not pose a threat to the United States, which is far enough away, but probably to the European countries. For these rockets reach their targets within minutes, and there is practically no advance warning time.
 
@@ -71,7 +71,7 @@ Soit dit en passant, l'histoire de cette terminaison est curieuse. Le citoyen al
 
 Lorsque les États-Unis ont annoncé l'abrogation unilatérale du traité en octobre 2018, la Russie a présenté une résolution à l'Assemblée générale des Nations Unies pour y discuter de cette question.
 
-Cela a été suivi par les votes de tous les États européens de l'OTAN ainsi que les États-Unis rejetés. Il s'agit d'un exemple clair de la façon dont les politiciens allemands disent cela pour le «peuple stupide» dans le Newsreel et pourtant faire le contraire.
+Cela a été suivi par les votes de tous les États européens de l'OTAN ainsi que les États-Unis rejetés. Il s'agit d'un exemple clair de la façon dont les politiciens allemands disent cela pour le "peuple stupide" dans le Newsreel et pourtant faire le contraire.
 
 Ne soyez pas surpris, si vous n'avez jamais entendu parler de lui, aucun allemand unique "moyen de qualité" a signalé à ce sujet.
 

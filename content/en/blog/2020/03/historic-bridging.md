@@ -20,7 +20,7 @@ The Iranian plateau historically includes Afghanistan and parts of Central Asia 
 
 The Persians engaged the Phoenicians in the Syrian coastline as their partners to manage sea trade in the Mediterranean. Enterprising people in Tyre established Carthage as a node between the Eastern and Western Mediterranean. Because of the partnership with the Phoenicians, the Persians would inevitably be antagonized by the Greeks – a sea trading power.
 
-When the Chinese, promoting the New Silk Roads, emphasize “people to people exchange” as one of its main traits, they mean the millenary Euro-Asia dialogue. History may even have aborted two massive, direct encounters.
+When the Chinese, promoting the New Silk Roads, emphasize "people to people exchange” as one of its main traits, they mean the millenary Euro-Asia dialogue. History may even have aborted two massive, direct encounters.
 
 The first was after Alexander The Great defeated Darius III of Persia. But then Alexander’s Seleucid successors had to fight the rising power in Central Asia: the Parthians – who ended up taking over Persia and Mesopotamia and made the Euphrates the limes between them and the Seleucids.
 
@@ -54,7 +54,7 @@ And the rest – North Atlantic hegemony – is history.
 
 #### Enlightened arrogance
 
-The Enlightenment could not possibly box Asia inside its own rigid geometries. Europe ceased to understand Asia, proclaimed it was some sort of proteiform historical detritus and turned its undivided attention to “virgin,” or “promised” lands elsewhere on the planet.
+The Enlightenment could not possibly box Asia inside its own rigid geometries. Europe ceased to understand Asia, proclaimed it was some sort of proteiform historical detritus and turned its undivided attention to "virgin,” or "promised” lands elsewhere on the planet.
 
 We all know how England, from the 18th century onwards, took control of the entire trans-oceanic routes and turned North Atlantic supremacy into a lone superpower game – till the mantle was usurped by the US.
 
@@ -70,7 +70,7 @@ The Raging 2020s may signify the historical juncture when this bloc surpasses th
 
 Now compare it with the prime US strategic objective at all times, for decades: to establish, via myriad forms of divide and rule, that relations between Germany, Russia and China must be the worst possible.
 
-No wonder strategic fear was glaringly visible at the NATO summit in London last month, which called for ratcheting up pressure on Russia-China. Call it the late Zbigniew “Grand Chessboard” Brzezinski’s ultimate, recurrent nightmare.
+No wonder strategic fear was glaringly visible at the NATO summit in London last month, which called for ratcheting up pressure on Russia-China. Call it the late Zbigniew "Grand Chessboard” Brzezinski’s ultimate, recurrent nightmare.
 
 Germany soon will have a larger than life decision to make. It’s like this was a renewal – in way more dramatic terms – of the Atlanticist vs Ostpolitik debate. German business knows that the only way for a sovereign Germany to consolidate its role as a global export powerhouse is to become a close business partner of Eurasia.
 
@@ -90,4 +90,4 @@ So delicate, so fragile, so immensely rich in culture, no other region in the wo
 
 The Middle East is a key stop in the 21st century, trans-oceanic supply chain routes – thus its geopolitical importance for the current superpower, among other geoeconomic, energy-related reasons. But its best and brightest know the Middle East does not need to remain a center of war, or intimations of war, which, incidentally, affect three of those historical, regional powers of the quartet (Syria, Iraq and Iran).
 
-What the New Silk Roads are proposing is wide-ranging, economic, interlinked integration from East Asia, through Central Asia, to Iran, Iraq and Syria all the way to the Eastern Mediterranean. Just like the Ancient Silk Roads. No wonder vested War Party interests are so uncomfortable with this real peace “threat.”
+What the New Silk Roads are proposing is wide-ranging, economic, interlinked integration from East Asia, through Central Asia, to Iran, Iraq and Syria all the way to the Eastern Mediterranean. Just like the Ancient Silk Roads. No wonder vested War Party interests are so uncomfortable with this real peace "threat.”

@@ -14,7 +14,7 @@ Tout d’abord, le prince héritier a tenté d’attirer le fugitif Saad Aljabri
 
 Après l’arrestation des membres de la famille d’Aljabri en mars de cette année, les médias contrôlés par l’État ont sauté sur un article du Wall Street Journal qui citait des responsables saoudiens anonymes qui accusaient Aljabri de s’enrichir de milliards de dollars d’argent de l’État.
 
-À Washington, Aljabri est considéré comme un "proche confident et ami des États-Unis ». Quatre sénateurs ont écrit à Donald Trump pour demander aux États-Unis d’avoir l’obligation morale de faire tout leur possible pour obtenir la libération de ses enfants. Les responsables de l’ambassade saoudienne à Washington ont refusé de commenter la correspondance entre bin Salman et Aljabri, la demande à Interpol ou les allégations de corruption.
+À Washington, Aljabri est considéré comme un "proche confident et ami des États-Unis ". Quatre sénateurs ont écrit à Donald Trump pour demander aux États-Unis d’avoir l’obligation morale de faire tout leur possible pour obtenir la libération de ses enfants. Les responsables de l’ambassade saoudienne à Washington ont refusé de commenter la correspondance entre bin Salman et Aljabri, la demande à Interpol ou les allégations de corruption.
 
 Aljabri était un haut fonctionnaire au service de la sécurité et de la lutte contre le terrorisme. Il a maintenu des contacts étroits avec des diplomates américains et la CIA. Lorsque bin Salman a pris le pouvoir, Aljabri a été limogé par décret royal en 2015. Quand il est devenu clair que bin Salman remplacerait Mohammed bin Nayef comme prince héritier et dont les alliés, y compris Aljabri, étaient sur la liste de tir, Aljabri a quitté le pays et s’est installé en Turquie.
 

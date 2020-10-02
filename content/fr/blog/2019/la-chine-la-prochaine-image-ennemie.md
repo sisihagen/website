@@ -8,7 +8,7 @@ draft: false
 lang: fr
 ---
 
-Pour pouvoir classer les choses, il faut faire un peu face à l'histoire de la Chine et à sa vision du monde. L'histoire d'un pays caractérise les gens là-bas. En Allemagne, l'ère nazie et la division de l'Allemagne sont les principales caractéristiques de nous, et trente ans plus tard, nous parlons de «L'Ossis» et Wessis. Les États-Unis sont dominés par le « Far West ». Ce passé a donné au pays une tradition martiale, il s'agit de «Bien et mal» et l'auto-compréhension d'être un pays supérieur, «Dieu propre pays». Cela a son origine dans les guerres indiennes et les guerres contre le Mexique, quand les États-Unis se considéraient supérieurs à tous égards. Aussi morale. Ainsi, à ce jour, toutes leurs guerres sont justifiées par la supposée moralité supérieure des États-Unis et leurs « valeurs ». La Pologne se caractérise par le fait qu'elle est divisée entre l'Allemagne et la Russie depuis des siècles, et que cela façonne encore la politique envers les deux voisins. Les Britanniques n'ont toujours pas été blessés pour être un Empire.
+Pour pouvoir classer les choses, il faut faire un peu face à l'histoire de la Chine et à sa vision du monde. L'histoire d'un pays caractérise les gens là-bas. En Allemagne, l'ère nazie et la division de l'Allemagne sont les principales caractéristiques de nous, et trente ans plus tard, nous parlons de "L'Ossis" et Wessis. Les États-Unis sont dominés par le " Far West ". Ce passé a donné au pays une tradition martiale, il s'agit de "Bien et mal" et l'auto-compréhension d'être un pays supérieur, "Dieu propre pays". Cela a son origine dans les guerres indiennes et les guerres contre le Mexique, quand les États-Unis se considéraient supérieurs à tous égards. Aussi morale. Ainsi, à ce jour, toutes leurs guerres sont justifiées par la supposée moralité supérieure des États-Unis et leurs " valeurs ". La Pologne se caractérise par le fait qu'elle est divisée entre l'Allemagne et la Russie depuis des siècles, et que cela façonne encore la politique envers les deux voisins. Les Britanniques n'ont toujours pas été blessés pour être un Empire.
 
 La Chine a une longue tradition de ne pas vouloir se développer, la Chine a elle-même été assez pendant des siècles, au lieu de l'expansion, elle a sécurisé ses frontières avec un mur et encerclé. La Chine est fière de sa culture millénaire et est donc considérée comme culturellement supérieure aux autres. La Chine était autrefois la première puissance maritime et aurait facilement pu devenir une puissance coloniale comme l'Espagne, mais alors un empereur a décidé d'une politique d'isolement. Alors que l'Europe a conquis le monde, la Chine était autosuffisante et a refusé de commercer même avec des pays étrangers dans une large mesure. Seules les puissances coloniales ont forcé la Chine à s'ouvrir au XIXe siècle. 
 
@@ -37,31 +37,31 @@ Vous n'avez pas à partager ce point de vue, mais il est important de comprendre
 
 La Chine compte toujours sur la paix et n'a menacé personne de guerre. Bien sûr, il y a des conflits quand la Chine étend des îles dans la mer chinoise et les déclare son propre territoire afin d'assurer les ressources là-bas. Cela agace les voisins, mais ce n'est pas l'agression contre personne. D'un point de vue sportif, on pourrait dire que la Chine était juste plus rapide que ses concurrents, qui sont également préoccupés par ces dépôts.
 
-Bien sûr, les politiciens et les médias occidentaux ont un point de vue différent à ce sujet. Le Mirror intitulé Le livre blanc chinois « China's military strategy-staged peacefulness » et écrit à ce sujet :
+Bien sûr, les politiciens et les médias occidentaux ont un point de vue différent à ce sujet. Le Mirror intitulé Le livre blanc chinois " China's military strategy-staged peacefulness " et écrit à ce sujet :
 
-> Par exemple, la Chine accuse les États-Unis et leurs alliés d'accroître l'insécurité en Asie avec leur action militaire. « Les dirigeants chinois tentent de renverser le cours de la guerre et donnent aux États-Unis un agresseur, ce qui gâche le tissu mondial », dit Legarda. Selon le Livre blanc, les États-Unis renforceraient spécifiquement leurs « alliances militaires dans la région Asie-Pacifique » et augmenteraient la présence de leurs forces armées. Cela rendra la situation en matière de sécurité « plus complexe »
+> Par exemple, la Chine accuse les États-Unis et leurs alliés d'accroître l'insécurité en Asie avec leur action militaire. " Les dirigeants chinois tentent de renverser le cours de la guerre et donnent aux États-Unis un agresseur, ce qui gâche le tissu mondial ", dit Legarda. Selon le Livre blanc, les États-Unis renforceraient spécifiquement leurs " alliances militaires dans la région Asie-Pacifique " et augmenteraient la présence de leurs forces armées. Cela rendra la situation en matière de sécurité " plus complexe "
 
-Seulement pourquoi la Chine est-elle censée « tourner la broche » ? Qu'est-ce qui ne va pas avec la déclaration chinoise? Ce sont les États-Unis qui sont de plus en plus répandus dans l'espace, ce n'est pas la Chine qui augmente sa présence au Mexique ou dans les Caraïbes. Et ce sont les États-Unis, qui viennent de conclure un accord d'un milliard avec Taïwan sur les livraisons d'armes, et non la Chine, qui équipe le Mexique.
+Seulement pourquoi la Chine est-elle censée " tourner la broche " ? Qu'est-ce qui ne va pas avec la déclaration chinoise? Ce sont les États-Unis qui sont de plus en plus répandus dans l'espace, ce n'est pas la Chine qui augmente sa présence au Mexique ou dans les Caraïbes. Et ce sont les États-Unis, qui viennent de conclure un accord d'un milliard avec Taïwan sur les livraisons d'armes, et non la Chine, qui équipe le Mexique.
 
 L'Occident a le droit de choisir les règles dans toutes les régions du monde et est très surpris si quelqu'un ne l'aime pas. Il n'y a pas trois semaines, Lindner a montré ses limites lors d'une visite en Chine et l'indignation a été grande.
 
 Mais l'Occident aimerait-il avoir une telle ingérence à sa porte? Bien sûr que non!
 
-Nous lisons toujours dans les médias, que ce soit le golfe Persique ou Taiwan ou d'autres régions, que la livraison gratuite ne doit pas être menacée. L'Occident est heureux d'envoyer des associations de flotte dans toutes les régions du monde, dans la vieille tradition britannique de la politique canonnière, et appelle ensuite cela «désescalade».
+Nous lisons toujours dans les médias, que ce soit le golfe Persique ou Taiwan ou d'autres régions, que la livraison gratuite ne doit pas être menacée. L'Occident est heureux d'envoyer des associations de flotte dans toutes les régions du monde, dans la vieille tradition britannique de la politique canonnière, et appelle ensuite cela "désescalade".
 
 {{< youtube "3wgAFHxB3-Y" >}}
 
 Mais pour l'Ouest, la livraison gratuite n'est importante que si elle a lieu loin de ses navires affecte, il ne s'applique pas à d'autres et non pas dans les eaux occidentales.
 
-Les États-Unis, par exemple, envoient à plusieurs reprises des navires de guerre dans les rues de Taïwan et le justifient par la liberté de navigation. Il n'y a aucune compréhension de l'indignation de la Chine dans les médias occidentaux. Le dernier cas de ce genre, à la fin de Juillet a écrit le «temps»:
+Les États-Unis, par exemple, envoient à plusieurs reprises des navires de guerre dans les rues de Taïwan et le justifient par la liberté de navigation. Il n'y a aucune compréhension de l'indignation de la Chine dans les médias occidentaux. Le dernier cas de ce genre, à la fin de Juillet a écrit le "temps":
 
-> Les États-Unis ont envoyé un navire de guerre sur la route de Taiwan. « Le transit à travers la rue de Taiwan montre l'engagement des États-Unis à un IndoPacific libre et ouvert», a déclaré un porte-parole de la septième flotte de la marine américaine à Washington. « La marine américaine continuera de voler, de naviguer et d'opérer partout où le droit international le permettra. »
+> Les États-Unis ont envoyé un navire de guerre sur la route de Taiwan. " Le transit à travers la rue de Taiwan montre l'engagement des États-Unis à un IndoPacific libre et ouvert", a déclaré un porte-parole de la septième flotte de la marine américaine à Washington. " La marine américaine continuera de voler, de naviguer et d'opérer partout où le droit international le permettra. "
 
 Mais l'Ouest se lève-t-il pour la livraison gratuite quand il se produit à sa propre porte?
 
 Nous trouvons la réponse rapidement. Sur le chemin de la Méditerranée à la mer Baltique, les navires russes doivent traverser à plusieurs reprises la Manche. Mais les Britanniques voient cela comme une provocation, comme nous pourrions le lire en détail dans le monde de l'art :
 
-> Une frégate de la marine britannique a intercepté plusieurs navires de guerre russes au large des côtes britanniques et escortépar par la Manche. Le ministère britannique de la Défense a annoncé lundi que le HMS Westminster avait accompagné les frégates russes, RFS Soobrazitelnyy, ainsi que deux navires de soutien le long de la côte sud de l'Angleterre. ( ... ) Dans une déclaration inhabituellement claire, le ministre de la Défense Gavin Williamson avait déclaré qu'il n'hésiterait pas à « défendre nos eaux » et qu'il ne tolérerait aucune forme d'agression. La Grande-Bretagne ne peut pas être intimidée lorsqu'il s'agit de « défendre notre pays, notre peuple et nos intérêts nationaux ».
+> Une frégate de la marine britannique a intercepté plusieurs navires de guerre russes au large des côtes britanniques et escortépar par la Manche. Le ministère britannique de la Défense a annoncé lundi que le HMS Westminster avait accompagné les frégates russes, RFS Soobrazitelnyy, ainsi que deux navires de soutien le long de la côte sud de l'Angleterre. ( ... ) Dans une déclaration inhabituellement claire, le ministre de la Défense Gavin Williamson avait déclaré qu'il n'hésiterait pas à " défendre nos eaux " et qu'il ne tolérerait aucune forme d'agression. La Grande-Bretagne ne peut pas être intimidée lorsqu'il s'agit de " défendre notre pays, notre peuple et nos intérêts nationaux ".
 
 La livraison gratuite vers l'Ouest n'est pas aussi sacrée à la porte de sa propre porte qu'à la porte des autres. Pour dis-le avec le titre de l'article du Spiegel: Qui a mis en scène sa tranquillité?
 
@@ -81,7 +81,7 @@ Il n'a pas tort. On nous dit dans tous les livres et documents historiques que l
 
 Dans le Spiegel, vous pouvez en savoir plus :
 
-> Il a également déclaré que Pékin n'avait aucun intérêt dans les négociations, mais ses propres stocks nucléaires et sa portée étaient trop faibles. Il n'était « ni raisonnable ni juste » de s'attendre à ce que la Chine participe aux pourparlers sur le désarmement.
+> Il a également déclaré que Pékin n'avait aucun intérêt dans les négociations, mais ses propres stocks nucléaires et sa portée étaient trop faibles. Il n'était " ni raisonnable ni juste " de s'attendre à ce que la Chine participe aux pourparlers sur le désarmement.
 
 Cela semble mauvais: la Chine ne veut pas négocier! Dans ce contexte, la Chine a écrit le droit, et c'est également le cas dans son livre blanc :
 

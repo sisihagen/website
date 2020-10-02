@@ -12,8 +12,8 @@ lang: de
 
 #### Beijing
 
-Der US-Außenminister Mike Pompeo hat China Einschränkung von Pressefreiheit vorgeworfen, nachdem drei Korrespondenten des amerikanischen „Wallstreet Journals“ am Mittwoch die Akkreditierung entzogen wurde.
+Der US-Außenminister Mike Pompeo hat China Einschränkung von Pressefreiheit vorgeworfen, nachdem drei Korrespondenten des amerikanischen "Wallstreet Journals" am Mittwoch die Akkreditierung entzogen wurde.
 
-Daraufhin fragte der chinesische Außenamtssprecher Gang Shuang am Donnerstag, ob die diskriminierenden Artikel im „Wallstreet Journals“ gegen die chinesische Nation und das chinesische Volk Ausdruck der sogenannten US-amerikanischen Pressefreiheit seien?
+Daraufhin fragte der chinesische Außenamtssprecher Gang Shuang am Donnerstag, ob die diskriminierenden Artikel im "Wallstreet Journals" gegen die chinesische Nation und das chinesische Volk Ausdruck der sogenannten US-amerikanischen Pressefreiheit seien?
 
 Geng betonte, China regele gesetzmäßig die Angelegenheiten der ausländischen Journalisten in China. Diejenigen Medien, die aber mit ihren Meinungen China beleidigen oder Rassendiskriminierung betreiben, müssten mit ernsthaften Konsequenzen rechnen.

@@ -18,9 +18,9 @@ Les Allemands sont donc de nouveau au même endroit qu'à l'époque. Incapable d
 
 Des jeunes femmes qui, dans leur insécurité quant à ce qu'elles veulent faire de leur vie, choisissent la voie de l'Alliance. La prospérité matérielle, tandis que la négligence intra-émotionnelle, qui se produit lorsque vous recevez les vidéos subliminally-a-days. Le père d'Enny laisse alors un sort de la pile, ce qui fait vraiment stupéfait: "si tu pleures, alors pleure dans l'oreiller!"La chaleur du cœur saute directement vers vous. L'homme est le produit de son environnement, de sorte que de nombreux sociologues le remarqueraient.
 
-Dans presque toutes les histoires est grillé. Nous rappelons Tolstoï mots: "tant qu'il y aura des abattoirs, il y aura toujours des champs de bataille.“
+Dans presque toutes les histoires est grillé. Nous rappelons Tolstoï mots: "tant qu'il y aura des abattoirs, il y aura toujours des champs de bataille."
 
-Et c'est précisément sur ces champs de bataille que les familles allemandes jouent. La mère de Leah dit: "Ma première pensée a été: Je ne veux pas voir mon enfant mort dans une région de crise. ( ... ) (Je suis au courant qu'il peut se retrouver dans une zone de crise.“
+Et c'est précisément sur ces champs de bataille que les familles allemandes jouent. La mère de Leah dit: "Ma première pensée a été: Je ne veux pas voir mon enfant mort dans une région de crise. ( ... ) (Je suis au courant qu'il peut se retrouver dans une zone de crise."
 
 Il y a deux questions ici. Pourquoi la mère n'intervient-elle pas quand elle s'occupe de sa fille? Par exemple, par fierté, parce qu'il fait quelque chose de grand quand il défend L'Allemagne dans une" région de crise " à la Hindu Kush ou exporte la démocratie là-bas? Vient ensuite la deuxième question: le droit international est-il complètement oublié? La Non-Ingérence Principe? L'interdiction de s'ingérer dans les conflits internes d'un état? Le principe de la souveraineté des États? La nature illégale de ces opérations est simplement cachée.
 

@@ -25,13 +25,13 @@ Des hooligans et des radicaux de droite ont attaqué les policiers numériquemen
 
 Cette carte tirée des analyses ukrainiennes de l'Université de Brême, numéro 126, page 12, montre où les administrations régionales ont été prise d'assaut jusqu'au 27 janvier.
 
-{{< image srcwebp="/static/img/content/2019/120.webp" srcalt="/static/img/content/2019/120.jpg" title="Cette carte de l'Ukraine montre l'état des « actions de protestation » du 27 janvier 2014. A noter également la légende de la carte en bas à gauche, qui montre que la police a 'violentement' tenté de mettre fin aux blocages dans certaines régions. L'adjectif «violent» est absent des occupations et des blocus par les combattants de Maïdan." >}}
+{{< image srcwebp="/static/img/content/2019/120.webp" srcalt="/static/img/content/2019/120.jpg" title="Maidan 2014" >}}
 
-{{< image srcwebp="/static/img/content/2019/121.webp" srcalt="/static/img/content/2019/121.jpg" title="Des hommes armés masqués avec des symboles nazis tels que le Wolfsangel, photographié sur le bras supérieur du combattant sur la droite, mars à travers la ville de Luzk, dans l'ouest de l'Ukraine, le 19 février 2014. ils ont ensuite battu le gouverneur là-bas et l'a forcé à démissionner" >}}
+{{< image srcwebp="/static/img/content/2019/121.webp" srcalt="/static/img/content/2019/121.jpg" title="Maidan 2014" >}}
 
 {{< youtube "QqPxrR3O9g4" >}}
 
-Après la conquête violente, des mesures politiques ont suivi. Les gouverneurs de l'oblast ont été contraints de démissionner par les insurgés, comme Alexander Bashkalenko à Luzk, qui a été battu le 19 février, versé à l'eau froide et enchaîné sur une scène. Dès que les gouverneurs ont été dépossédés, les partis maïdan, qui dominent la partie occidentale de l'Ukraine, ont proclamé de nouvelles institutions politiques telles que les « Conseils du peuple » et ont rejeté toute autre compétence législative du parlement national et du direction élue.
+Après la conquête violente, des mesures politiques ont suivi. Les gouverneurs de l'oblast ont été contraints de démissionner par les insurgés, comme Alexander Bashkalenko à Luzk, qui a été battu le 19 février, versé à l'eau froide et enchaîné sur une scène. Dès que les gouverneurs ont été dépossédés, les partis maïdan, qui dominent la partie occidentale de l'Ukraine, ont proclamé de nouvelles institutions politiques telles que les " Conseils du peuple " et ont rejeté toute autre compétence législative du parlement national et du direction élue.
 
 {{< youtube "_f6CGXwbOxA" >}}
 
@@ -43,21 +43,21 @@ Après que le Maïdan eut déjà proclamé arbitrairement un parlement national 
 
 {{< youtube "g8Ujx2dRSBc" >}}
 
-En février 2014, il y a eu de nombreuses autres tempêtes qui ont concerné aujourd'hui des postes de police, des dépôts d'armes militaires et des installations du service de renseignement intérieur SBU. Selon le chef du SBU de l'époque, Alexander Jakimenko, les insurgés auraient apporté environ 1 500 fusils et 100 000 cartouches sous leur contrôle. Le 19 février 2014, le « Parlement national » de Lviv a même proclamé l'autonomie et les insurgés ont placé des canons antichars dans les rues.
+En février 2014, il y a eu de nombreuses autres tempêtes qui ont concerné aujourd'hui des postes de police, des dépôts d'armes militaires et des installations du service de renseignement intérieur SBU. Selon le chef du SBU de l'époque, Alexander Jakimenko, les insurgés auraient apporté environ 1 500 fusils et 100 000 cartouches sous leur contrôle. Le 19 février 2014, le " Parlement national " de Lviv a même proclamé l'autonomie et les insurgés ont placé des canons antichars dans les rues.
 
 {{< youtube "J_IzLgowKEQ" >}}
 
-Pour les médias allemands, cependant, ces deux vagues coordonnées d'attaques et les prises de contrôle et les tendances sécessionnistes qui en ont suivi étaient, au mieux, des notes marginales. Quelle en était la raison ? Les places de l'ouest de l'Ukraine étaient-elles trop peu importantes ? Difficile à croire, parce que d'une part la perte de Kiev a eu lieu à l'échelle nationale. La moitié entière du pays a été touchée. D'autre part, des mois plus tard, ARD n'était pas trop mal à signaler dans les principales nouvelles sur l'occupation d'un poste de police dans la ville provinciale de l'est de l'Ukraine de Horlivka. Mais les stormers n'étaient pas des « révolutionnaires de Maïdan », mais des insurgés de l'est de l'Ukraine.
+Pour les médias allemands, cependant, ces deux vagues coordonnées d'attaques et les prises de contrôle et les tendances sécessionnistes qui en ont suivi étaient, au mieux, des notes marginales. Quelle en était la raison ? Les places de l'ouest de l'Ukraine étaient-elles trop peu importantes ? Difficile à croire, parce que d'une part la perte de Kiev a eu lieu à l'échelle nationale. La moitié entière du pays a été touchée. D'autre part, des mois plus tard, ARD n'était pas trop mal à signaler dans les principales nouvelles sur l'occupation d'un poste de police dans la ville provinciale de l'est de l'Ukraine de Horlivka. Mais les stormers n'étaient pas des " révolutionnaires de Maïdan ", mais des insurgés de l'est de l'Ukraine.
 
 {{< youtube "9S4a1khEHXM" >}}
 
-« Bien que des noms tels que « foule pro-russe » aient fait partie des émissions de nouvelles, « pro-européens » ou « foules pro-ukrainiennes » n'ont pas eu lieu », critique la scientifique des médias Verena Blser.
+" Bien que des noms tels que " foule pro-russe " aient fait partie des émissions de nouvelles, " pro-européens " ou " foules pro-ukrainiennes " n'ont pas eu lieu ", critique la scientifique des médias Verena Blser.
 
 Comment le traitement des insurgés dans l'ouest et l'est du pays a été peut être vu quand on compare les contributions très rares à la situation dans l'ouest de l'Ukraine dans leur ton avec les rapports ultérieurs de l'est de l'Ukraine:
 
-> Tandis que Golineh Atai dans ce Tagesschau rapporte la violence des « séparatistes pro-russes » — pas « les insurgés ukrainiens de l'Est » ! — Des mois plus tôt, les acteurs ouest-ukrainiens ne se sont pas concentrés sur leur violence, mais surtout sur leur peur d'une contre-attaque ou leur colère contre Ianoukovitch.
+> Tandis que Golineh Atai dans ce Tagesschau rapporte la violence des " séparatistes pro-russes " — pas " les insurgés ukrainiens de l'Est " ! — Des mois plus tôt, les acteurs ouest-ukrainiens ne se sont pas concentrés sur leur violence, mais surtout sur leur peur d'une contre-attaque ou leur colère contre Ianoukovitch.
 
-Selon les médias allemands, les « maires autoproclamés » et les foules séparatistes « déstabilisées » en Crimée et dans l'est de l'Ukraine, « garantis » à la « force d'autodéfense » dans l'ouest de l'Ukraine pour le calme et l'ordre.
+Selon les médias allemands, les " maires autoproclamés " et les foules séparatistes " déstabilisées " en Crimée et dans l'est de l'Ukraine, " garantis " à la " force d'autodéfense " dans l'ouest de l'Ukraine pour le calme et l'ordre.
 
 #### Le coup d'État se transforme en révolution
 
@@ -71,19 +71,19 @@ Après tout, le président sortant a été inconstitutionnellement dépossédé,
 
 À ce jour, on peut se demander pourquoi les radiodiffuseurs publics n'ont signalé ni le 20 février ni les jours suivants que des combattants de Maïdan avaient également tiré depuis une chambre d'hôtel de la ZDF.
 
-{{< image srcwebp="/static/img/content/2019/122.webp" srcalt="/static/img/content/2019/122.jpg" title="Armed Maidan fighters fired from a ZDF room of the Hotel Ukraina towards the death zone on February 20, 2014. Only two weeks later, the station briefly showed pictures of it in a ZDF special on the crime crisis" >}}
+{{< image srcwebp="/static/img/content/2019/122.webp" srcalt="/static/img/content/2019/122.jpg" title="Maidan 2014" >}}
 
-La cible des tireurs embusqués était précisément la zone de la mort sur la rue Institutska, où une trentaine de combattants maïdan ont été abattus. On ne sait toujours pas qui exactement les hommes armés ont tiré sur l'hôtel, que ce soit la police ou leur propre peuple. En tout cas, l'équipe ZDF n'a même pas essayé de demander. « La presse ne devrait pas être entraînée », avait alors déclaré la correspondante Britta Hilpert. Et "la presse" s'y est collée.
+La cible des tireurs embusqués était précisément la zone de la mort sur la rue Institutska, où une trentaine de combattants maïdan ont été abattus. On ne sait toujours pas qui exactement les hommes armés ont tiré sur l'hôtel, que ce soit la police ou leur propre peuple. En tout cas, l'équipe ZDF n'a même pas essayé de demander. " La presse ne devrait pas être entraînée ", avait alors déclaré la correspondante Britta Hilpert. Et "la presse" s'y est collée.
 
-On ne peut que s'étonner qu'il n'y ait pas eu de secousses de la volonté de recherche par les journalistes lorsque les tireurs se sont présentés et ont tiré. Où aller ? C'était qui? Les fameuses w-questions. C'est mal de ne pas ressentir cette impulsion », critique Sabine Schiffer, spécialiste des médias.
+On ne peut que s'étonner qu'il n'y ait pas eu de secousses de la volonté de recherche par les journalistes lorsque les tireurs se sont présentés et ont tiré. Où aller ? C'était qui? Les fameuses w-questions. C'est mal de ne pas ressentir cette impulsion ", critique Sabine Schiffer, spécialiste des médias.
 
 "L'omission de ce qui ne rentre pas dans le cadre ne peut pas être expliquée avec un réflexe inconscient - ce sont des décisions actives et qui signifient que l'on se soumet à un récit que l'on a accepté comme juste. C'est inquiétant.
 
 #### L'agresseur a été immédiatement identifié
 
-Les principaux médias n'ont pas remis en question qui était responsable des massacres à ce stade crucial. Encore une fois, ils ont repris le récit des chefs de la Maid: Ianoukovitch était-il! L'auteur du Spiegel Benjamin Bidder, par exemple, a écrit que le président avait « chassé » les tireurs d'élite du SBU contre les manifestants.
+Les principaux médias n'ont pas remis en question qui était responsable des massacres à ce stade crucial. Encore une fois, ils ont repris le récit des chefs de la Maid: Ianoukovitch était-il! L'auteur du Spiegel Benjamin Bidder, par exemple, a écrit que le président avait " chassé " les tireurs d'élite du SBU contre les manifestants.
 
-Aucun des correspondants n'a informé l'auditoire lors d'une des nombreuses émissions en direct de ce qui s'était passé dans la salle de la ZDF. S'agit-il toujours de « Pas de nouvelles » ou de « Fake News » ?
+Aucun des correspondants n'a informé l'auditoire lors d'une des nombreuses émissions en direct de ce qui s'était passé dans la salle de la ZDF. S'agit-il toujours de " Pas de nouvelles " ou de " Fake News " ?
 
 {{< youtube "sTmZfo1zhs0" >}}
 
@@ -121,17 +121,17 @@ Pendant le Maïdan, les médias allemands ont été indignés à plusieurs repri
 
 Par exemple, le 20 février 2014, des insurgés armés au sud de Kiev ont empêché plusieurs bus transportant des partisans de Ianoukovitch de rentrer en Crimée à la suite de manifestations anti-Maïdan. Les combattants de Maïdan ont forcé les occupants à débarquer, les ont battus, ont démoli les autobus et ont mis le feu à au moins deux des véhicules. Ils ont humilié et menacé les passagers, versé de l'essence sur eux, les ont forcés à ramasser des éclats de verre avec leurs mains et ont juré de ne plus jamais venir à Kiev. En fait, un cas pour Amnesty International et Human Rights Watch.
 
-{{< image srcwebp="/static/img/content/2019/123.webp" srcalt="/static/img/content/2019/123.jpg" title="At Korsun-Shevshenko, south of Kiev, Maidan supporters humiliated and beaten dozens of people on their way back from anti-Maidan protests" >}}
+{{< image srcwebp="/static/img/content/2019/123.webp" srcalt="/static/img/content/2019/123.jpg" title="Maidan 2014" >}}
 
 Les demandes adressées à Amnesty International ont été répondues de manière évasive, tandis que Human Rights Watch n'a même pas répondu. Mais cette organisation n'est qu'un reflet de l'opinion occidentale et il ne doit pas y avoir de perturbation.
 
-En Russie, l'incident est connu sous le nom de «Pogrom of Korsun». Alors que les médias allemands ont souligné à plusieurs reprises que le Maïdan se bat pour les droits de l'homme, la démocratie, la tolérance et d'autres « valeurs européennes », les images de Korsun montrent une façon complètement différente de traiter avec les opposants politiques de sa propre pays. pays. En Allemagne, l'incident a été: «Pas de nouvelles». En Autriche, après tout, la journaliste Jutta Sommerbauer a minimisé l'événement dans le journal "Die Presse" comme un mythe russe.
+En Russie, l'incident est connu sous le nom de "Pogrom of Korsun". Alors que les médias allemands ont souligné à plusieurs reprises que le Maïdan se bat pour les droits de l'homme, la démocratie, la tolérance et d'autres " valeurs européennes ", les images de Korsun montrent une façon complètement différente de traiter avec les opposants politiques de sa propre pays. pays. En Allemagne, l'incident a été: "Pas de nouvelles". En Autriche, après tout, la journaliste Jutta Sommerbauer a minimisé l'événement dans le journal "Die Presse" comme un mythe russe.
 
 Mais il n'y a pas que Sommerbauer lui-même qui écrit que l'incident a effectivement eu lieu. Mais cela vient aussi d'images, de reportages de médias ukrainiens tels que Korrespondent.net ou bigmir.net, tous deux appartenant à l'empire médiatique de Petro Porochenko, et de déclarations de l'homme politique régional Vitali Illyashenko du parti Klitschko Udar hors de.
 
 {{< youtube "4MaMYG6SFO8" >}}
 
-Leurs rapports mentionnent 'Tituschki' - c'est-à-dire des voyous - et des policiers de Berkut qui se seraient assis dans les bus et auraient été désarmés par les "unités d'autodéfense" du Maïdan. Les médias ukrainiens confirment que deux bus ont brûlé et qu'un total de onze bus ont été touchés. Bigmir.net parle d'un « tribunal populaire pour Tituschki » et que parmi les combattants de Maïdan il y avait aussi des chasseurs avec des armes à feu. Ils pointent également des vidéos YouTube du secteur de droite comme sources.
+Leurs rapports mentionnent 'Tituschki' - c'est-à-dire des voyous - et des policiers de Berkut qui se seraient assis dans les bus et auraient été désarmés par les "unités d'autodéfense" du Maïdan. Les médias ukrainiens confirment que deux bus ont brûlé et qu'un total de onze bus ont été touchés. Bigmir.net parle d'un " tribunal populaire pour Tituschki " et que parmi les combattants de Maïdan il y avait aussi des chasseurs avec des armes à feu. Ils pointent également des vidéos YouTube du secteur de droite comme sources.
 
 #### Y a-t-il eu des morts?
 
@@ -141,7 +141,7 @@ De nombreux témoins oculaires parmi les victimes de Korsun disent également qu
 
 Il n'est pas vérifiable, d'après les documents disponibles, s'il y a eu des décès réels dans l'incident. Au moins aucun d'entre eux ne peut être vu sur la séquence vidéo. Ni Amnesty International ni Human Rights Watch n'ont répondu à des questions spécifiques sur ces décès.
 
-Les journalistes allemands traditionnels n'ont pas enquêté sur les allégations non plus, ils n'ont même pas rapporté sur l'incident. Pendant le Maïdan, cependant, ils avaient à plusieurs reprises mis l'ambiance contre les « contre-manifestants d'hérangekarrte », bien que la majorité des manifestants de Maïdan aient également été amenés à Kiev en bus d'autres régions du pays.
+Les journalistes allemands traditionnels n'ont pas enquêté sur les allégations non plus, ils n'ont même pas rapporté sur l'incident. Pendant le Maïdan, cependant, ils avaient à plusieurs reprises mis l'ambiance contre les " contre-manifestants d'hérangekarrte ", bien que la majorité des manifestants de Maïdan aient également été amenés à Kiev en bus d'autres régions du pays.
 
 {{< youtube "fnikOPIfOo4" >}}
 
@@ -149,15 +149,15 @@ Les journalistes allemands traditionnels n'ont pas enquêté sur les allégation
 
 Pendant le Maïdan, les médias allemands ont non seulement mal rapporté ou complètement ignoré certains des événements — non, ils n'ont pas posé beaucoup de questions fondamentales qui intéressaient les observateurs. Par exemple, qui a financé cette manifestation continue de trois mois à des températures inférieures à zéro?
 
-Ou: Comment se fait-il que dans les quatre premiers jours de Maïdan, Spilno.TV, Espreso.TV et Hromdaske.TV a commencé trois «radiodiffuseurs citoyens» financés par les pays occidentaux, qui ont fait rapport sur les manifestations autour de l'horloge?
+Ou: Comment se fait-il que dans les quatre premiers jours de Maïdan, Spilno.TV, Espreso.TV et Hromdaske.TV a commencé trois "radiodiffuseurs citoyens" financés par les pays occidentaux, qui ont fait rapport sur les manifestations autour de l'horloge?
 
 De même, le courant dominant n'a fait aucune tentative significative pour capturer les voix ukrainiennes en dehors du Maïdan. Ainsi, les utilisateurs des médias allemands ont eu la fausse impression que la grande majorité de la population en Ukraine était derrière le soulèvement. En effet, l'humeur dans le pays était divisée, comme le montre ce sondage de décembre en Ukraine :
 
 {{< image srcwebp="/static/img/content/2019/124.webp" srcalt="/static/img/content/2019/124.jpg" title="Support for Euromaidan in figures" >}}
 
-Le Kiyv Post de langue anglaise écrivait fin 2013 : « La moitié des Ukrainiens ne soutiennent pas l'euromaidan ». Mais les adversaires de Maïdan ont rarement été vus dans les médias allemands. Les votes des deux camps politiques ont été fortement déformés.
+Le Kiyv Post de langue anglaise écrivait fin 2013 : " La moitié des Ukrainiens ne soutiennent pas l'euromaidan ". Mais les adversaires de Maïdan ont rarement été vus dans les médias allemands. Les votes des deux camps politiques ont été fortement déformés.
 
-À l'Université de Leipzig, la scientifique des médias Anna Mundt a évalué le nombre et la longueur des O-tones que les acteurs pro-Maïdan et les opposants de Maïdan ont reçus dans les nouvelles publiques du soir. Résultat : les partisans de Maïdan ont reçu plus de quatre fois plus de votes que leurs adversaires à Tagesschau et « Heute ».
+À l'Université de Leipzig, la scientifique des médias Anna Mundt a évalué le nombre et la longueur des O-tones que les acteurs pro-Maïdan et les opposants de Maïdan ont reçus dans les nouvelles publiques du soir. Résultat : les partisans de Maïdan ont reçu plus de quatre fois plus de votes que leurs adversaires à Tagesschau et " Heute ".
 
 #### "Cinq ans "Continuer comme ça!"
 
@@ -165,6 +165,6 @@ Ca devrait suffire. En deux parties, les échecs du courant dominant des médias
 
 Il est clair qu'à cette époque, ce n'était pas une erreur qui résultait d'une ignorance pure, d'une négligence et d'un temps de recherche trop faible. Non, l'échec médiatique était intentionnel. Les raisons peuvent être multiples. Mais le diagnostic est clair.
 
-Tous ceux qui ont des yeux peuvent le voir. De nombreux utilisateurs des médias ont reconnu l'hypocrisie, les deux poids, deux mesures et les lacunes en matière d'information pendant le Maïdan. La grande « crise de confiance » qui se poursuit encore aujourd'hui a commencé là. Et même si les médias continuent à créer des légendes pendant encore cinq ans, ils ne tromperont personne. Juste toi-même.
+Tous ceux qui ont des yeux peuvent le voir. De nombreux utilisateurs des médias ont reconnu l'hypocrisie, les deux poids, deux mesures et les lacunes en matière d'information pendant le Maïdan. La grande " crise de confiance " qui se poursuit encore aujourd'hui a commencé là. Et même si les médias continuent à créer des légendes pendant encore cinq ans, ils ne tromperont personne. Juste toi-même.
 
 Pour les sources voir le [message](https://silviosiefke.de/blog/2019/08/18/maidan-2014/ "Maidan 2014, German with Sources") d'origine.

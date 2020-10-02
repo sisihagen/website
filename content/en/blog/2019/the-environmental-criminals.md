@@ -14,7 +14,7 @@ The study was pretty damn accurate. Not only the continuous warming, but also th
 
 The study also showed that the only responsible way out of this threat was the abandonment of fossil fuels, Shell's core business.
 
-But Shell decided against the advice of its own scientists, who recommended a “forward-looking approach together with governments”. The board of Directors declared the document a top secret and decided a policy of organized doubt and wait. After all, the scientific consensus was not yet 100%.
+But Shell decided against the advice of its own scientists, who recommended a "forward-looking approach together with governments”. The board of Directors declared the document a top secret and decided a policy of organized doubt and wait. After all, the scientific consensus was not yet 100%.
 
 So the study disappeared in the Safes, research contracts for other energy technologies were not granted. An Isolated Case? No, even the competitor Exxon was concerned about the discussion on climate change from the 1970s onwards and had an analogous study prepared which produced the same results.
 
@@ -65,11 +65,11 @@ The rapidly increasing public concern about climate change, therefore, has now b
 
 There seems to be a new level of activity with new tactics, such as the use of the commentary functions in books and social networks and the online editions of the news services.
 
-Such accusations are usually recognizable by keywords such as” ideological panic“,” pseudoscientific“,” no evidence“,” fake statistics “and” climate change has always existed " or simply the rejection of the statements of the IPCC, the UN coordinated umbrella organization of global climate research.
+Such accusations are usually recognizable by keywords such as” ideological panic",” pseudoscientific",” no evidence",” fake statistics "and” climate change has always existed " or simply the rejection of the statements of the IPCC, the UN coordinated umbrella organization of global climate research.
 
-For example, if you analyze the comments on the book “self-combustion” by Professor Hans Joachim Schellnhuber, 40 percent (17 comments) of the 43 comments are annihilating, almost all of the skeptics group assign, at over 50 percent (23 comments) positive reviews.
+For example, if you analyze the comments on the book "self-combustion” by Professor Hans Joachim Schellnhuber, 40 percent (17 comments) of the 43 comments are annihilating, almost all of the skeptics group assign, at over 50 percent (23 comments) positive reviews.
 
-The science journalist Harald Lesch reached with his book, “humanity creates” double the number of reviews with mostly positive comments (58 percent), and is not combated with only 20 percent negative as aggressive. The tilting elements of the climate, which Professor Schellnhuber points out, are the greatest stimulus for skeptics.
+The science journalist Harald Lesch reached with his book, "humanity creates” double the number of reviews with mostly positive comments (58 percent), and is not combated with only 20 percent negative as aggressive. The tilting elements of the climate, which Professor Schellnhuber points out, are the greatest stimulus for skeptics.
 
 So the renewed donation of the Koch brothers, known at the end of 2018, amounting to about $ 10 million, to promote the denial of climate change seems to work well.
 
@@ -87,4 +87,4 @@ If one now looks at the enormous concerns of the younger Generation about the em
 
 30 years ago was convenient time to introduce the necessary new technologies and lifestyle priorities in small but regular steps. This opportunity has been missed. Now it is 5 after twelve, several of the major changes are already irreversible.
 
-The younger Generation will no longer be able to keep quiet with a “further so”. The provocative weak “climate protection law” could provoke a hot autumn.
+The younger Generation will no longer be able to keep quiet with a "further so”. The provocative weak "climate protection law” could provoke a hot autumn.

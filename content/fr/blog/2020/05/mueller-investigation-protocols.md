@@ -24,17 +24,17 @@ Son témoignage a été gardé secret pendant plus de deux ans. Selon le journal
 
 Les déclarations d'Henry au Comité du renseignement font référence à plusieurs reprises à des "preuves" de vol de données, mais celles-ci ne peuvent dissimuler le fait qu'aucune preuve fiable n'a pu être présentée. Henry l'admet dans plusieurs de ses réponses aux questions des membres du Comité:
 
-- "Nous n'avions aucune preuve concrète que les données du serveur DNC ont été déplacées électroniquement, mais nous avons des preuves qu'elles ont été détournées.“
+- "Nous n'avions aucune preuve concrète que les données du serveur DNC ont été déplacées électroniquement, mais nous avons des preuves qu'elles ont été détournées."
 
-- "Il y a des exemples où nous pouvons voir que les données ont été consultées, et nous pouvons le prouver de manière concluante. Mais dans ce cas, on dirait qu'ils ont été mis en place pour l'Exfiltration, mais nous n'avons pas de preuves pour dire qu'ils ont été effectivement transférés.“
+- "Il y a des exemples où nous pouvons voir que les données ont été consultées, et nous pouvons le prouver de manière concluante. Mais dans ce cas, on dirait qu'ils ont été mis en place pour l'Exfiltration, mais nous n'avons pas de preuves pour dire qu'ils ont été effectivement transférés."
 
-- "Il n'y a aucune preuve qu'ils ont été effectivement volés. Il y a des preuves, mais aucune preuve, qu'ils ont été réellement volés.“
+- "Il n'y a aucune preuve qu'ils ont été effectivement volés. Il y a des preuves, mais aucune preuve, qu'ils ont été réellement volés."
 
-- "Il existe des preuves que ces données ont été prises à partir du réseau ... mais nous n'avions pas de capteur qui observait spécifiquement comment les données quittaient le réseau. Sur la base de preuves circonstancielles, nous avons prétendu que les données ont circulé. C'est la conclusion à laquelle nous a attiré.“
+- "Il existe des preuves que ces données ont été prises à partir du réseau ... mais nous n'avions pas de capteur qui observait spécifiquement comment les données quittaient le réseau. Sur la base de preuves circonstancielles, nous avons prétendu que les données ont circulé. C'est la conclusion à laquelle nous a attiré."
 
 Quant à l'affirmation selon laquelle les agents de l'Etat russe étaient responsables de ce soi-disant Hack Schrödinger, Henry a simplement dit au Comité du renseignement ce qu'il "supposait."
 
-- "Il y a certainement d'autres états que recueillir ce genre d'informations", dit-il, "mais – comme nous l'appelons – les tactiques et les techniques correspondait à ce que nous avons vu en relation avec l'état russe.“
+- "Il y a certainement d'autres états que recueillir ce genre d'informations", dit-il, "mais – comme nous l'appelons – les tactiques et les techniques correspondait à ce que nous avons vu en relation avec l'état russe."
 
 L'enquête interne de CrowdStrike a révélé "des activités que nous croyions compatibles avec des activités que nous avions déjà vues et associées au gouvernement russe."
 

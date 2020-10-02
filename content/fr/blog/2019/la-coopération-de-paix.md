@@ -20,9 +20,9 @@ Il y a des preuves que les quelque 800 bases et bases militaires américaines se
 
 En outre, les effets des gaz d'échappement de combustion, ainsi que la destruction et les empoisonnements environnementaux causés par les guerres, sont ajoutés. Cela s'applique aux guerres jusqu'ici ainsi qu'à des guerres imminentes, dont on peut aussi supposer qu'elles finiront apocalyptiquement sur la base de l'infrastructure atomique seulement.
 
-Les dommages à la nature, que les militaires considèrent, sont particulièrement évidents dans la stratégie de guerre nucléaire : la conférence annuelle de l'OTAN d'Essen, le Joint Air Power Competence Center (JAPCC), a demandé en 2017 sur le thème de la « dissuasion » des États nucléaires. pour l'utilisation de leurs potentiels nucléaires.
+Les dommages à la nature, que les militaires considèrent, sont particulièrement évidents dans la stratégie de guerre nucléaire : la conférence annuelle de l'OTAN d'Essen, le Joint Air Power Competence Center (JAPCC), a demandé en 2017 sur le thème de la " dissuasion " des États nucléaires. pour l'utilisation de leurs potentiels nucléaires.
 
-Un exemple de cela a été fourni il y a 35 ans par le stratège militaire américano-britannique Colin S. Gray dans son texte « [La victoire est possible](https://robertsmcnamaracom.files.wordpress.com/2017/04/gray-payne-1980-victory-is-possible-c.pdf " VICTORYIS POSSIBLE") » - la victoire est possible.
+Un exemple de cela a été fourni il y a 35 ans par le stratège militaire américano-britannique Colin S. Gray dans son texte " [La victoire est possible](https://robertsmcnamaracom.files.wordpress.com/2017/04/gray-payne-1980-victory-is-possible-c.pdf " VICTORYIS POSSIBLE") " - la victoire est possible.
 
 Son concept comprenait un mélange de:
 
@@ -30,7 +30,7 @@ Son concept comprenait un mélange de:
   2. ce qu'on appelle la défense civile, et
   3. un système de défense antimissile à des représailles nucléaires possibles pour l'adversaire possible à l'époque, l'Union soviétique — intercepter.
   
-En mai 1982, le Pentagone des États-Unis a écrit une ligne directrice de défense de 125 pages, qui parlait explicitement d'une « [guerre nucléaire prolongée](https://www.nytimes.com/1982/05/30/world/pentagon-draws-up-first-strategy-for-fighting-a-long-nuclear-war.html "PENTAGON DRAWS UP FIRST STRATEGY FOR FIGHTING A LONG NUCLEAR WAR") », dans laquelle il était censé « maintenir le dessus » (« prévenir »).
+En mai 1982, le Pentagone des États-Unis a écrit une ligne directrice de défense de 125 pages, qui parlait explicitement d'une " [guerre nucléaire prolongée](https://www.nytimes.com/1982/05/30/world/pentagon-draws-up-first-strategy-for-fighting-a-long-nuclear-war.html "PENTAGON DRAWS UP FIRST STRATEGY FOR FIGHTING A LONG NUCLEAR WAR") ", dans laquelle il était censé " maintenir le dessus " (" prévenir ").
 
 Il est évident que les militaristes ici acceptent la disparition de la civilisation à bon marché, puisque personne ne peut supposer, dans une approche aussi folle, que quiconque survivra à cet Enfer en toute sécurité.
 
@@ -40,7 +40,7 @@ En 1983, des études ont montré qu'il existe un risque que l'atmosphère terres
 
 One might object that the strategy of Gray is outdated, and since the theory of the nuclear Winter was known, the military would have certainly abstained from such a ascension command on their own personal survival interest.
 
-Cependant, les développements actuels tels que la «[conception de la défense civile](https://www.loc.gov/law/foreign-news/article/germany-government-publishes-civil-defense-concept/ "Germany: Government Publishes Civil Defense Concept")" du Ministère fédéral de l'intérieur, qui assume également des mesures de protection civile contre la contamination nucléaire en cas de conflit, puis une soi-disant attaque de masse de blessés personnes, entre autres choses, s'y opposent. C'est dans ce concept, les réactions à la «menaces suivantes:
+Cependant, les développements actuels tels que la "[conception de la défense civile](https://www.loc.gov/law/foreign-news/article/germany-government-publishes-civil-defense-concept/ "Germany: Government Publishes Civil Defense Concept")" du Ministère fédéral de l'intérieur, qui assume également des mesures de protection civile contre la contamination nucléaire en cas de conflit, puis une soi-disant attaque de masse de blessés personnes, entre autres choses, s'y opposent. C'est dans ce concept, les réactions à la "menaces suivantes:
 
   - Utilisation d'armes conventionnelles,
   - Utilisation d'agents chimiques, biologiques, radiologiques et nucléaires (risques CBRN),
@@ -54,7 +54,7 @@ But it gets even worse, even more massive, the radioactive contamination is, in 
 
 Le département américain de la Défense prévoit d'avancer après la fin du traité INF entre les États-Unis et la Russie, le développement d'un nouveau système de missiles. Le chef [annoncé](https://www.usnews.com/news/world-report/articles/2019-08-02/defense-secretary-mark-esper-threatens-russia-with-new-missile-system "Unrestricted by Nuclear Treaty, Pentagon Chief Threatens Russia With New Weapons") du Pentagone Mark Esper".
 
-Cela s'applique également aux systèmes nucléaires qui sont situés à Bâchel, près de Koblenz, dans le cadre de la soi-disant « participation nucléaire » de l'Allemagne. Selon les plans de l'OTAN, les systèmes seront remplacés dans les prochaines années par une nouvelle technique d'attaque équipée d'une tête de recherche de cibles et non plus d'une bombe d'automne. Le site Web de la Federation of American Scientists (FAS) critique : « la technique améliorée de recherche de cibles rend le système plus opérationnel (...) "; Le [Guardian](https://www.theguardian.com/world/julian-borger-global-security-blog/2015/nov/10/americas-new-more-usable-nuclear-bomb-in-europe "America's new, more 'usable', nuclear bomb in Europe") utilise l'expression « plus utilisable » à cette fin.
+Cela s'applique également aux systèmes nucléaires qui sont situés à Bâchel, près de Koblenz, dans le cadre de la soi-disant " participation nucléaire " de l'Allemagne. Selon les plans de l'OTAN, les systèmes seront remplacés dans les prochaines années par une nouvelle technique d'attaque équipée d'une tête de recherche de cibles et non plus d'une bombe d'automne. Le site Web de la Federation of American Scientists (FAS) critique : " la technique améliorée de recherche de cibles rend le système plus opérationnel (...) "; Le [Guardian](https://www.theguardian.com/world/julian-borger-global-security-blog/2015/nov/10/americas-new-more-usable-nuclear-bomb-in-europe "America's new, more 'usable', nuclear bomb in Europe") utilise l'expression " plus utilisable " à cette fin.
 
 En plus de la détermination de la cible améliorée, il ya une dose beaucoup plus précise de l'effet avec le résultat qu'un fallout nucléaire peut être limitée. Les États-Unis et l'OTAN tentent de les vendre au public.
 

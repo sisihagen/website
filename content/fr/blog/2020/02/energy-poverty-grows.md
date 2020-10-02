@@ -94,7 +94,7 @@ L'association Tacheles E. V. exige depuis longtemps la mise en œuvre des points
 
   - Ajustement de la méthode de conception de la demande supplémentaire pour l'approvisionnement en eau chaude décentralisée
 
-  - Création d '" agences de sécurité énergétique“
+  - Création d '" agences de sécurité énergétique"
 
   - Désamorcer la date limite jusqu'à ce que l'énergie de verrouillage
 

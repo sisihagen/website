@@ -14,7 +14,7 @@ L'étude était sacré ment précise. Non seulement le réchauffement continu, m
 
 L'étude a également montré que la seule façon viable de sortir de cette menace était d'abandonner les combustibles fossiles, le cœur de métier de Shell.
 
-Mais Shell a décidé contre l'avis de ses propres scientifiques, qui ont recommandé une «approche prospective avec les gouvernements. " Le conseil d'administration a déclaré que le document était top secret et a adopté une politique de doute organisé et d'attente. Après tout, le consensus scientifique n'a pas encore été à 100%.
+Mais Shell a décidé contre l'avis de ses propres scientifiques, qui ont recommandé une "approche prospective avec les gouvernements. " Le conseil d'administration a déclaré que le document était top secret et a adopté une politique de doute organisé et d'attente. Après tout, le consensus scientifique n'a pas encore été à 100%.
 
 Ainsi, l'étude a disparu dans les coffres-fort, les affectations de recherche pour d'autres technologies énergétiques n'ont pas été accordées. Un cas isolé ? Non, son concurrent Exxon a également suivi la discussion sur le changement climatique avec inquiétude à partir des années 1970, et a fait réaliser une étude analogue qui est arrivée aux mêmes conclusions.
 
@@ -66,9 +66,9 @@ L'inquiétude croissante du public au sujet du changement climatique rend mainte
 
 Un nouveau niveau d'activité semble se produire avec de nouvelles tactiques, telles que l'utilisation de fonctions de commentaires dans les livres et les réseaux sociaux, ainsi que les éditions en ligne des services de messagerie.
 
-Ces objections sont généralement reconnaissables par des slogans tels que « scaremongering idéologique », « pseudo-scientifique », « aucune preuve », « fausses statistiques » et « le changement climatique a toujours existé » ou simplement le rejet des déclarations du GIEC, l'ONU coordination de l'organisation faîtière de la recherche mondiale sur le climat.
+Ces objections sont généralement reconnaissables par des slogans tels que " scaremongering idéologique ", " pseudo-scientifique ", " aucune preuve ", " fausses statistiques " et " le changement climatique a toujours existé " ou simplement le rejet des déclarations du GIEC, l'ONU coordination de l'organisation faîtière de la recherche mondiale sur le climat.
 
-Si, par exemple, les commentaires sur le livre « Auto-immolation » du professeur Hans Joachim Schellnhuber sont analysés chez Amazon, 40 % (17 commentaires) sont dévastateurs, presque tous sont attribuables au groupe sceptique, à plus de 50 % (23 commentaires) commentaires positifs.
+Si, par exemple, les commentaires sur le livre " Auto-immolation " du professeur Hans Joachim Schellnhuber sont analysés chez Amazon, 40 % (17 commentaires) sont dévastateurs, presque tous sont attribuables au groupe sceptique, à plus de 50 % (23 commentaires) commentaires positifs.
 
 Le journaliste scientifique Harald Lesch réalise avec son livre "Humanity Abolishs" deux fois le nombre de critiques avec aussi principalement des commentaires très positifs (58 pour cent), et n'est pas si agressivement combattu avec seulement 20 pour cent négatif. Les éléments de basculement du climat, comme le souligne le professeur Schellnhuber, sont précisément le plus grand irritant pour les sceptiques.
 
@@ -88,5 +88,5 @@ Si nous regardons maintenant les énormes préoccupations de la jeune générati
 
 Il y a trente ans, il était temps d'introduire les nouvelles technologies et les priorités de style de vie nécessaires à des étapes petites mais régulières. Cette occasion a été manquée. Maintenant, il est 5 après douze, certains des grands changements sont déjà irréversibles.
 
-La jeune génération ne pourra plus se taire avec un "continuer comme ça". C'est précisément la « loi sur la protection du climat » qui pourrait provoquer un automne chaud.
+La jeune génération ne pourra plus se taire avec un "continuer comme ça". C'est précisément la " loi sur la protection du climat " qui pourrait provoquer un automne chaud.
 

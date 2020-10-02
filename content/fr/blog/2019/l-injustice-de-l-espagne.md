@@ -24,7 +24,7 @@ Oriol Junqueras, Rael Romeva, Jordi Turull et Dolors Bassa ont également été 
 
 #### Une erreur aux proportions historiques !
 
-M. Alfred Bosch, ministre des Affaires étrangères du gouvernement catalan, a déclaré après le verdict qu'il s'agissait d'un "processus politique" dans lequel "les personnes sont condamnées uniquement sur la base de leurs convictions politiques". Le verdict lui-même, qui met 9 des 12 accusés en prison, est « une erreur de proportions historiques » qui ne résoudra pas le problème, mais l'exacerbera.
+M. Alfred Bosch, ministre des Affaires étrangères du gouvernement catalan, a déclaré après le verdict qu'il s'agissait d'un "processus politique" dans lequel "les personnes sont condamnées uniquement sur la base de leurs convictions politiques". Le verdict lui-même, qui met 9 des 12 accusés en prison, est " une erreur de proportions historiques " qui ne résoudra pas le problème, mais l'exacerbera.
 
   - Oriol Junqueras - France Bouleversement et détournement de fonds (fr) 13 ans de prison et 13 ans de prison
 
@@ -62,7 +62,7 @@ Bien qu'aucune pierre n'ait volé, aucune voiture n'a brûlé, et les Catalans n
 
 De nombreux politiciens catalans ont fui à l'étranger. L'ancien président Carles Puigdemont, qui a dirigé le mouvement indépendantiste, s'est exilé en Belgique pour éviter d'être arrêté. L'Espagne l'a poursuivi en vain avec un mandat d'arrêt international. Cela a été abrogé, mais maintenant, immédiatement après les verdicts de Madrid, il a été réédité. L'accusation de rébellion n'est pas faite, mais Puigdemont est accusé d'émeutes et d'abus de fonds publics.
 
-Qu'a fait l'Union européenne? Elle se tut. La question de la Catalogne est une « affaire interne » de l'Espagne.
+Qu'a fait l'Union européenne? Elle se tut. La question de la Catalogne est une " affaire interne " de l'Espagne.
 
 Dans le procès des partisans de l'indépendance, la répression politiquement motivée a atteint son paroxysme provisoire. Le procès, qui a débuté le 12 février 2019, est considéré comme l'un des procès les plus importants et peut-être les plus importants depuis la Transicion, la transition du fascisme franquiste à une démocratie parlementaire initiée après la mort de Franco.
 
@@ -76,4 +76,4 @@ Les acteurs internationaux ont vivement critiqué la procédure. [Le Groupe de t
 
 Les partisans de l'indépendance catalane veulent faire appel des verdicts. L'Assemblée nationale catalane et l'Association culturelle Omnium Cultural ont appelé à des rassemblements et des rassemblements. Des manifestations ont lieu dans toute la Catalogne. Des manifestations de masse sont signalées à Barcelone. L'aéroport d'El Prat est pratiquement bloqué.
 
-Le président catalan Quim Torra demande une amnistie pour les personnes condamnées, soulignant que ces condamnations ne dissuaderaient pas son gouvernement de poursuivre sa quête d'indépendance. Torra a dit : « La répression ne triomphera jamais du dialogue, de la démocratie et de l'autodétermination. »
+Le président catalan Quim Torra demande une amnistie pour les personnes condamnées, soulignant que ces condamnations ne dissuaderaient pas son gouvernement de poursuivre sa quête d'indépendance. Torra a dit : " La répression ne triomphera jamais du dialogue, de la démocratie et de l'autodétermination. "

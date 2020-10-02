@@ -58,7 +58,7 @@ lang: ru
 
 {{< image srcwebp="/static/img/content/2020/210.webp" srcalt="/static/img/content/2020/210.jpg" title="When are police officer charged" >}}
 
-#### "Объявление о банкротстве правового государства“
+#### "Объявление о банкротстве правового государства"
 
 {{< tweet "1276822081053888513" >}}
 

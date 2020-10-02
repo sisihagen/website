@@ -38,7 +38,7 @@ An interesting case is the Federal Association of the German bioethanol industry
 
 #### "This is an advantage for an NGO"
 
-In addition to interest groups from industry, numerous initiatives from civil society are also new on the House id list. Since 2019, the non-profit organisation Wikimedia has been able to enter the Bundestag with two House passes, and is campaigning for free access to knowledge and education. "With a House pass it is possible to attend committee meetings and appointments without registration. This is an advantage for an NGO,“ explained Bernd Fiedler from Wikimedia Deutschland. One is primarily interested in the topics of digitalization, copyright, culture and free access to education.
+In addition to interest groups from industry, numerous initiatives from civil society are also new on the House id list. Since 2019, the non-profit organisation Wikimedia has been able to enter the Bundestag with two House passes, and is campaigning for free access to knowledge and education. "With a House pass it is possible to attend committee meetings and appointments without registration. This is an advantage for an NGO," explained Bernd Fiedler from Wikimedia Deutschland. One is primarily interested in the topics of digitalization, copyright, culture and free access to education.
 
 Since 2016, the Bundestag has issued significantly fewer House passes to stakeholders. At that time, the Parliament tightened the access rules after abgeordnetenwatch.de had sued in court a house id list. Since then, companies, law firms and agencies no longer have the opportunity to obtain a house ID. Only registered associations and organisations receive an annual pass.
 

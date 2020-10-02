@@ -31,18 +31,18 @@ cadre d\'une mission de paix. Eh bien, en désaccord avec cela n\'est pas
 exactement la déclaration du ministère russe des Affaires étrangères.
 
 Il suit ensuite dans l\'article l\'hymne sur l\'exécution de la vie des
-divers. Il avait alors, probablement après le Kosovo, travaillé « dans
-les secteurs humanitaires d\'entreprises de sécurité privées ». C\'est
+divers. Il avait alors, probablement après le Kosovo, travaillé " dans
+les secteurs humanitaires d\'entreprises de sécurité privées ". C\'est
 une énorme annonce. Je suppose que très peu d\'entre nous ont su
-jusqu\'à présent qu\'il existe des « lignes humanitaires » dans les
+jusqu\'à présent qu\'il existe des " lignes humanitaires " dans les
 entreprises de sécurité privées. Good Harbor Consulting ne trouve pas la
 même chose. Il s\'agit, selon Wikipedia, d\'un nom de ces sociétés de
 sécurité par ailleurs anonymes. Good Harbor Consulting fait l\'éloge de
 son auto-présentation sur Internet en détail sa gamme de services sous
-le thème Top «Cyber Security Risk Management».
+le thème Top "Cyber Security Risk Management".
 
 Parmi les nombreux services, il n\'y a personne qui pourrait avoir
-quelque chose à voir avec «Services humanitaires», et puisque la société
+quelque chose à voir avec "Services humanitaires", et puisque la société
 fournit tous ces services avec 15 employés, il est extrêmement peu
 probable qu\'il y aura d\'autres offres anonymes entre les lignes. Good
 Harbor Consulting se concentre sur les Émirats arabes unis et le Yémen.
@@ -61,8 +61,8 @@ avant sa mort qu\'il pensait de se tuer - "n\'existe pas pour le miroir.
 L\'agence Anadolu est connue dans toute la mort de Le Mesurier, le
 miroir étrangement rien.
 
-Un peu plus honnête est déjà la star, qui sait: «sa femme a témoigné à
-la police qu\'il a récemment eu «stress extrême» et donc pris des
+Un peu plus honnête est déjà la star, qui sait: "sa femme a témoigné à
+la police qu\'il a récemment eu "stress extrême" et donc pris des
 somnifères et d\'autres médicaments, a rapporté Anadolu. après la
 citation ci-dessus avec l\'intention de suicide, le a également sauté
 l\'étoile.
@@ -84,11 +84,11 @@ Le réseau éditorial Allemagne connaît également le contexte, qui
 n\'existe pas. Le réseau éditorial ne se soucie pas du fait que le
 rédacteur en chef, le journaliste de la BBC Mark Urban, a supprimé son
 Tweet en raison de la fragilité surdimensionnée. Il maintient néanmoins
-l\'affirmation des « Casques blancs » « qu\'un acteur d\'État est
-soupçonné d\'être derrière la mort ».
+l\'affirmation des " Casques blancs " " qu\'un acteur d\'État est
+soupçonné d\'être derrière la mort ".
 
-Pour ce qui est plus crédible que les «lauréats du prix Nobel de la
-paix», dont la crédibilité, même avec 212 attaques présumées au gaz
+Pour ce qui est plus crédible que les "lauréats du prix Nobel de la
+paix", dont la crédibilité, même avec 212 attaques présumées au gaz
 empoisonné par Assad et 115 000 personnes, qui auraient dû être sauvées
 par les Casques blancs, personne ne doute.
 

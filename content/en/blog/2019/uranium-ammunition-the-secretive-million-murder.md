@@ -13,7 +13,7 @@ This is a double scandal:
 
   - The uranium munitions used in the Yugoslavia wars of the 1990s, Iraq, Afghanistan and again in Syria by the United States and Great Britain have a deadly long-term effect. As a result, hundreds of thousands of people may die from it in the next few years.
 
-  - The Western media don't want to know about it. A science journalist for the German daily [DIE ZEIT](https://en.wikipedia.org/wiki/Die_Zeit "Die Zeit"), Gero von Randow, has been instrumental in helping to silence these «most adventurous conjectures» the German press – on behalf of, or at least at the request of the editor-in-chief at the time, [Theo Sommer](https://en.wikipedia.org/wiki/Theo_Sommer "Theo Sommer") and the (still ruling) editor-in-chief and NATO lover [Josef Joffe](https://en.wikipedia.org/wiki/Josef_Joffe "Josef Joffe").
+  - The Western media don't want to know about it. A science journalist for the German daily [DIE ZEIT](https://en.wikipedia.org/wiki/Die_Zeit "Die Zeit"), Gero von Randow, has been instrumental in helping to silence these "most adventurous conjectures" the German press – on behalf of, or at least at the request of the editor-in-chief at the time, [Theo Sommer](https://en.wikipedia.org/wiki/Theo_Sommer "Theo Sommer") and the (still ruling) editor-in-chief and NATO lover [Josef Joffe](https://en.wikipedia.org/wiki/Josef_Joffe "Josef Joffe").
 
 It is to be feared that the media will continue to remain silent on this. Thousands of victims of Nato terror would sue for war crimes and which of the member of the NATO terrorist organisation would be happy about that?
 
@@ -29,7 +29,7 @@ The projectiles called uranium ammunition are mainly used by the US fighter jets
 
 #### A tireless journalist has been researching
 
-It is thanks to the German filmmaker and journalist Frieder Wagner that the issue is finally coming back to the table. He has brought his research and travelogues to the war-damaged areas into a book that has just been published by the proMedia publishing house: «[Death Dust – made in USA](https://www.amazon.com/Death-Dust-What-Happens-Bodies/dp/1883620074 "Death to Dust: What Happens to Dead Bodies 1st Edition")».
+It is thanks to the German filmmaker and journalist Frieder Wagner that the issue is finally coming back to the table. He has brought his research and travelogues to the war-damaged areas into a book that has just been published by the proMedia publishing house: "[Death Dust – made in USA](https://www.amazon.com/Death-Dust-What-Happens-Bodies/dp/1883620074 "Death to Dust: What Happens to Dead Bodies 1st Edition")".
 
 > When uranium bullets hit their target, the depleted uranium used burns to the tiniest of particles. This ' death dust ' can enter all organs inhaled because it is 100 times smaller than red blood cells and thus also overcomes the mother-child barrier. Uranium particles in Iraq and wherever these weapons have been used so far also contaminate the soil, air and water. They cause cancer. Many generations are harmed for centuries because their genetic code is changing.
 

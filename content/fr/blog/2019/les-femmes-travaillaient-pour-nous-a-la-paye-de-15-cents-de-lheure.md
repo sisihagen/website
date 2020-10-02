@@ -27,7 +27,7 @@ En conséquence, pratiquement tous les travailleurs à domicile ont reçu entre 
 
 Travailler à la maison ou dans un petit atelier improvisé est non seulement extrêmement faible payé. Il captive également les ouvriers à la maison afin de remplir les commandes existantes rapidement et promptement, de sorte qu'ils gagnent au moins un minimum. Les pauses de récupération, la sécurité du travail et les conditions de travail de santé-safing sont difficilement possibles. Les maladies chroniques, y compris les maux de dos et les pertes visuelles, sont fréquentes dans ces conditions. Les soins médicaux et l'aide n'existent généralement pas: les sous-traitants laissent tomber les travailleuses.
 
-[Siddharth Kara](https://en.wikipedia.org/wiki/Siddharth_Kara "Siddharth Kara"), un connaisseur de longue date de l'esclavage moderne qui a rédigé le rapport de recherche, a expliqué dans le «The New York Times le 6 février»:
+[Siddharth Kara](https://en.wikipedia.org/wiki/Siddharth_Kara "Siddharth Kara"), un connaisseur de longue date de l'esclavage moderne qui a rédigé le rapport de recherche, a expliqué dans le "The New York Times le 6 février":
 
 "En raison du manque de transparence et de la nature informelle des devoirs, les travailleuses n'ont pratiquement aucune occasion de se défendre contre des conditions abusives ou abusives."
 

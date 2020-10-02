@@ -24,7 +24,7 @@ Therefore, a strengthening of the "European pillar" of NATO is needed and the EU
 
 Until then, the United States demands that Europe follow suit on important issues: the power struggle against China, Huawei or the Nord Stream 2 Pipeline. Siko CEO Ischinger once again called for Germany to "play a stronger role in the world".
 
-The aim must be to profess, without ifs and buts, to place the German power, not only the economic, but also the military, at the service of an EU and NATO capable of action. Both the EU Commission President von der Leyen and the German Foreign Minister said: "Europe must learn the language of power again."Ischinger demands – certainly also with regard to French nuclear weapons-that Germany cooperate more closely with France, in foreign policy, militarily and in arms development. He expressed his views on this matter a year ago: "France's nuclear deployment options should cover not only its own territory, but also the territory of its EU partners.“
+The aim must be to profess, without ifs and buts, to place the German power, not only the economic, but also the military, at the service of an EU and NATO capable of action. Both the EU Commission President von der Leyen and the German Foreign Minister said: "Europe must learn the language of power again."Ischinger demands – certainly also with regard to French nuclear weapons-that Germany cooperate more closely with France, in foreign policy, militarily and in arms development. He expressed his views on this matter a year ago: "France's nuclear deployment options should cover not only its own territory, but also the territory of its EU partners."
 
 "We must make Europe more capable of acting so that the EU can assert European interests more credibly, quickly and decisively, otherwise we will perish," says Ischinger. Under the pretext of a supposedly imminent withdrawal of the US from its role in Europe or NATO, the growing military responsibility of the European NATO states is now being invoked.
 
@@ -32,7 +32,7 @@ The aim must be to profess, without ifs and buts, to place the German power, not
 
 This is translated by German politics into more foreign missions, more arms exports, further armament and militarisation of the EU. This would be made necessary by the alleged withdrawal of the US from its "global responsibility" and the "Westlessness" caused by it, that is, the imminent departure of the "west" from its global supremacy.
 
-According to the Frankfurter Allgemeine Sonntagszeitung of 16 February 2020: "French President Emmanuel Macron has called on Europeans, and especially Germany, to work together for a sovereign, strong Europe, because the US is withdrawing, Macron complained at the Munich Security Conference. “
+According to the Frankfurter Allgemeine Sonntagszeitung of 16 February 2020: "French President Emmanuel Macron has called on Europeans, and especially Germany, to work together for a sovereign, strong Europe, because the US is withdrawing, Macron complained at the Munich Security Conference. "
 
 #### The USA withdrawing?
 

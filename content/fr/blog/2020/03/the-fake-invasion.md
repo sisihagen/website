@@ -38,7 +38,7 @@ Pendant ce temps, dans l'article avec la mauvaise image du réservoir, le WDR av
 
 #### La même image de réservoir web.de pour Russian Invasion 2014 et 2013, dans un Blog
 
-"Crise ukrainienne: les chars russes envahissent L'Ukraine" et "les chars de Poutine roulent sur la frontière" a rapporté le web.de page de nouvelles le 7 novembre 2014 avec une photo des chars russes qui auraient envahi L'Ukraine.  Cependant, la même photo a été prise plus d'un an plus tôt — le 19 mars 2013 — par un Blog dans l'article "à quoi s'attend L'industrie de la Défense russe?“ utiliser.
+"Crise ukrainienne: les chars russes envahissent L'Ukraine" et "les chars de Poutine roulent sur la frontière" a rapporté le web.de page de nouvelles le 7 novembre 2014 avec une photo des chars russes qui auraient envahi L'Ukraine.  Cependant, la même photo a été prise plus d'un an plus tôt — le 19 mars 2013 — par un Blog dans l'article "à quoi s'attend L'industrie de la Défense russe?" utiliser.
 
 {{< image srcwebp="/static/img/content/2020/097.webp" srcalt="/static/img/content/2020/097.jpg" title="5 years between the same photo" >}}
 
@@ -52,7 +52,7 @@ L'article de ZDF " recherche de la paix pour L'Ukraine. Liveblog: Kiev rapporte 
 
 Spiegel Online a affirmé le 23 Avril 2015 que les troupes russes étaient en Ukraine et montre une photo d'un véhicule militaire avec un système de défense aérienne, qui aurait été envoyé à L'est de L'Ukraine:
 
-"Le gouvernement américain accuse la Russie de violer L'accord de Minsk: malgré toutes les assurances, Moscou aurait envoyé des unités militaires supplémentaires dans l'est de l'Ukraine.“
+"Le gouvernement américain accuse la Russie de violer L'accord de Minsk: malgré toutes les assurances, Moscou aurait envoyé des unités militaires supplémentaires dans l'est de l'Ukraine."
 
 La même image a déjà été utilisée par Polskie Radio le 14 août 2014 et montre un véhicule militaire russe dans la région russe de Rostov. Der Spiegel suggère également par son choix de mots que l'accord de Minsk a déclaré que la Russie serait debout avec des troupes en Ukraine. Mais ce n'est pas dans l'accord, et la Russie n'aurait jamais signé.
 
@@ -82,7 +82,7 @@ Ceci est illustré par une "image de preuve" d'un prétendu convoi de chars russ
 
 #### Le système de défense aérienne russe mentionné ci-dessus à Rostov, en Russie, comme un symbole d'invasion dans la HAZ.
 
-Le Hannoversche Allgemeine Zeitung (HAZ) offre un très bel exemple de la tactique symbolique. L'image mentionnée précédemment d'un système de défense aérienne russe en Russie utilisée par le Spiegel le 23 Avril 2015 comme preuve du "déploiement de nouvelles troupes russes" a été utilisée par HAZ le 15 août 2014 pour accuser la Russie d'une invasion de L'Ukraine dans l'article " véhicules militaires russes repérés en Ukraine“ :
+Le Hannoversche Allgemeine Zeitung (HAZ) offre un très bel exemple de la tactique symbolique. L'image mentionnée précédemment d'un système de défense aérienne russe en Russie utilisée par le Spiegel le 23 Avril 2015 comme preuve du "déploiement de nouvelles troupes russes" a été utilisée par HAZ le 15 août 2014 pour accuser la Russie d'une invasion de L'Ukraine dans l'article " véhicules militaires russes repérés en Ukraine" :
 
 > 23 véhicules blindés de transport avec les pétroliers et les autres véhicules ont traversé la frontière de la Russie.
 
@@ -94,11 +94,11 @@ Bien qu'il n'y ait pas eu D'Invasion russe et que les lecteurs, les auditeurs et
 
 Particulièrement bizarre exemple de ceci est la couverture du Panama Papiers paradis fiscal scandale. Un milliardaire ukrainien a également été impliqué dans l'affaire et au moins sept journalistes, dont certains de haut rang, ont réussi à raconter l'histoire de l'invasion russe présumée de l'Ukraine en 2014 par ce lien entre le 4 et le 8 avril 2016.  Et ce, vous l'esprit, dans le contexte d'un scandale d'évasion fiscale et de blanchiment d'argent dans le pays d'Amérique Centrale, du Panama.
 
-Konrad Schuller (FAZ) - " L'Ukraine et les Panama Papers. Expulsion du paradis fiscal“:
+Konrad Schuller (FAZ) - " L'Ukraine et les Panama Papers. Expulsion du paradis fiscal":
 
 > Ce qui est scandaleux, c'est qu'en août 2014, au plus fort de l'intervention militaire russe, le président et commandant en chef des Forces armées a fondé une entreprise dans un paradis fiscal.
 
-Paul Ronzheimer (photo) - " scandale sur la supercherie de l'argent / est-ce que Porochenko se précipite à travers le compte Panama?“:
+Paul Ronzheimer (photo) - " scandale sur la supercherie de l'argent / est-ce que Porochenko se précipite à travers le compte Panama?":
 
 > Et puis Ilovaisk est arrivé — dans le village près de Donetsk des centaines de soldats ukrainiens ont été encerclés et tués par des soldats russes. À ce jour, c'est la plus grande défaite des Ukrainiens de la guerre.
 
@@ -106,19 +106,19 @@ Moritz Gatmann (Übermedien) — "Offshore Disclosure. Panama, Poutine, Porochen
 
 > La plupart du plat Porochenko est une sauce appelée "Ilovaisk". C'est le nom d'un endroit dans L'est de L'Ukraine où les Ukrainiens ont perdu une bataille décisive contre les séparatistes et les forces spéciales russes en août 2014.
 
-Benjamin Bidder (Spiegel) — "Panama Papers: pourquoi Porochenko est mis au pilori à tort cette fois“:
+Benjamin Bidder (Spiegel) — "Panama Papers: pourquoi Porochenko est mis au pilori à tort cette fois":
 
 > Afin d'éviter la défaite imminente des "Républiques Populaires" autoproclamées, Moscou a ensuite augmenté le déploiement: à la mi-août, des unités de l'armée russe sont intervenues dans les combats. Lorsque le courrier a été envoyé au Panama, cependant, rien n'indiquait ce développement.
 
-T-Online "société Offshore fondée. Porochenko sous pression sur les "Panama Papers" “:
+T-Online "société Offshore fondée. Porochenko sous pression sur les "Panama Papers" ":
 
 > Les courriels adressés au cabinet D'avocats Mossack Fonseca, qui est au centre des "Panama Papers", datent de plus d'une semaine avant le point culminant de la confrontation avec la Russie.
 
-Florian Willershausen (magazine wirtschaftswoche) - " Panama Papiers et de l'Ukraine. Injustement mis au pilori“:
+Florian Willershausen (magazine wirtschaftswoche) - " Panama Papiers et de l'Ukraine. Injustement mis au pilori":
 
 > Juste en août, lorsque les troupes ukrainiennes ont subi de lourdes défaites dans la bataille dans l'est de l'Ukraine contre les forces spéciales russes et les séparatistes pro-russes, la société de boîte aux lettres Prime Asset Partners a été ouverte dans le port fiscal des Îles Vierges Britanniques.
 
-Christian weisflog (NZZ) - " les sociétés Offshore du Président“:
+Christian weisflog (NZZ) - " les sociétés Offshore du Président":
 
 > Lors de la conquête D'Ilovaisk, les troupes de Kiev ont été encerclées par des unités russes. Près de 500 soldats ukrainiens ont été tués et autant de blessés.
 

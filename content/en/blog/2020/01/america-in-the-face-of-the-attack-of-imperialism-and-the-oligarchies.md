@@ -10,7 +10,7 @@ lang: en
 
 Recent events in the Region confirm that the US government and reactionary oligarchies are the main ones responsible for the dangerous upheavals and political and social instability of Latin America and the Caribbean.
 
-The First Secretary of the Communist party of Cuba, army General Raúl Castro Ruz, stated on 1. January 2019 prescient: "Those who cherish illusions about the restoration of imperialist domination over our Region, should understand that Latin America and the Caribbean have changed and also the world. [...] The Region resembles a prairie in times of drought. A spark could cause an uncontrollable fire that harms all national interests.“
+The First Secretary of the Communist party of Cuba, army General Raúl Castro Ruz, stated on 1. January 2019 prescient: "Those who cherish illusions about the restoration of imperialist domination over our Region, should understand that Latin America and the Caribbean have changed and also the world. [...] The Region resembles a prairie in times of drought. A spark could cause an uncontrollable fire that harms all national interests."
 
 President Donald Trump proclaims the validity of the Monroe Doctrine and appeals to McCarthyism to preserve imperialist supremacy over the Region's natural resources, to impede the exercise of national sovereignty and the aspirations of regional Integration and cooperation; to seek to restore its unipolar hegemony at the global and hemispheric levels; to eliminate progressive, revolutionary and alternative models to wild capitalism; and regardless of international law, the rules of the game of representative democracy, the environment or the well-being of peoples, to reverse political and Social Conquests and enforce neoliberal models.
 

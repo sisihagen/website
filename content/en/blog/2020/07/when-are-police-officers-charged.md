@@ -58,7 +58,7 @@ With a consistent labelling obligation of police officers this investigation gap
 
 {{< image srcwebp="/static/img/content/2020/210.webp" srcalt="/static/img/content/2020/210.jpg" title="When are police officer charged" >}}
 
-#### "Declaration of bankruptcy of the rule of law“
+#### "Declaration of bankruptcy of the rule of law"
 
 {{< tweet "1276822081053888513" >}}
 

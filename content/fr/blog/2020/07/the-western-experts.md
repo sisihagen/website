@@ -3,7 +3,7 @@ title: "Les experts occidentaux"
 date: 2020-07-21
 draft: false
 tags: "Journalisme"
-shorttext: "Dans toutes les activités, Adrian Zenz a reçu le titre de «Chercheur pour les questions chinoises» ou «Expert pour les questions des minorités». Les politiciens anti-chinois ont été mentionnés."
+shorttext: "Dans toutes les activités, Adrian Zenz a reçu le titre de Chercheur pour les questions chinoises ou Expert pour les questions des minorités. Les politiciens anti-chinois ont été mentionnés."
 cover: "media"
 lang: fr
 ---

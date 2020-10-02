@@ -46,13 +46,13 @@ However, current developments such as the "[conception of civil defense](https:/
   - Use of chemical, biological, radiological, and nuclear agents (CBRN hazards),
   - Use of weapons of mass destruction and their delivery systems,
   - Cyber Attacks,
-  - Failure or disruption of Critical infrastructure“.
+  - Failure or disruption of Critical infrastructure".
 
 The concept of the Federal Ministry of the interior follows the NATO Council's plan of February 2016 for civilian preparedness (Guidelines on Civil Preparedness). This is about processes after the destruction of the environment and life.
 
 But it gets even worse, even more massive, the radioactive contamination is, in fact, increasingly likely, and with irresponsible intent: According to the NATO-backed one-sided breach of the Treaty for the prohibition of nuclear medium-range missiles, the USA have declared, without evidence of the work of U.S. defense contractors to new nuclear systems, which should have a wider applicability.
 
-"The U.S. Department of defense plans to advance after the end of the INF Treaty between the United States and Russia, the development of a new missile system. The [announced](https://www.usnews.com/news/world-report/articles/2019-08-02/defense-secretary-mark-esper-threatens-russia-with-new-missile-system "Unrestricted by Nuclear Treaty, Pentagon Chief Threatens Russia With New Weapons") Pentagon chief Mark Esper“.
+"The U.S. Department of defense plans to advance after the end of the INF Treaty between the United States and Russia, the development of a new missile system. The [announced](https://www.usnews.com/news/world-report/articles/2019-08-02/defense-secretary-mark-esper-threatens-russia-with-new-missile-system "Unrestricted by Nuclear Treaty, Pentagon Chief Threatens Russia With New Weapons") Pentagon chief Mark Esper".
 
 This also applies to the nuclear systems that are located in Büchel near Koblenz in connection with the so-called "nuclear participation" of Germany. According to NATO plans, the systems will be replaced in the next few years by a new attack technique equipped with a target finding head and no longer a fall bomb. The website of the Federation of American Scientists (FAS) criticizes: the " improved target finding technique makes the System more operational (...) "; The [Guardian](https://www.theguardian.com/world/julian-borger-global-security-blog/2015/nov/10/americas-new-more-usable-nuclear-bomb-in-europe "America's new, more 'usable', nuclear bomb in Europe") uses the phrase "more usable" for this purpose.
 

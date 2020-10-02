@@ -9,7 +9,7 @@ draft: false
 lang: fr
 ---
 
-Obama a succédé à G. W. Bush. Le rendre meilleur que son prédécesseur n'aurait pas dû être difficile, tout le monde aurait fait mieux. Il a fait campagne avec la vague déclaration «Oui, nous pouvons ... " A nié.
+Obama a succédé à G. W. Bush. Le rendre meilleur que son prédécesseur n'aurait pas dû être difficile, tout le monde aurait fait mieux. Il a fait campagne avec la vague déclaration "Oui, nous pouvons ... " A nié.
 
 {{< image srcwebp="/static/img/content/2019/89.webp" srcalt="/static/img/content/2019/89.jpg" title="George W. Bush (l.) and Obama (r.)" >}}
 
@@ -39,13 +39,13 @@ Obama n'a pas mis fin à la guerre en Afghanistan comme promis, il n'a pas repri
 
 #### La haine attise, le errorisme encouragé
 
-Obama, comme ses prédécesseurs, a également voulu lutter contre le «terrorisme».
+Obama, comme ses prédécesseurs, a également voulu lutter contre le "terrorisme".
 
 Obama voulait renverser TAssad en [Syrie](https://www.usip.org/publications/2019/07/syria-timeline-uprising-against-assad "Syria Timeline: Since the Uprising Against Assad"), et il a jeté le pays dans une guerre sans fin. Les deux rebelles A [l-Nusra](https://www.reuters.com/article/us-mideast-crisis-usa-equipment/u-s-trained-syrian-rebels-gave-equipment-to-nusra-u-s-military-idUSKCN0RP2HO20150926 "U.S.-trained Syrian rebels gave equipment to Nusra: U.S. military") auraient été construits par les États-Unis et le soi-disant État islamique, comme un fer de lance contre le président Assad. Obama a toléré les républicains de droite comme Mme Nuland dans son rôle de fonctionnaire du département d'État ou, comme Samantha Power, dans d'autres pays pour renverser ou protéger les gouvernements là-bas. Qu'ils correspondent ou non aux faucons aux États-Unis dans leur concept abscons de politique étrangère de la domination du monde. Oui nous pouvons...
 
 {{< youtube "PSf3efRVIFo" >}}
 
-L'OTAN, elle aussi, n'a pas été dissoute pendant son règne, mais s'est même élargie davantage. L'OTAN a « cherché de nouvelles tâches » et, au grand dam des Russes, s'est étendue plus à l'est. Les relations avec la Russie sont pires que jamais depuis le début de la guerre froide, alors même que le président russe Poutine a tendu la main à la fois aux États-Unis et à l'Europe, appelant à des négociations conjointes et à la paix. Oui nous pouvons...
+L'OTAN, elle aussi, n'a pas été dissoute pendant son règne, mais s'est même élargie davantage. L'OTAN a " cherché de nouvelles tâches " et, au grand dam des Russes, s'est étendue plus à l'est. Les relations avec la Russie sont pires que jamais depuis le début de la guerre froide, alors même que le président russe Poutine a tendu la main à la fois aux États-Unis et à l'Europe, appelant à des négociations conjointes et à la paix. Oui nous pouvons...
 
 #### Pas de président des Afro-Américains
 
@@ -69,6 +69,6 @@ Obama a fait la guerre à l'étranger et contre les travailleurs domestiques tou
 
 En fin de compte, il s'est ridiculisé en blâmant les Russes pour la défaite électorale de son ancien ministre des Affaires étrangères et en imposant de nouvelles sanctions à la Russie. Comme un dernier acte de bureau, pour ainsi dire. Pour le dernier Oui, nous pouvons ...
 
-Si les travailleurs américains avaient vraiment été aussi bons que jamais depuis l'arrivée au pouvoir d'Obama, laissez quelqu'un nous expliquer pourquoi ils étaient si stupides de ne pas élire la « grande » Mme Clinton comme son successeur.
+Si les travailleurs américains avaient vraiment été aussi bons que jamais depuis l'arrivée au pouvoir d'Obama, laissez quelqu'un nous expliquer pourquoi ils étaient si stupides de ne pas élire la " grande " Mme Clinton comme son successeur.
 
 Obama n'a rien gardé de ce qu'il a promis. Mais il n'a jamais vraiment promis quoi que ce soit. Il a juste dit: Oui, nous pouvons. Les autres désillusionnés ont alors mis leur propre voie.
