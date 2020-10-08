@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-set -e
-
 # read in variables
 source ./bin/variables.sh
 

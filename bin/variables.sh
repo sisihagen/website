@@ -18,6 +18,8 @@ fr=silviosiefke.fr/htdocs
 ru=silviosiefke.ru/htdocs
 st=static.silviosiefke.com/htdocs
 
+# time
+date=$(date +"%Y-%m-%d")
 year=$(date +%Y)
 month=$(date +%m)
 day=$(date +%d)
@@ -41,3 +43,15 @@ enint='./tmp/link_int_en.log'
 frint='./tmp/link_int_fr.log'
 ruint='./tmp/link_int_ru.log'
 statuscodes='./tmp/statuscodes.log'
+
+# variables through user input
+lang=$1
+cover=$2
+tmp_title=$3
+
+# variables which we use in script
+# create a title with small letters and remove whitespace
+title=$(echo ${tmp_title,,} | trans -brief :en | sed -e 's/\s/-/g')
+categories=(computer media repression society)
+content_dir="./content/$lang/blog/$year/$month"
+file="$content_dir/$title.md"

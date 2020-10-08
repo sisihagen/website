@@ -1,11 +1,11 @@
 ---
-title: "Russia is to blame for Western wars"
+title: "La Russie est à blâmer pour les guerres occidentales"
 date: 2020-10-01
 draft: false
-tags: "Society"
-shorttext: "It was the Russian: this phrase does not just rush to dubious poison ousts with weak circumstantial evidence."
+tags: "Société"
+shorttext: "C'était le Russe: cette phrase ne se précipite pas seulement vers des évictions de poison douteuses avec de faibles preuves circonstancielles."
 cover: "society"
-lang: en
+lang: fr
 ---
 
 En quelques phrases sur la Russie et son président Vladimir Poutine, Friedrich Merz, qui est loin de l’éducation, tourne radicalement les réalités géopolitiques sur sa tête. Merz a déclaré au journal Bild dimanche qu'"il n’y a pas d’escalade de l’Allemagne et de l’Europe ". Cette escalade " vient actuellement exclusivement de Russie ". Mais Merz tire l’oiseau principalement avec la fausse déclaration suivante:

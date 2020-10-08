@@ -3,42 +3,11 @@
 # the script build a file and create the head content of it
 # the script also generate a english based filename
 
-# variables through user input
-lang=$1
-cover=$2
-tmp_title=$3
-
-# variables which we use in script
-# create a title with small letters and remove whitespace
-title=$(echo ${tmp_title,,} | trans -brief :en | sed -e 's/\s/-/g')
-
-# categories
-categories=(computer media repression society)
-
-# date variables
-date=$(date +"%Y-%m-%d")
-year=$(date +"%Y")
-month=$(date +"%m")
-
-# content variables
-content_dir="./content/$lang/blog/$year/$month"
-file="$content_dir/$title.md"
+# read in variables
+source ./bin/variables.sh
 
 # function
-function create_file()
-{
-  {
-    echo "---"
-    echo "title: \"$tmp_title\""
-    echo "date: $date"
-    echo "draft: false"
-    echo "tags: \"$tag\""
-    echo "shorttext:"
-    echo "cover: \"$cover\""
-    echo "lang: $lang"
-    echo "---"
-  } >> "$file"
-}
+source ./bin/function.sh
 
 case $1 in
   de)

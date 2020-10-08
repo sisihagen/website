@@ -16,10 +16,6 @@ $(document).ready(function() {
         newele.text($(ele).prop("title"));
         $('aside div.article__source').append(newele);
 
-        if ($('.article__source').children().length <=1) {
-          $('.article__source').hide();
-        }
-
         if($('.article__source a[href*="twitter"]').length > 0){
           $('.article__source a[href*="twitter"]').hide();
         }
@@ -27,7 +23,6 @@ $(document).ready(function() {
         if($('.article__source a[href*="t.co"]').length > 0){
           $('.article__source a[href*="t.co"]').hide();
         }
-
     });
 
     $('article img').each(function (idx, ele) {
@@ -37,6 +32,10 @@ $(document).ready(function() {
     // check if linklist and gallery have values
     if ($('.article__gallery').children().length <=1) {
       $('.article__gallery').hide();
+    }
+
+    if ($('.article__source').children().length <=1) {
+      $('.article__source').hide();
     }
   }
 

@@ -3,7 +3,10 @@
 # variables
 source ./bin/variables.sh
 
+# function
+source ./bin/function.sh
+
 # downloads
 if [[ -d $sst/downloads ]]; then
-  rsync -auq $sst/downloads/ $dst/downloads/
+  cp -r $sst/downloads/* $dst/downloads/
 fi
