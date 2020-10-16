@@ -7,6 +7,7 @@
     <article class="card">
       <a href="{{ .Permalink }}" title="{{ .Title }}">
       {{ if .Params.cover }}
+        <div class="{{.Params.cover}}"></div>
         <picture>
           <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
           <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">

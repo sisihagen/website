@@ -15,7 +15,7 @@ case "$1" in
 
     hugobuild)
         # run hugo
-        hugo --cleanDestinationDir --enableGitInfo --gc --minify
+        hugo --cleanDestinationDir --enableGitInfo --gc
     ;;
 
     *)

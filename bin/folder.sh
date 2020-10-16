@@ -3,9 +3,26 @@
 # variables
 source ./bin/variables.sh
 
-# create folder
-mkdir -p $dde $den $dfr $dru
+# function
+source ./bin/function.sh
 
-if [[ ! -d $dst ]]; then
-  mkdir -p $dst/{css,downloads,fonts,img,js}
-fi
+# create folder
+# build folder
+mkdir -p $build
+
+# sites folder
+mkdir -p $dest/{$de,$fr,$en,$ru}/htdocs
+
+# pi
+mkdir $pi
+
+# mirror folder
+mkdir -p $mirror/{$finnland,$jburg,$jpy}
+
+# sites folder for mirrors
+mkdir -p $mirror/$finnland/{$de,$fr,$en,$ru}/htdocs
+mkdir -p $mirror/$jburg/{$de,$fr,$en,$ru}/htdocs
+mkdir -p $mirror/$jpy/{$de,$fr,$en,$ru}/htdocs
+
+# static folder
+mkdir -p $dest/$static/htdocs/{$css,$img,$downloads,$js,$fonts}

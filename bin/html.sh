@@ -1,41 +1,48 @@
 #!/usr/bin/env bash
 
-# read in variables
+# variables
 source ./bin/variables.sh
 
-# html clean and minify for all languages
-if [[ -d $sde ]]; then
-    if [[ -d $dde ]]; then
-      find $sde -name "index.xml" -delete
-      rm -r $sde/static
-      minify --type=html --html-keep-document-tags --html-keep-end-tags --html-keep-quotes -r -o $dde/ $sde/
-      cp $sde/robots.txt $dde/
-    fi
+# function
+source ./bin/function.sh
+
+# html clean and minify for all sites
+# german site
+if [[ -d "$build/$sde" ]]; then
+  # delete the static folder
+  clean_dir "$build/$sde/static"
+
+  if [[ -d "$dest/$de/htdocs" ]]; then
+    html "$build/$sde/" "$dest/$de/htdocs/"
+  fi
 fi
 
-if [[ -d $sen ]]; then
-    if [[ -d $den ]]; then
-      find $sen -name "index.xml" -delete
-      rm -r $sen/static
-      minify --type=html --html-keep-document-tags --html-keep-end-tags --html-keep-quotes -r -o $den/ $sen/
-      cp $sen/robots.txt $den/
-    fi
+# english site
+if [[ -d "$build/$sen" ]]; then
+  # delete the static folder
+  clean_dir "$build/$sen/static"
+
+  if [[ -d "$dest/$en/htdocs" ]]; then
+    html "$build/$sen/" "$dest/$en/htdocs/"
+  fi
 fi
 
-if [[ -d $sfr ]]; then
-    if [[ -d $dfr ]]; then
-      find $sfr -name "index.xml" -delete
-      rm -r $sfr/static
-      minify --type=html --html-keep-document-tags --html-keep-end-tags --html-keep-quotes -r -o $dfr/ $sfr/
-      cp $sfr/robots.txt $dfr/
-    fi
+# french site
+if [[ -d "$build/$sfr" ]]; then
+  # delete the static folder
+  clean_dir "$build/$sfr/static"
+
+  if [[ -d "$dest/$fr/htdocs" ]]; then
+    html "$build/$sfr/" "$dest/$fr/htdocs/"
+  fi
 fi
 
-if [[ -d $sru ]]; then
-    if [[ -d $dru ]]; then
-      find $sru -name "index.xml" -delete
-      rm -r $sru/static
-      minify --type=html --html-keep-document-tags --html-keep-end-tags --html-keep-quotes -r -o $dru/ $sru/
-      cp $sru/robots.txt $dru/
-    fi
+# russian site
+if [[ -d "$build/$sru" ]]; then
+  # delete the static folder
+  clean_dir "$build/$sru/static"
+
+  if [[ -d "$dest/$ru/htdocs" ]]; then
+    html "$build/$sru/" "$dest/$ru/htdocs/"
+  fi
 fi

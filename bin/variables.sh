@@ -1,22 +1,47 @@
 #!/usr/bin/env bash
 
-sde=./public/build/de
-dde=./public/dest/silviosiefke.de/htdocs
-sen=./public/build/en
-den=./public/dest/silviosiefke.com/htdocs
-sfr=./public/build/fr
-dfr=./public/dest/silviosiefke.fr/htdocs
-sru=./public/build/ru
-dru=./public/dest/silviosiefke.ru/htdocs
-sst=./static/static
-dst=./public/dest/static.silviosiefke.com/htdocs
+# hugp build
+build='./public/build'
+sde='de'
+sen='en'
+sfr='fr'
+sru='ru'
 
-workdir=public/dest
-de=silviosiefke.de/htdocs
-en=silviosiefke.com/htdocs
-fr=silviosiefke.fr/htdocs
-ru=silviosiefke.ru/htdocs
-st=static.silviosiefke.com/htdocs
+# after build
+dest='./public/dest'
+de='silviosiefke.de'
+en='silviosiefke.com'
+fr='silviosiefke.fr'
+ru='silviosiefke.ru'
+
+
+# mirror
+mirror='./public/mirror'
+finnland='finnland'
+jpy='jpy'
+jburg='jburg'
+
+# pi
+pi='./public/local'
+
+# static
+lstatic='./static/static'
+static='static.silviosiefke.com'
+css='css'
+img='img'
+js='js'
+fonts='fonts'
+downloads='downloads'
+
+# images
+picture="$(find ./static/static/img/content ./static/static/img/cover -iregex ".*\.\(jpg\|png\|jpeg|svg\)$" | wc -l)"
+webp="$(find ./static/static/img/content ./static/static/img/cover -type f -name "*.webp" | wc -l)"
+webp_content="$(find ./static/static/img/content/"$year" -type f -name "*.webp" | wc -l)"
+png_content="$(find ./static/static/img/content/"$year" -type f -name "*.png" | wc -l)"
+jpg_content="$(find ./static/static/img/content/"$year" -type f -name "*.jpg" | wc -l)"
+jpg_cover="$(find ./static/static/img/cover/"$year" -type f -name "*.jpg" | wc -l)"
+webp_cover="$(find ./static/static/img/cover/"$year" -type f -name "*.webp"| wc -l )"
+
 
 # time
 date=$(date +"%Y-%m-%d")
@@ -25,10 +50,7 @@ month=$(date +%m)
 day=$(date +%d)
 weeknumber=$(date +%V)
 
-img_dir='./static/static/img/content'
-jpeg_file='jpg.txt'
-webp_file='webp.txt'
-diff_file='diff.txt'
+
 tmp='/tmp/source.txt'
 tmp_dir='/tmp/md'
 mdde='./content/de/blog'
@@ -55,3 +77,6 @@ title=$(echo ${tmp_title,,} | trans -brief :en | sed -e 's/\s/-/g')
 categories=(computer media repression society)
 content_dir="./content/$lang/blog/$year/$month"
 file="$content_dir/$title.md"
+
+
+

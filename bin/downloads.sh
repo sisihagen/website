@@ -7,6 +7,6 @@ source ./bin/variables.sh
 source ./bin/function.sh
 
 # downloads
-if [[ -d $sst/downloads ]]; then
-  cp -r $sst/downloads/* $dst/downloads/
+if [[ -d $lstatic/downloads ]]; then
+  sync "$lstatic/$downloads/" "$dest/$static/htdocs/$downloads/"
 fi

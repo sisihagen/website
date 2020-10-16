@@ -5,6 +5,7 @@ source ./bin/variables.sh
 
 case "$1" in
   git)
+    ssh-add /home/siefke/.ssh/github_ed
     git add . && git commit -m "Articles and fixes for week $weeknumber" &&  git push && git push github
   ;;
 
@@ -37,10 +38,10 @@ case "$1" in
     ./bin/js.sh &
     wait
 
-    # deploy
-    ./bin/deploy.sh
+    # mirror
+    ./bin/mirror.sh
 
-    # raspi
-    ./bin/raspi.sh
+    # deploying
+    # ./bin/deploy.sh
   ;;
 esac

@@ -5,7 +5,7 @@
   "png":   "/static/img/brands/arch.png",
   "href":  "http://www.archlinux.org",
   "title": "Arch Linux",
-  "class": "sprite-brands-arch"
+  "class": "homearch"
 }, {
   "id":    "2",
   "name":  "Nginx",
@@ -13,7 +13,7 @@
   "png":   "/static/img/brands/nginx.png",
   "href":  "http://www.nginx.org",
   "title": "Nginx Webserver",
-  "class": "sprite-brands-nginx"
+  "class": "homenginx"
 }, {
   "id":    "3",
   "name":  "Hugo",
@@ -21,7 +21,7 @@
   "png":   "/static/img/brands/hugo.png",
   "href":  "http://www.gohugo.io",
   "title": "The world’s fastest framework for building websites",
-  "class": "sprite-brands-hugo"
+  "class": "homehugo"
 }, {
   "id": "4",
   "name":  "OVH",
@@ -29,5 +29,5 @@
   "png":   "/static/img/brands/ovh.png",
   "href":  "http://www.ovh.com",
   "title": "OVH - Innovation for Freedom",
-  "class": "sprite-brands-ovh"
+  "class": "homeovh"
 }]

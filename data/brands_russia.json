@@ -5,7 +5,7 @@
   "png":   "/static/img/brands/debian.png",
   "href":  "http://www.debian.org",
   "title": "Debian - The Universal Operating System",
-  "class": "sprite-brands-debian"
+  "class": "homedebian"
 }, {
   "id":    "2",
   "name":  "Nginx",
@@ -13,7 +13,7 @@
   "png":   "/static/img/brands/nginx.png",
   "href":  "http://www.nginx.org",
   "title": "Nginx Webserver",
-  "class": "sprite-brands-nginx"
+  "class": "homenginx"
 }, {
   "id":    "3",
   "name":  "Hugo",
@@ -21,7 +21,7 @@
   "png":   "/static/img/brands/hugo.png",
   "href":  "http://www.gohugo.io",
   "title": "The world’s fastest framework for building websites",
-  "class": "sprite-brands-hugo"
+  "class": "homehugo"
 }, {
   "id": "4",
   "name":  "REG",
@@ -29,5 +29,5 @@
   "png":   "/static/img/brands/reg_ru.png",
   "href":  "http://www.reg.ru",
   "title": "Reg.ru the number one in Russia",
-  "class": "sprite-brands-reg_ru"
+  "class": "homeregru"
 }]

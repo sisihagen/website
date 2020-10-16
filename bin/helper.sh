@@ -7,49 +7,6 @@ source ./bin/variables.sh
 source ./bin/function.sh
 
 case $1 in
-    # help to find images without webp part
-    webp)
-
-      if [[ -d "$img_dir/$year" ]]; then
-
-        cd "$img_dir/$year" || exit
-        ls ./*.jpg > $jpeg_file
-        ls ./*.webp > $webp_file
-        sed -i 's/.jpg//g' $jpeg_file
-        sed -i 's/.webp//g' $webp_file
-        diff $jpeg_file $webp_file | awk '{print $2}' | sed '/^$/d' > $diff_file
-
-        ### read the diff file for converting
-        while IFS= read -r line; do
-          cwebp -quiet "$line".jpg -o "$line".webp
-        done < diff.txt
-
-        ### clean the folder
-        rm $jpeg_file $webp_file $diff_file
-
-      fi
-    ;;
-
-    png)
-      for img in "$img_dir"/"$year"/*.png; do
-        optipng -quiet "$img";
-      done
-
-      for img in "$img_dir"/"$year"/*.png; do
-          filename=${img%.*}
-          convert "$filename.png" "$filename.jpg"
-      done
-
-      for img in "$img_dir"/"$year"/*.jpg; do
-          filename=${img%.*}
-          cwebp -quiet "$filename.jpg" -o "$filename.webp"
-      done
-
-      for img in "$img_dir"/"$year"/*.png; do
-          rm "$img";
-      done
-    ;;
-
     month)
       if [[ -z "$2" ]]; then
         printf "use it like ./bin/helper.sh month language"
@@ -70,6 +27,30 @@ case $1 in
         cd "./content/$lang/blog/$year" || exit
         mkdir "${month[@]}" || exit
         echo "Directory Structor is created"
+      fi
+    ;;
+
+    year)
+      if [[ -z "$2" ]]; then
+        # german content/de/blog/2020
+        if [[ -d "$mdde" ]]; then
+          mkdir $mdde/$year || exit
+        fi
+
+        # english content/en/blog/2020
+        if [[ -d "$mden" ]]; then
+          mkdir $mden/$year || exit
+        fi
+
+        # french content/fr/blog/2020
+        if [[ -d "$mdfr" ]]; then
+          mkdir $mdfr/$year || exit
+        fi
+
+        # french content/ru/blog/2020
+        if [[ -d "$mdru" ]]; then
+          mkdir $mdru/$year || exit
+        fi
       fi
     ;;
 
@@ -102,7 +83,7 @@ case $1 in
       if [[ ! -f "$tmp" ]]; then
         ./bin/helper.sh diff > $tmp
       else
-        clean_file
+        clean_file $tmp
         ./bin/helper.sh diff > $tmp
       fi
 
@@ -141,17 +122,17 @@ case $1 in
       cp -v $tmp_dir/*.md $mden/$year/$month
 
       # clean the dir $tmp_dir
-      clean_dir
+      clean_dir $tmp_dir
 
       # clean the source file $tmp
-      clean_file
+      clean_file $tmp
     ;;
 
     copy-fr)
       if [[ ! -f "$tmp" ]]; then
         ./bin/helper.sh diff > $tmp
       else
-        clean_file
+        clean_file $tmp
         ./bin/helper.sh diff > $tmp
       fi
 
@@ -191,17 +172,17 @@ case $1 in
       cp -v $tmp_dir/*.md $mdfr/$year/$month
 
       # clean the dir $tmp_dir
-      clean_dir
+      clean_dir $tmp_dir
 
       # clean the source file $tmp
-      clean_file
+      clean_file $tmp
     ;;
 
     copy-ru)
       if [[ ! -f "$tmp" ]]; then
         ./bin/helper.sh diff > $tmp
       else
-        clean_file
+        clean_file $tmp
         ./bin/helper.sh diff > $tmp
       fi
 
@@ -241,10 +222,10 @@ case $1 in
       cp -v $tmp_dir/*.md $mdru/$year/$month
 
       # clean the dir $tmp_dir
-      clean_dir
+      clean_dir $tmp_dir
 
       # clean the source file $tmp
-      clean_file
+      clean_file $tmp
     ;;
 
     remhref)
@@ -252,9 +233,8 @@ case $1 in
     ;;
 
     *)
-        printf "webp     > for converting jpg images to webp format\n"
-        printf "png     > for converting png images to jpg|webp format\n"
         printf "month    > to create month folder in blog folder\n"
+        printf "year     > to create year folder in blog folder\n"
         printf "diff     > to see which missing files give in blogs\n"
         printf "copy-en  > copy the german files to english folder\n"
         printf "copy-fr  > copy the english files to french folder\n"

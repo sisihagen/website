@@ -1,0 +1,25 @@
+---
+title: "The other Politician"
+date: 2020-10-13
+draft: false
+tags: "State"
+shorttext: "Gerd Müller is a minister you seldom hear from and is more popular with the opposition than with his own party."
+cover: "repression"
+lang: en
+---
+
+In the midst of political failures such as Heiko Maas, Jens Spahn and Andreas Scheuer, there is a federal minister in Merkel's cabinet who rarely makes the headlines and has been doing his job so well for seven years now that he is more popular with the Opposition than in his own party. We are talking about Gerd Müller, Minister of development aid and member of the CSU. Now Müller has announced that he will end his political career. He will not stand in the next federal elections. It is to be hoped that he can leave his political legacy with the "[supply chain act](https://www.deutschlandfunk.de/entwicklungsminister-mueller-csu-zu-moria-nirgendwo.868.de.html?dram:article_id=483995 "Nirgendwo herrschen solche unterirdischen Zustände")".
+
+> "Well, my Vision-and it must become reality-is a common good-oriented, just globalization. The markets have freed themselves from rules and Standards. [ ... ] And it cannot and must not be the case that in the age of globalization, production is externalized, and we accept slave labor, child labor in our supply chains."
+ 
+A federal minister who names and denounces slave and child labour as such and has a Vision of an economy oriented towards the common good? This may sound surprising. What is actually surprising, however, is that Müller is quite serious about this and does not only formulate it as a Sunday speech for the electorate. Müller is a politician and member of the CSU. However, he is also one of the very few well-known union politicians who still knows what the "C" in the party name stands for and who, as a "good Christian", has not yet forgotten things such as sustainability, ethics, morality and Justice.
+
+During his tenure, he fought for fair access for African companies to the European market, changed the "old" development aid to new, meaningful concepts, and repeatedly criticized the unfair value creation in the supply chains that lead to the Profit from international trade with developing countries ending up in the pockets of a few in the global north, while the workers on the ground are fed at best with the crumbs from the Lord's table. The Consequences: Poverty, Slave Labour, Hunger. This is often criticized in Sunday speeches. The real achievement of Gerd Müller was not only to address these problems, but also to propose constructive political concepts in order to eliminate these problems.
+
+In doing so, however, he repeatedly encountered icy headwinds among his cabinet colleagues in the federal government and, above all, the EU Commission. Unfortunately, the Federal Ministry of Economics in particular does not think anything of Müller's visions, but represents the wishes of the business associations in constant solidarity. Thus Müller was able to achieve that the Budget for his ministry was more than doubled during his term of office; drops on the hot stone that are not even close enough to make his Vision become truth.
+
+A good deal further, however, this Vision could lead to legislation that could be described as "Müller's political legacy" – the supply chain act. Put simply, it is about the following: it is well known that in the Free World Trade described as "globalization", labor, social and environmental standards are systematically violated, especially in developing countries, in order to maximize the profits of international corporations. Unfortunately, appeals to consumers or even to the self-control of corporations proved to be pointless. The supply chain act basically states that companies offering products on the German market must guarantee compliance with labour, social and environmental standards throughout the supply chain and that those responsible for violations can be held accountable under civil law. For example, if Adidas sells jerseys in Germany that are produced in a developing country by Adidas, a subcontractor or a supplier in violation of Labor, Social and environmental standards, the supply chain Act would give Plaintiffs the opportunity to sue the management of Adidas in Germany under civil law. Where the consumer and the self-commitment have failed, then would come the sword of Justice.
+
+This legislative proposal is massively obstructed by his colleague from Altmaier. Altmaier's arguments are well-known and are similar to those that are always brought in by the capital side when it comes to preventing regulation: too much bureaucracy, weakening of Germany as a business location, it is best to implement something like this worldwide, or at least Europe-wide. Needless to say, the chances of implementing the supply chain act at European level are exactly zero percent.
+
+So we can be pessimistically curious whether Gerd Müller will succeed in his last year in office to enforce "his" law against the opposition of the lobbyists and thus get a bit closer to his "Vision".
