@@ -1,26 +1,37 @@
 #!/usr/bin/env bash
+# The mirrors will be feed over rsync Daemon on host france.
 
 # variables
 source ./bin/variables.sh
 
 case "$1" in
-    *)
-        # France
-        rsync -auq --delete --exclude "sisi-plancher.com" --exclude "debt.silviosiefke.com" --exclude "mailconfig.sisi-systems.ovh" --exclude "status.sisi-systems.ovh" --exclude "log" --exclude "silviosiefke.ru" $dest/ france:/var/www/
+  de)
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_de.txt' $dest/$de/htdocs/ france:/var/www/$de/htdocs/
+  ;;
 
-        # Russia
-        rsync -auq --delete --exclude "sisi-plancher.com" --exclude "log" --exclude "silviosiefke.de" --exclude "silviosiefke.fr" --exclude "silviosiefke.com" $dest/ ru-web:/var/www/
+  en)
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_en.txt' $dest/$en/htdocs/ france:/var/www/$en/htdocs/
+  ;;
 
-        # Raspberry Pi Local
-        rsync -auq --delete $pi/ pi:/srv/http/home.silviosiefke.com/
+  fr)
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_fr.txt' $dest/$fr/htdocs/ france:/var/www/$fr/htdocs/
+  ;;
 
-        # Finnland
-        rsync -avq --delete --exclude "log" $mirror/$finnland/ finnland:/var/www/
+  en)
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_ru.txt' $dest/$ru/htdocs/ france:/var/www/$ru/htdocs/
+  ;;
 
-        # South Africa
-        rsync -avq --delete --exclude "log" $mirror/$jburg/ jburg:/var/www/
+  *)
+    # France
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_de_dest.txt' $dest/ france:/var/www/
 
-        # Japan
-        rsync -avq --delete --exclude "log" $mirror/$jpy/ jpy:/var/www/
-    ;;
+    # regu.ru
+    rsync -au --delete --exclude-from='./resources/rsync_ex_ru.txt' $dest/ ru-web:/var/www/
+
+    # Raspberry Pi Local
+    rsync -auq --delete $pi/ pi:/srv/http/home.silviosiefke.com/
+
+    # sync slaves
+    ansible jpy,finnland,jburg -a "/usr/local/bin/sync_master.sh"
+  ;;
 esac

@@ -42,6 +42,6 @@ case "$1" in
     ./bin/mirror.sh
 
     # deploying
-    # ./bin/deploy.sh
+    ./bin/deploy.sh
   ;;
 esac
