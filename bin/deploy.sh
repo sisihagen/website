@@ -26,12 +26,18 @@ case "$1" in
     rsync -auq --delete --exclude-from='./resources/rsync_ex_de_dest.txt' $dest/ france:/var/www/
 
     # regu.ru
-    rsync -au --delete --exclude-from='./resources/rsync_ex_ru.txt' $dest/ ru-web:/var/www/
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_ru.txt' $dest/ ru-web:/var/www/
+
+    # finnland
+    rsync -auq --delete $mirror/finnland/ finnland:/var/www/
+
+    # jpy
+    rsync -auq --delete $mirror/jpy/ jpy:/var/www/
+
+    # jburg
+    rsync -auq --delete $mirror/jburg/ jburg:/var/www/
 
     # Raspberry Pi Local
     rsync -auq --delete $pi/ pi:/srv/http/home.silviosiefke.com/
-
-    # sync slaves
-    ansible jpy,finnland,jburg -a "/usr/local/bin/sync_master.sh"
   ;;
 esac

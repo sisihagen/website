@@ -126,6 +126,7 @@ function sedmirror_hetzner()
   sed -i -e 's|homearch|homedebian|g' $mirror/$finnland/$1/htdocs/index.html
   sed -i -e 's|www.arch.org|www.debian.org|g' $mirror/$finnland/$1/htdocs/index.html
   sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$finnland/$1/htdocs/index.html
+  sed -i -e 's|OVH - Innovation for Freedom|Hetzner Online als ein führender Webhostinganbieter und erfahrener Rechenzentrumsbetreiber in Deutschland bietet professionelle Hostinglösungen zu fairen Preisen.|g' $mirror/$finnland/$1/htdocs/index.html
 }
 
 function sedmirror_oneprovider()
