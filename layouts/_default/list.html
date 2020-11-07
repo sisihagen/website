@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <main class="grid">
-  <section class="one cards">
+  <section class="two cards">
   {{ .Content }}
   {{ range (.Paginator 6).Pages }}
     <article class="card">
@@ -45,7 +45,7 @@
   {{ end }}
   </section>
 
-  <aside class="two">
+  <aside class="three">
     {{ partial "modules/tags.html" . }}
     {{ partial "modules/pagination.html" . }}
   </aside>

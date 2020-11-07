@@ -46,11 +46,5 @@ other = "Галерея"
 [source]
 other = "Источники"
 
-[aboutbrands]
-other = "Программное обеспечение я использую и Организации я поддерживаю."
-
 [tags]
-other = "метка"
-
-[linuxshell]
-other = "My Linux Shells"
+other = "Tag Cloud"

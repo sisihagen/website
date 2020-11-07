@@ -1,218 +1,198 @@
 [
     {
         "id": 1,
-        "name": "Debian",
-        "webp": "/static/img/brands/debian.webp",
-        "png": "/static/img/brands/debian.png",
-        "href": "http://www.debian.org",
-        "title": "Debian - The Universal Operating System",
-        "class": "sprite-brands-debian"
+        "name": "Fair Trade ",
+        "href": "https://www.fairtrade.net/",
+        "title": "World Fair Trade Organization",
+        "class": "brands-fairtrade"
     },
     {
         "id": 2,
-        "name": "Arch Linux",
-        "webp": "/static/img/brands/arch.webp",
-        "png": "/static/img/brands/arch.png",
-        "href": "http://www.archlinux.org",
-        "title": "Arch Linux",
-        "class": "sprite-brands-arch"
+        "name": "Sea Shepherd",
+        "href": "https://seashepherd.org/",
+        "title": "Sea Shepherd Conservation Society",
+        "class": "brands-sea_shepherd"
     },
     {
         "id": 3,
-        "name": "Hugo",
-        "webp": "/static/img/brands/hugo.webp",
-        "png": "/static/img/brands/hugo.png",
-        "href": "http://www.gohugo.io",
-        "title": "The world’s fastest framework for building websites",
-        "class": "sprite-brands-hugo"
+        "name": "Kinderhilfe Afganistan",
+        "href": "https://www.kinderhilfe-afghanistan.de/",
+        "title": "Kinderhilfe Afghanistan",
+        "class": "brands-kinderhilfe"
     },
     {
         "id": 4,
-        "name": "REG",
-        "webp": "/static/img/brands/reg_ru.webp",
-        "png": "/static/img/brands/reg_ru.png",
-        "href": "http://www.reg.ru",
-        "title": "Reg.ru the number one in Russia",
-        "class": "sprite-brands-reg_ru"
+        "name": "Ärzte ohne Grenzen",
+        "href": "https://www.msf.org/",
+        "title": "An international independent medical humanitarian organisation",
+        "class": "brands-msf"
     },
     {
         "id": 5,
-        "name": "OVH",
-        "webp": "/static/img/brands/ovh.webp",
-        "png": "/static/img/brands/ovh.png",
-        "href": "http://www.ovh.com",
-        "title": "OVH - Innovation for Freedom",
-        "class": "sprite-brands-ovh"
-    },
-    {
-        "id": 6,
-        "name": "Nginx",
-        "webp": "/static/img/brands/nginx.webp",
-        "png": "/static/img/brands/nginx.png",
-        "href": "http://www.nginx.org",
-        "title": "Nginx Webserver",
-        "class": "sprite-brands-nginx"
+        "name": "Picum",
+        "href": "https://picum.org",
+        "title": "Platform for international cooperation on undocumented migrants",
+        "class": "brands-picum"
     },
     {
         "id": 7,
-        "name": "Dovecot",
-        "webp": "/static/img/brands/dovecot.webp",
-        "png": "/static/img/brands/dovecot.png",
-        "href": "https://www.dovecot.org/",
-        "title": "Dovecot – The secure IMAP server",
-        "class": "sprite-brands-dovecot"
+        "name": "Stopp Ramstein",
+        "href": "https://www.ramstein-kampagne.eu/",
+        "title": "STOPP RAMSTEIN - Kein Drohnenkrieg",
+        "class": "brands-stopp_ramstein"
     },
     {
         "id": 8,
-        "name": "Fair Trade ",
-        "webp": "/static/img/brands/fairtrade.webp",
-        "png": "/static/img/brands/fairtrade.png",
-        "href": "https://www.fairtrade.net/",
-        "title": "World Fair Trade Organization",
-        "class": "sprite-brands-fairtrade"
+        "name": "Debian",
+        "href": "http://www.debian.org",
+        "title": "Debian - The Universal Operating System",
+        "class": "brands-debian"
     },
     {
         "id": 9,
-        "name": "Gentoo",
-        "webp": "/static/img/brands/gentoo.webp",
-        "png": "/static/img/brands/gentoo.png",
-        "href": "https://www.gentoo.org",
-        "title": "Welcome to Gentoo  a highly flexible  source-based Linux distribution.",
-        "class": "sprite-brands-gentoo"
+        "name": "Arch Linux",
+        "href": "http://www.archlinux.org",
+        "title": "Arch Linux",
+        "class": "brands-arch"
     },
     {
         "id": 10,
-        "name": "Jack Wolfskin",
-        "webp": "/static/img/brands/jack_wolfskin.webp",
-        "png": "/static/img/brands/jack_wolfskin.png",
-        "href": "https://www.jack-wolfskin.com/",
-        "title": "Your Everyday Companions",
-        "class": "sprite-brands-jack_wolfskin"
+        "name": "Hugo",
+        "href": "http://www.gohugo.io",
+        "title": "The world’s fastest framework for building websites",
+        "class": "brands-hugo"
     },
     {
         "id": 11,
-        "name": "Rspamd",
-        "webp": "/static/img/brands/rspamd.webp",
-        "png": "/static/img/brands/rspamd.png",
-        "href": "https://rspamd.com/",
-        "title": "Fast free and Open Source filtering system",
-        "class": "sprite-brands-rspamd"
+        "name": "REG",
+        "href": "http://www.reg.ru",
+        "title": "Reg.ru the number one in Russia",
+        "class": "brands-regru"
     },
     {
         "id": 12,
-        "name": "Sea Shepherd",
-        "webp": "/static/img/brands/sea_shepherd.webp",
-        "png": "/static/img/brands/sea_shepherd.png",
-        "href": "https://seashepherd.org/",
-        "title": "Sea Shepherd Conservation Society",
-        "class": "sprite-brands-sea_shepherd"
+        "name": "OVH",
+        "href": "http://www.ovh.com",
+        "title": "OVH - Innovation for Freedom",
+        "class": "brands-ovh"
     },
     {
         "id": 13,
-        "name": "Postfix",
-        "webp": "/static/img/brands/postfix.webp",
-        "png": "/static/img/brands/postfix.png",
-        "href": "http://www.postfix.org/",
-        "title": "Postfix MTA",
-        "class": "sprite-brands-postfix"
+        "name": "Nginx",
+        "href": "http://www.nginx.org",
+        "title": "Nginx Webserver",
+        "class": "brands-nginx"
     },
     {
         "id": 14,
-        "name": "Kinderhilfe Afganistan",
-        "webp": "/static/img/brands/kinderhilfe.webp",
-        "png": "/static/img/brands/kinderhilfe.png",
-        "href": "https://www.kinderhilfe-afghanistan.de/",
-        "title": "Kinderhilfe Afghanistan",
-        "class": "sprite-brands-kinderhilfe"
+        "name": "Dovecot",
+        "href": "https://www.dovecot.org/",
+        "title": "Dovecot – The secure IMAP server",
+        "class": "brands-dovecot"
     },
     {
         "id": 15,
-        "name": "Ärzte ohne Grenzen",
-        "webp": "/static/img/brands/msf.webp",
-        "png": "/static/img/brands/msf.png",
-        "href": "https://www.msf.org/",
-        "title": "An international independent medical humanitarian organisation",
-        "class": "sprite-brands-msf"
+        "name": "Gentoo",
+        "href": "https://www.gentoo.org",
+        "title": "Welcome to Gentoo  a highly flexible  source-based Linux distribution.",
+        "class": "brands-gentoo"
     },
     {
         "id": 16,
-        "name": "Sublime Text",
-        "webp": "/static/img/brands/sublime.webp",
-        "png": "/static/img/brands/sublime.png",
-        "href": "https://www.sublimetext.com/",
-        "title": "A sophisticated text editor for code, markup and prose",
-        "class": "sprite-brands-sublime"
+        "name": "Rspamd",
+        "href": "https://rspamd.com/",
+        "title": "Fast free and Open Source filtering system",
+        "class": "brands-rspamd"
     },
     {
         "id": 17,
-        "name": "Fit GmbH",
-        "webp": "/static/img/brands/fit.webp",
-        "png": "/static/img/brands/fit.png",
-        "href": "https://www.fit.de",
-        "title": "FIT GmbH – DDR Geschichte lebt",
-        "class": "sprite-brands-fit"
+        "name": "Postfix",
+        "href": "http://www.postfix.org/",
+        "title": "Postfix MTA",
+        "class": "brands-postfix"
     },
     {
         "id": 18,
-        "name": "Picum",
-        "webp": "/static/img/brands/picum.webp",
-        "png": "/static/img/brands/picum.png",
-        "href": "https://picum.org",
-        "title": "Platform for international cooperation on undocumented migrants",
-        "class": "sprite-brands-picum"
+        "name": "Sublime Text",
+        "href": "https://www.sublimetext.com/",
+        "title": "A sophisticated text editor for code, markup and prose",
+        "class": "brands-sublime"
     },
     {
         "id": 19,
-        "name": "SOSF",
-        "webp": "/static/img/brands/ssf.webp",
-        "png": "/static/img/brands/ssf.webp",
-        "href": "https://www.sosf.ch",
-        "title": "Solidarité sans frontières",
-        "class": "sprite-brands-ssf"
+        "name": "Yarn ",
+        "href": "https://yarnpkg.com",
+        "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.",
+        "class": "brands-yarn"
     },
     {
         "id": 20,
-        "name": "Stopp Ramstein",
-        "webp": "/static/img/brands/stopp_ramstein.webp",
-        "png": "/static/img/brands/stopp_ramstein.png",
-        "href": "https://www.ramstein-kampagne.eu/",
-        "title": "STOPP RAMSTEIN - Kein Drohnenkrieg",
-        "class": "sprite-brands-stopp_ramstein"
+        "name": "Hetzner",
+        "href": "https://hetzner.de",
+        "title": "Profi Webhosting, VPS &amp; Dedicated Root Server - Hetzner Online GmbH",
+        "class": "brands-hetzner"
     },
     {
         "id": 21,
-        "name": "Yarn ",
-        "webp": "/static/img/brands/yarn.webp",
-        "png": "/static/img/brands/yarn.png",
-        "href": "https://yarnpkg.com",
-        "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.",
-        "class": "sprite-brands-yarn"
+        "name": "CityNet Telecom",
+        "href": "https://www.citynethost.com/",
+        "title": "We are committed the best value in the hosting business including Dedicated Servers, Cloud Hosting, Virtual Servers, and colocation.",
+        "class": "brands-citynet"
     },
     {
         "id": 22,
-        "name": "Hetzner",
-        "webp": "/static/img/brands/hetzner.webp",
-        "png": "/static/img/brands/hetzner.png",
-        "href": "https://hetzner.de",
-        "title": "Profi Webhosting, VPS &amp; Dedicated Root Server - Hetzner Online GmbH",
-        "class": "sprite-brands-hetzner"
+        "name": "OneProvider",
+        "href": "https://oneprovider.com/",
+        "title": "OneProvider - Worldwide Hosting Solutions",
+        "class": "brands-oneprovider"
     },
     {
         "id": 23,
-        "name": "CityNet Telecom",
-        "webp": "/static/img/brands/citynet.webp",
-        "png": "/static/img/brands/citynet.png",
-        "href": "https://www.citynethost.com/",
-        "title": "We are committed the best value in the hosting business including Dedicated Servers, Cloud Hosting, Virtual Servers, and colocation.",
-        "class": "sprite-brands-citynet"
+        "name": "STRATO AG",
+        "href": "https://strato.de/",
+        "title": "STRATO | Server, Hosting, Cloud-Speicher, Webshop & Co.",
+        "class": "brands-strato"
     },
     {
         "id": 24,
-        "name": "Zappie Host",
-        "webp": "/static/img/brands/zappiehost.webp",
-        "png": "/static/img/brands/zappiehost.png",
-        "href": "https://zappiehost.com/",
-        "title": "VPS Server Hosting New Zealand | VPS Server Hosting South Africa | Dedicated Server Hosting - Zappie Host",
-        "class": "sprite-brands-zappiehost"
+        "name": "1blu AG",
+        "href": "https://www.1blu.de/",
+        "title": "Webhosting, Webspace und Homepagel&ouml;sungen von 1blu",
+        "class": "brands-1blu"
+    },
+    {
+        "id": 25,
+        "name": "Netcup GmbH",
+        "href": "https://www.netcup.de/",
+        "title": "netcup GmbH - Ihr Partner fuer Webhosting, vServer, Server, managed Server, Domains, Groupware, SSL-Zertifikate, Software, Servermanagement uvm.",
+        "class": "brands-netcup"
+    },
+    {
+        "id": 26,
+        "name": "Förderverein PRO ASYL e.V.",
+        "href": "https://www.proasyl.de",
+        "title": "PRO ASYL setzt sich in Deutschland und Europa für die Rechte von Flüchtlingen und Migranten ein.",
+        "class": "brands-proasyl"
+    },
+    {
+        "id": 27,
+        "name": "DiEM25",
+        "href": "https://diem25.org",
+        "title": "DiEM25 - Democracy in Europe Movement 2025",
+        "class": "brands-diem25"
+    },
+    {
+        "id": 28,
+        "name": "No to war – no to NATO",
+        "href": "https://www.no-to-nato.org",
+        "title": "No to war – no to NATO",
+        "class": "brands-notonato"
+    },
+    {
+        "id": 29,
+        "name": "Stoppt den Waffenhandel!",
+        "href": "https://www.aufschrei-waffenhandel.de",
+        "title": "Homepage der Aktion Aufschrei - Stoppt den Waffenhandel",
+        "class": "brands-waffenhandel"
     }
 ]

@@ -1,6 +1,13 @@
-.brands {
+.home {
   text-align: center;
   padding: 1rem;
+
+  @include breakpoint('m') {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
 
   a {
     @include breakpoint('m') {
@@ -11,5 +18,25 @@
       display: inline-block;
       padding: .5rem;
     }
+  }
+}
+
+.brandsabout {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+  justify-content: space-between;
+
+  @include breakpoint('m') {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 5vw);
+    grid-gap: 1rem;
+    padding-top: 10%;
+  }
+
+  .image {
+    margin: 1rem;
   }
 }

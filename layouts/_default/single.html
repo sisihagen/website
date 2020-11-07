@@ -8,34 +8,20 @@
     </picture>
   </section>
 
-  <main class="grid">
+  <main class="two grid">
     <article class="one padding">
 
       {{ .Content }}
 
     </article>
 
-    <aside class="two">
-      <p> {{ i18n "aboutbrands" }} </p>
-
-      <div class="brands">
-        <div class="gallery-brands">
+    <aside class="three">
+      <div class="brandsabout">
           {{ range $.Page.Site.Data.brands_about }}
           <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-            <span class="{{ .class }}"></span>
+            <span class="image {{ .class }}"></span>
           </a>
           {{ end }}
-        </div>
-      </div>
-
-      <p> {{ i18n "linuxshell" }} </p>
-
-      <div class="linux-shell">
-        {{ range $.Page.Site.Data.linux_shell}}
-        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-          <span class="{{ .class }}"></span>
-        </a>
-        {{ end }}
       </div>
     </aside>
   </main>
