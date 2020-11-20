@@ -1,0 +1,47 @@
+---
+title: "L'Occident brûle la Syrie"
+date: 2020-11-17
+draft: false
+tags: "Politique"
+shorttext: "60 pour cent de l'agriculture en Syrie a été détruite. Les dégâts de la guerre ont été suivis d'incendies et les sanctions ont continué de contribuer à la catastrophe."
+cover: "repression"
+lang: fr
+---
+
+Environ 60 pour cent de l’agriculture syrienne a déjà été complètement ou partiellement détruite, selon les observateurs. En plus des dégâts causés par la guerre, il y a aussi des incendies dévastateurs. Les sanctions de l’UE et des États-Unis exacerbent également une crise alimentaire en Syrie : la guerre contre la Syrie est suivie par la guerre économique.
+
+Plus de 150 incendies ont éclaté début octobre dans les provinces côtières syriennes de Lattaquié et Tartous. En quatre jours, 179 villages et entreprises forestières ont été complètement ou partiellement endommagés. 40 000 familles ont été touchées, trois personnes sont mortes et 80 personnes ont été traitées avec de graves brûlures. Les maisons et les biens ont été complètement ou partiellement détruits. Des animaux, des cultures, des champs, des forêts et des réserves naturelles ont été brûlés.
+
+Les forêts autour d’Al Haffa et de Slunfe ont été touchées, la Vallée des Chrétiens, Wadi Nasara et la ville de Majd al Hilou n’ont pas été épargnées. 40 000 citronniers, 3,37 millions d’oliviers et 259 000 autres arbres ont été complètement ou partiellement brûlés, selon un rapport du Comité international de la Croix-Rouge (CICR). Deux tonnes de tabac, 4.000 paniers d’abeilles et 30 000 mètres de systèmes d’irrigation goutte à goutte ont également été détruits.
+
+#### Incendie criminel ou changement climatique?
+
+Les observateurs internationaux du CICR attribuent les incendies annuels en Méditerranée au changement climatique. Un rapport a cité "les températures élevées, les vents chauds d’est, les herbes sèches et les buissons" comme cause des incendies, qui se produisent maintenant chaque année. Les moyens locaux de contenir et d’éteindre les incendies sont complètement dépassés, ajoute le rapport. Le CICR a fourni une aide de 510 000 francs suisses (CHF), soit environ 480 000 euros, pour soutenir la population touchée à Lattaquié, Tartous et dans la province de Homs, également touchée. Le gouvernement syrien, qui est à la limite de ses capacités par le biais de sanctions économiques unilatérales de l’UE et des États-Unis et les conséquences de la guerre de 10 ans, a également annoncé une aide financière pour les personnes touchées.
+
+Les incendies dans la région côtière n’ont pas été les premiers à frapper la Syrie cette année. En septembre, il a brûlé à Hama et dans la vallée fertile d’Al Ghab. En été, des incendies dans le nord-est du pays avaient détruit des champs de blé. Les champs de blé ont été délibérément incendiés par les opposants à la Syrie, et il y a eu aussi des incendies criminels dans les forêts de la province de Hama.
+
+Sur des kilomètres au-dessus de la plaine d’Al Ghab, il reste des points noirs des grands feux. Ici et dans les forêts de Masyaf, les incendies ont fait rage pendant sept jours, a déclaré Abdul Mouanim Sabbagh à l’auteur à Hama à la mi-septembre. Sabbagh dirige la branche du ministère de l’Agriculture à Hama, qui est responsable à la fois de Hama et de la province orientale de Raqqa. Sabbagh et Abdul Munaim Steif, le chef de l’autorité forestière de Hama, étaient sur place avec leur personnel jour et nuit pour combattre les incendies à Masyaf, Sabbagh dit: " Dans une telle situation, nous devons être tous en face avec les autres pour sauver nos forêts et notre agriculture. " L’aide est venue de la population locale, de la Défense civile syrienne et de l’armée, a rapporté Sabbagh, qui, comme le responsable forestier Steif, a répondu aux questions de l’auteur avec précision et réflexion :
+
+> "L’armée a utilisé des hélicoptères pour puiser l’eau des lacs et des barrages voisins et la répandre sur les flammes. L’Iran a également aidé avec les avions de lutte contre les incendies.
+
+Selon les informations du public, certaines personnes ont été arrêtées et le parquet et la police enquêtent sur cette affaire. "Mais les dégâts se sont produits", explique Abdul Munaim Steif. Il estime que la perte est de 50 pour cent du stock forestier. "Pendant la guerre, nous avons perdu tellement de population d’arbres", a déclaré l’ingénieur forestier doctoral. Par des combats et des bombes et aussi " tous les côtés " les arbres ont été abattus. "Certains avaient besoin de bois pour le chauffage, d’autres avaient besoin du bois pour le revendre." Dix employés ont été tués pendant la guerre alors qu’ils protégeaient la foresterie et l’agriculture. En sa mémoire, des photos d’eux, dont une femme, ont été accrochées dans le couloir de l’autorité.
+
+Les incendies dans la région côtière au début d’octobre pourraient également avoir été délibérément déclenchés, ont indiqué des responsables syriens. Ce n’est pas un hasard si tant de feux brûlent simultanément dans différentes régions. Un clip vidéo a été diffusé qui semble prouver l’incendie criminel ciblé. Les hommes en uniforme peuvent être vus mettant le feu à divers endroits. Le court enregistrement est accompagné d’une chanson de combat haineuse qui met l’accent sur la lutte vers la victoire. Un texte sur le clip indique que la lutte contre le régime se poursuivra désormais d’une manière différente de celle des moyens militaires. L’origine du clip vidéo ne peut pas être vérifiée.
+
+#### La guerre contre la Syrie est suivie par la guerre économique
+
+La région côtière de la Syrie, les montagnes côtières, Al Ghab, Hama ainsi que les provinces d’Alep et de Hasakeh au nord et au nord-est forment un lien vert et sont considérées comme les zones les plus riches en eau et en plantes de la Syrie avec le plateau du Golan et la vallée de Yarmouk dans le sud de Deraa. Historiquement, cette zone est connue sous le nom de "croissant fertile", qui s’étend à l’est le long de l’Euphrate et du Tigre jusqu’au golfe Persique. À l’ouest, cette zone fertile s’étendait le long de la mer de Jordanie et de la Méditerranée orientale jusqu’au delta du Nil et, en extension, le long du Nil.
+
+La Syrie est divisée d’ouest en est en cinq zones de précipitations, explique l’ingénieur agronome Haitham Haidar, directeur du Département de la planification et de la coopération internationale, lors d’une conversation avec l’auteur au ministère de l’Agriculture à Damas (en septembre). La zone la plus riche en eau se trouve à l’ouest, avec les précipitations les plus faibles à l’est. Les zones désertiques orientales représentent donc environ 55 pour cent de la Syrie, l’agriculture n’est pas possible ici.
+
+La pluie en 2019/20 a été bonne, a dit Haidar, et les réservoirs d’eau étaient bien remplis. Mais la guerre avait considérablement réduit les terres arables de la Syrie et donc les possibilités de culture et de récolte. Environ 60 pour cent de l’agriculture syrienne, des zones de culture, de la recherche et des services publics, des pépinières, des centres de semences et d’engrais ont été complètement ou partiellement détruits. Les systèmes d’irrigation et les puits ont été délibérément détruits, et la FAO (Organisation des Nations Unies pour l’agriculture et l’alimentation) estime à 16 millions de dollars les dégâts causés entre 2011 et 2016.
+
+Des agriculteurs et des travailleurs qualifiés bien formés avaient quitté le pays. D’autre part, de nombreux agriculteurs ne peuvent pas atteindre leurs champs pour y travailler parce qu’ils sont occupés par des forces armées. Les agriculteurs n’ont pas l’argent pour remplacer la destruction et la replantation. Tout sera encore exacerbé par les sanctions unilatérales, selon l’ingénieur agronome Haidar. "Nous ne pouvons pas importer de nouvelles machines, semences, engrais ou pesticides." Il y a un manque de vaccins pour le bétail, les coûts de transport ont augmenté parce que la Syrie n’a pas accès à ses propres ressources pétrolières et gazières dans le nord-est du pays. Les sanctions unilatérales ont également empêché la Syrie d’importer du pétrole de l’Iran ou de l’Irak voisins, par exemple.
+
+> "Avant la guerre, la Syrie exportait ses produits agricoles dans le monde entier. Les principaux clients étaient le Liban, l’Irak, la Jordanie, la Russie, les pays africains et aussi les États du Golfe. Ils ont importé des fruits et des légumes."
+
+Les moutons syriens Awassi ont également été exportés vers les États du Golfe dans le passé, Haidar a poursuivi: " C’est une race syrienne spéciale dont la viande est très populaire. Pendant la guerre, les moutons ont été volés et retirés du pays de l’autre côté des frontières. Avant la guerre, nous avions 16 millions de ces moutons, cette année, nous en comptaions 7 millions.
+
+Les pertes et les destructions décrites ont conduit à une crise alimentaire en Syrie avec les sanctions économiques unilatérales de l’UE et des États-Unis, dit Haidar. Pendant la guerre, les paysans auraient fait tout leur possible pour approvisionner la population. La guerre économique qui a suivi la guerre les a empêchés de le faire. " La destruction de notre production agricole n’était pas accidentelle, elle était prévue ", s’en est convaincu l’ingénieur agronome. L’aide fournie par l’ONU et certains pays ne suffit pas à la Syrie.
+
+> "La Syrie est délibérément empêchée de prendre soin d’elle-même. Pas le régime, le peuple est puni. Seulement avec la guerre, maintenant avec les sanctions."
