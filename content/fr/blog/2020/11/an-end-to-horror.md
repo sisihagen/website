@@ -1,0 +1,41 @@
+---
+title: "Une fin avec l'horreur"
+date: 2020-11-24
+draft: false
+tags: "Société"
+shorttext: "... ou horreur sans fin? Une tentative de disséquer le mélange très complexe."
+cover: "society"
+lang: fr
+---
+
+Ni dans la région directement touchée par la guerre entre l’Azerbaïdjan et l’Arménie, ni entre les gouvernements et les médias en Europe occidentale (y compris la Suisse), il n’y a une évaluation claire de la situation au Karabakh. Est-il vrai, comme le dit (encore) le Premier ministre arménien Pashinyan, que l’accord de cessez-le-feu a empêché la mort de centaines de milliers de personnes – ou a-t-il trahi son pays ? Le gouvernement russe a-t-il exploité le conflit pour consolider sa propre position de pouvoir dans le Caucase – ou le Kremlin a-t-il pris des mesures juste à temps pour éviter une tragédie d’une ampleur énorme ? Une réponse à la Turquie est beaucoup plus simple: la volonté d’Erdogan de se lever en faveur du peuple turc des Azéris avec la logistique, les armes et les mercenaires (de Syrie) est trop évidente pour être négligée.
+
+#### Sympathie pour l’Arménie, indignation à l’envers de l’Azerbaïdjan
+
+Dans les médias d’Europe occidentale, y compris la Suisse, la sympathie pour l’Arménie, l’indignation à l’égard de l’Azerbaïdjan et de la Turquie dominent – et une profonde méfiance à l’égard de la Russie. J’ose essayer de disséquer le mélange très complexe – sachant que moi aussi je ne suis pas libre des émotions qui menacent d’obscurcir ma vue à tout moment. Et aussi que je suis, presque réflexif, spontanément tenté de sympathiser avec le côté qui est plus proche de moi mentalement. Plus précisément, l’Arménie est une démocratie; le peuple arménien est victime du génocide commis par les Turcs en 1915/16; L’Arménie a une tradition chrétienne qui remonte au 4ème siècle. D’autre part, l’Azerbaïdjan est un État autoritaire avec quelques ensembles pseudo-démocratiques; les Azéris sont musulmans et donc plus "étrangers" pour nous que les Arméniens. Et en ce qui concerne l’actualité: l’Azerbaïdjan a attaqué en Octobre. Et maintenant des dizaines de milliers, peut-être même plus de cent mille Arméniens fuient.
+
+#### Réfugiés d’aujourd’hui et d’hier
+
+Il est clair où ils fuient: à l’Arménie. D’où ils viennent, cependant, est une question de point de vue - en partie à partir des 4.400 kilomètres carrés de large, internationalement jamais reconnu "République" Nagorno Karabach sur une zone de la taille des cantons de Zurich plus Saint-Gall et une partie de Schaffhausen. Il se compose en partie de "zones tampons" autour du Karabakh, que l’Arménie a conquis dans les années 1990. Ceux-ci couvrent 7 000 kilomètres carrés supplémentaires, soit à peu près le même nombre que le canton de Graubünden. Les Arméniens ont conquis cette région au motif qu’ils devaient sécuriser la zone centrale du Haut-Karabakh. Le fait qu’environ 200 000 Azéris aient été forcés de fuir pendant cette conquête est un déplacement du peuple arménien en général. Ou ils disent que l’Azerbaïdjan, qui est devenu riche en pétrole et en gaz naturel, aurait facilement pu accueillir ces réfugiés "décemment". Le régime de Bakou, cependant, le voit différemment.
+
+#### L’espoir d’un dialogue a été anéanti
+
+Lorsque Nikol Paschinyan est devenu Premier ministre en 2018 par une révolution de velours en Arménie, il y avait de l’espoir de part et d’autre, entre les Azéris et les Arméniens, pour un dialogue constructif autour du problème rocheux du Haut-Karabakh. Les dirigeants se sont également rencontrés, répandant l’espoir, mais rien d’autre ne s’est passé. Au contraire, la rhétorique dans les deux pays s’est intensifiée. En Azerbaïdjan, il a été de plus en plus affirmé que trente ans d’occupation d’une grande partie du territoire national suffisaient, de sorte qu’il ne pouvait pas continuer. En Arménie, Paschinyan a dit qu’il n’y avait pas de problème du tout, que les Azéris devaient simplement reconnaître les faits, puis la paix pouvait être faite. En juin, la courte déclaration peut-être désastreuse a suivi : "Arzach (Karabakh) est l’Arménie. Point. Paschinyan aurait pu comprendre que cette phrase conduirait à la décision des dirigeants de Bakou de prendre l’initiative militairement. N’avait-il pas l’expérience? A-t-il fondamentalement mal jugé la partie adverse, a-t-il sous-estimé la force militaire de l’Azerbaïdjan et les liens du gouvernement avec la Turquie à Bakou ?
+
+#### Le lobby du Karabakh met la pression
+
+Probablement que c’était - sinon Paschinjan aurait agi différemment. Ou il a subi trop de pression de la part du lobby du Karabakh, puissant en Arménie, et qui s’est formé autour du Comité du Karabakh, fondé en 1987. Même les sympathisants arméniens peuvent avoir leurs doutes sur la "sagesse" politique de ce lobby – le fait est qu’il a mis tellement de pression sur chaque président, chaque Premier ministre de l’Arménie, que même de petits compromis territoriaux avec l’Azerbaïdjan sont devenus pratiquement irréalisables.
+
+Il est également un fait que les familles arméniennes ont reçu des subventions si elles acceptaient de s’installer dans les territoires occupés par les Arméniens sur le territoire azerbaïdjanais (bien compris: pas dans la région réelle du Haut-Karabakh). Maintenant, ils doivent retourner en Arménie. Et parfois, ils ont mis le feu à leurs maisons. Des images terribles et émouvantes – qui sont comprises très différemment des différents côtés. Pour les arméniens, aussi pour nous en Occident, des photos documentant un désespoir extrême. Mais les Azerbaïdjanais l’interprètent différemment : "Une fois que nous étions ou que nos proches ont été chassés de ces maisons par l’armée arménienne, alors les Arméniens y vivaient, et maintenant que nous pouvions revenir, ils les mettent le feu."
+
+#### Autonomie requise
+
+La Russie a un traité avec l’Arménie pour le protéger. Cependant, il ne contient pas un mot sur l’enclave du Haut-Karabakh. Les dirigeants politiques de Moscou voient le Karabakh comme faisant partie de l’Azerbaïdjan – tout comme il a été décidé dans l’ancienne ère soviétique. Le Karabakh, il a été déterminé à l’époque, appartenait à l’Azerbaïdjan – mais les Arméniens qui y vivent devraient avoir une autonomie. Bakou a affirmé qu’ils respectaient cela, mais les habitants du Karabakh ont dit qu’ils se sentaient zéro et rien d’autonomie. D’où la décision de déclarer la région comme une "république" indépendante mais affiliée à l’Arménie. D’où l’occupation du Cordon sanitaire susmentionné autour du Karabakh par l’armée arménienne. Ce cordon sanitaire est finalement devenu si grand que le gouvernement de Bakou a déclaré que 20 pour cent du territoire d’Azerbeijan était occupé par l’Arménie (si vous calculez exactement, vous obtenez environ 15 pour cent).
+
+#### Corridors routiers des deux côtés
+
+Qu’est-ce que le cessez-le-feu négocié par Moscou comprend? On ne sait pas grand-chose, et certaines choses pourraient être clarifiées au cours des prochaines semaines. Y a-t-il encore une zone raisonnablement sûre pour les Arméniens dans la zone plus large de Stepanakert, la soi-disant capitale du Haut-Karabakh ? Les médiateurs russes semblent comprendre cela. Peuvent-ils le garantir? Ce n’est pas clair – la Russie n’envoie des soldats dans la région qu’en 1960. Ils sont notamment destinés à sécuriser un corridor routier entre l’Arménie et Stepanakert. Et aussi une route nouvellement convenue dans l’extrême sud de l’Arménie, du territoire des Azéris à son exclave nachitchevan. Du point de vue des médiateurs russes et des Azerbaïdjanais, il s’agit en quelque sorte d’une justice équilibrée : l’Arménie obtient le couloir routier menant au Haut-Karabakh, l’Azerbaïdjan celui de Nachitchevan.
+
+#### Personne ne croit en la paix à Moscou
+
+Insinuer que le gouvernement russe veut utiliser cet "accord" pour étendre son propre pouvoir dans le Caucase est clairement loin de la réalité. La Russie ne peut rien gagner dans cette région en conflit – elle ne peut qu’espérer que le conflit gelé depuis longtemps et maintenant dégelé sera à nouveau mis à mal. Qu’il n’y aura pas un autre bain de sang dans son ancienne sphère de pouvoir. Personne à Moscou ne croit en la paix, ni même à la réconciliation.

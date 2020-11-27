@@ -1,0 +1,51 @@
+---
+title: "Les médias font la promotion de bellicistes comme Biden"
+date: 2020-11-27
+draft: false
+tags: "Journalisme"
+shorttext: "L'équipe du président élu américain Joe Biden en dit long: elle est dominée par des faucons, des lobbyistes de l'armement et des radicaux économiques."
+cover: "media"
+lang: fr
+---
+
+L'équipe du Président élu américain Joe Biden en dit long: elle est dominée par les faucons, les lobbyistes des armes et les radicaux économiques. Ce côté agressif de Biden est à peine abordé dans les grands médias allemands – après tout, il est la lumière et Donald Trump l'obscurité. Mais le critique Trump est surtout critiqué pour les mauvaises choses: par exemple, les plans de retrait militaire.
+
+L'équipe de transition du vainqueur présumé des élections américaines, Joe Biden, est en grande partie composée d'individus très problématiques et belliqueux. Mais quiconque ne s'informe que sur les États-Unis dans les grands médias allemands ne peut pas juger de l'actualité là-bas. Les détails de la composition de L'équipe Biden suivront plus loin dans l'article. Voici les premières impressions du reportage Allemand.
+
+#### Biden-Kitsch dans les médias: "quand la décence se transforme en larmes"
+
+Un petit extrait d’innombrables articles dans les médias allemands montre la manière douteuse dont le président américain Donald Trump, toujours en fonction, est diabolisé, tandis que le président élu américain présumé Joe Biden est à l’abri des critiques. Cela se transforme en partie en un culte héros embarrassant: The Mirror affirme dans une [colonne](https://www.spiegel.de/politik/deutschland/die-wahl-joe-bidens-ist-eine-strahlende-stunde-der-usa-kolumne-a-7e98e374-7541-4472-af88-b86d2468ee96 "Alles wieder gut!") que la victoire électorale présumée de Biden est une "heure brillante des États-Unis" - un titre du magazine décrit avec une illustration transfigurante de la victoire électorale présumée de Biden comme un moyen "retour vers l’avenir". Le "Daily Mirror" se réfère aux républicains américains dans l’ère pré-Trump comme un parti "une fois fier" - peut-être le journal signifie aussi l’ère de George W. Bush? Ce serait approprié, parce que même Bush est les médias de nos jours se référant positivement à la clémence anti-Trump - mais sans mentionner les guerres de Bush, que Trump tente de mettre fin (au moins par sa propre déclaration). Le "Daily Mirror" peut difficilement s’accrocher à lui-même et [écrit](https://www.tagesspiegel.de/politik/das-auftreten-von-joe-biden-und-kamala-harris-wenn-anstand-zu-traenen-ruehrt/26622098.html "Wenn Anstand zu Tränen rührt") en référence à Joe Biden et Kamala Harris: "Quand la décence se déplace aux larmes". Cette liste de mythes naïfs héros pourrait être continué pendant une longue période à venir.
+
+Une critique de ce pro-Biden-Kitsch ne vise pas à dissocier Trump de la critique sévère et justifiée dans de nombreux domaines: la canonisation injustifiée de Biden plutôt que la critique partiellement justifiée de Trump doit être critiquée. La partisanerie douteuse, stridente et extrême d'un camp dans une élection à l'étranger par les grands médias allemands est au moins discutable – et elle a également dominé la couverture avant les élections américaines. C'est pourquoi les Allemands qui ne se retrouvent que dans ces hymnes Biden-Harris politiquement dénués de sens ne peuvent pas, comme je l'ai dit, classer les événements actuels aux États-Unis: de nombreux citoyens peuvent réellement croire à la lutte suggérée de la lumière (Biden) contre les ténèbres (Trump). Mais il y a aussi des exceptions positives à ce front médiatique:" Monitor " a exprimé certaines critiques de Biden, mais seulement après les élections.
+
+{{< youtube "0n2HorLNMnY" >}}
+
+#### Retrait de l'Afghanistan: les larmes de crocodile des bellicistes
+
+On pourrait également se plaindre que Donald Trump est critiqué de manière fiable pour les mauvaises choses – généralement quand il fait quelque chose de bien. C'est ce qu'il faut appeler le "retrait" américain en Syrie, ainsi que son annonce récente du retrait des soldats D'Afghanistan. On pourrait douter du sérieux de Trump dans la réalisation de cette déduction jusqu'au bout. Mais ce n'est pas critiqué. Au lieu de cela, les plans actuels de Trump en Afghanistan sont considérés négativement par de nombreux médias et comme une marmotte personnelle de Trump – Par exemple, le " Osnabrücker Zeitung":
+
+> "L'Occident a pris ses responsabilités là-bas (en Afghanistan), les obligations qui l'accompagnent doivent être remplies. Le président Trump ne conteste pas cela. Il est plus important pour lui d'en effacer un du successeur choisi."
+
+#### Donald Trump "Légende du choc Dolch"
+
+Joe Biden, lui aussi, a annoncé qu’il voulait apporter la paix en principe – mais quelles sont les lèvres stratégiques ici et quelles actions suivront réellement? C’est difficile à déterminer en raison des mauvais rapports dans les grands médias allemands. Parce que Joe Biden pourrait même s’avérer être un mal encore plus grand que Trump, cette information doit être recherchée. Par exemple, le média américain "Grayzone" décrit en détail le [caractère](https://thegrayzone.com/2020/11/14/bidens-transition-team-war-profiteers-chickenhawks-corporate-consultants/ "Biden’s transition team is filled with war profiteers, Beltway chickenhawks, and corporate consultants") de l’équipe de transition de Joe Biden: il y aurait des "profiteurs de guerre" et des "lobbyistes d’entreprise" en particulier. Le fait que Biden envisage également des sanctions anti-allemandes pour empêcher l’Allemagne de terminer l’important gazoduc Nord-Stream-2 pourrait être lu dans le "Bild".
+
+Beaucoup dans les médias disent maintenant que Trump tourne une "légende dolch punch" pour expliquer sa prétendue défaite par ses accusations de manipulation contre les démocrates. C'est peut – être vrai-mais dans ce contexte, on pourrait également pointer la légende des démocrates américains: ils ont parlé de leur défaite en 2016 avec la campagne effrontée pour le "Russiagate". Il est également actuellement dominé par la présentation douteuse des médias selon laquelle il s'agit d'une idée absolument folle que les services de renseignement américains pourraient influencer une élection américaine.
+
+#### Biden team: "profiteurs de guerre" et " lobbyistes d'entreprise"
+
+L'équipe de Joe Biden est décrite en détail dans le média américain "Grayzone": un certain nombre de conseillers commerciaux, de winrs de guerre et de faucons de la sécurité nationale ont été nommés par Biden aux équipes qui fixeront l'ordre du jour de son administration, selon Grayzone. Un excellent exemple des "personnalités interventionnistes orientées vers les affaires" qui composeraient l'équipe Biden-Harris sur les questions de défense, par exemple, est Lisa Sawyer:
+
+> "Elle a été Directrice des affaires stratégiques pour L'OTAN et L'Europe pour le Conseil de sécurité nationale de 2014 à 2015 et a travaillé pour JPMorgan Chase de Wall Street en tant que conseillère en politique étrangère. Sawyer faisait partie du groupe de travail du Center for a New American Security sur l'avenir de la politique économique coercitive des États-Unis, ce qui signifie essentiellement assister à des réunions axées sur les méthodes de guerre économique qui pourraient être utilisées pour déstabiliser les pays qui refusaient de se plier à l'empire américain."
+
+Par exemple, Sawyer estime que le gouvernement américain ne fait pas assez pour dissuader "l'agression" russe, que les niveaux de troupes américaines en Europe devraient revenir aux niveaux de 2012 et que les livraisons d'armes offensives à l'Ukraine devraient être poursuivies et élargies en violation des accords de Minsk.
+
+Une autre occupation problématique est la personne désignée responsable des affaires africaines: Linda Thomas-Greenfield est une fidèle alliée de L'ancienne conseillère à la sécurité nationale des États-Unis, Susan Rice, qui a poussé à une guerre en Libye et soutenu l'invasion de l'Irak. Elle fait également partie du groupe Albright Stonebridge, un cabinet de conseil mondial présidé par L'ancienne secrétaire D'État Madeleine Albright, qui milite pour l'industrie de la défense.
+
+Le groupe du Département d'État comprend également Dana Stroul, une participante du néoconservateur Washington Institute for Middle East Policy (WINEP). En 2019, Stroul a rejoint le groupe D'étude sur la Syrie dans la prochaine phase de la guerre américaine en Syrie. Leurs recommandations incluraient le maintien d'une occupation militaire d'un tiers du pays, la "partie riche en ressources de la Syrie", afin de donner aux États-Unis un moyen de pression pour "influencer un résultat Politique."Selon Grayzone, Stroul a exhorté à de nouvelles sanctions économiques contre Damas et à l'obstruction de l'aide à la reconstruction, ce qui a déjà conduit à une pénurie de pétrole et de pain.
+
+#### Les agresseurs sont re-scellés en tant que " artisans de paix"
+
+Plusieurs personnes nommées par Biden et Harris soutiendraient également le changement de régime au Venezuela. L'équipe de renseignement de Biden-Harris comprend également Greg Vogle, un ancien chef de station de la CIA en Afghanistan et un ancien partenaire de la société de conseil McChrystal Group, fondée par L'ancien commandant du Joint Special Operations Command (JSOC) Stanley McChrystal. Le JSOC et la CIA, ainsi que les forces paramilitaires qu'ils ont entraînées, ont commis des crimes de guerre en Afghanistan, selon Grayzone.
+
+La liste des personnes préchargées et problématiques se poursuivra longtemps dans l’article de "Grayzone". Non seulement les plans de politique étrangère sont discutables, mais aussi les plans de politique économique. L’écart absurde entre une équipe Biden (en particulier sur la politique étrangère) et l’avance des lauriers en tant que artisans de paix, qu’elle reçoit des grands médias allemands, est également évident dans cet intéressant [article](https://www.heise.de/tp/features/So-werden-Joe-Bidens-Mitarbeiter-von-der-Ruestungsindustrie-gesteuert-4960362.html "So werden Joe Bidens Mitarbeiter von der Rüstungsindustrie gesteuert") à "Telepolis". Dans l’ensemble, la question de l’élection américaine révèle également un "échec" du paysage médiatique allemand.

@@ -1,0 +1,51 @@
+---
+title: "The Nagorno Karabakh chess game"
+date: 2020-11-25
+draft: false
+tags: "Society"
+shorttext: "The ceasefire agreement ended the killing in Karabakh - for the time being. There can be no talk of peace yet."
+cover: "society"
+lang: en
+---
+
+It is said that the Russians are particularly skilled in chess. Winning chess, the legend says, is in their DNA. In the Nagorno-Karabakh ceasefire agreement on 10 November, it seemed in short as if Russian President Vladimir Putin had indeed made a daring move in the geopolitical chess game around the South Caucasus: Putin was able to win Azerbaijan's president, Ilham Aliyev, at the negotiating table for a ceasefire – and this without the involvement of Turkey, which, with its interference in the war on the part of Azerbaijan, wanted to secure a place at the table for the first time. So was Vladimir Putin the undisputed winner, as not only the German Frankfurter Allgemeine Zeitung saw it?
+
+#### No sustainable peace agreement
+
+Or was it more of a hasty action that Putin had been forced to do? Azerbaijan had shot down a Russian M-24 fighter helicopter over the Armenian province of Yeraskh on November 8, probably unintentionally. Two Russian pilots were killed and another seriously injured. The "accident" on Armenian territory, which was little noticed by the Western press, should have automatically made Russia a war partner on Armenia's side, according to the security agreements in the Collective Security Treaty (CSTO) Organization. The scenario of a Russian-Turkish military confrontation in the South Caucasus suddenly seemed real. The Kremlin had to act quickly: two days later, Moscow presented its ceasefire agreement to the parties to the conflict.
+
+In one fell swoop, Azerbaijan concedes all its former provinces around Nagorno-Karabakh – as if an invisible hand had turned the clock of history back to the year before the first Karabakh War in 1991. "I am told that war cannot be a solution to conflicts," Azerbaijan's President Ilham Aliyev celebrated, adding immediately: "But I believe that war can be the solution." At first, the Moscow ceasefire agreement seemed to accommodate Azerbaijan for its war of aggression, even generously rewarding it.
+
+Or was it not the case? Many questions remain unanswered in the agreement.
+
+#### Unexplained status of Nagorno-Karabakh
+
+The most important of these is, for example, the unexplained status of Nagorno-Karabakh. But it was precisely this question that triggered the conflict over Nagorno-Karabakh in 1991. The inhabitants of Nagorno-Karabakh, the vast majority of Armenians since prehistoric times, declared their independence after the collapse of the Soviet Union and justified this with the right of the peoples to self-determination. In reference to the right of states to their territorial sovereignty, Azerbaijan declared war on its rebellious and until then autonomous Nagorno-Karabakh region. In 1994, Baku had lost the war – and thus the seven surrounding provinces, which the Moscow Agreement now generously reimbursed Azerbaijan. However, the question of the status of Nagorno-Karabakh remains open and thus unresolved. Azerbaijan had dreamed of ending the Nagorno-Karabakh conflict once and for all in its favour after this war. Ilham Aliyev, who was celebrated as the victor, had to secretly make another concession: he had to allow Russian peacekeepers to enter his territory – for the first time since the collapse of the Soviet Union.
+
+#### Nightmare without end
+
+Russian peacekeepers have now arrived in Nagorno-Karabakh. In future, they will be in control of the new border. TV stations accompanying them on their way to Stepanakert, the capital of Nagorno-Karabakh, showed images of an uninhibited extermination frenzy. Thus, the main traffic axis near the embattled city of Shusha was still completely littered with corpses. And the Stepanakert, which only a few months ago seemed so cheerful, lay in ruins for a long time, obviously without electricity and without gas. If he had not signed the agreement of 10 November, the Armenian Prime Minister Nikol Paschinyan claimed, all of Nagorno-Karabakh would be lost to Azerbaijan and the remaining 25,000 armed Armenians would be massacred or taken hostage in this hopeless struggle.
+
+#### "Where are Armenians allowed to live?"
+
+For Armenians, their new post-war reality is a nightmare without end. "Who am I?" asked the young journalist from Stepanakert, Lika Zakyrjan, in her report. "The citizen whose state? Where will I be allowed to live? I don't have an answer to those questions.' The agreement of 10 November does not give any answers to Armenians either. "Where else are the Armenians allowed to live?" asked a farmer from Kelbatshar. Kelbatshar is the first province to be evacuated by Armenians under the agreement. Kelbatshar was settled by Azerbaijanis until the first war for Nagorno-Karabakh, when in an unbroken series of ethnic cleansing, the Armenian minority of some 350,000 from Azerbaijan and some 600,000 Azerbaijanis from Armenia and the provinces around Nagorno-Karabakh were expelled. The Moscow Agreement now provides for the return of the Azerbaijani refugees in the Kelbats: "Where are the Armenians allowed to live at all?" the farmer, who, like most settlers here, had already been driven out of his ancestral homeland and is now facing another exodus, also wondered. There was a lot of despair in his voice.
+
+#### From Hero to Traitor
+
+Armenian Prime Minister Nikol Paschinyan was the hero of his nation in spring 2018. At that time, his democratization movement succeeded in peacefully sweeping the old corrupt political guard out of office and raising hopes for a constitutional state in this distant corner of the Caucasus. It was precisely this hope that shuddered powerful circles in Moscow and Baku. After the signing of the Moscow document, Nikol Paschinyan is now the smell of the traitor of the fatherland. He and his "new Armenia" are considered the big losers of the war and the Moscow Agreement.
+
+In the medium term, another player is likely to be on the side of the losers: Moscow itself. For one hundred years, Armenia was considered Moscow's most loyal strategic ally in the Caucasus – for one reason in particular: between 1915 and 1917, more than a million Armenians of the Ottoman Empire were killed miserably by order of the Young Turks, and their thousand-year-old culture in Eastern Anatolia was wiped out – it was the first genocide of the 20th century on the European continent. The Jewish Nobel Peace Prize laureate Elie Wiesel called it "a Holocaust before the Holocaust." Since Turkey never recognized the incomprehensible crime as genocide, the Armenians' need for protection increased, making them believe that without the protection of the Russian great power, they would literally be threatened in their existence by the "Turks". Thus Armenia became the only loyal ally of moscow's state power in the Caucasus. This war made it clear to the Armenians that the alliance with Russia does not automatically mean protection. Since then, Moscow has also inextricably attached the smell of treason. Russia has also lost the trust of many other members of the Russian-dominated Collective Security Treaty (CSTO) organization, who are now measuring the Kremlin by how it has handled the security of CSTO member Armenia. Presumably, for geostrategic reasons, the Kremlin should have signaled its red lines on the Caucasus more clearly from the outset, rather than coping with a role of Pontius Pilate. Presumably Vladimir Putin is not a good chess player.
+
+#### What next?
+
+Seen in this way, there are many losers in this war – with the addition of Turkey. Turkish strategists and right-wing nationalists see the fact that the Moscow Agreement grants Turkey the free use of a corridor over Armenian territory, thus direct access to the Caspian Sea and beyond to the Turkish-speaking republics of Central Asia, as the fulfillment of a long-standing dream. And feel confirmed once again: war always pays off for the stronger. It is a disastrous conclusion.
+
+Since 2016, Erdogan and his far-right ally in the government, Devlet Bahceli, have not shied away from using weapons abroad. Especially when it comes to defending any 'national interests' of Turkey or the right to have a say in the Middle East, the Caucasus, the Eastern Mediterranean, Libya or elsewhere. They feel safe because they have an army at their side that has so far fully supported their adventures abroad. They also have at their side an arms industry that mass-produces Ankara's particularly deadly "miracle weapon," Bayraktar TB2's drone, and gives Turkey the whiff of "unbeatable." And they are aware that, apart from the left-wing pro-Kurdish HDP party decimated by repression, the entire political spectrum of the country is cheering their belligerent adventures abroad.
+
+#### Turkey's Multi-Front War
+
+Today, Turkey is waging a multi-front war in Libya, Syria, Kurdish northern Iraq, and the Caucasus – and soon in the Aegean? Erdogan's Turkey has become a monster – partly because the US has so far looked beyond Erdogan's warmongering, nato, and the EU.
+
+If Armenian society were not to break up completely under the weight of recent developments, the small republic, with its approximately three million citizens, would have desperately needed support from abroad: the virus kept Armenia firmly under control even before the war – but after the war, the pandemic is said to have taken on a completely uncontrolled, frightening extent. What is at stake in Yerevan today is not the future of Paschinyan, but the survival of Armenian democracy. Armenian civil society needs the support of European institutions, churches, academics to continue despite the all-encompassing desperation. And perhaps international diplomacy would be called upon this time to learn lessons from its colossal failure in the conflict over Nagorno-Karabakh and to seek a solution to the open issues of the Moscow document, such as the status of Nagorno-Karabakh, that promises Armenians and Azerbaijanis a sense of security and respect.
+
+Otherwise, the South Caucasus will never be stabilized and the next war will only be a matter of time.
