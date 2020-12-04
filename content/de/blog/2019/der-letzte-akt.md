@@ -4,7 +4,7 @@ date: 2019-10-22
 tags: "Gesellschaft"
 shorttext: "Will die Menschheit nicht gemeinsam mit ihrem Lebensraum zugrundegehen, muss sie sich aus dem Bann der neoliberalen Narren und Betrüger befreien."
 draft: false
-lang: en
+lang: de
 cover: "society"
 ---
 

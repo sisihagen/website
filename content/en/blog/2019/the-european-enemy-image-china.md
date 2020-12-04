@@ -5,7 +5,7 @@ tags: "State"
 shorttext: "The EU no longer sees China as a partner. It follows in the footsteps of the US, NATO, the new enemy being China."
 cover: "repression"
 draft: false
-lang: ru
+lang: en
 ---
 
 It is a century and a half ago when British warships shot Chinese port cities in ruins to force the opening of the "Empire of the middle"! The deeper reason for the two "Opium Wars" (1839-1842 and 1856-1860) against China was that the British's trade balance with China was hopelessly in deficit. The kingdom, the largest maritime and commercial power at the time, greed for top Chinese products, such as porcelain, silk and tea, but could not offer much itself, which the Chinese coveted.

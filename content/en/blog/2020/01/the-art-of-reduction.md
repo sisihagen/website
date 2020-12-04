@@ -5,7 +5,7 @@ tags: "СМИ"
 shorttext: "Новостная трансляция ZDF, демонстрирует, как распространять с помощью эффективного монтажа изображения и текста неверную информацию."
 cover: "media"
 draft: false
-lang: ru
+lang: en
 ---
 
 The ZDF broadcast "[heute]" on December 28 at 7 pm: the presenter announces bad news from Idlib.  According to UN figures, 235,000 people have fled the Syrian province in the last two weeks alone. Turkish President Erdogan therefore warns of"a new wave of migration towards Europe".

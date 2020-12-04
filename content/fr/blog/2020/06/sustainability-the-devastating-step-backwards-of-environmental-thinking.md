@@ -5,7 +5,7 @@ draft: false
 tags: "Société"
 shorttext: "Dans les années 1990, le concept environnemental était différent de ce qu'il est aujourd'hui. Les oligarques ont réussi à faire de l'environnement une vie commerciale grâce à la durabilité."
 cover: "society"
-lang: de
+lang: fr
 ---
 
 A l'origine, c'était clair: L'écologie prime sur l'économie. Dans le débat environnemental des années 1970 et 1980, même les partis conservateurs n'auraient pas osé présenter le Profit et la croissance comme équivalents à la protection de l'environnement et à la préservation des moyens de subsistance. Bien que l'action pratique dans les chefs de partis, les administrations, les gouvernements et les entreprises ait semblé différente, c'est également le cas aujourd'hui. Bien que les questions sociales aient presque toujours été oubliées par les organisations environnementales, l'idée du débat sur la durabilité était de donner à l'économie une valeur indépendante et élevée égale à la protection de l'environnement et aux besoins des personnes.

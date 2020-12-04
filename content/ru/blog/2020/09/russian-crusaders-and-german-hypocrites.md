@@ -5,7 +5,7 @@ draft: false
 tags: "Общество"
 shorttext: "Шарите Берлин не привносит ничего нового в дело Навального, но немецкие СМИ и политики гудят без доказательств. Лицемеры-ля-ви!"
 cover: "society"
-lang: en
+lang: ru
 ---
 
 Der Spiegel Online опубликовал вчера большое видеоинтервью с зеленым политиком [Юргеном Триттином](https://www.spiegel.de/politik/ausland/spitzengespraech-juergen-trittin-gruene-ueber-den-alexej-nawalny-russland-und-belarus-a-58725455-d6e8-41b2-8310-89cdf9a9c211 "Muss Putin bestraft werden, Herr Trittin?"). Он утверждал, что Путин " потерял контроль над Россией."Он нарушил свое" обещание принести стабильность в Россию".

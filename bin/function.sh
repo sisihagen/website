@@ -111,15 +111,15 @@ function alignthem()
 
 function sedpi()
 {
-  sed -i -e 's|homeovh|homeraspi|g' ./public/local/index.html
+  sed -i -e 's|brands-ovh|brands-raspi|g' ./public/local/index.html
   sed -i -e 's|www.ovh.com|www.raspberrypi.org|g' ./public/local/index.html
   sed -i -e 's|OVH - Innovation for Freedom|RASPBERRY PI FOUNDATION|g' ./public/local/index.html
 }
 
 function sedmirror_hetzner()
 {
-  sed -i -e 's|homeovh|homehetzner|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|homeregru|homehetzner|g' $mirror/$finnland/$1/htdocs/index.html
+  sed -i -e 's|brands-ovh|brands-hetzner|g' $mirror/$finnland/$1/htdocs/index.html
+  sed -i -e 's|brands-regru|brands-hetzner|g' $mirror/$finnland/$1/htdocs/index.html
   sed -i -e 's|www.ovh.com|www.hetzner.de|g' $mirror/$finnland/$1/htdocs/index.html
   sed -i -e 's|www.reg.ru|www.hetzner.de|g' $mirror/$finnland/$1/htdocs/index.html
   sed -i -e 's|Reg.ru the number one in Russia|Hetzner Online als ein führender Webhostinganbieter und erfahrener Rechenzentrumsbetreiber in Deutschland bietet professionelle Hostinglösungen zu fairen Preisen.|g' $mirror/$finnland/$1/htdocs/index.html
@@ -131,8 +131,8 @@ function sedmirror_hetzner()
 
 function sedmirror_oneprovider()
 {
-  sed -i -e 's|homeovh|homeoneprovider|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|homeregru|homeoneprovider|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-ovh|brands-oneprovider|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-regru|brands-oneprovider|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|www.ovh.com|www.oneprovider.com|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|www.reg.ru|www.oneprovider.com|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|OVH - Innovation for Freedom|With over 140 datacenter locations in the world, OneProvider is your one stop for dedicated server hosting solutions in the location of your choice.|g' $mirror/$1/$2/htdocs/index.html

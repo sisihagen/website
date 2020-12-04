@@ -1,0 +1,39 @@
+---
+title: "Le régime USA"
+date: 2020-11-30
+draft: false
+tags: "Société"
+shorttext: "L'Arabie saoudite mène la guerre contre le Yémen depuis 2015. Cela est principalement possible grâce à l'industrie de l'armement américaine."
+cover: "society"
+lang: fr
+---
+
+Au Yémen, il y a toujours une guerre sanglante par procuration entre l'Arabie Saoudite et les rebelles Houthis. Ses conséquences sont catastrophiques. Selon le [Armed Conflict Location & Event Data Project](https://acleddata.com/2020/03/25/acled-resources-war-in-yemen/ "ACLED RESOURCES: WAR IN YEMEN") (ACLED), plus de 112 000 personnes ont été tuées dans la guerre depuis 2015, dont plus de 12 600 civils tués dans des attaques. "En 2019, plus de 25 000 morts ont été signalés, ce qui en fait la deuxième année la plus meurtrière de la guerre", écrit L'ACLED.
+
+Le fonds des Nations unies pour l'enfance [UNICEF](https://www.unicef.org/emergencies/yemen-crisis "Yemen crisis") rapporte: "Le Yémen est la plus grande crise humanitaire au monde. Plus de 24 millions de personnes – environ 80% de la population – ont besoin d'aide humanitaire, dont plus de 12 millions d'enfants."Le pays est devenu un" enfer vivant " pour les enfants depuis le début de la guerre en 2015. Selon l'Agence des Nations unies pour les réfugiés, 3,6 millions de personnes ont été [déplacées](https://www.unhcr.org/news/briefing/2020/3/5e7dbca64/peace-needed-five-years-conflict-yemen-deepens-suffering.html "Peace needed more than ever after five years of conflict in Yemen deepens suffering") par la guerre.
+
+En plus de la guerre déjà dévastatrice, il y a aussi des maladies. Dès juin 2020, Le Secrétaire général des Nations Unies [Antonio Guterres](https://www.aerzteblatt.de/nachrichten/113451/UN-Chef-30-Hilfsprogrammen-im-Jemen-droht-das-Aus "30 Hilfsprogrammen im Jemen droht das Aus") a parlé de 110 000 personnes souffrant du choléra, en plus d'autres maladies telles que le paludisme et la dengue. En raison du manque de dons, les programmes D'aide les plus importants de l'ONU sont menacés. Avec la propagation du Coronavirus, la situation s'est encore aggravée. Selon L'organisation de développement Handicap International, 7 millions de personnes au Yémen sont aujourd'hui menacées par la faim. Le [Programme Alimentaire Mondial](https://www.euronews.com/2020/11/14/nobel-winning-un-agency-warns-of-famines-of-biblical-proportions-in-2021 "Nobel-winning UN agency warns of 'famines of biblical proportions' in 2021") des Nations unies avertit qu'il pourrait y avoir des "famines bibliques" au Yémen et dans d'autres pays au cours de l'année à venir.
+
+#### Les États-Unis sont le plus grand exportateur d'armes
+
+Les gouvernements occidentaux, en particulier L'Administration américaine, ont également contribué de manière significative à la catastrophe humanitaire. La coalition saoudienne, qui comprend les Émirats Arabes Unis, Bahreïn, Le Koweït, l'Égypte, La Jordanie, le Maroc, Le Sénégal et le Soudan, est essentiellement soutenue par des armes occidentales. Ceci est illustré par les données de L'Institut de recherche sur la paix de Stockholm (SIPRI).
+
+"Malgré l'inquiétude généralisée aux États-Unis et au Royaume-Uni au sujet de l'Intervention militaire de l'Arabie Saoudite au Yémen, les États-Unis et le Royaume-Uni ont continué d'exporter des armes vers l'Arabie Saoudite en 2015-19", écrit le SIPRI. Au total, 73% des importations D'armes de l'Arabie Saoudite provenaient des États-Unis et 13% du Royaume-Uni. L'organisation humanitaire [Oxfam](https://www.oxfam.de/presse/pressemitteilungen/2020-11-17-jemen-krieg-wert-waffenexporten-g20-um-vielfaches-hoeher "Jemen-Krieg: Wert von Waffenexporten der G20 um ein Vielfaches höher als ihre humanitäre Hilfe") estime que depuis 2015, les pays du G-20 ont exporté des armes d'une valeur de plus de 17 milliards de dollars américains vers l'Arabie Saoudite. Selon les propres calculs D'Oxfam, c'est trois fois ce que le G-20 prévoit pour l'aide humanitaire au Yémen.
+
+#### La proximité de Trump avec la monarchie
+
+Le soutien du gouvernement américain à l'Arabie Saoudite a commencé sous L'administration Obama, mais s'est intensifié sous le président Donald Trump. Le président américain, qui était toujours en poste, a tout fait pour accommoder la monarchie sunnite. Quelques mois après le début de son mandat, Trump a conclu un contrat d'armement de près de 110 milliards de dollars avec le Royaume ultraconservateur. Au total, l'accord comprenait des achats d'armes d'une valeur d'environ 350 milliards de dollars sur une [période](https://www.sueddeutsche.de/politik/ruestungsgeschaeft-usa-und-saudi-arabien-schliessen-gigantischen-waffendeal-1.3514974 "USA und Saudi-Arabien schließen gigantischen Waffendeal") de dix ans. Le roi saoudien Salman Abdulaziz a ensuite décerné au président américain la plus haute [Médaille](https://www.nzz.ch/international/nahost-und-afrika/auslandsreise-trump-erhaelt-die-hoechste-medaille-des-koenigreichs-saudiarabien-ld.1295243 "Trump schliesst mit Saudiarabien riesigen Waffendeal ab") du royaume comme "un prix pour ses tentatives d'approfondir davantage les relations entre les deux pays."
+
+Trois des huit veto [de Trump](https://www.senate.gov/legislative/vetoes/TrumpDJ.htm "Vetoes by President Donald J. Trump"), auxquels le président américain a opposé son veto au Congrès au cours de son précédent mandat, concernaient la guerre de l'Arabie Saoudite au Yémen. Trump a bloqué à deux reprises les interdictions de vente d'armes à l'état du désert, Une fois qu'il a opposé son veto à une résolution qui voulait ordonner le retrait des forces américaines du Yémen. Ces derniers fournissent un appui logistique aux forces armées saoudiennes pour déterminer les cibles aériennes et coordonner les activités militaires et de renseignement.
+
+#### Puissant lobby des armes à feu, lois faibles
+
+Les ventes d'armes aux États-Unis sont régies par la Loi sur l'assistance étrangère (FAA) et la Loi sur le contrôle des exportations d'armes (AECA). Pour le lobby des armes, cependant, les deux lois ne sont pas un véritable obstacle. La raison en est que les transferts d'armes sont conformes à la loi tant que le Congrès ne les interdit pas. Et même alors, comme cela est souvent arrivé, le président peut opposer son veto aux restrictions.
+
+En outre, la Section 36 de L'AECA permet au président de contourner le Congrès. Par exemple, lorsqu'il existe une situation d'urgence qui nécessite une vente d'armes "dans l'intérêt de la sécurité nationale des États-unis."En mai 2019, le Secrétaire D'État Mike Pompeo a forcé cela, effectuant vingt-deux transferts d'armes distincts de 8,1 milliards de dollars vers l'Arabie Saoudite, Les Émirats Arabes Unis et la Jordanie. Malgré la résistance au Congrès, les accords d'armes n'ont pas pu être arrêtés.
+
+#### Les exportations d'armes sont légales
+
+Fernando C. Saldivar, qui travaille pour le réseau jésuite Justice et écologie Afrique (JENA), attire l'attention sur le fait que les États-Unis n'ont pas non plus de conséquences juridiques au niveau international. "Pour des pays comme l'Arabie Saoudite, l'un des avantages de travailler avec l'industrie de l'armement est que l'Amérique n'est pas légalement tenu de prendre en compte l'impact humanitaire des transferts d'armes vers un pays étranger."
+
+À ce jour, le gouvernement américain n'a pas ratifié le Traité sur le commerce des armes (TCA). Cela requiert des états de s'abstenir d'exportations d'armes s'il est prouvé qu'ils sont utilisés pour commettre des crimes de guerre. En tant que non-membre de L'ATT, l'industrie américaine de l'armement peut vendre des armes à l'étranger en toute impunité. Le président Obama a soumis L'ATT au Sénat pour ratification avant de quitter ses fonctions en 2016, mais le président Trump l'a retiré de l'examen en avril 2019. Tous les états membres de l'Union Européenne ont signé le traité. Même la Chine, qui avait freiné, a signé le traité en juillet dernier.
