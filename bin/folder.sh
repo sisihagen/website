@@ -6,23 +6,23 @@ source ./bin/variables.sh
 # function
 source ./bin/function.sh
 
-# create folder
-# build folder
+# # create folder
+# # build folder
 mkdir -p $build
 
-# sites folder
+# # sites folder
 mkdir -p $dest/{$de,$fr,$en,$ru}/htdocs
 
-# pi
+# # pi
 mkdir $pi
 
-# mirror folder
-mkdir -p $mirror/{$finnland,$jburg,$jpy}
+# # mirror folder
+mkdir -p $mirror/{$na,$africa,$asia}
 
-# sites folder for mirrors
-mkdir -p $mirror/$finnland/{$de,$fr,$en,$ru}/htdocs
-mkdir -p $mirror/$jburg/{$de,$fr,$en,$ru}/htdocs
-mkdir -p $mirror/$jpy/{$de,$fr,$en,$ru}/htdocs
+# # sites folder for mirrors
+mkdir -p $mirror/$na/{$de,$fr,$en,$ru}/htdocs
+mkdir -p $mirror/$africa/{$de,$fr,$en,$ru}/htdocs
+mkdir -p $mirror/$asia/{$de,$fr,$en,$ru}/htdocs
 
-# static folder
+# # static folder
 mkdir -p $dest/$static/htdocs/{$css,$img,$downloads,$js,$fonts}

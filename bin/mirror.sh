@@ -8,33 +8,33 @@ source ./bin/function.sh
 
 # check the mirror folder is there
 if [[ -d "$mirror" ]]; then
-  # we start with the finnland mirror
-  if [[ -d "$mirror/$finnland" ]]; then
-    # sync the dest with mirror finnland
-    sync "$dest/" "$mirror/$finnland/"
+  # we start with the North America mirror
+  if [[ -d "$mirror/$na" ]]; then
+    # sync the dest with mirror North America
+    sync "$dest/" "$mirror/$na/"
 
     # change provider and operating system
-    # hetzner
-    sedmirror_hetzner "$de"
-    sedmirror_hetzner "$en"
-    sedmirror_hetzner "$fr"
-    sedmirror_hetzner "$ru"
+    # vultr.com
+    sedmirror_vultr "$de"
+    sedmirror_vultr "$en"
+    sedmirror_vultr "$fr"
+    sedmirror_vultr "$ru"
   fi
 
-  if [[ -d "$mirror/$jburg" ]]; then
-    sync "$dest/" "$mirror/$jburg/"
-    sedmirror_oneprovider "$jburg" "$de"
-    sedmirror_oneprovider "$jburg" "$en"
-    sedmirror_oneprovider "$jburg" "$fr"
-    sedmirror_oneprovider "$jburg" "$ru"
+  if [[ -d "$mirror/$africa" ]]; then
+    sync "$dest/" "$mirror/$africa/"
+    sedmirror_oneprovider "$africa" "$de"
+    sedmirror_oneprovider "$africa" "$en"
+    sedmirror_oneprovider "$africa" "$fr"
+    sedmirror_oneprovider "$africa" "$ru"
   fi
 
-  if [[ -d "$mirror/$jpy" ]]; then
-    sync "$dest/" "$mirror/$jpy/"
-    sedmirror_oneprovider "$jpy" "$de"
-    sedmirror_oneprovider "$jpy" "$en"
-    sedmirror_oneprovider "$jpy" "$fr"
-    sedmirror_oneprovider "$jpy" "$ru"
+  if [[ -d "$mirror/$asia" ]]; then
+    sync "$dest/" "$mirror/$asia/"
+    sedmirror_oneprovider "$asia" "$de"
+    sedmirror_oneprovider "$asia" "$en"
+    sedmirror_oneprovider "$asia" "$fr"
+    sedmirror_oneprovider "$asia" "$ru"
   fi
 fi
 

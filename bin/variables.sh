@@ -17,9 +17,9 @@ ru='silviosiefke.ru'
 
 # mirror
 mirror='./public/mirror'
-finnland='finnland'
-jpy='jpy'
-jburg='jburg'
+na='na'
+asia='asia'
+africa='africa'
 
 # pi
 pi='./public/local'

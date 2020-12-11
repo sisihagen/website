@@ -116,28 +116,30 @@ function sedpi()
   sed -i -e 's|OVH - Innovation for Freedom|RASPBERRY PI FOUNDATION|g' ./public/local/index.html
 }
 
-function sedmirror_hetzner()
+function sedmirror_vultr()
 {
-  sed -i -e 's|brands-ovh|brands-hetzner|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|brands-regru|brands-hetzner|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|www.ovh.com|www.hetzner.de|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|www.reg.ru|www.hetzner.de|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|Reg.ru the number one in Russia|Hetzner Online als ein führender Webhostinganbieter und erfahrener Rechenzentrumsbetreiber in Deutschland bietet professionelle Hostinglösungen zu fairen Preisen.|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|homearch|homedebian|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|www.arch.org|www.debian.org|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$finnland/$1/htdocs/index.html
-  sed -i -e 's|OVH - Innovation for Freedom|Hetzner Online als ein führender Webhostinganbieter und erfahrener Rechenzentrumsbetreiber in Deutschland bietet professionelle Hostinglösungen zu fairen Preisen.|g' $mirror/$finnland/$1/htdocs/index.html
+  sed -i -e 's|brands-ovh|brands-vultr|g' $mirror/$na/$1/htdocs/index.html
+  sed -i -e 's|brands-arch|brands-debian|g' $mirror/$na/$1/htdocs/index.html
+  sed -i -e 's|www.ovh.com|www.vultr.com/?ref=8742952|g' $mirror/$na/$1/htdocs/index.html
+  sed -i -e 's|www.archlinux.org|www.debian.org|g' $mirror/$na/$1/htdocs/index.html
+  sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$na/$1/htdocs/index.html
+  sed -i -e 's|OVH - Innovation for Freedom|SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com|g' $mirror/$na/$1/htdocs/index.html
 }
 
 function sedmirror_oneprovider()
 {
+  # icons
   sed -i -e 's|brands-ovh|brands-oneprovider|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|brands-regru|brands-oneprovider|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-arch|brands-debian|g' $mirror/$1/$2/htdocs/index.html
+
+  # links
   sed -i -e 's|www.ovh.com|www.oneprovider.com|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|www.reg.ru|www.oneprovider.com|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.archlinux.org|www.debian.org|g' $mirror/$1/$2/htdocs/index.html
+
+  # Title
   sed -i -e 's|OVH - Innovation for Freedom|With over 140 datacenter locations in the world, OneProvider is your one stop for dedicated server hosting solutions in the location of your choice.|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|Reg.ru the number one in Russia|With over 140 datacenter locations in the world, OneProvider is your one stop for dedicated server hosting solutions in the location of your choice.|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|homearch|homedebian|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|www.arch.org|www.debian.org|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$1/$2/htdocs/index.html
 }
