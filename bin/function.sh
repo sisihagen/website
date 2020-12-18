@@ -143,3 +143,8 @@ function sedmirror_oneprovider()
   sed -i -e 's|Reg.ru the number one in Russia|With over 140 datacenter locations in the world, OneProvider is your one stop for dedicated server hosting solutions in the location of your choice.|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$1/$2/htdocs/index.html
 }
+
+function deletejs()
+{
+  sed -i 's|<script async src="/static/js/site.js"></script>||g' $1
+}
