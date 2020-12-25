@@ -118,30 +118,28 @@ function sedpi()
 
 function sedmirror_vultr()
 {
-  sed -i -e 's|brands-ovh|brands-vultr|g' $mirror/$na/$1/htdocs/index.html
-  sed -i -e 's|brands-arch|brands-debian|g' $mirror/$na/$1/htdocs/index.html
-  sed -i -e 's|www.ovh.com|www.vultr.com/?ref=8742952|g' $mirror/$na/$1/htdocs/index.html
-  sed -i -e 's|www.archlinux.org|www.debian.org|g' $mirror/$na/$1/htdocs/index.html
-  sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$na/$1/htdocs/index.html
-  sed -i -e 's|OVH - Innovation for Freedom|SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com|g' $mirror/$na/$1/htdocs/index.html
+  sed -i -e 's|brands-arch|brands-freebsd|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-nginx|brands-caddy|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-ovh|brands-vultr|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.ovh.com|www.vultr.com/?ref=8742952|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.archlinux.org|www.freebsd.org|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.nginx.org|www.caddyserver.com|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|Arch Linux|The FreeBSD Project|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|Nginx Webserver|Caddy Webserver|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|OVH - Innovation for Freedom|SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr|g' $mirror/$1/$2/htdocs/index.html
 }
 
-function sedmirror_oneprovider()
+function sedmirror_hostafrica()
 {
-  # icons
-  sed -i -e 's|brands-ovh|brands-oneprovider|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|brands-regru|brands-oneprovider|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-ovh|brands-cloudza|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|brands-arch|brands-debian|g' $mirror/$1/$2/htdocs/index.html
-
-  # links
-  sed -i -e 's|www.ovh.com|www.oneprovider.com|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|www.reg.ru|www.oneprovider.com|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|www.archlinux.org|www.debian.org|g' $mirror/$1/$2/htdocs/index.html
-
-  # Title
-  sed -i -e 's|OVH - Innovation for Freedom|With over 140 datacenter locations in the world, OneProvider is your one stop for dedicated server hosting solutions in the location of your choice.|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|Reg.ru the number one in Russia|With over 140 datacenter locations in the world, OneProvider is your one stop for dedicated server hosting solutions in the location of your choice.|g' $mirror/$1/$2/htdocs/index.html
-  sed -i -e 's|Arch Linux|Debian - The Universal Operating System|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-nginx|brands-caddy|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.ovh.com|cloud.co.za|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.nginx.org|www.caddyserver.com|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.archlinux.org|www.debiam.org|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|Arch Linux|Debian - The universal operating system|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|OVH - Innovation for Freedom|Cloud Servers - Windows or Linux from South Africa|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|Nginx Webserver|Caddy Webserver|g' $mirror/$1/$2/htdocs/index.html
 }
 
 function deletejs()

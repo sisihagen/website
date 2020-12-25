@@ -20,6 +20,7 @@ mirror='./public/mirror'
 na='na'
 asia='asia'
 africa='africa'
+sa='sa'
 
 # pi
 pi='./public/local'
