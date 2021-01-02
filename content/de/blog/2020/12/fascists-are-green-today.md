@@ -3,6 +3,7 @@ title: "Faschisten sind heute grün"
 date: 2020-12-09
 draft: false
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Die Grünen denken über einen robusten Krieg nach und wollen uns dann verkaufen diese wären für Umweltschutz. Wie niedrig kann IQ sein?"
 cover: "society"
 lang: de

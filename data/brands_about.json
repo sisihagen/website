@@ -14,13 +14,6 @@
         "class": "brands-arch"
     },
     {
-        "id": 3,
-        "name": "Caddy",
-        "href": "https://caddyserver.com/",
-        "title": "Caddy is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go",
-        "class": "brands-caddy"
-    },
-    {
         "id": 4,
         "name": "CityNet Telecom",
         "href": "https://www.citynethost.com/",
@@ -215,5 +208,19 @@
         "href": "https://yarnpkg.com",
         "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.",
         "class": "brands-yarn"
+    },
+    {
+        "id": 32,
+        "name": "Zappie Host",
+        "href": "https://zappiehost.com/",
+        "title": "VPS Server Hosting New Zealand | VPS Server Hosting South Africa | Dedicated Server Hosting - Zappie Host",
+        "class": "brands-zappie"
+    },
+    {
+        "id": 33,
+        "name": "Red Hat Ansible",
+        "href": "https://www.ansible.com/",
+        "title": "Drive automation across open hybrid cloud deployments",
+        "class": "brands-ansible"
     }
 ]

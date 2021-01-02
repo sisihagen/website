@@ -3,6 +3,7 @@ title: "Putin in the annual conference"
 date: 2020-12-21
 draft: false
 tags: "State"
+geo: "Europe"
 shorttext: "As always, Putin's annual press conference has other reports than the German media would like to trick us into."
 cover: "repression"
 lang: en

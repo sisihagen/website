@@ -3,6 +3,7 @@ title: "The West First"
 date: 2020-12-24
 draft: false
 tags: "State"
+geo: "World"
 shorttext: "The rich countries are already buying the western Covid-19 vaccine production together - to the detriment of the poor countries."
 cover: "repression"
 lang: en

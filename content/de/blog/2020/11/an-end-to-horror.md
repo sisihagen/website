@@ -3,6 +3,7 @@ title: "Ein Ende mit Schrecken"
 date: 2020-11-24
 draft: false
 tags: "Gesellschaft"
+geo: "Asien"
 shorttext: "... oder Schrecken ohne Ende? Ein Versuch, die hochkomplexe Gemengelage zu sezieren."
 cover: "society"
 lang: de

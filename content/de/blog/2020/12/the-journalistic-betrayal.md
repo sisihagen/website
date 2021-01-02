@@ -3,6 +3,7 @@ title: "Der journalistische Verrat"
 date: 2020-12-08
 draft: false
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Covid hat aufgezeigt wie eng Journalismus und Regierung verzahnt sind. Das sieht man an den Schubladen und der fehlenden Diskussion."
 cover: "society"
 lang: de

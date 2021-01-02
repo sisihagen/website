@@ -3,6 +3,7 @@ title: "Shipping copies the car"
 date: 2020-12-22
 draft: false
 tags: "Society"
+geo: "World"
 shorttext: "The proportion of cardboard in waste is increasing. Reason: In the mail order business there is a lot of packaging for little content. Like a car."
 cover: "society"
 lang: en

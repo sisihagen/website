@@ -3,6 +3,7 @@ title: "Die Zensur beim ZDF"
 date: 2020-12-21
 draft: false
 tags: "Medien"
+geo: "Europa"
 shorttext: "Der Lanz hatte Linnemann zu Besuch der scheinbar einmal im Leben als Politiker die Wahrheit sagte und das ZDF schneidet es heraus."
 cover: "media"
 lang: de

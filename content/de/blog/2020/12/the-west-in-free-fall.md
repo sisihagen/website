@@ -3,6 +3,7 @@ title: "Der Westen im freien Fall"
 date: 2020-12-22
 draft: false
 tags: "Staat"
+geo: "Welt"
 shorttext: "Das westliche Modell der Heuchelei von Demokratie und Freiheit schafft es nicht mehr die Menschen so zu verarschen das es glaubhaft bleibt."
 cover: "repression"
 lang: de

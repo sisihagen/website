@@ -3,6 +3,7 @@ title: "Der Versand kopiert das Auto"
 date: 2020-12-22
 draft: false
 tags: "Gesellschaft"
+geo: "Welt"
 shorttext: "Der Anteil von Karton im Abfall steigt. Grund: Im Versandhandel gibt's viel Verpackung für wenig Inhalt. Wie beim Auto."
 cover: "society"
 lang: de

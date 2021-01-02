@@ -3,6 +3,7 @@ title: "Alternative Stimmen zensieren"
 date: 2020-12-10
 draft: false
 tags: "Medien"
+geo: "Nordamerika"
 shorttext: "Die unabhängigen Medienunternehmen sind selbst abhängig und staatsnah und Fake News sind in vielen Artikel offensichtlich. Aber Alternativen sollen zensiert werden."
 cover: "media"
 lang: de

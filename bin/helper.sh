@@ -111,6 +111,13 @@ case $1 in
         sed -i 's/tags: "Medien"/tags: "Media"/g' $files
         sed -i 's/tags: "Staat"/tags: "State"/g' $files
 
+        # set the right geo
+        sed -i 's/geo: "Asien"/geo: "Asia"/g' $files
+        sed -i 's/geo: "Europa"/geo: "Europe"/g' $files
+        sed -i 's/geo: "Südamerika"/geo: "South America"/g' $files
+        sed -i 's/geo: "Nordamerika"/geo: "North America"/g' $files
+        sed -i 's/geo: "Australien"/geo: "Australia"/g' $files
+
         # set the right title
         sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :en )"'"/' $files
 
@@ -161,6 +168,13 @@ case $1 in
         sed -i 's/tags: "State"/tags: "Politique"/g' $files
         sed -i 's/tags: "Computer"/tags: "Ordinateur"/g' $files
 
+        # set the right geo
+        sed -i 's/geo: "Asia"/geo: "Asie"/g' $files
+        sed -i 's/geo: "Europe"/geo: "Europe"/g' $files
+        sed -i 's/geo: "South America"/geo: "Amérique du Sud"/g' $files
+        sed -i 's/geo: "North America"/geo: "Amérique du Nord"/g' $files
+        sed -i 's/geo: "Australia"/geo: "Australie"/g' $files
+
         # set the right title
         sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :fr )"'"/' $files
 
@@ -210,6 +224,13 @@ case $1 in
         sed -i 's/tags: "Media"/tags: "СМИ"/g' $files
         sed -i 's/tags: "State"/tags: "штат"/g' $files
         sed -i 's/tags: "Computer"/tags: "Компьютер"/g' $files
+
+        # set the right geo
+        sed -i 's/geo: "Asia"/geo: "Азии"/g' $files
+        sed -i 's/geo: "Europe"/geo: "Европе"/g' $files
+        sed -i 's/geo: "South America"/geo: "Саут-Америка"/g' $files
+        sed -i 's/geo: "North America"/geo: "Северная Америка"/g' $files
+        sed -i 's/geo: "Australia"/geo: "Австралия"/g' $files
 
         # set the right title
         sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :ru )"'"/' $files

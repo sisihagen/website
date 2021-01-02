@@ -3,6 +3,7 @@ title: "Der Kriegsverbrecher Frankreich"
 date: 2020-12-01
 draft: false
 tags: "Staat"
+geo: "Europa"
 shorttext: "Kampfflugzeuge, die von französischen Unternehmen gewartet werden, sollen in Libyen an Kriegsverbrechen beteiligt gewesen sein."
 cover: "repression"
 lang: de

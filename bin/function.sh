@@ -29,6 +29,7 @@ function create_file()
     echo "date: $date"
     echo "draft: false"
     echo "tags: \"$tag\""
+    echo "geo:"
     echo "shorttext:"
     echo "cover: \"$cover\""
     echo "lang: $lang"
@@ -119,14 +120,18 @@ function sedpi()
 function sedmirror_vultr()
 {
   sed -i -e 's|brands-arch|brands-freebsd|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-arch|brands-debian|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|brands-nginx|brands-caddy|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|brands-ovh|brands-vultr|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|brands-regru|brands-vultr|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|www.ovh.com|www.vultr.com/?ref=8742952|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|www.reg.ru|www.vultr.com/?ref=8742952|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|www.archlinux.org|www.freebsd.org|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|www.nginx.org|www.caddyserver.com|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|Arch Linux|The FreeBSD Project|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|Nginx Webserver|Caddy Webserver|g' $mirror/$1/$2/htdocs/index.html
   sed -i -e 's|OVH - Innovation for Freedom|SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr|g' $mirror/$1/$2/htdocs/index.html
+  sed -i -e 's|OVH - Innovation for Freedom|Reg.ru the number one in Russia|g' $mirror/$1/$2/htdocs/index.html
 }
 
 function sedmirror_hostafrica()

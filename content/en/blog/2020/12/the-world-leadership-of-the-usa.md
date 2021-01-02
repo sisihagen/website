@@ -3,6 +3,7 @@ title: "The USA's world leadership"
 date: 2020-12-15
 draft: false
 tags: "State"
+geo: "North America"
 shorttext: "Joe Biden and Hillary Clinton show: The US Democrats are calling for America must lead the world again instead of America first."
 cover: "repression"
 lang: en

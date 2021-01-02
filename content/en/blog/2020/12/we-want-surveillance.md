@@ -3,6 +3,7 @@ title: "We want surveillance"
 date: 2020-12-18
 draft: false
 tags: "Society"
+geo: "Asia"
 shorttext: "China is insulted and surveillance is copied in dark rooms. Long live the western hypocrite!"
 cover: "society"
 lang: en

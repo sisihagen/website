@@ -3,6 +3,7 @@ title: "Who pays the Corona aid?"
 date: 2020-12-11
 draft: false
 tags: "Society"
+geo: "World"
 shorttext: "The draft budget for 2021 provides for new debt of 160 billion euros. Every third euro that the federal government spends is financed by debt."
 cover: "society"
 lang: en

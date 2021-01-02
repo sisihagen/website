@@ -3,6 +3,7 @@ title: "Die Werte Heuchelei"
 date: 2020-12-14
 draft: false
 tags: "Gesellschaft"
+geo: "Asien"
 shorttext: "Der Westen hält die Themen Menschenrechte und Demokratie gerne hoch, wenn es darum geht, konkurrierende Staaten zu diskreditieren."
 cover: "society"
 lang: de

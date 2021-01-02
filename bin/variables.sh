@@ -75,9 +75,15 @@ tmp_title=$3
 # variables which we use in script
 # create a title with small letters and remove whitespace
 title=$(echo ${tmp_title,,} | trans -brief :en | sed -e 's/\s/-/g')
+
+# tags
 categories=(computer media repression society)
+
+# Folder of Markdown files
 content_dir="./content/$lang/blog/$year/$month"
+
+# File Name
 file="$content_dir/$title.md"
 
-
-
+# sprites
+glueopt="-s $lstatic/img/brands -o $lstatic/img/content --scss $lstatic/scss/_module/brands.scss -p 20"

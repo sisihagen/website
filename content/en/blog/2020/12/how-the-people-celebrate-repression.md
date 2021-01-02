@@ -3,6 +3,7 @@ title: "How the people celebrate repression"
 date: 2020-12-14
 draft: false
 tags: "Society"
+geo: "Europe"
 shorttext: "Merkel gives a speech, has sniffed the onion beforehand and the heroine of repression is celebrated in social networks. La vie hypocrites!"
 cover: "society"
 lang: en

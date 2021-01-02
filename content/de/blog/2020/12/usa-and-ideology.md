@@ -3,6 +3,7 @@ title: "USA und die Ideologie"
 date: 2020-12-15
 draft: false
 tags: "Staat"
+geo: "Nordamerika"
 shorttext: "Exil-Kubaner können ihr im Ausland verdientes Geld nicht mehr nach Hause schicken. Trump hat die Kuba-Sanktionen erneut verschärft."
 cover: "repression"
 lang: de

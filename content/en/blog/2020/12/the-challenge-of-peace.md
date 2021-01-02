@@ -3,6 +3,7 @@ title: "The challenge: peace"
 date: 2020-12-23
 draft: false
 tags: "Society"
+geo: "World"
 shorttext: "Nuclear death threatens us all - no nuclear missiles in Europe"
 cover: "society"
 lang: en

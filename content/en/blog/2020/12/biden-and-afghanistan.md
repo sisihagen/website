@@ -3,6 +3,7 @@ title: "Biden and Afghanistan"
 date: 2020-12-02
 draft: false
 tags: "State"
+geo: "Asia"
 shorttext: "The war in Afghanistan should end. But the opposite will happen. The Trump Show won't pull Biden through."
 cover: "repression"
 lang: en

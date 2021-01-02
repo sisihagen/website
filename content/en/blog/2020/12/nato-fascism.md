@@ -3,6 +3,7 @@ title: "NATO fascism"
 date: 2020-12-25
 draft: false
 tags: "State"
+geo: "World"
 shorttext: "NATO uses double standards for its opinion-making, in order to bring the population closer to nuclear doom!"
 cover: "repression"
 lang: en

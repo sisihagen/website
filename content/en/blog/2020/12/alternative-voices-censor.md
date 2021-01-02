@@ -3,6 +3,7 @@ title: "Censor alternative voices"
 date: 2020-12-10
 draft: false
 tags: "Media"
+geo: "North America"
 shorttext: "The independent media companies are themselves dependent and close to the state and fake news is evident in many articles. But alternatives should be censored."
 cover: "media"
 lang: en

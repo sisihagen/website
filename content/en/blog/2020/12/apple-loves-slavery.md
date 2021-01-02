@@ -3,6 +3,7 @@ title: "Apple loves slavery"
 date: 2020-12-03
 draft: false
 tags: "Society"
+geo: "Asia"
 shorttext: "U.S. companies are to be punished for using forced laborers. But corporations don't want to take responsibility."
 cover: "society"
 lang: en

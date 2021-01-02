@@ -3,6 +3,7 @@ title: "Wer zahlt die Corona Hilfen?"
 date: 2020-12-11
 draft: false
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Der Haushaltsentwurf für 2021 sieht 160 Milliarden Euro Neuverschuldung vor. Jeder dritte Euro, den der Bund ausgibt, ist damit schuldenfinanziert."
 cover: "society"
 lang: de

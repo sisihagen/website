@@ -3,6 +3,7 @@ title: "The Killer as a Victim"
 date: 2020-11-01
 draft: false
 tags: "Media"
+geo: "Asia"
 shorttext: "For weeks, the German media looked away and as the Krig around Nagorno-Karabakh is currently pitying the mercenaries."
 cover: "media"
 lang: en

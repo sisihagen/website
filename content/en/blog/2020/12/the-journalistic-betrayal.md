@@ -3,6 +3,7 @@ title: "The journalistic betrayal"
 date: 2020-12-08
 draft: false
 tags: "Society"
+geo: "Europe"
 shorttext: "Covid has shown how closely journalism and government are linked. You can see that in the drawers and the lack of discussion."
 cover: "society"
 lang: en

@@ -3,6 +3,7 @@ title: "Die verdrängte Krise im globalen Süden"
 date: 2020-12-08
 draft: false
 tags: "Gesellschaft"
+geo: "Afrika"
 shorttext: "Covid zeigt einmal mehr wie die Minderheiten West die jenigen sind die jammern während der Rest um die eigene Existenz ohne Stimmen kämpft."
 cover: "society"
 lang: de

@@ -3,6 +3,7 @@ title: "Die Weltführerschaft der USA"
 date: 2020-12-15
 draft: false
 tags: "Staat"
+geo: "Nordamerika"
 shorttext: "Joe Biden und Hillary Clinton zeigen: Die US-Demokraten fordern statt America first jetzt America must lead the world again."
 cover: "repression"
 lang: de

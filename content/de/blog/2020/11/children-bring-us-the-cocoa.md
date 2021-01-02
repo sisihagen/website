@@ -3,6 +3,7 @@ title: "Kinder bringen uns den Kakao"
 date: 2020-11-19
 draft: false
 tags: "Gesellschaft"
+geo: "Afrika"
 shorttext: "Die Hersteller, die die Lage längst verbessern wollten, haben ihr Ziel haushoch verfehlt."
 cover: "society"
 lang: de

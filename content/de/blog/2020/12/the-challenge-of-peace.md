@@ -3,6 +3,7 @@ title: "Die Herausforderung: Frieden"
 date: 2020-12-23
 draft: false
 tags: "Gesellschaft"
+geo: "Welt"
 shorttext: "Der Atomtod bedroht uns alle – Keine Atomraketen in Europa"
 cover: "society"
 lang: de
@@ -16,7 +17,7 @@ Der Krefelder Appell war so etwas wie das Gründungsdokument und die einigende F
 
 Der Krefelder Appell trug sicher dazu bei, dass die Mehrheit in Deutschland bis heute "kriegsunwillig", ja pazifistisch eingestellt ist.
 
-Das ist die vielleicht größte Langzeitwirkung des Krefelder Appells und der Friedensaktionen der achtziger Jahre. Es gelang den Regierenden nicht, die deutsche Bevölkerung "kriegsreif zu schießen", d.h. immer noch lehnt ein Großteil der Bevölkerung [1] trotz massiver ideologischer Kampagnen, Lügen und Hetze Krieg als Mittel der Politik und Aufrüstung ab.
+Das ist die vielleicht größte Langzeitwirkung des Krefelder Appells und der Friedensaktionen der achtziger Jahre. Es gelang den Regierenden nicht, die deutsche Bevölkerung "kriegsreif zu schießen", d.h. immer noch lehnt ein Großteil der Bevölkerung trotz massiver ideologischer Kampagnen, Lügen und Hetze Krieg als Mittel der Politik und Aufrüstung ab.
 
 Die Kampagne um den Krefelder Appell zeigt, Erfolge sind möglich, Veränderungen können durch den langen Atem der Aktionen der Friedensbewegung erreicht werden.
 
@@ -26,7 +27,7 @@ Auch wenn sich die weltpolitische Situation nach dem Ende der Blockkonfrontation
 
 Die Gefahr eines die Menschheit und den Planeten Erde vernichtenden Atomkrieges ist aktueller denn je, so auch die Meinung vieler Nobelpreisträger, die die Doomsdale clock (Atomuhr) auf 100 Sekunden vor 12 Uhr vorstellten. Sie wollen damit verdeutlichen, dass die Atomkriegsgefahr noch nie so groß war, besonders angesichts der neuen punktgenauen, schneller ihr Ziel erreichenden Atomwaffen, den Plänen zur regionalen Atomkriegsführung, der Gefahren eines Atomkrieges aus Versehen, der weiteren Verbreitung der Atomwaffen und der Terroristengefahren.
 
-Die Abwehr der humanitären Katastrophe durch einen Einsatz von schon wenigen Atomwaffen bleibt eine, wenn nicht die zentrale Herausforderung für die Friedensbewegungen weltweit – gerade jetzt nach dem großen Erfolg, dass der Atomwaffenverbotsvertrag in weniger als 90 Tagen juristisch in Kraft tritt. Dieser Vertrag bekommt aber sicher erst seine vollständige politische Wirkung, wenn es gelingt, die Atomwaffenstaaten, die sogenannten Länder unter dem US-Atomwaffenschirm wie Japan oder Südkorea bzw. Länder mit nuklearer Teilhabe wie Deutschland oder Italien und wichtige Schwellenländer (Argentinien, Brasilien, Philippinen), zur Unterzeichnung zu bewegen.[2]
+Die Abwehr der humanitären Katastrophe durch einen Einsatz von schon wenigen Atomwaffen bleibt eine, wenn nicht die zentrale Herausforderung für die Friedensbewegungen weltweit – gerade jetzt nach dem großen Erfolg, dass der Atomwaffenverbotsvertrag in weniger als 90 Tagen juristisch in Kraft tritt. Dieser Vertrag bekommt aber sicher erst seine vollständige politische Wirkung, wenn es gelingt, die Atomwaffenstaaten, die sogenannten Länder unter dem US-Atomwaffenschirm wie Japan oder Südkorea bzw. Länder mit nuklearer Teilhabe wie Deutschland oder Italien und wichtige Schwellenländer (Argentinien, Brasilien, Philippinen), zur Unterzeichnung zu bewegen.
 
 Heute sollen die Deutschen im Zuge einer konfrontativen Neujustierung der deutschen Außen- und Sicherheitspolitik gegenüber China und Russland wieder an aggressive Konfrontation und Kriegsführung gewöhnt werden. Neue Propagandamuster erneuern den historischen Antikommunismus durch eine neue Russlandhetze und diese werden ergänzt durch neue Feindbildkonstruktionen, genannt seien nur die Stichworte "Terrorismus" und "Islam". Innenpolitische Feindbilder zur Absicherung eines autoritären Führungsstaates kommen hinzu. Da ist es angebracht, sich zu erinnern, dass die Friedensbewegung – damals wie heute – die Demokratie wie die Luft zum Atmen braucht und diese auch immer wieder erstreiten muss.
 

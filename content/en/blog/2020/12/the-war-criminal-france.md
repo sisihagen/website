@@ -3,6 +3,7 @@ title: "The War Criminal France"
 date: 2020-12-01
 draft: false
 tags: "State"
+geo: "Europe"
 shorttext: "Warplanes serviced by French companies are said to have been involved in war crimes in Libya."
 cover: "repression"
 lang: en

@@ -3,6 +3,7 @@ title: "Wir wollen Überwachung"
 date: 2020-12-18
 draft: false
 tags: "Gesellschaft"
+geo: "Asien"
 shorttext: "Da wird China beleidigt und in dunklen Kämmerchen wird die Überwachung kopiert. Es lebe der westliche Heuchler!"
 cover: "society"
 lang: de

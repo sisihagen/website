@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "FreeBSD",
+    "href": "https://www.freebsd.org",
+    "title": "The FreeBSD Project",
+    "class": "brands-freebsd"
+  },
+  {
+    "id":    "2",
+    "name":  "Nginx",
+    "href":  "http://www.nginx.org",
+    "title": "Nginx Webserver",
+    "class": "brands-nginx"
+  },
+  {
+    "id":    "3",
+    "name":  "Hugo",
+    "href":  "http://www.gohugo.io",
+    "title": "The world’s fastest framework for building websites",
+    "class": "brands-hugo"
+  },
+  {
+    "id": "4",
+    "name": "Hetzner",
+    "href": "https://hetzner.de",
+    "title": "Profi Webhosting, VPS &amp; Dedicated Root Server - Hetzner Online GmbH",
+    "class": "brands-hetzner"
+  }
+]

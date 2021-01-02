@@ -3,6 +3,7 @@ title: "Wie Mensch Ressource wird"
 date: 2020-12-02
 draft: false
 tags: "Gesellschaft"
+geo: "Welt"
 shorttext: "Die Grenzen im Kapitalismus waren einmal definiert, heute verschwinden Sie weiter und alles übergeht in einen Fluss."
 cover: "society"
 lang: de

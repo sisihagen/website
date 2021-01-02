@@ -3,6 +3,7 @@ title: "Digital ist Überwachung"
 date: 2020-11-23
 draft: false
 tags: "Gesellschaft"
+geo: "Welt"
 shorttext: "Tech-Giganten arbeiten an der Digitalisierung, digitale Fussabdrücke, bargeldlos und der digitale Ausweiss. Nützen tut es dem Schnüffelstaat."
 cover: "society"
 lang: de

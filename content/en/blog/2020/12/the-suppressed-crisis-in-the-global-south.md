@@ -3,6 +3,7 @@ title: "The suppressed crisis in the global south"
 date: 2020-12-08
 draft: false
 tags: "Society"
+geo: "Africa"
 shorttext: "Covid shows once again how the minorities West are the ones who complain while the rest are fighting for their own existence without votes."
 cover: "society"
 lang: en

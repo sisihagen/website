@@ -3,6 +3,7 @@ title: "USA and ideology"
 date: 2020-12-15
 draft: false
 tags: "State"
+geo: "North America"
 shorttext: "Cubans in exile can no longer send home the money they have earned abroad. Trump has tightened the Cuba sanctions again."
 cover: "repression"
 lang: en

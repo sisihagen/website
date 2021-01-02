@@ -3,6 +3,7 @@ title: "Yemen is ignored"
 date: 2020-12-16
 draft: false
 tags: "State"
+geo: "Asia"
 shorttext: "According to the UN, the worst humanitarian catastrophe in the world is raging in Yemen, but there is no bashing, err report, in the Tagesschau and BILD."
 cover: "repression"
 lang: en

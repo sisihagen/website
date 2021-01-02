@@ -3,6 +3,7 @@ title: "Konzerne lügen"
 date: 2020-12-04
 draft: false
 tags: "Gesellschaft"
+geo: "Welt"
 shorttext: "Argumente gegen die Konzernverantwortungsinitiative sind haltlos, stellt eine soeben publizierte Rechtsschrift fest."
 cover: "society"
 lang: de

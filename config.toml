@@ -9,6 +9,7 @@ enableGitInfo = true
 
 [taxonomies]
     tag = "tags"
+    geo = "geo"
 
 [markup]
   defaultMarkdownHandler = "goldmark"

@@ -1,8 +1,9 @@
 ---
-title: "The values u200bu200bof hypocrisy"
+title: "The values of hypocrisy"
 date: 2020-12-14
 draft: false
 tags: "Society"
+geo: "Asia"
 shorttext: "The West likes to uphold human rights and democracy when it comes to discrediting rival states."
 cover: "society"
 lang: en

@@ -3,6 +3,7 @@ title: "The West First"
 date: 2020-12-24
 draft: false
 tags: "Staat"
+geo: "Welt"
 shorttext: "Die reichen Länder kaufen schon jetzt die westliche Covid-19-Impfstoff-Produktion zusammen – zum Nachteil der armen Länder."
 cover: "repression"
 lang: de

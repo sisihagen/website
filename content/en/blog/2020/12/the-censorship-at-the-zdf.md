@@ -3,6 +3,7 @@ title: "The censorship at ZDF"
 date: 2020-12-21
 draft: false
 tags: "Media"
+geo: "Europe"
 shorttext: "Lanz had Linnemann visiting who apparently told the truth once in his life as a politician and ZDF cut it out."
 cover: "media"
 lang: en

@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
-# read in variables
+# variables
 source ./bin/variables.sh
+
+# function
+source ./bin/function.sh
 
 case "$1" in
   git)
@@ -37,9 +40,6 @@ case "$1" in
     ./bin/images.sh &
     ./bin/js.sh &
     wait
-
-    # mirror
-    ./bin/mirror.sh
 
     # deploying
     ./bin/deploy.sh

@@ -3,6 +3,7 @@ title: "Putin in der Jahreskonferenz"
 date: 2020-12-21
 draft: false
 tags: "Staat"
+geo: "Europa"
 shorttext: "Die jährliche Jahrespressekonferenz von Putin hat wie immer andere Meldungen an sich als uns die deutschen Medien gerne eintrichtern wollen."
 cover: "repression"
 lang: de

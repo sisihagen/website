@@ -3,6 +3,7 @@ title: "Who is king of fake news"
 date: 2020-12-07
 draft: false
 tags: "Media"
+geo: "Europe"
 shorttext: "Russia is waging a hybrid war against the West, so an often heard accusation. And how hybrid is the West shooting?"
 cover: "media"
 lang: en

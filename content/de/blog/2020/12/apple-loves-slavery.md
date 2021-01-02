@@ -3,6 +3,7 @@ title: "Apple liebt die Sklaverei"
 date: 2020-12-03
 draft: false
 tags: "Gesellschaft"
+geo: "Asien"
 shorttext: "US-Unternehmen sollen für den Einsatz uigurischer Zwangsarbeit bestraft werden. Konzerne wollen aber keine Verantwortung tragen."
 cover: "society"
 lang: de

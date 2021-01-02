@@ -3,6 +3,7 @@ title: "Die Droge Terror"
 date: 2020-12-17
 draft: false
 tags: "Staat"
+geo: "Welt"
 shorttext: "Die Reaktionen auf die Terrorangriffe in Lugano und Morges zeigen, wie gedopt unsere Herzen und Hirne seit 9/11 sind."
 cover: "repression"
 lang: de

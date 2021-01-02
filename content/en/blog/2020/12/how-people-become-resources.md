@@ -3,6 +3,7 @@ title: "How human beings become a resource"
 date: 2020-12-02
 draft: false
 tags: "Society"
+geo: "World"
 shorttext: "The boundaries of capitalism were once defined, today you continue to disappear and everything goes into a river."
 cover: "society"
 lang: en

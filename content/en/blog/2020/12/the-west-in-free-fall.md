@@ -3,6 +3,7 @@ title: "The west in free fall"
 date: 2020-12-22
 draft: false
 tags: "State"
+geo: "World"
 shorttext: "The western model of the hypocrisy of democracy and freedom no longer manages to fool people so that it remains believable."
 cover: "repression"
 lang: en

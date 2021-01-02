@@ -3,6 +3,7 @@ title: "Der Killer als Opfer"
 date: 2020-11-01
 draft: false
 tags: "Medien"
+geo: "Asien"
 shorttext: "Wochenlang schauen die deutschen Medien weg und als der Krig um Berg-Karabach aktuell werden die Söldner bemitleidet."
 cover: "media"
 lang: de

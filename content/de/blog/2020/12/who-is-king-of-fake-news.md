@@ -3,6 +3,7 @@ title: "Wer ist König der Fake News"
 date: 2020-12-07
 draft: false
 tags: "Medien"
+geo: "Europa"
 shorttext: "Russland führe einen hybriden Krieg gegen den Westen, so ein oft gehörter Vorwurf. Und wie hybrid schiesst der Westen?"
 cover: "media"
 lang: de

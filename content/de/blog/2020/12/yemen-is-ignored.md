@@ -3,6 +3,7 @@ title: "Jemen wird ignoriert"
 date: 2020-12-16
 draft: false
 tags: "Staat"
+geo: "Asien"
 shorttext: "Im Jemen wütet die laut UN schlimmste humanitäre Katastrophe der Welt, in der Tagesschau und BILD findet sich aber kein Bashing, äh Bericht."
 cover: "repression"
 lang: de

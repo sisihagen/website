@@ -3,6 +3,7 @@ title: "The drug terror"
 date: 2020-12-17
 draft: false
 tags: "State"
+geo: "World"
 shorttext: "The reactions to the terrorist attacks in Lugano and Morges show how doped our hearts and brains have been since 9-11."
 cover: "repression"
 lang: en

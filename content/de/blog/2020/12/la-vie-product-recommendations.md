@@ -3,6 +3,7 @@ title: "La vie Produktempfehlungen"
 date: 2020-12-21
 draft: false
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Zwielichtige Figuren manipulieren Bewertungen von Internet-Angeboten. Wie das geht, legt eine ZDF-Recherche detailliert offen."
 cover: "society"
 lang: de

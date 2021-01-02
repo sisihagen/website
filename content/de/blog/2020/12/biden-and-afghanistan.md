@@ -3,6 +3,7 @@ title: "Biden und Afghanistan"
 date: 2020-12-02
 draft: false
 tags: "Staat"
+geo: "Asien"
 shorttext: "Der Krieg in Afghanistan sollte beendet werden. Aber das Gegenteil wird passieren. Die Trump Show wird Biden nicht durchziehen."
 cover: "repression"
 lang: de

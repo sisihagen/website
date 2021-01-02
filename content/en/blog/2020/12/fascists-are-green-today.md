@@ -3,6 +3,7 @@ title: "Fascists are green today"
 date: 2020-12-09
 draft: false
 tags: "Society"
+geo: "Europe"
 shorttext: "The Greens are thinking about a robust war and then want to sell us these would be for environmental protection. How low can IQ be?"
 cover: "society"
 lang: en

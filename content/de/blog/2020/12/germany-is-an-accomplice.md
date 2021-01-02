@@ -1,0 +1,32 @@
+---
+title: "Deutschland ist Mittäter"
+date: 2020-12-07
+draft: false
+tags: "Gesellschaft"
+geo: "Europa"
+shorttext: "Das Bundesverwaltungsgericht hat entschieden: Deutschland darf das morden durch Drohnen weiterhin unterstützen. Deutschland, nicht die Regierung!"
+cover: "society"
+lang: de
+---
+
+Das Bundesverwaltungsgericht hat in der vergangenen Woche entschieden: Die Bundesregierung muss nichts gegen die Rolle Ramsteins im illegalen US-Drohnenkrieg unternehmen. Zugegeben, das hätte sie wahrscheinlich sowieso nicht getan. Doch das Gerichtsurteil beweist das so Laufburschen der USA wie Röttgen nicht auf andere zeigen sollten. Sei du selbst die Veränderung, die du in der Welt sehen willst.
+
+Faisal bin Ali Jaber ist ein Name, den man in Deutschland kennen sollte. Gemeinsam mit zwei weiteren Landsmännern hat der 62-jährige Jemenite 2015 die Bundesregierung verklagt. Der Grund: Sein Schwager und sein Neffe wurden im August 2012 durch einen US-Drohnenangriff [getötet](http://www.ag-friedensforschung.de/regionen/Jemen1/gericht.html "Des Mordes schuldig") und im Nachhinein als "Terroristen" abgestempelt. Schauplatz des Geschehens war das Dorf Khashamir im Osten Jemens, wo kurz nach der Hochzeitsfeier von bin Ali Jabers Sohn US-Drohnen mindestens fünf Raketen abfeuerten. Nachdem bin Ali Jaber und die anderen Dorfbewohner den Tatort erreichten, konnte nur noch eingesammelt werden, was von den Opfer übrig blieb.
+
+"Ich erwarte und erhoffe mir, dass die deutsche Bevölkerung mit uns fühlt. Ich kann mir nicht vorstellen, dass die Deutschen die Rolle von Ramstein im US-Drohnenprogramm gutheißen. Ich appelliere an die Bundesregierung, dafür zu sorgen, dass Ramstein nicht für illegale Tötungen wie bei US-Drohnenprogrammen benutzt wird", so bin Ali Jaber.
+
+Dass weite Teile der deutschen Bevölkerung mitfühlen würden, sofern sie über das Geschehen informiert wären, liegt im Bereich des Möglichen. Dass die politischen Eliten in Berlin sich ihrer Verantwortung – oder um es deutlicher zu sagen: ihrer Mittäterschaft – stellen, umso weniger. Nun erhielten sie hierfür auch noch Schützenhilfe von Seiten des Bundesverwaltungsgerichts in Leipzig, das die Klage der Jemeniten abwies und der Öffentlichkeit mehr oder weniger zu verstehen gab: Deutschland muss den USA in Sachen Drohnenkrieg nichts untersagen. Die Einhaltung des Völkerrechts ist uns schnuppe. Stattdessen demontieren wir weiterhin jene Rechtsstaatlichkeit, auf die wir angeblich so stolz sind.
+
+Und außerdem: Natürlich sind wir derart modern, humanistisch und fortgeschritten, dass wir gegen die Todesstrafe sind. Dies betrifft allerdings nicht den extralegalen, auf Verdacht beruhenden Drohnenmord, der sich regelmäßig in der jemenitischen Wüste, in den afghanischen Bergen und anderswo abspielt.
+
+Dabei hatte noch im vergangenen Jahr das Oberverwaltungsgericht in Münster zu Gunsten der Drohnenopfer entschieden. Damals hieß es, dass die Bundesregierung prüfen müsse, ob von Ramstein ausgehend das [Völkerrecht](https://www.tagesschau.de/ausland/drohnen-ramstein-101.html "Kein Eingreifen im US-Drohnenkrieg") verletzt werde. Außerdem habe Deutschland eine Schutzpflicht gegenüber jenen Menschen, die den Angriffen zum Opfer werden könnten. Der Bundesregierung gefiel das Urteil nicht. Sie legte Revision ein – und war nun damit erfolgreich.
+
+Dass alle bestehenden (und frei zugänglichen!) Fakten zur Rolle Ramsteins oder zum Drohnenkrieg im Allgemeinen diesmal von einer derart angesehenen und wichtigen Institution unter den Teppich gekehrt werden, ist tatsächlich ein Skandal, der seinesgleichen sucht – und dank Corona, Biden-Sieg und Co. dennoch unbeachtet bleiben wird.
+
+Umso wichtiger scheint es zu sein, einige Dinge in diesem Kontext zu wiederholen.
+
+  1. Der amerikanische Drohnenkrieg ist nicht pausiert, sondern läuft weiter. De facto wird er sogar ausgeweitet. Kurz vor den US-Präsidentschaftswahlen wurde bekannt, dass Trump [bewaffnete Drohnen](https://www.nytimes.com/2020/09/15/us/politics/shabab-drone-authorities-kenya.html "U.S. Military Seeks Authority to Expand Counterterrorism Drone War to Kenya") nach Kenia schicken will. Als Grund muss abermals die "Terrorismusbekämpfung" herhalten. In Somalia, das seit Jahren von US-Drohnen bombardiert wird, sieht man regelmäßig die Folgen dieses brutalen Tötungsprogramms. Zivilisten werden regelmäßig getötet. Der Drohnenkrieg auf dem afrikanischen Kontinent ist ein weiteres dunkles Kapitel der US-Außenpolitik, das Deutschland direkt betrifft. Immerhin befindet sich die Zentrale des Afrikakommandos des Pentagons (AFRICOM) in Stuttgart. Dort wird jede Militäroperation in Afrika, inklusive Drohnenangriffe, koordiniert.
+
+  2. Das Herzstück ebenjenen Drohnenkrieges liegt allerdings weiterhin in der Pfalz. Whistleblower, die einst selber Jagd auf Menschen gemacht haben und später aus dem Drohnenprogramm ausgestiegen sind, wiederholen regelmäßig, dass ohne die Luftwaffenbasis in Ramstein wortwörtlich nichts laufen würde. Der Grund hierfür ist eine Satellitenrelais-Station, die für die Kommunikation mit den unbemannten Fluggeräten notwendig ist. Ohne diese würde keine einzige Drohnenoperation funktionieren, da die Daten (hier geht es in erster Linie um die Videoaufnahmen aus der Luft) die Pilotenteams in den USA viel zu spät erreichen würden.
+
+Kurz gesagt: Ohne Deutschland wäre der Drohnenkrieg Washingtons nicht möglich. In einem klassischen Kriminalfall wäre der Sachverhalt deshalb eindeutig: Die USA sind Täter, Deutschland ist Mittäter. Die amerikanischen Tötungswaffen würden ohne deutsche Hilfe nicht funktionieren. Doch im bestehenden Kontext wird dieser Umstand nicht im Geringsten eingesehen. Die Bundesregierung wollte bereits während der Amtszeit Obamas nach dem Bekanntwerden der Fakten nicht auf Journalisten, Whistleblower, Juristen und andere Experten hören, sondern dem Wort Washingtons blind Vertrauen schenken. Warum? Zum Einen, weil es die Sache einfacher machte. Aus den Augen, aus dem Sinn – solange, bis sich niemand mehr darum kümmert. Zum Anderen spielt natürlich auch die Hierarchie eine Rolle. Der neokonservative US-Historiker Robert Kagan verglich die USA und Europa einst mit den römischen Gottheiten Mars und Venus, die für Krieg und Liebe standen. Letztere könne ohne Ersteren nicht überleben. Diese Hierarchie wurde nicht aufgelöst, sondern besteht weiterhin – und Deutschland ist ein wichtiger Teil davon. Dass hierfür Menschenrechte und Rechtsstaatlichkeit dran glauben müssen, ist weniger von Bedeutung. Die Büchse der Pandora wurde schon längst geöffnet.

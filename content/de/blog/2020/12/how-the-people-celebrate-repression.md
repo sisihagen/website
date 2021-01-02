@@ -3,6 +3,7 @@ title: "Wie das Volk die Repression feiert"
 date: 2020-12-14
 draft: false
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Merkel hält eine Rede, hat vorher an der Zwiebel geschnüffelt und in sozialen Netzwerken wird die Heldin der Repression gefeiert. La vie Heuchler!"
 cover: "society"
 lang: de

@@ -3,6 +3,7 @@ title: "Corporations lie"
 date: 2020-12-04
 draft: false
 tags: "Society"
+geo: "World"
 shorttext: "Arguments against the Group Responsibility Initiative are baseless, a recently published legal document states."
 cover: "society"
 lang: en

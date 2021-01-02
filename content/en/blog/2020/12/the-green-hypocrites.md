@@ -3,6 +3,7 @@ title: "The green hypocrites"
 date: 2020-12-03
 draft: false
 tags: "Society"
+geo: "Europe"
 shorttext: "The Greens held their propaganda conference. The draft is similar to that of an environmental terrorist and fascist."
 cover: "society"
 lang: en

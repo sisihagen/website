@@ -3,6 +3,7 @@ title: "Der Nato Faschismus"
 date: 2020-12-25
 draft: false
 tags: "Staat"
+geo: "Welt"
 shorttext: "Die NATO misst für ihre Meinungsmache mit zweierlei Maß, um die Bevölkerung näher an den nuklearen Untergang heranzuführen!"
 cover: "repression"
 lang: de

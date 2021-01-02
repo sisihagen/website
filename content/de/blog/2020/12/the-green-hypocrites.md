@@ -3,6 +3,7 @@ title: "Die grünen Heuchler"
 date: 2020-12-03
 draft: false
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Die Grünen haben Ihre Propagandakonferenz abgehalten. Der Entwurf entspricht denen eines Umweltterroristen und Faschisten."
 cover: "society"
 lang: de

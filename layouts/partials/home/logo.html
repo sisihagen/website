@@ -10,7 +10,7 @@
   {{ end }}
 
   {{ if eq $.Site.Language.LanguageName "English" }}
-    {{ range $.Page.Site.Data.brands_home }}
+    {{ range $.Page.Site.Data.brands_vultr }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
           <span class="{{ .class }}"></span>
         </a>
@@ -18,7 +18,7 @@
   {{ end }}
 
   {{ if eq $.Site.Language.LanguageName "Français" }}
-    {{ range $.Page.Site.Data.brands_home }}
+    {{ range $.Page.Site.Data.brands_vultr }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
           <span class="{{ .class }}"></span>
         </a>
@@ -26,7 +26,7 @@
   {{ end }}
 
   {{ if eq $.Site.Language.LanguageName "Deutsch" }}
-    {{ range $.Page.Site.Data.brands_home }}
+    {{ range $.Page.Site.Data.brands_hetzner }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
           <span class="{{ .class }}"></span>
         </a>

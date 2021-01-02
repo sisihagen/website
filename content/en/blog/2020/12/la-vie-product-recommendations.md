@@ -3,6 +3,7 @@ title: "La vie product recommendations"
 date: 2020-12-21
 draft: false
 tags: "Society"
+geo: "Europe"
 shorttext: "Shady characters manipulate ratings of Internet offers. A ZDF research reveals how this works in detail."
 cover: "society"
 lang: en
