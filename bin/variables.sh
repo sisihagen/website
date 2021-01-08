@@ -86,4 +86,4 @@ content_dir="./content/$lang/blog/$year/$month"
 file="$content_dir/$title.md"
 
 # sprites
-glueopt="-s $lstatic/img/brands -o $lstatic/img/content --scss $lstatic/scss/_module/brands.scss -p 20"
+glueopt="--algorithm vertical --namespace= -s $lstatic/img/brands -o $lstatic/img/content --scss -p 20"

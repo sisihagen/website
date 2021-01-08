@@ -2,7 +2,7 @@
 title: "NSA, Feind oder Freund"
 date: 2014-07-14
 tags: "Staat"
-keywords: "Snowden, NSA, BND, Stasi, MfS, Überwachung, Spionage, Verbrechen, Terrorismus"
+geo: "Nordamerika"
 shorttext: "Ist es nicht schön. Die Stasi hat spioniert und gefoltert und waren das böse. Die USA und deren Geheimdienste machen das gleiche, sind aber Freunde...."
 cover: "repression"
 draft: false

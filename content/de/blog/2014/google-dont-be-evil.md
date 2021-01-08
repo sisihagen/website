@@ -2,6 +2,7 @@
 title: "Google, dont be evil"
 date: 2014-06-27
 tags: "Medien"
+geo: "Nordamerika"
 shorttext: "Paranoide und unfähige Medien die das Internet seit der Entstehung als Feind sehen haben eine neue Verschwörung aufgedeckt. Google will Macht...."
 cover: "media"
 draft: false

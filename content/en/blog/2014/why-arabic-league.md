@@ -2,6 +2,7 @@
 title: "Why Arab League?"
 date: 2014-07-29
 tags: "society"
+geo: "Asia"
 shorttext: "Why the Arab states were not working together? Is it arrogance? Egoism? Stupidity? Blindness? Together we would be stronger."
 cover: "society"
 lang: en

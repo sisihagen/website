@@ -2,7 +2,6 @@
 title: "The Walking Dead"
 date: 2013-03-17
 tags: "Medien"
-keywords: "The Walking Dead, Serie, Zombie, USA, Medien, Fernsehen, Stream"
 shorttext: "The Walking Dead, gut angefangen und typisch amerikanisch fällt den Machern nichts anderes ein als eigenen Böse denken zu verbreiten..."
 cover: "media"
 draft: false

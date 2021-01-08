@@ -2,7 +2,7 @@
 title: "TTIP"
 date: 2016-03-09
 tags: "state"
-keywords: "TTIP, Europe, USA, Trade, Borders, Refugees, Social, War, Crisis, Tax, Company, Shareholder, Movement, Iraq, Russia, Ukraine"
+geo: "Europe"
 shorttext: "TTIP is on everyone's lips. Especially in Germany argue over actual problems. Instead of focusing on the name secret is discussed."
 cover: "repression"
 lang: en

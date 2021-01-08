@@ -2,7 +2,6 @@
 title: "Brother MFC-7320 und Gentoo"
 date: 2013-09-21
 tags: "Computer"
-keywords: "Gentoo, Brother, Multifunktionsgerät, Fax, Gentoo, Linux, Cups"
 shorttext: "Ich möchte euch kurz beschreiben wie ich den Brother MFC-7320 unter Gentoo installiert habe. Mit den entsprechenden Druckertreibern ist das einfacher als man denkt. "
 cover: "computer"
 draft: false

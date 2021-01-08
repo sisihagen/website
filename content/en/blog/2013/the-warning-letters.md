@@ -2,6 +2,7 @@
 title: "The warning letters"
 date: 2013-12-16
 tags: "media"
+geo: "Europe"
 shorttext: "Money seems better than sex. Is money better than sex? The lawyer find every day new way for money and let the woman wait ..."
 cover: "media"
 lang: en

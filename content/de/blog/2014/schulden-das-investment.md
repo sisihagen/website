@@ -2,7 +2,7 @@
 title: "Schulden, das Investment"
 date: 2014-02-14
 tags: "Gesellschaft"
-keywords: "Schulden, Vollstreckung, Inkassounternehmen, Inkasso, Mahnbescheid"
+geo: "Europa"
 shorttext: "Schulden dienen dem raffgierigen Pack um Zinsen zu generieren. Sie brauchen sich also keine Sorge machen falls Sie Schulden haben ..."
 cover: "society"
 draft: false

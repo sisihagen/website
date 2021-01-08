@@ -2,6 +2,7 @@
 title: Politische Blindheit
 date: 2014-08-03
 tags: "Staat"
+geo: "Europa"
 shorttext: "Die politische Blindheit wurde DDR Politiker vorgeworfen. Wie sieht es mit den westlichen aus? Acta, Ceta, TTIP sind ja offen für Volkes Wünsche..."
 cover: "repression"
 draft: false

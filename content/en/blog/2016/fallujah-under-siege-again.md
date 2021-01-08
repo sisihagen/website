@@ -2,7 +2,7 @@
 title: "Fallujah under siege again"
 date: 2016-06-11
 tags: "state"
-keywords: "Iraq, war, USA, ISIS, Fallujah, blockade, foods, medicines, France, Guernica, Ramadis, Genocide"
+geo: "Asia"
 shorttext: "Fallujah is surrounded, without food and without medicine. People are sent to their deaths. The world say nothing."
 cover: "repression"
 lang: en

@@ -2,7 +2,7 @@
 title: "Russland, das furchtbare im Osten"
 date: 2014-07-09
 tags: "Gesellschaft"
-keywords: "Russland, Putin, Kommunismus, Sozialismus, Gefahr, Kalte Krieg, Krieg, Atom Krieg"
+geo: "Europa"
 shorttext: "Der Kalte Krieg, er kommt und nein wir haben nicht 1945. Der Machtkampf zwischen den neoliberalen kapitalistischen Verbrechern des westlichen Abendlandes..."
 cover: "society"
 draft: false

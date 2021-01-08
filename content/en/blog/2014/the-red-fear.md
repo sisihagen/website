@@ -2,6 +2,7 @@
 title: "The Red Fear"
 date: 2014-02-14
 tags: "society"
+geo: "Europe"
 shorttext: "Fear of the color red. Fear of everything what alternative could only begin the rulers could replace..."
 cover: "society"
 lang: en

@@ -2,6 +2,7 @@
 title: "Who is the terrorist"
 date: 2014-08-31
 tags: "state"
+geo: "North America"
 shorttext: "Who is a terrorist? How do we define terrorists? How many dead decide who is a terrorist? How do you define a terrorist attack?"
 cover: "repression"
 lang: en

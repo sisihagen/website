@@ -2,6 +2,7 @@
 title: "TTIP"
 date: 2016-03-08
 tags: "Staat"
+geo: "Europa"
 shorttext: "Wie die alle über TTIP wettern, das ist sicher vernünftig, aber woher kommt das Wissen wenn alles geheim ist?"
 cover: "repression"
 draft: false

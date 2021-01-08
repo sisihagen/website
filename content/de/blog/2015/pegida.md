@@ -2,7 +2,7 @@
 title: Pegida
 date: 2015-01-27
 tags: "Gesellschaft"
-keywords: "Pegida, Sachsen, Dresden, Ausländerhass, Rassismus, Nazis, Deutschland, Flüchtlinge"
+geo: "Europa"
 shorttext: "Pegida folgt Forderungen die man sich einmal näher anschauen sollte. Die westliche Gesellschaft benötigt Schubladen, wo passt Pegida hin?"
 cover: "society"
 draft: false

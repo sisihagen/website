@@ -4,7 +4,6 @@ date: 2018-06-07T09:10:42+02:00
 tags: "Computer"
 draft: false
 shorttext: "Sublime Text und die translate-shell zur Übersetzung gemeinsam nutzen."
-keywords: "Sublime Text, Übersetzung, Translate Shell, Bash, Linux, Python"
 cover: "computer"
 lang: de
 ---

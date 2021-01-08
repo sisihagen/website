@@ -3,9 +3,9 @@ nav {
 	padding: 1rem 0px;
 
 	@include breakpoint('m') {
-		text-align: right;
-		width: 80%;
-		padding: 3rem 0px;
+		text-align: right !important;
+		width: 80% !important;
+		padding: 3rem 0px !important;
 	}
 
 	.menu__active {
@@ -27,7 +27,7 @@ nav {
 
 		@include breakpoint('m') {
 			font-size: 2rem;
-			padding-right: 1.5rem;
+			padding-right: 1.5rem !important;
 		}
 	}
 }

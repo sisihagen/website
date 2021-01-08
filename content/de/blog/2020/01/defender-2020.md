@@ -2,6 +2,7 @@
 title: "Defender 2020"
 date: 2020-01-20
 tags: "Gesellschaft"
+geo: "Europa"
 shorttext: "Die USA üben den Krieg gegen Russland und der deutsche ist nicht nur so doof es zu bezahlen, nein er sieht zu wie er selbst vernichtet wird."
 draft: false
 lang: de

@@ -2,7 +2,6 @@
 title: "Acta"
 date: 2012-05-05
 tags: "Staat"
-keywords: "Acta, Medien, Verlage, Urheberrecht, Content, Adblock, Zensur, Kontrolle, Wirtschaft"
 shorttext: "Acta zeigt die westliche Demokratie und deren Korruption und Verbundenheit zur Wirtschaft und auf der anderen Seite haben wir das getretene Volk..."
 cover: "repression"
 draft: false

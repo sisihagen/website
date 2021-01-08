@@ -2,6 +2,7 @@
 title: "The Tor Network"
 date: 2012-12-01
 tags: "Computer"
+geo: "World"
 shorttext: "Tor is Bad. Tor is Crime. This is the voice of our press. But this imaging the incompetence of press..."
 cover: "computer"
 lang: en

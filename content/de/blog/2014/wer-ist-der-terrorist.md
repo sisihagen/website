@@ -2,7 +2,7 @@
 title: Wer ist der Terrorist?
 date: 2014-08-31
 tags: "Staat"
-keywords: "Terror, Islam, Nato, Krieg, Zerstörung, Verbrechen, Gewalt, Tod, Mord, Militär"
+geo: "Europa"
 shorttext: "Zeit für die Revolution. Man stellt sich einen Profi aus der Werbebranche an und mit den verkauft man die Revolution als das beste seit der Erfindung des Schnittbrotes."
 cover: "repression"
 draft: false

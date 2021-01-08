@@ -2,7 +2,7 @@
 title: "Science Fiction"
 date: 2016-02-17
 tags: "Medien"
-keywords: "Star Wars, Stargate Sg1, Stargate Atlantis, Stargate, Zombies, Laser, Raumschiffe"
+geo: "Welt"
 shorttext: "Ist euch schon aufgefallen das SCFI Filme immer nur Raumschiffe und Laser Waffen bieten, aber ansonsten wenig neues bieten? Es geht um Kriege, Zerstörung und Herrschaft."
 cover: "media"
 draft: false

@@ -1,0 +1,15 @@
+# humanstxt.org
+# The humans responsible & technology colophon
+
+# Team
+name: Silvio Siefke | Webmaster | https://twitter.com/SilvioSiefke
+
+# Thanks
+The World Wide Web
+
+# Technology
+https://www.w3.org/Style/CSS/specs.en.html
+https://www.w3.org/TR/html5-diff/
+https://modernizr.com/
+https://jquery.com/
+https://github.com/h5bp/server-configs-nginx

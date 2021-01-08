@@ -2,6 +2,7 @@
 title: "Comeback Regime Change in Venezuela"
 date: 2020-01-27
 tags: "Staat"
+geo: "Südamerika"
 shorttext: "Die Marionette Guaido hat sich mal wieder im Namen der USA gemeldet. Er will jetzt den TV Sender zur Wahrheit bewegen. Ernsthaft!"
 cover: "repression"
 draft: false
@@ -12,7 +13,7 @@ lang: de
 
 {{< tweet "1216529273496002561" >}}
 
-Das twitterte der selbsternannte Präsident Venezuelas und begründet das ganze mit der Behauptung "seit seiner Gründung wurde Telesur eingesetzt um die Destabilisierung der Region voranzutreiben, terroristische Gruppen zu unterstützen, die Demokratie anzugreifen, über Venezuela zu lügen und die Maduro-Diktatur zu verteidigen". 
+Das twitterte der selbsternannte Präsident Venezuelas und begründet das ganze mit der Behauptung "seit seiner Gründung wurde Telesur eingesetzt um die Destabilisierung der Region voranzutreiben, terroristische Gruppen zu unterstützen, die Demokratie anzugreifen, über Venezuela zu lügen und die Maduro-Diktatur zu verteidigen".
 
 {{< tweet "1216529267842076674" >}}
 
@@ -34,7 +35,7 @@ Ausschlaggebend für die Fortdauer Guaidós als Galionsfigur der US-Regime-Chang
 
 Die Androhung, den staatseigenen Sender Telesur zu "retten" beziehungsweise zu unterlaufen oder zu usurpieren, fügt sich daher exemplarisch in diese "Doppelherrschafts"-Taktik: dem Feind Wort und Führung streitig zu machen. Sie wird jedoch ergänzt und verschärft durch eine alte, dreiste, aber novellierte Verschwörungstheorie des State Department, wonach der Iran und die schiitische libanesische Regierungspartei Hezbollah mit ihren Milizen die [Sicherheit](https://www.aa.com.tr/en/americas/hezbollah-is-real-threat-in-south-america-pompeo/1709602 "Hezbollah is ‘real threat’ in South America: Pompeo") Lateinamerikas bedrohen.
 
-Die [Hezbollah-Fabulierung](https://www.newyorker.com/magazine/2002/10/14/in-the-party-of-god "IN THE PARTY OF GOD") wurde im Jahr 2002 von Jeffrey Goldberg in die Welt gesetzt und wird seitdem von allen Idioten der Welt übernommen und zur Ausschmückung des atlantischen Weltbildes als Wahrheit ausgeschmückt. 
+Die [Hezbollah-Fabulierung](https://www.newyorker.com/magazine/2002/10/14/in-the-party-of-god "IN THE PARTY OF GOD") wurde im Jahr 2002 von Jeffrey Goldberg in die Welt gesetzt und wird seitdem von allen Idioten der Welt übernommen und zur Ausschmückung des atlantischen Weltbildes als Wahrheit ausgeschmückt.
 
 Die schwere Anschuldigung, der Sender Telesur "unterstütze terroristische Gruppen (und) betreibe die Destabilisierung der Region", gehörte bisher nicht zum politischen und propagandistischen Menü Juan Guaidós. Es liegt indes sehr nahe, dass ihm die neue Kampfdevise von Pompeos State Dept. zu dem Preis eingepeitscht wurde, entweder er macht mit oder die USA sorgen für die komplette Aufdeckung des Korruptionsskandals um die millionenschwere Entwendung von Teilen ihrer Finanzierung, die Guaidós "Botschafter" in Kolumbien, Calderón Berti, Ende 2019 [enthüllt](https://mundo.sputniknews.com/america-latina/201912031089517311-las-denuncias-de-corrupcion-hacen-tambalear-a-juan-guaido/ "Las denuncias de corrupción hacen tambalear a Juan Guaidó") hatte und der daraufhin im Handumdrehen entlassen wurde.
 

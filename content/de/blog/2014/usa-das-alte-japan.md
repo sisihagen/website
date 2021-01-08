@@ -2,7 +2,7 @@
 title: "USA, das alte böse Japan"
 date: 2014-06-19
 tags: "Staat"
-keywords: "USA, Feind, Japan, Hitler, Islam, Zerstörung, Atom Bombe"
+geo: "Nordamerika"
 shorttext: "Die USA ist eine Kamikaze Nation, ebenso wie das kaiserliche Japan vor den Krieg. Die USA können mit den dritten Reich verglichen werden."
 cover: "repression"
 draft: false

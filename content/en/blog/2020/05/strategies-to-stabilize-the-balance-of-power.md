@@ -76,7 +76,6 @@ The Upstream Collection program enables permanent data collection directly from 
 
 The TURBULENCE contains 2 important tools:
 
-  - TURMOIL operates the "passive data collection" by collecting copies of the data passing through and in its guardian function it examines the metadata to see if it contains something that appears "check value" up to certain keywords. If the data is classified as suspicious, TURMOIL forwards the internet traffic to the
 
   - TURBINE, this tool passes the request to the servers of the NSA. There it is decided with the help of algorithms which malicious programs of the NSA are used against the Person. The decision is justified by the type of Website requested or by the computer's Software and the type of internet connection. The selected malware is then sent back to the TURBINE. This leads the malicious program back into the channel of internet traffic and delivers it to the Inquirer free home together with the desired Website. The entire process takes less than 680 milliseconds without the user noticing anything. From this period, the entire digital life of the user belongs to the Secret Service.
 

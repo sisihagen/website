@@ -2,7 +2,6 @@
 title: "Gentoo Binary Packages"
 date: 2014-02-04
 tags: "Computer"
-keywords: "Gentoo, Binary, Packages, tbz2"
 shorttext: "Ich stelle euch meinen Binary Packages Server zur Verfügung, gerade für schwächere Computer könnte es hilfreich sein."
 cover: "computer"
 draft: false

@@ -19,7 +19,6 @@ The EU East StratCom Task Force is happy. Last week, as she announced in her Nov
 
 {{< image srcwebp="/static/img/content/2020/300.webp" srcalt="/static/img/content/2020/300.jpg" title="Who is king of Fake News" >}}
 
-Number of disinformation: 69. The five most affected issues: US, Ukraine, EU, Germany, Moldova. The five main keywords: war in Ukraine, US elections, Joe Biden, Donald Trump, conspiracy theories. The five most used languages: Russian, English, Arabic, Spanish, French. (Graphic StratCom)
 
 The Washington Post has counted more than 20,000 lies by President Donald Trump by October 2020, an average of just over 100 a week. Of course, "StratCom" knows nothing about this, because that would slightly put into perspective the 69 "disinformation" of all Kremlin-friendly media in Europe and the Middle East counted in one week ...
 

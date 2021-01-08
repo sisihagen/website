@@ -117,6 +117,7 @@ case $1 in
         sed -i 's/geo: "Südamerika"/geo: "South America"/g' $files
         sed -i 's/geo: "Nordamerika"/geo: "North America"/g' $files
         sed -i 's/geo: "Australien"/geo: "Australia"/g' $files
+        sed -i 's/geo: "Welt"/geo: "World"/g' $files
 
         # set the right title
         sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :en )"'"/' $files
@@ -174,6 +175,7 @@ case $1 in
         sed -i 's/geo: "South America"/geo: "Amérique du Sud"/g' $files
         sed -i 's/geo: "North America"/geo: "Amérique du Nord"/g' $files
         sed -i 's/geo: "Australia"/geo: "Australie"/g' $files
+        sed -i 's/geo: "World"/geo: "Monde"/g' $files
 
         # set the right title
         sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :fr )"'"/' $files
@@ -231,6 +233,7 @@ case $1 in
         sed -i 's/geo: "South America"/geo: "Саут-Америка"/g' $files
         sed -i 's/geo: "North America"/geo: "Северная Америка"/g' $files
         sed -i 's/geo: "Australia"/geo: "Австралия"/g' $files
+        sed -i 's/geo: "World"/geo: "Мир"/g' $files
 
         # set the right title
         sed -E -i 's/(^title: ).*/\1"'"$(egrep 'title:' $files | sed 's/title: //g; s/"//g' | trans -brief :ru )"'"/' $files

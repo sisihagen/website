@@ -51,7 +51,6 @@ Porsche will open an electric car plant in summer 2019. Kretschmann can be photo
 
 And the minister of transport of this country? Winfried Hermann, The cyclist. That's good. He rides a bicycle with a helmet. This looks cute. But the security …
 
-The Security? If this cyclist were concerned about the safety of all, he would immediately leave the government, which does nothing against the greatest safety risk in the country: against S21. the keywords are: no operational safety in the ultra-dangerous leaning Station, Fire Protection in the underground station that cannot be provided, fire protection that never works in the crazy, in the crazy long tunnel tangle under Stuttgart.
 
 He needs to know, and he knows, that train or locomotive fires happen frighteningly often - on average every four days in Germany. Even trains that have been declared incombustible burn occasionally. For example, an ICE train on the high-speed line Cologne-Frankfurt, in Montabaur: the busy A3 had to be closed completely because of the smoke. This actually incombustible train burned for a day-outdoors! If such a train burns in the too narrow tunnels under Stuttgart, then the extinguishing takes five days, says the Stuttgart fire protection expert Joachim Keim. In addition: ratzfatz creates an absolutely deadly Cocktail, a mixture of mustard gas, phosgene, hydrocyanic acid. Travelers who suddenly become panic-stricken are without any chance of survival.
 

@@ -2,7 +2,7 @@
 title: Deutschland du Heuchler
 date: 2014-01-27
 tags: "Staat"
-keywords: "CDU, SPD, Große Koalition, Diktatur, Partei Diktatur, Merkel, Gabriel, Seehofer"
+geo: "Europa"
 shorttext: "Die große Koalition scheint die Arbeit aufzunehmen und vorher konnte man über die SPD lachen und man zieht die Lehren das Neuwahlen.."
 cover: "repression"
 draft: false

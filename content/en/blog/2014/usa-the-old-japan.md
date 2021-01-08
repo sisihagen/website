@@ -2,6 +2,7 @@
 title: "USA, the old Japan"
 date: 2014-06-19
 tags: state
+geo: "North America"
 shorttext: The United States, the terrorist cowards, until you kill the Indians, then the world came. The US is the evil Japanese. The Third Reich will be continued ...
 cover: "repression"
 lang: en

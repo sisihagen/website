@@ -2,7 +2,7 @@
 title: "Warum arabische Welt?"
 date: 2014-07-29
 tags: "Gesellschaft"
-keywords: "Arabische Welt, Arabische Halbinsel, Arabisch, Islam, Öl, Kultur, Menschen, Frieden"
+geo: "Asien"
 shorttext: "Es ist tragisch das arabische Staaten als Handler der westlichen Welt fungieren. Anstatt gemeinsam an einer arabischen Welt zu arbeiten zerstören Sie Kultur und Leben..."
 cover: "society"
 draft: false

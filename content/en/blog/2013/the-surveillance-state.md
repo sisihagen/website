@@ -2,6 +2,7 @@
 title: "The surveillance state"
 date: 2013-03-19
 tags: "society"
+geo: "World"
 shorttext: "Amazing how the alleged democracies forcing increasingly becoming a police state, and no one says anything."
 cover: "society"
 lang: en

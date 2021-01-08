@@ -2,7 +2,7 @@
 title: "Je suis Paris"
 date: 2015-12-01
 tags: "Gesellschaft"
-keywords: "Paris, Fussball, ISIS, IS, Hollande, Merkel, Gewalt, Krieg, Politik, Zerstörung, Fluchtursachen, Flucht, Arabisch, Arabische Halbinsel"
+geo: "Europa"
 shorttext: "Politische, polizeiliche und gesellschaftliche Reflexe erscheinen in Europa stets wenn etwas passiert. Die Polizei und Politik hat die Aufgabe uns zu schützen, aber warum arbeiten beide stets auf den Angriff zu?"
 cover: "society"
 draft: false

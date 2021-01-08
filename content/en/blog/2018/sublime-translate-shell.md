@@ -4,7 +4,6 @@ date: 2018-06-07T09:10:42+02:00
 tags: "Computer"
 draft: false
 shorttext: "Use sublime text and the translate shell for easy translation."
-keywords: "Sublime Text, Translation, Translate Shell, Bash, Linux, Python, ST"
 cover: "computer"
 lang: en
 ---

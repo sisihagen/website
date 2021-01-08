@@ -2,6 +2,7 @@
 title: "The Walking Dead"
 date: 2013-03-17
 tags: "media"
+geo: "World"
 shorttext: "The Walking Dead is a good idea but at end imaging again the stupid US Peoples which can nothing without enemy..."
 cover: "media"
 lang: en
