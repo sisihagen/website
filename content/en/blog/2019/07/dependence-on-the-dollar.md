@@ -2,6 +2,7 @@
 title: "Dependence on the dollar"
 date: 2019-07-15
 tags: "society"
+geo: "World"
 shorttext: "Western big banks are dependent on the clearing process and therefore submit to US policy. The euro does not make it."
 cover: society
 lang: en

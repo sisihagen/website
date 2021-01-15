@@ -2,9 +2,10 @@
 title: "The world is our"
 date: 2019-08-17
 tags: "state"
+geo: "Asia"
+draft: false
 shorttext: "Syria shows how the US is fighting by all means a peaceful new world order that would lead to its own loss of power."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -43,8 +44,10 @@ The prerequisite is to recognise the sovereignty and territorial integrity of th
 International law must be respected and, in the event of a dispute, violence must not be used or threatened. Territorial and border disputes should only be fought through negotiation and, in any case, peacefully. As a confidence-building measure, all sides should commit to military transparency. Meetings of regional and supra-regional defence ministers should take place, the establishment of hotlines, exchanges on upcoming manoeuvres and military overflights should be agreed. The permanent deployment of troops outside the Gulf region should be dispensed with. A "uniform dismantling of the armed forces on all sides" is sought.
 
 The Russian proposal is the complete opposite of what the US is currently performing in the Gulf and what EU states that do not agree are planning. Overall, however, the West and its allies in the region are seeking to increase its military presence. The will to engage in dialogue with Iran or syria is subject to conditions. The West's own economic and geostrategic interests are more important than taking into account the security and economic interests of all regional states.
+draft: false
 
 While the West is on a confrontational course, Russia is seeking ways of dialogue. Moscow does not hide its own geostrategic interests in the region. However, Moscow does not want to impose this militarily at the expense of the regional states, but rather to mark it politically in cooperation with the regional states. After successfully intervening in the Syrian war in 2015, Russia has expanded its standing in the Middle East. Today it is respected as a new regulatory power and the Russian diplomats discuss solutions with the respective actors. Just as everyone ends up losing in war, everyone can win in dialogue.
+draft: false
 
 #### The war in Syria may be long gone
 

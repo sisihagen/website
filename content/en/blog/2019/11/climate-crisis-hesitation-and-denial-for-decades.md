@@ -2,8 +2,9 @@
 title: "Climate crisis, hesitation and denial for decades"
 date: 2019-11-06
 tags: "Society"
-shorttext: "Industry and politics have been warned of the climate crisis for decades. You responded with ignorance and denial."
+geo: "World"
 draft: false
+shorttext: "Industry and politics have been warned of the climate crisis for decades. You responded with ignorance and denial."
 lang: en
 cover: "society"
 ---

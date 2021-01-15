@@ -2,9 +2,10 @@
 title: "The bridge without function"
 date: 2019-12-23
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "Ukrainian nationalists and the corresponding ideology prevent the peace in Ukraine and NATO terrorists ignite with."
 cover: "repression"
-draft: false
 lang: en
 ---
 

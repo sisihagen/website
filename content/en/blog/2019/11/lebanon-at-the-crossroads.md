@@ -2,10 +2,11 @@
 title: "Lebanon at the crossroads"
 date: 2019-11-28
 tags: "state"
+geo: "Asia"
+draft: false
 shorttext: "People in the Arab country are on the move that is still unclear where, making the situation dangerous."
 cover: "repression"
 lang: en
-draft: false
 ---
 
 For over a month, protests have been taking place in Lebanon with road

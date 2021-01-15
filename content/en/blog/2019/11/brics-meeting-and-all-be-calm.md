@@ -2,9 +2,10 @@
 title: "BRICS Meeting and all be calm"
 date: 2019-11-18
 tags: "Media"
+geo: "World"
+draft: false
 shorttext: "A meeting that is quite important internationally is not easily concealed by the German media. The Pseudo-activists in South America and HK are more important."
 cover: "media"
-draft: false
 lang: en
 ---
 

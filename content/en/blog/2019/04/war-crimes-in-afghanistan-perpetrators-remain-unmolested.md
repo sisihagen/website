@@ -2,6 +2,7 @@
 title: "War Crimes in Afghanistan: Perpetrators remain unmolested"
 date: 2019-04-16
 tags: "society"
+geo: "Asia"
 shorttext: "The International Criminal Court does not investigate Americans for crimes in Afghanistan. Civil rights activists are dismayed."
 cover: society
 lang: en

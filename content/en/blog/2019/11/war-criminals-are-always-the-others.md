@@ -2,8 +2,9 @@
 title: "War criminals are always the others"
 date: 2019-11-12
 tags: "Society"
-shorttext: "Since War on Terror began, the West has participated in numerous war crimes. It's never gonna happen."
+geo: "World"
 draft: false
+shorttext: "Since War on Terror began, the West has participated in numerous war crimes. It's never gonna happen."
 lang: en
 cover: "society"
 ---

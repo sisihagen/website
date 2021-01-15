@@ -2,8 +2,9 @@
 title: "The courage to be utopian"
 date: 2019-09-10
 tags: "society"
-shorttext: "Our ideas create reality — so, we imagine an ideal world!"
+geo: "World"
 draft: false
+shorttext: "Our ideas create reality — so, we imagine an ideal world!"
 lang: en
 cover: "society"
 ---

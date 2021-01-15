@@ -2,9 +2,10 @@
 title: "The injustice of Spain"
 date: 2019-10-21
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The Spanish judiciary is letting heads roll. Those who rebel against the state will be punished. This will further exacerbate the situation."
 cover: "repression"
-draft: false
 lang: en
 ---
 

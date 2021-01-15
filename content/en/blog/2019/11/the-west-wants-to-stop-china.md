@@ -2,9 +2,10 @@
 title: "The West wants to stop China"
 date: 2019-11-02
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "US economic war, EU ambivalence - how the West will stop the rise of China wil. In the end, competition will lose thinking as society shows."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -95,6 +96,7 @@ Strict cooperation criteria should therefore be developed and unwanted technolog
 China's rise, however, also gives the EU, and thus especially German capital, more room than the US. Like the EU, China is committed to a multipolar international order. In purely economic terms, the EU can stand up to the US and China. Your internal market, which has a volume of 19 trillion dollars, gives it in trade negotiations, competition policy and the setting of rules and standards enormous influence.
 
 > At the interface of economic policy on the one hand and foreign and security policy on the other, the EU lacks the Will and ability to act strategically. Their member governments are lacking ... in geopolitical Thinking. The EU itself has no military Power, and most of their members rely on the United States. In addition, the EU is increasingly only a consumer of modern digital technologies developed elsewhere. The result is that the EU is trapped between the US and China. It urgently needs to develop the kind of common goal and strategic ability that the French President, Emmanuel Macron, is currently almost the only one to stand for. (Legrain)
+draft: false
 
 He also laments that individual EU states are increasingly under Chinese influence in the absence of a mutually agreed (and not just serving German interests) China strategy of the EU. With bilateral agreements with EU countries and the meetings with Central and Eastern European countries in the "16+1"Format, China has created a political counterbalance to the ravages of the austerity policies implemented by Germany in Europe.
 
@@ -102,4 +104,3 @@ He also laments that individual EU states are increasingly under Chinese influen
 
 At present, Germany and France in particular are trying to build up intensified political and economic pressure against China. China is expected to meet Europe more in the upcoming negotiations on an EU-China Investment Protection Agreement. Since the EU has many times more direct investment in China than vice versa, China in the EU is at stake for the EU. Here, the EU expects further concessions, e.g. for investments in China's financial sector. The amendment of the German Foreign Trade Act at the end of 2018, which reduced the reporting requirement for non-EU investors to 10% and was negotiated in the media as "Lex China", creates further bargaining pressure on the Chinese side.
 
-The EU's draft for the Screening of investments by investors from non-EU countries is also directed against China. Long-term success could also be the EU Commission's offer to the US to forge a single transatlantic front for Standards and patents against China (Financial Times 26. 2019) and possibly also to include data protection. If a transatlantic agreement is reached, the EU could once again score as the setter of standards in future technologies. Finally, the French Initiative to rebuild EU relations with Russia is aimed at weakening China. Here, however, France will get lost, Russia doesn't think in Partner and competitor. Russia thinks only in partnership as Syria shows and also the many meetings with China and other Asian leaders.

@@ -2,8 +2,9 @@
 title: "German Imperialism"
 date: 2019-11-24
 tags: "Society"
-shorttext: "Do you want the total war? A question, the fascists were already. Today it is from the Leyen and Annegret Kramp-Karrenbauer who want the war."
+geo: "Europe"
 draft: false
+shorttext: "Do you want the total war? A question, the fascists were already. Today it is from the Leyen and Annegret Kramp-Karrenbauer who want the war."
 lang: en
 cover: "society"
 ---

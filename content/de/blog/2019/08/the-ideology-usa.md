@@ -2,6 +2,7 @@
 title: "Die Ideologie USA"
 date: 2019-08-18
 tags: "Staat"
+geo: "Nordamerika"
 shorttext: "Die USA legen sich mit der halben Welt an und behaupten noch immer, dass alle anderen falsch liegen."
 cover: "repression"
 draft: false

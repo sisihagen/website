@@ -2,9 +2,10 @@
 title: "The Iran War"
 date: 2019-09-08
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "With its economic war against Iran, the US is also indirectly attacking the EU and increasing its dependence."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -19,6 +20,7 @@ The Iran nuclear agreement, which was ultimately successfully negotiated, was an
 However, the US Neocons were neither fit for the slight global easing nor for the Iranian central state to remain unaffected as a strong regional power defying the US Middle East interests. Nor did the Neocons want to accept the fact that the US-skeptical forces in the EU are finding themselves on the rise of foreign policy independence and that the EU could eventually emerge from all its structural dependence on the US.
 
 The current nuclear shield, the energy-geopolitical dependence and the monetary-political agitation of the Western allies of the United States, makes the EU, despite its importance as the largest economy in the world, completely incapable of foreign policy action, even a world-political aerial number. The absolute weakness of this U.S. ally on the strength of the United States itself. If the three dependencies of the EU were gone, the concentrated global power of US supremacy would collapse as described in the following scenario.
+draft: false
 
 {{< youtube "cbiKAEM0rmI" >}}
 
@@ -45,8 +47,10 @@ For this their absolute supremacy, the US needs the gigantic military and securi
 The brief assessment of the role of the United States in the world is the result of extensive and long - term research into global energy interdependencies, financial and power interdependencies in the history of the capitalist world economy. However, it differs significantly from the popular Analyses prevailing in parts of the left, which dispute a structural contradiction between American and European capitalism. It is, of course, unquestionable that market laws, profit maximization and brutal competition are peculiar to all capitalist states as the centrally regulating economic mechanisms and driving forces.
 
 However, depending on other variables, these economic laws can lead to the emergence of entirely different capitalist models. These variables include, above all, the size of the internal market and the intervention power based on it in the world market, geopolitical functions, territorial size, military power, colonial structures and, finally, specific cultural traditions.
+draft: false
 
 The Scandinavian capitalism is, due to the interaction of geographical location on the edge of Europe, the comparatively small populations and internal markets and specific cultural characteristics spared by wars as a whole, an equilibrium capitalism without recognizable imperialist Expansion. German and Japanese capitalism is not militarily expansionist because of its military invasion after the Second World War, but because of its geopolitical situation and the strength of its populations and the size of its internal markets, it is an economic-imperialist capitalism.
+draft: false
 
 Both states are able to overcome the internal economic imbalances imperialistically, for example through export surpluses (or Export of unemployment) to the world market. Capitalism in the UK and France is similar to that in Germany and Japan, an economic-imperialist, due to its colonialist history, however, also a military-imperialist capitalism.
 

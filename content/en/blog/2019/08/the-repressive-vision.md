@@ -2,10 +2,11 @@
 title: "The repressive vision"
 date: 2019-08-04
 tags: "society"
+geo: "World"
+draft: false
 shorttext: "The International Monetary Fund plans to gradually introduce fully supervised payments and penalise citizens for cash payments in the future."
 cover: society
 lang: en
-draft: false
 ---
 
 On the pretext of preserving the power of monetary policy, the International Monetary Fund (IMF) has published detailed recommendations on how central banks can withdraw or make citizens mad. It is at least the third study of its kind in the last two and a half years. Just a few months ago, a senior manager of the European Central Bank (ECB) wrote a similar paper with an IMF adviser.

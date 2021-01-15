@@ -2,6 +2,7 @@
 title: "Assange is made forgotten"
 date: 2019-05-24
 tags: "society"
+geo: "Europe"
 shorttext: "The Tagesschau (German Governmant TV) is looking at a scandalous breach of international law from the Frog perspective ..."
 cover: society
 lang: en

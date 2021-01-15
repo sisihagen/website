@@ -2,9 +2,10 @@
 title: "USA and China upgrade"
 date: 2019-08-30
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "US President Trump has stepped up the trade war with China. Beijing reacts calmly, but sends a strong signal."
 cover: "repression"
-draft: false
 lang: en
 ---
 

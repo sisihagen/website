@@ -2,9 +2,10 @@
 title: "The Fight Against Symptoms"
 date: 2019-11-27
 tags: "Society"
+geo: "Europe"
+draft: false
 shorttext: "Stronger laws protect Jewish citizens, but will not effectively fight anti-Semitism unless one of its causes is sought in Israel's politics."
 cover: "society"
-draft: false
 lang: en
 ---
 
@@ -51,6 +52,7 @@ takes away from the study. There are also sufficient doubts about the
 effectiveness of increased educational efforts with the education of the
 history and fate of Judaism in Europe and especially in Germany.
 Educational bourgeoisie and the so-called elites are not immune to
+draft: false
 anti-Semitism. This has been proved by European history and now
 obviously also by the study of the WJC.
 

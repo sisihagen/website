@@ -2,8 +2,9 @@
 title: "Help, Police!"
 date: 2019-10-31
 tags: "Society"
-shorttext: "The French police as a bulwark to protect the French Macrons of society. It represents the elites, not the evil people."
+geo: "Europe"
 draft: false
+shorttext: "The French police as a bulwark to protect the French Macrons of society. It represents the elites, not the evil people."
 lang: en
 cover: "society"
 ---

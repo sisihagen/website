@@ -2,8 +2,9 @@
 title: "Murder is justice?"
 date: 2019-11-04
 tags: "Society"
-shorttext: "The murder is celebrated. From Islamist and Christian. The important questions will be neglected, the focus is on comparisons of the presentations."
+geo: "World"
 draft: false
+shorttext: "The murder is celebrated. From Islamist and Christian. The important questions will be neglected, the focus is on comparisons of the presentations."
 lang: en
 cover: "society"
 ---

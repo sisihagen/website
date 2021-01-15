@@ -2,9 +2,10 @@
 title: "The West is the international law"
 date: 2019-12-08
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "The United States, together with its European settlements, bend international law as it suits them and violated it several times. Protests are not taking place."
 cover: "repression"
-draft: false
 lang: en
 ---
 

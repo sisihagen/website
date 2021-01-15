@@ -2,9 +2,10 @@
 title: "China, the next enemy image"
 date: 2019-09-16
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "In the media, we are currently finding more articles about China with the aim of building a new enemy image."
 cover: "repression"
-draft: false
 lang: en
 ---
 

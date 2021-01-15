@@ -2,8 +2,9 @@
 title: "Media balls against rebels"
 date: 2019-10-24
 tags: "Society"
-shorttext: "The attack, the group press on Extinction of Rebellion in the Wake of the Berlin Blockade shows that this movement is real and on the right path."
+geo: "Europe"
 draft: false
+shorttext: "The attack, the group press on Extinction of Rebellion in the Wake of the Berlin Blockade shows that this movement is real and on the right path."
 lang: en
 cover: "society"
 ---

@@ -2,9 +2,10 @@
 title: "Siege"
 date: 2019-08-29
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "Iran is under pressure and is seeking new allies in the Eurasian region."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -19,6 +20,7 @@ Virtually unknown in the West, the SCO is the most important political, economic
 These leaders represent the currently eight members of the SCO. Then there are the four observer States, Afghanistan, Belarus, Mongolia, Iran and six dialogue partners: Armenia, Azerbaijan, Cambodia, Nepal, Sri Lanka and Turkey.
 
 The SCO will extend up to 2020, both Turkey and Iran received may be the full membership, so that the SCO would then unite all the major players in the Eurasian Integration. Looking at the current weather on the geopolitical chessboard, it can hardly have been a coincidence that a weighty Protagonist in Bishkek was the "observer"state of Iran.
+draft: false
 
 #### Iran as a Partner in the SCO
 

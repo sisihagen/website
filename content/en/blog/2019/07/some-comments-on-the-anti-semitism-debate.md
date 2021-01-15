@@ -2,6 +2,7 @@
 title: "Some comments on the anti-Semitism debate"
 date: 2019-07-02
 tags: "state"
+geo: "Europe"
 shorttext: "The legend of a democracy is persecuted by equal incision to be a religious state, in the end it remains nationalism, exclusion, occupation and murder."
 cover: repression
 lang: en

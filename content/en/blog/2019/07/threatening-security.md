@@ -2,6 +2,7 @@
 title: "Threatening security"
 date: 2019-07-09
 tags: "state"
+geo: "World"
 shorttext: "The world is not enough. People are enough. The west is not longer a place for peace. The world is not enough. They want control all! "
 cover: "repression"
 lang: en

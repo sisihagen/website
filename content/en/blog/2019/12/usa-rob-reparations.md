@@ -2,9 +2,10 @@
 title: "USA Rob reparations"
 date: 2019-12-29
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "The US is robbing the Gold. The gold of Syria as reparations for their illegal war in Syria. Mafia, or West? Who is the greater Thor?"
 cover: "repression"
-draft: false
 lang: en
 ---
 

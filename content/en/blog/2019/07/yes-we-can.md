@@ -2,9 +2,10 @@
 title: "Yes we can"
 date: 2019-07-22
 tags: "state"
+geo: "North America"
+draft: false
 shorttext: "Obama, the Nobel Peace Prize laureate who did the same for the price and plunged the world further into the chaos of Western fascism."
 cover: "repression"
-draft: false
 lang: en
 ---
 

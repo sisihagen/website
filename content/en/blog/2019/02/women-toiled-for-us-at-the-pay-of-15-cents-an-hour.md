@@ -2,6 +2,7 @@
 title: "Women toiled for us at the pay of 15 cents an hour"
 date: 2019-02-26
 tags: "society"
+geo: "Asia"
 shorttext: "Exploited Indian home workers work for clothing companies in Europe and the US, the University of California uncovers."
 cover: "society"
 lang: en

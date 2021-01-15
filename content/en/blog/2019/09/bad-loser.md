@@ -2,9 +2,10 @@
 title: "Bad Loser"
 date: 2019-09-18
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "Trump inflicts considerable damage on his country because he still underestimate China's economic power."
 cover: "repression"
-draft: false
 lang: en
 ---
 

@@ -2,9 +2,10 @@
 title: "The Poison Russians"
 date: 2019-08-19
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "The Skripal case of March 2018 is a prime example of perfidious media manipulation."
 cover: "media"
-draft: false
 lang: en
 ---
 
@@ -61,6 +62,7 @@ First of all, the poisoning of Alexander Litvinenko in England, although it is c
 Then there is a 2007 hacking attack on the Internet in the Baltics, where it is also not clear who is behind it.
 
 In August 2008, Russia is accused of "[invasion of Georgia](https://www.history.com/news/russia-georgia-war-military-nato "How a Five-Day War With Georgia Allowed Russia to Reassert Its Military Might")". Russia has continued to do so by the Western media to this day. The Western media completely ignores the Council of Europe's investigative report. There it was found that the attack came from Georgia, Georgia shelled residential areas with artillery for one night and only the next day Russian troops emerged, which the Georgians threw back.
+draft: false
 
 In order to avoid a repeat of such an incident, Russian troops then occupied parts of Georgia for a short time, but soon withdrew completely. This temporary occupation was described as "disproportionate", but Georgia's previous attack was a clear violation of international law. All these were, as I said, the findings of the Council of Europe and not Russian propaganda.
 

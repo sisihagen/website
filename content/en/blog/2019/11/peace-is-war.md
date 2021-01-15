@@ -2,9 +2,10 @@
 title: "Peace is war"
 date: 2019-11-25
 tags: "state"
+geo: "Europe"
+draft: false
 shorttext: "When the Troll Heiko Maas is celebrated by the media, we should all ask ourselves why? The SPD program know and competence do not fit on the Troll."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -163,7 +164,6 @@ leaders in the leading German media shut up. The Resolution does not fit
 in her image of the "evil Russians". Alternative media addressed the
 issue.
 
-> We rejected the specific draft resolution you are referring to for a
 > very simple reason, that is, because it contained a comment on one of
 > the experts in the expert panel, which, in our view, was completely
 > inappropriate and inappropriate. A side swipe, a personal attack that,

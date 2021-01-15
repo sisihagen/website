@@ -2,9 +2,10 @@
 title: "Crimea and Russia get closer"
 date: 2019-08-06
 tags: "state"
+geo: "Europe"
+draft: false
 shorttext: "Kerch, a city in the very east of Crimea, has always been Russia-oriented. A new bridge brings additional opportunities."
 cover: "repression"
-draft: false
 lang: en
 ---
 

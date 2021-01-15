@@ -2,13 +2,15 @@
 title: "Where to put nuclear waste"
 date: 2019-12-31
 tags: "Society"
-shorttext: "The short age of nuclear technology leaves a bright legacy. The burden of this Inheritance is underestimated."
+geo: "Europe"
 draft: false
+shorttext: "The short age of nuclear technology leaves a bright legacy. The burden of this Inheritance is underestimated."
 lang: en
 cover: "society"
 ---
 
 Highly toxic radioactive waste is produced daily in nuclear power plants, medical facilities and the military. To the question " Where to put the radiating waste?"but the countries that use civil or military nuclear technology have only thin answers so far. "70 years after entering nuclear technology, not a single country in the world has a deep geological repository for nuclear waste, "notes the first" [World Nuclear Waste Report](/static/downloads/World_Nuclear_Waste_Report_2019_Focus_Europe_0.pdf "THE WORLD NUCLEAR WASTE REPORT 2019")". Nobody wants foreign garbage, many have plans, finished is nothing and it will be expensive in any case, so his conclusion.
+draft: false
 
 Only Finland is building a Repository. Sweden and France have decided on locations. Germany is still looking for it, the search should be finished in 2031. Switzerland has so far agreed on three potential sites. Until a Repository is available, so the authors of the report estimate that it will take at least until mid-century. You can expect a satisfactory strategy for dealing with radioactive waste in two to three generations. Hundreds more generations will have to manage the radiating waste heap.
 
@@ -29,6 +31,7 @@ Currently, 60,000 tonnes of high-level radioactive waste are being collected in 
 Finding places where nuclear waste can be safely stored, not stolen and not reached by terrorist attacks is a challenge for all governments involved. Storing spent fuel elements on site in decaying tanks, as is the case in Gösgen, for example, is the most dangerous of all possibilities, the experts warn. If the cooling fails or the cooling water escapes, for example due to a plane crash or a terrorist attack, disaster can occur. Many states have legally excluded the Export of radioactive waste to other, possibly far less safe, countries.
 
 There have been many ideas over the past decades about what should happen to the deplorable nuclear waste. For example, shooting the radiant garbage into space, burying it under the seabed, and even proposing to "burn it down in a controlled manner". Most experts now agree that a deep geological Repository is the best option. It would have to exist up to a Million Years – A hardly imaginable period. For comparison: the Second World War is only 70 years ago.
+draft: false
 
 #### A political and social minefield
 

@@ -2,10 +2,11 @@
 title: "The financial terrorism"
 date: 2019-07-24
 tags: "society"
+geo: "World"
+draft: false
 shorttext: "The secret war - economic sanctions bring unimaginable suffering to the people of the affected country."
 cover: society
 lang: en
-draft: false
 ---
 
 It is yet to be clarified who is responsible for the sabotage of the two tankers in the Gulf of Oman, but it is clear that the Trump administration has been [sabotaging](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-working-bring-irans-oil-exports-zero/ "President Donald J. Trump Is Working to Bring Iran’s Oil Exports to Zero") Iranian oil shipments since May 2. On that day, she announced her intention to "reduce Iranian oil exports to zero, thereby reducing the regime's main source of income." This measure is intended to affect China, India, Japan, South Korea and Turkey; they all buy Iranian oil and now face US financial terrorism.
@@ -55,6 +56,7 @@ In North Korea, which has a population of 25 million, several decades of [sancti
 #### Illegal
 
 One of the most outrageous elements of US sanctions is their extraterritorial reach. The US is slain by third-country companies for "violations" of US sanctions. When the US unilaterally terminated the nuclear deal and imposed sanctions, the US Treasury [boasted](https://www.treasury.gov/resource-center/sanctions/programs/pages/iran.aspx "Resource Center") that in just one day, November 5, 2018, more than 700 individuals, legal entities, aircraft and ships were charged with doing business with Iran. sanctioned.
+draft: false
 
 Reuters [reported](https://www.reuters.com/article/us-usa-venezuela-sanctions-exclusive-idUSKCN1R92ET "Exclusive: U.S. orders foreign firms to further cut down on oil trades with Venezuela") that in March 2019, the U.S. State Department ordered "oil trading houses and refineries around the world" to further restrict their trade with Venezuela. If not, sanctions could be expected even if the trade had not been prohibited by published US sanctions."
 
@@ -85,6 +87,7 @@ Sanctions also constitute a violation of Article 19 of the Charter of the [Organ
 Article 20 of the OAS Charter is equally relevant: "No State shall apply or encourage economic or political coercive measures in order to impose coercion on the sovereign will of another State or thereby obtain advantages of any kind."
 
 As far as U.S. law is concerned, the sanctions of 2017 and 2019 are based on unfounded statements by the president that the situation in Venezuela has created a so-called "national emergency" in the US. If the US federal courts were not so afraid of holding the executive branch accountable for foreign policy matters, this statement could be challenged by a federal court and likely to be dismissed faster and easier than the like Case of a "[national emergency](https://www.politico.com/story/2019/06/04/trump-court-emergency-border-wall-1352733 "Trump administration asks court for emergency approval to proceed with border wall")" on the border with Mexico, at least geographically linked to the US.
+draft: false
 
 #### Ineffective
 

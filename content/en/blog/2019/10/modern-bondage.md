@@ -2,8 +2,9 @@
 title: "Modern bondage"
 date: 2019-10-03
 tags: "Society"
-shorttext: "Australia reveals the true fuzzy of cashless society and leads welfare recipients on the digital aisle."
+geo: "Australia"
 draft: false
+shorttext: "Australia reveals the true fuzzy of cashless society and leads welfare recipients on the digital aisle."
 lang: en
 cover: "society"
 ---

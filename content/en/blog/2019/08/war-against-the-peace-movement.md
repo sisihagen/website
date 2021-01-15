@@ -2,8 +2,9 @@
 title: "War against the Peace Movement"
 date: 2019-08-15
 tags: "Society"
-shorttext: "To ensure that the peace movement does not flourish to its old strength, peace activists are slandered and fought by all means."
+geo: "Europe"
 draft: false
+shorttext: "To ensure that the peace movement does not flourish to its old strength, peace activists are slandered and fought by all means."
 lang: en
 cover: "society"
 ---

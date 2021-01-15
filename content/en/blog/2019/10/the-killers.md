@@ -2,8 +2,9 @@
 title: "The Killers"
 date: 2019-10-17
 tags: "Society"
-shorttext: "Almost unnoticed by the public, the military lists itself as one of the worst environmental offenders."
+geo: "World"
 draft: false
+shorttext: "Almost unnoticed by the public, the military lists itself as one of the worst environmental offenders."
 lang: en
 cover: "society"
 ---

@@ -2,8 +2,9 @@
 title: "Mexico, or Misery and Hope"
 date: 2019-08-21
 tags: "Society"
-shorttext: "For migrants stranded in Tijuana, it is becoming increasingly difficult to get to the United States as the need grows."
+geo: "South America"
 draft: false
+shorttext: "For migrants stranded in Tijuana, it is becoming increasingly difficult to get to the United States as the need grows."
 lang: en
 cover: "society"
 ---

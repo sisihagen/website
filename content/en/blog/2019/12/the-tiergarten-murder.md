@@ -2,9 +2,10 @@
 title: "The Tiergarten Murder"
 date: 2019-12-22
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "A Chechen with a Georgian passport is murdered in Berlin in front of witnesses of a guy on a bicycle and it was the Russian. Russian television reports."
 cover: "media"
-draft: false
 lang: en
 ---
 

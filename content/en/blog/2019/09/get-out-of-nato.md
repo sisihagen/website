@@ -2,9 +2,10 @@
 title: "Get out of Nato"
 date: 2019-09-15
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "Get out of Nato, a reputation from the 1990s and should finally be realized ..."
 cover: "repression"
-draft: false
 lang: en
 ---
 

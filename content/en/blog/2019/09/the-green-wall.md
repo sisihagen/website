@@ -2,8 +2,9 @@
 title: "The green Wall"
 date: 2019-09-06
 tags: "Society"
-shorttext: "China, India and Africa show the Rest of the world how to cope with man-made environmental problems."
+geo: "Asia"
 draft: false
+shorttext: "China, India and Africa show the Rest of the world how to cope with man-made environmental problems."
 lang: en
 cover: "society"
 ---

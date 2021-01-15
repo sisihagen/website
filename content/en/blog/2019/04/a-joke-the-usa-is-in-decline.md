@@ -2,6 +2,7 @@
 title: "A joke - The USA is in decline"
 date: 2019-04-26
 tags: "society"
+geo: "North America"
 shorttext: "The fairy tales of the German media and politicians continue. The US Imperialist is shrinking. The German education policy should have provided education, then you can recognize the Propaganda."
 cover: society
 lang: en

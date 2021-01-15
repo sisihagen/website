@@ -2,9 +2,10 @@
 title: "Step by step instead of progress"
 date: 2019-11-07
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The Bundeswehr hinders a social shift towards more mindfulness and respect."
 cover: "repression"
-draft: false
 lang: en
 ---
 

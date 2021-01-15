@@ -2,8 +2,9 @@
 title: "Fiasco neoliberalism in South America"
 date: 2019-11-08
 tags: "Society"
-shorttext: "It is necessary to forget the unbridled application of the neoliberal model if countries are to move forward and develop internally."
+geo: "South America"
 draft: false
+shorttext: "It is necessary to forget the unbridled application of the neoliberal model if countries are to move forward and develop internally."
 lang: en
 cover: "society"
 ---

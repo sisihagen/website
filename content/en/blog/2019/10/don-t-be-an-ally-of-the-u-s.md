@@ -2,9 +2,10 @@
 title: "Don't be an ally of the U.S."
 date: 2019-10-16
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "Turkey is attacking Syria. The US is saying goodbye and leaving the Kurds alone, and Trump is even recommending withdrawal. Who is the Thor here?"
 cover: "repression"
-draft: false
 lang: en
 ---
 

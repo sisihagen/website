@@ -2,9 +2,10 @@
 title: "Fear of China"
 date: 2019-09-11
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The causes of the dissatisfaction of the Hong Kong population are remarkably similar to those in the West."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -41,6 +42,7 @@ Shenzhen, which was still very insignificant in the 1990s and has grown mainly b
 The rise of Shenzhen and other cities on the mainland has direct consequences for the Hong Kong population. While Hong Kong's business world benefits from the strong increase in Chinese purchasing power from the mainland, living conditions for the Rest of society deteriorate. "The many Hotels have caused the rents to explode. Milk powder for babies and vaccines are scarce because they are bought in large quantities by tourists".
 
 The high investments that China makes in Hong Kong and the money that the mainland Chinese bring to the city as tourists do not come down in society. The situation in Hong Kong is thus the same as in other leading capitalist states. Despite huge investments in the economy and an incomparably low tax rate for corporate profits is not more on the old creed of bourgeois Economics, the promotion of the economy leads to a rise in the General prosperity.
+draft: false
 
 The stock market prices in Hong Kong have risen from high to high for years, as in the leading capitalist states. "China's direct investment in Hong Kong stands at over $ 600 billion, 70 percent of the city's total economic output". The profit tax is only 16.5 percent, " significantly lower than the average of the G-20 countries (28 percent)" and yet people live in cages and have to do their work around the clock.
 

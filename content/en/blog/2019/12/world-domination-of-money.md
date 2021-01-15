@@ -2,8 +2,9 @@
 title: "World domination of money"
 date: 2019-12-13
 tags: "Society"
-shorttext: "If people understood the money system, we would have a Revolution tomorrow."
+geo: "World"
 draft: false
+shorttext: "If people understood the money system, we would have a Revolution tomorrow."
 lang: en
 cover: "society"
 ---

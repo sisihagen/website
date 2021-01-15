@@ -2,8 +2,9 @@
 title: "The Environmental Criminals"
 date: 2019-10-14
 tags: "Society"
-shorttext: "The oil industry has known for 30 years about the danger of fossil fuels and decided on another way!"
+geo: "World"
 draft: false
+shorttext: "The oil industry has known for 30 years about the danger of fossil fuels and decided on another way!"
 lang: en
 cover: "society"
 ---

@@ -2,8 +2,9 @@
 title: "After NATO"
 date: 2019-10-04
 tags: "Society"
-shorttext: "A world without the aggressive military alliance seems to be just a dream, let's dream it!"
+geo: "World"
 draft: false
+shorttext: "A world without the aggressive military alliance seems to be just a dream, let's dream it!"
 lang: en
 cover: "society"
 ---
@@ -116,6 +117,7 @@ We reaffirm our commitment to the peaceful settlement of disputes. We decide to 
 It was therefore decided to establish a regional system of mutual collective security. Mutual and common security should be ensured through the organisation for security and cooperation in Europe (OSCE) resulting from the CSCE negotiations.
 
 Thus, NATO had become obsolete just as much as the WVO, which dissolved itself as a result of this process. Europe was understood as the geographical Europe "from the Atlantic to the Urals", to which Russia belonged without question.
+draft: false
 
 Despite the transatlantic ties and the membership of the United States and Canada in the OSCE to be established, Europe was seen as an independent actor, because the role of the United States was understood as a companion rather than a core of what was then euphorically celebrated in the media as "the common House of Europe", the charter declared.
 
@@ -148,7 +150,6 @@ Steps towards mutually verifiable disarmament would be easier.
 
   - And ultimately: immense resources would be released step by step and could be used for the benefit of humanity and nature.
 
-It goes without saying that NATO must not be replaced or replaced by other multilateral structures, such as the former EU constitutional treaty or the Lisbon Treaty. The EU should just be against the Background of European history, a force for peace, as the Laeken summit in 2001 called for, as he bottomed out, the drafting of a European Constitution and Europe-defined as "Power, globalization, wants to add in a moral framework, ( ... ), you anchor wants to be in solidarity and sustainable development".
 
 Of course, a world without NATO will not be free of conflicts. It is true that the European security strategy (ESS) points out in its analysis of the situation that the main causes of war and violence are poverty and Hunger, that 50 million people die of Hunger every year, one child every ten seconds. Instead of drawing the necessary consequences from this finding, the ESS calls for preventive, military intervention: not the causes of poverty, misery, conflict and war should be removed, but the neoliberal order should also be maintained and enforced by force.
 
@@ -191,6 +192,7 @@ The enlargement of NATO and its ever-expanding areas of operation over the last 
 #### Germany and (the end of) NATO.
 
 Germany is a central pillar of NATO because of its economic and political strength, but above all because of its geographical position. It is — as in the early years of NATO, even after the return of France into the military structure of the Alliance — and despite, or perhaps because of the strongly-driven by NATO's eastward expansion: The historically Russophobes basic flows-related foreign policy attitudes just of the Baltic States and Poland are likely to be as much of a stumbling block for a rational policy of the Western powers and the United States, and therefore NATO. It should not be forgotten that it was the NATO accession of the FRG that led to the establishment of the WVO. There is no doubt that Germany
+draft: false
 
 "one of the most important political and economic actors in the EU, as well as a bridge between East and West Europe, as well as one of the most important allies of the US, and plays a special role in both European and transatlantic policy towards this Region."
 
@@ -202,13 +204,14 @@ This results in a special responsibility for German politics. In the field of te
 
 The Central question is whether NATO wants to create European security with or against Russia. Trusting cooperation within the framework of a European or even transatlantic system of mutual collective security would make NATO superfluous in the foreseeable future — provided that the Transformation of NATO is stopped, so that it does not understand itself as the military Instrument whose core task is to secure the resources of the capitalist powers on both sides of the Atlantic.
 
-It is also obvious that the Expansion of NATO towards the East raises new hot spots and exacerbates the security dilemma with Russia, as demonstrated by the war of Georgia against South Ossetia in August 2008. As early as June 2008, the Russian President [Medvedev](/static/downloads/2008A58_shh_ks.pdf "Medwedjew ante portas") made a detailed proposal in this direction in Berlin. Russia also presented a draft plan for such a partnership to the OSCE Foreign Ministers ' Conference, which met in Corfu on 1 and 2 December 2009. 
 
 The fact that Russia was mainly concerned with issues of" hard " security should not have been unexpected for the Western participants. Their insistence on issues of" soft " security and the prioritisation of human rights, which are by no means unproblematic in some new member states of NATO, can be regarded as an indication that the West wanted to avoid precisely this debate, which would have to result in serious negotiations — and thus maintain the new-old security dilemma in relation to Russia.
 
 For example, Ukraine will continue to be a contentious issue, crises on the eastern shore of the Black Sea will continue to be on a dangerously escalating agenda, and plans for NATO accession of Ukraine and Georgia will continue to be on NATO's table: issues of geostrategically motivated resource conservation, as they manifest in the competition between the two competing giant pipelines Southstream and Nabucco, will continue to be a priority.
+draft: false
 
 A policy based on German interests, for which in other contexts the concept of "Sovereign State" (34) is often claimed, should be guided by the concept of mutual collective security. The fact that NATO is not willing to do so is due to both historical and geopolitical reasons, as both the US and the European allies fear a German single entry, which could be fatal for the alliance.
+draft: false
 
 If, however, it is not possible to create a veritable organisation of mutual collective security, including the United States, then a European security architecture should definitely be worked towards. Two paths could lead to such a new construct :
 

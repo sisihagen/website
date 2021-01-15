@@ -2,9 +2,10 @@
 title: "The test of courage"
 date: 2019-08-27
 tags: "Society"
+geo: "World"
+draft: false
 shorttext: "So-called enemies are our shadow and our mirror — let's learn from them!"
 cover: "society"
-draft: false
 lang: en
 ---
 

@@ -2,9 +2,10 @@
 title: "The Russians come"
 date: 2019-09-12
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The Propaganda against Russia is running at full speed and is too bad for any Manipulation and twisting."
 cover: "repression"
-draft: false
 lang: en
 ---
 

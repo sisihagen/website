@@ -2,9 +2,10 @@
 title: "Together against Russia"
 date: 2019-08-05
 tags: "state"
+geo: "Europe"
+draft: false
 shorttext: "Sevastopol, founded by the Russians, managed by the Russians, defended by the Russians."
 cover: "repression"
-draft: false
 lang: en
 ---
 

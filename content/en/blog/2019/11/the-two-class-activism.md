@@ -2,8 +2,9 @@
 title: "The Two-Class Activism"
 date: 2019-11-09
 tags: "Society"
-shorttext: "There is not only Greta, the inspiring activists of developing countries are ignored in the media."
+geo: "Europe"
 draft: false
+shorttext: "There is not only Greta, the inspiring activists of developing countries are ignored in the media."
 lang: en
 cover: "society"
 ---

@@ -2,9 +2,10 @@
 title: "Russia about Venezuela and Cuba"
 date: 2019-10-20
 tags: "State"
+geo: "South America"
+draft: false
 shorttext: "The Russian Foreign Ministry has published a statement on Venezuela and Cuba, where instead of Western pink glasses are called facts."
 cover: "repression"
-draft: false
 lang: en
 ---
 

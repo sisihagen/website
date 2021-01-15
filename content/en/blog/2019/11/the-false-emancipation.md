@@ -2,9 +2,10 @@
 title: "The false emancipation"
 date: 2019-11-05
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "The world demands a strengthening of the female principle — women in the Bundeswehr strengthen only the patriarchy and its violence Agenda."
 cover: "repression"
-draft: false
 lang: en
 ---
 

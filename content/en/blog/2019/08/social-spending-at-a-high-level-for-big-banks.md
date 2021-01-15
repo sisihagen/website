@@ -2,8 +2,9 @@
 title: "Social spending at a high level, for big banks"
 date: 2019-08-23
 tags: "Society"
-shorttext: "Every year, Swiss big banks benefit from around 25 billion Swiss francs in subsidies, explains finance professor Marc Chesney."
+geo: "Europe"
 draft: false
+shorttext: "Every year, Swiss big banks benefit from around 25 billion Swiss francs in subsidies, explains finance professor Marc Chesney."
 lang: en
 cover: "society"
 ---

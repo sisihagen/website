@@ -2,9 +2,10 @@
 title: "Women to the Front!"
 date: 2019-11-04
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "Since the Bundeswehr in times of increasing field of conquest emanates the male Cannon food, it becomes inventive."
 cover: "repression"
-draft: false
 lang: en
 ---
 

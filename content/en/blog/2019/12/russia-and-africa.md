@@ -2,9 +2,10 @@
 title: "Russia and Africa"
 date: 2019-12-08
 tags: "Media"
+geo: "Africa"
+draft: false
 shorttext: "Putin presented himself at a panel discussion with the questions of the participants. It was also about Africa."
 cover: "media"
-draft: false
 lang: en
 ---
 

@@ -2,8 +2,9 @@
 title: "The Crimean Tatars"
 date: 2019-08-20
 tags: "Society"
-shorttext: "The Crimean Tatars, about one-eighth of the population in Crimea, are war-torn and suffering-suffering. Russia is now trying to promote them."
+geo: "Europe"
 draft: false
+shorttext: "The Crimean Tatars, about one-eighth of the population in Crimea, are war-torn and suffering-suffering. Russia is now trying to promote them."
 lang: en
 cover: "society"
 ---
@@ -109,3 +110,4 @@ And who drew up the plans for the mosque? Are there architects who can do this? 
 The technician could not answer only one question: Who is actually financing this gigantic building? It was a foundation, the man said, and he could not say more. Foundations, however, are also capable of concealing sources of money and cash flows.
 
 The Crimean Tatars are looking forward to the opening of this fantastic mosque – probably in 2020. It is to be hoped that, despite support from other states, they will then refuse to be drawn into Turkey's geopolitical power-poker between NATO and Russia. They have too often been drawn into political infighting – not to say politically abused. They have hardly ever benefited from it – but they have experienced a great deal of terrible things and suffered a great deal.
+draft: false

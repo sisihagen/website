@@ -2,9 +2,10 @@
 title: "Sanctions are the problem of Crimea"
 date: 2019-12-30
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "After an initial tendentious report on Crimea, the NZZ has to write back: 'EU sanctions weigh heavily.'"
 cover: "repression"
-draft: false
 lang: en
 ---
 

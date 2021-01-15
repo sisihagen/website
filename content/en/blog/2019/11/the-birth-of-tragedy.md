@@ -2,8 +2,9 @@
 title: "The birth of tragedy"
 date: 2019-11-03
 tags: "Society"
-shorttext: "The decision to leave the EU was the result of a long political process."
+geo: "Europe"
 draft: false
+shorttext: "The decision to leave the EU was the result of a long political process."
 lang: en
 cover: "society"
 ---
@@ -29,7 +30,6 @@ Since the dispute over the accession of the community in 1973, which could only 
 
 The most diverse groups of EU opponents met in the Congress for Democracy and the Referendum Party of billionaire James Goldsmith. In the lower house elections of 1997, this party received a good 800,000 votes and thus became the fourth most powerful party. However, due to the right to vote by majority, it succeeded in moving into the lower house.
 
-Many were sceptical about the drafting of a constitution for the Union in the early 2000s. And so Tony Blair announced to have the people vote on the 2003 constitutional treaty. However, following its rejection in referendums in France and the Netherlands in the summer of 2005, this had lapsed. However, the Lisbon Treaty, which was presented two years later, was almost identical to the failed Constitution, which led to the demand for a referendum in Great Britain.
 
 David Cameron, who was elected president of the Conservative Party in 2005, saw this as a good opportunity to put pressure on the Labour government as a leader of the opposition. Even before the Lisbon Treaty was fully negotiated, in September 2007, he gave the "iron guarantee" in an article in the newspaper Sun when Prime Minister had a referendum on the coming treaty.
 

@@ -2,9 +2,10 @@
 title: "Russian Foreign Ministry on the situation in Syria"
 date: 2019-10-06
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "On Thursday, the Russian Foreign Ministry spokeswoman spoke about the situation in Syria."
 cover: "repression"
-draft: false
 lang: en
 ---
 

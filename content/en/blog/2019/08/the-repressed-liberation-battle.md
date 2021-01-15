@@ -2,9 +2,10 @@
 title: "The repressed liberation battle"
 date: 2019-08-28
 tags: "Society"
+geo: "Europe"
+draft: false
 shorttext: "In Germany, there is still no public commemoration of the 75th anniversary of the victory of the Red Army at Stalingrad. "
 cover: "society"
-draft: false
 lang: en
 ---
 
@@ -27,6 +28,7 @@ At the same time, it was an imperialist "habitat" war against the "Jewish Bolshe
 Not only was the Holocaust a singular crime in world history; it was also the kind of German warfare in the East, which prevailed over all the norms of martial law in force until then.
 
 #### The criminal orders and the national socialist geopolitics of hunger
+draft: false
 
 Already in the planning phase of the Russian Field Campaign, the interaction between the Nazi leadership and the leaders of the Wehrmacht can be clearly demonstrated. The assault on the Soviet Union has been carefully planned since July 1940 in the high command of the Wehrmacht and in the high command of the army. On 17 March 1941, Hitler declared to General Colonel Franz Halder and Colonel Adolf Heusinger-the later first general inspector of the Bundeswehr:
 
@@ -47,6 +49,7 @@ All these orders were issued before 22 June 1941, the day of the assault on the 
 There was not only no significant objection, let alone opposition to these orders, which set itself apart from the provisions of the martial law, The Hague land war rules and the Geneva Convention on the treatment of prisoners of war, but these orders were also implemented by the majority of the troop leaders. 30. March 1941, speech, Hitler of "colonial responsibilities" in Russia; for him, it was "Germany's Africa" and the "Russians are our Negroes". Göring's" Supreme central office for Russia " called on 2. "This will undoubtedly starve tens of millions of people if the necessary for us is brought out of the country."
 
 The state secretary of the Reich Ministry of food and agriculture, Herbert Backe, an old party comrade and agricultural expert of the NSDAP, designed a true geopolitics of hunger for the Soviet population. According to Backe's concept, which was largely realized, the surplus areas of the Soviet South should be cut off from the subsidy areas in central and northern Russia and the harvest for the supply of Wehrmacht or to Central Europe should be deducted.
+draft: false
 
 In particular, it was necessary to isolate and starve the large industrial centres with their masses of population from the supply of agricultural land, in order to gain the surplus needed for German purposes. The desired side effect was the destruction of those "elements of the population", which were considered to be the most racially inferior and politically unreliable in Nazi understanding: Jews, Muscovites and industrial workers. Their famine was to ensure a radical deindustrialization of Russia and a colonial settlement for German military farmers. Following Backe's guidelines of 23 May 1941, the starvation of the two-million-city of Leningrad was not only a means of military pressure to force the city to capitulate, but also a desired side effect of the National Socialist hunger policy vis-à-vis the "grant areas of the Soviet North".
 
@@ -91,6 +94,7 @@ Friedrich Foertsch was sentenced by the Soviet Tribunal as a " transferred war c
 As early as 1957, 44 former Wehrmacht generals and admirals and more than 1,000 former Wehrmacht officers returned to the service of the new German army. In a newspaper article, the military historian Sönke Neitzel has recently called for a return to "military values": the Bundeswehr must again be an "Instrument of struggle". You can grenadiers "tanks and paratroopers" but not "louder non-fighting role models to offer". They" should be able to fight and kill "and therefore not limit themselves to" traditional elements","which correspond to the liberal-democratic basic order".
 
 Neitzel strongly recommends that the Bundeswehr should return to the traditional line of the Wehrmacht. If a German military historian and chairwoman can once again proclaim such theories in a German media guide and recommend an army as a model that was available without significant resistance to the most outrageous war of aggression, robbery and annihilation of modern times-what conclusions do we have to draw from this? That the Federal Republic of Germany, as the economic Imperial hegemonic power within the European Union, should finally abandon its previous military restraint and be at the forefront again in the future US-led commodity and regime Wars?
+draft: false
 
 #### The Pyrrhic victory in the "Great Patriotic war"
 

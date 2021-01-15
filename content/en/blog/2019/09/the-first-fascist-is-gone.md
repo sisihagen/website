@@ -2,9 +2,10 @@
 title: "The first fascist is gone"
 date: 2019-09-12
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "It's official ... the Hawk, the fascist, The Warlord, the old dissatisfied cold warrior leaves Trump ..."
 cover: "repression"
-draft: false
 lang: en
 ---
 

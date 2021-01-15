@@ -2,10 +2,11 @@
 title: "Don't leave Europe to the Leyen"
 date: 2019-07-07
 tags: "state"
+geo: "Europe"
+draft: false
 shorttext: "Brief comments on the proposals of Council staff. Please correct me, but a brief first glimpse reveals the following"
 cover: "repression"
 lang: en
-draft: false
 ---
 
 Brief comments on the Council's staff proposals. Please correct me, but a first brief overview reveals the following:

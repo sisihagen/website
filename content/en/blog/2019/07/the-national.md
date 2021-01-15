@@ -2,8 +2,9 @@
 title: "The National"
 date: 2019-07-27
 tags: "Society"
-shorttext: "Nationalism rises once again in the forest. Where nations are in the foreground, fascism, violence and war are not far away."
+geo: "World"
 draft: false
+shorttext: "Nationalism rises once again in the forest. Where nations are in the foreground, fascism, violence and war are not far away."
 lang: en
 cover: "society"
 ---
@@ -67,18 +68,19 @@ She then used this possibility purposefully to abolish the separation of powers 
 In order for the law to enter into force in the first place, however, a two-thirds majority of the elected members of the parliament, the German Reichstag, which had not yet been completely disempowered at that time, was required. The governing parties — the National Socialist German Workers' Party (NSDAP) and the German National People's Party (DNVP) had such a majority, but not even though the Communist Party deputies no longer take part in the vote. because their mandates were completely cancelled and many of them had already been arrested.
 
 The necessary two-thirds majority was then only achieved because the deputies of all the bourgeois parties represented in Parliament were invariably prepared to join the basic cause and the demands of the National Socialists. and to vote in favour of the law, while the Social Democrat Members present united against it.
+draft: false
 
 The approval of the Catholic-conservative German Centre Party (Centre) to the Empowerment Act was justified by its deputy, the canon lawyer and prelate Ludwig Kaas, with the following words:
 
 > At this hour, when all small and narrow considerations must remain silent, the German Centre Party (...) consciously and out of a national sense of responsibility, it disregards all party political and other concerns, and it "at this hour is enough for all, including former Opponents, the hand to ensure the continuation of the national rescue work
 
-Kaas went to Rome a few days later and was involved in the drafting of the concordat between the German Reich and the Vatican. After the war he did not return to Germany.
 
 For the liberal German State Party (DStP), the deputy Reinhold Maier, who was elected after the war as the first prime minister of the state of Baden-Württemberg, was a member of the German Bundestag for several years and from 1957 to 1960 Federal Chairman of the FDP was:
 
 > In the major national goals, we feel quite connected to the view expressed here today by the Chancellor of the Reich (Hitler)." Serious concerns would be deferred by his party "in the interests of the people and the fatherland and in the expectation of a legal development" and the law would be approved.
 
 With their approval of the Empowerment Act, the bourgeois deputies, together with the National Socialists, voted in favour of the de facto self-empowerment of the parliament, which had only recently been elected. Inflated phrases — such as 'national sense of responsibility', 'people and fatherland', 'national bailout' and the implementation of 'major national objectives' — were ultimately more important to the bourgeois parties — conservatives and liberals — than the preservation of the Democracy and the averting of a fascist dictatorship in Germany.
+draft: false
 
 On the part of the German economy, the donations to the Nazi party flowed rather sparsely before it came to power. But from then on, when Hitler was in office, "the situation changed, of course. Suddenly, huge sums of money from the economy flowed to the Nazis, and the entrepreneurs quickly sought to adapt to the new regime, which would provide many of them with arms contracts and reward them all by giving it to the workers' organizations in Germany." In return, the Nazis left "the distribution of property and the economic and social hierarchy largely intact."
 

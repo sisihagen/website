@@ -2,8 +2,9 @@
 title: "Corporations determine what we eat"
 date: 2019-10-08
 tags: "Society"
-shorttext: "Nestle, Coca Cola, Bayer, Dupont and Danone fund the ILSI Institute with the task of preventing healthy eating."
+geo: "World"
 draft: false
+shorttext: "Nestle, Coca Cola, Bayer, Dupont and Danone fund the ILSI Institute with the task of preventing healthy eating."
 lang: en
 cover: "society"
 ---

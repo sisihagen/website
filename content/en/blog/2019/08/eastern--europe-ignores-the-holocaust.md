@@ -2,8 +2,9 @@
 title: "Eastern Europe ignores the Holocaust"
 date: 2019-08-22
 tags: "Society"
-shorttext: "Holocaust museums are scarce in Eastern Europe, but often the collaborators and the victims of Soviet rule are paid homage"
+geo: "Europe"
 draft: false
+shorttext: "Holocaust museums are scarce in Eastern Europe, but often the collaborators and the victims of Soviet rule are paid homage"
 lang: en
 cover: "society"
 ---

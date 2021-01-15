@@ -2,6 +2,7 @@
 title: "Uranium ammunition, the secretive million murder"
 date: 2019-03-13
 tags: "state"
+geo: "World"
 shorttext: "Everyone knows there are nukes. But everyone knows that NATO Terrorists using radioactive munitions for many years?"
 cover: "repression"
 lang: en

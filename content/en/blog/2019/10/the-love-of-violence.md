@@ -2,9 +2,10 @@
 title: "The love of violence"
 date: 2019-10-15
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "Peace is created by a policy of détente, not by demonstrating military strength."
 cover: "repression"
-draft: false
 lang: en
 ---
 

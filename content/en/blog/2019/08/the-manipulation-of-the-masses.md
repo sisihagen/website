@@ -2,9 +2,10 @@
 title: "The manipulation of the masses"
 date: 2019-08-26
 tags: "Society"
+geo: "Europe"
+draft: false
 shorttext: "A few thoughts on the ideological mobilization of the Republic. From free track and killer at Gamescon."
 cover: "society"
-draft: false
 lang: en
 ---
 
@@ -31,6 +32,7 @@ Women work in low-paid "women's jobs" and men make "careers"; Whites exploit non
 In other words, where we try to live and survive in the social conditions that surround us, we are always, and all perpetrators and victims at the same time. For we are shaped and surrounded by repressive structures and are involved in struggles to maintain or develop the social position, which is often little to be influenced by our own actions.
 
 However, not all of them are equally equal: from a certain socio-economic position, discrimination and disadvantages are compatible between sex, disease, age, cultural and geographical origin or tradition, and thus of no longer so crucial relevance.
+draft: false
 
 Relevant to the question of who rules over whom existentially, is therefore above all one, namely the question of class affiliation: what use, after all, do one benefit from the most far-reaching democratic rights, when the means of production are nevertheless in the hands of only a few and the only way to acquire the resources for each of your own livelihood s/he can find the sale of one's own labour force.
 
@@ -51,6 +53,7 @@ At the moment, these are likely to be mainly the techniques of propaganda, indir
 #### Domination and propaganda
 
 Noam Chomsky, the world's most quoted intellectual, has addressed and proved in several brilliant books that the media in bourgeois democracies primarily have the task of "control of thought".
+draft: false
 
 This is particularly evident when it comes to war: during the first Gulf War, the lies of a US witness before the United Nations that Iraqi soldiers had taken babies out of the incubators in Kuwait in order to kill them were spread, as was the later march of concentration camps and the so-called "horseshoe plan" during the Kosovo conflict in Yugoslavia. And years later, iraq's supposed weapons of mass destruction served as a legitimation for the US attack on Iraq.
 
@@ -92,10 +95,12 @@ Numerous front pages of magazines repeatedly titled with xenophobic onset, which
 A kind of official prelude to global Islamophobia was the speech in 1990 and the essay by Bernard Lewis, "The Muslim Rage", the theses of which his friend and colleague Samuel Huntington later wrote in book form under the title "Clash of Cultures" on the worldwide spread.
 
 That this was not an accidental time becomes clear once one realizes that after the end of the East-West conflict in the 1990s, the enemy image of Islam has now almost completely replaced that of communism. And with geopolitical impetus, as Daniele Ganser outlines in several works with regard to resources and resource paths.
+draft: false
 
 Research by the Center for American Progress, which studies the funding of American think tanks and uses the example of Middle East policy, shows that this has not happened without the control of the political elites. influential Middle East Forum of a Daniel Pipes:
 
 The interest in the Middle East, whether its geostrategic significance on the one hand, and the enemy image of Islam on the other, must be thought and understood as belonging to each other. For the racist images and stereotypes that are created here and served as the basis of their political practice are clearly one-sided and financed by very specific circles, because they are wanted.
+draft: false
 
 Richard Pipes, Daniel's father, once served as director of the Center for Russian Studies. During the Cold War, the Center analyzed the Strategic Goals and Capabilities of the Soviet Union for the CIA, and was responsible for U.S. anti-communism and the enemy image of Russia. Now his son is apparently this for the enemy image Islam. So the images change, but the strategies remain the same.
 

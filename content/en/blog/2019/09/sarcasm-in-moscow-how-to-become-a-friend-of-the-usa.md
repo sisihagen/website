@@ -2,9 +2,10 @@
 title: "Sarcasm in Moscow, how to become a friend of the USA"
 date: 2019-09-23
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "Do you know Maria Sacharova? You should definitely get to know the lady. This woman is a spokeswoman for the Russian Foreign Ministry and the best thing you can find in politics."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -35,6 +36,7 @@ As I see it, the US Department of State should have done this work. They should 
   - Mexico must pay the United States for [building a wall](https://www.politifact.com/truth-o-meter/promises/trumpometer/promise/1397/build-wall-and-make-mexico-pay-it/ "Donald Trump stalls on promise to build a wall, have Mexico pay for it") along the border;
 
   - South Korea must deploy [US missile-defence systems](https://www.scmp.com/week-asia/geopolitics/article/2120452/china-wins-its-war-against-south-koreas-us-thaad-missile "China wins its war against South Korea’s US THAAD missile shield – without firing a shot") on its territory and join [sanctions](https://pulsenews.co.kr/view.php?year=2019&no=346275 "S. Korea under pressure to join U.S. anti-Huawei campaign") imposed on a high-tech Chinese company;
+draft: false
 
   - Japan must forget about Hiroshima and Nagasaki, and the entire world must recognise that it was the United States that won World War II;
 

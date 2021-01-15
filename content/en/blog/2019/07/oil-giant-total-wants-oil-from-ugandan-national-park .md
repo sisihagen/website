@@ -2,6 +2,7 @@
 title: "Oil giant Total wants oil from Ugandan national park "
 date: 2019-07-07
 tags: "society"
+geo: "South America"
 shorttext: "Total wants to develop 400 oil wells in a protected Ugandan national park and build the largest oil pipeline in the world."
 cover: society
 lang: en

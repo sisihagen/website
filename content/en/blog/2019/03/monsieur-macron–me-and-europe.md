@@ -2,6 +2,7 @@
 title: "Monsieur Macron – Me and Europe"
 date: 2019-03-12
 tags: "state"
+geo: "Europe"
 shorttext: "The self-proclaimed friend of Europe wants to see us citizens as a cheap labour force, to all of us and to have a world war for the interests of the West. A hypocrite's letter."
 cover: "repression"
 lang: en

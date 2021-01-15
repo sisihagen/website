@@ -2,6 +2,7 @@
 title: "Russiagate - Media and Targeted Escalation"
 date: 2019-02-26
 tags: "state"
+geo: "Europa"
 shorttext: "A failed deal with the EU led to the Maidan protests in Ukraine and the world pay with the cold war again."
 cover: "repression"
 lang: en

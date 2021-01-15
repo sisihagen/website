@@ -2,9 +2,10 @@
 title: "American Fascism"
 date: 2019-09-19
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "Trump's trade war with China is another step toward dealing the death blow to US democracy."
 cover: "repression"
-draft: false
 lang: en
 ---
 

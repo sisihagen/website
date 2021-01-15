@@ -2,6 +2,7 @@
 title: "The German theatre"
 date: 2019-11-29
 tags: "state"
+geo: "Europe"
 shorttext: "The alleged Breitscheid-Assassin Anis Amri was built by the media as a villain, should his shooting prevent the thorough reprocessing of the attack?"
 cover: "repression"
 draft: false

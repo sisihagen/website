@@ -2,8 +2,9 @@
 title: "The scammers pay millions to works councils."
 date: 2019-11-21
 tags: "Society"
-shorttext: "Volkswagen who pays its debt in the USA with$, thanks to the German government does not pay€, has millions left for the works councils."
+geo: "Europe"
 draft: false
+shorttext: "Volkswagen who pays its debt in the USA with$, thanks to the German government does not pay€, has millions left for the works councils."
 lang: en
 cover: "society"
 ---

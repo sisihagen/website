@@ -2,9 +2,10 @@
 title: "Peace lies"
 date: 2019-08-14
 tags: "state"
+geo: "World"
+draft: false
 shorttext: "Once there were ... Disarmament treaties. But how serious were they - and what became of them?"
 cover: "repression"
-draft: false
 lang: en
 ---
 

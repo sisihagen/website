@@ -2,9 +2,10 @@
 title: "Ignitions in Hong Kong"
 date: 2019-09-03
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The support of the protesters in China's Special Administrative Zone shows how the West is insisting everywhere on its 'right to interfere'."
 cover: "repression"
-draft: false
 lang: en
 ---
 

@@ -2,8 +2,9 @@
 title: "Nicaraguan slaves to sue pesticide manufacturers"
 date: 2019-11-05
 tags: "Society"
-shorttext: "In spite of valid judgments, fruitless banana workers do not receive any money. Now they complain in France."
+geo: "South America"
 draft: false
+shorttext: "In spite of valid judgments, fruitless banana workers do not receive any money. Now they complain in France."
 lang: en
 cover: "society"
 ---

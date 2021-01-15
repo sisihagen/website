@@ -2,9 +2,10 @@
 title: "Russophobia and megalomania"
 date: 2019-08-16
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "The NS Wochenschau, excuse zdf declares Russia and China to be enemies, which can only be arrived with war."
 cover: "media"
-draft: false
 lang: en
 ---
 
@@ -29,6 +30,7 @@ There are also dynamic PR images of the maneuver when the Leopard 2 ploughs thro
 #### Tank show instead of background knowledge
 
 The main problem, however, is that none of this contributes to understanding the current conflict situation. If it were really a matter of conveying important knowledge about modern geopolitical conflicts and Germany's role in the world, one would not have wasted a second of the scarce airtime with inconsequential maneuvering images — but to illuminate complex conflicts, is clearly not the intention either.
+draft: false
 
 Rather, it is a question of giving the viewer an insight into the need for armament. According to the calculations of the army, according to the documentary, 40 billion euros are only necessary for the full equipment of the promised eight German tank brigades (16:15). This corresponds to almost a complete annual defence budget.
 
@@ -79,6 +81,7 @@ Aggressive is only the opposing camp, whose leader is malicious and dictatorial.
 Media researcher Uwe Krüger confirms this impression. "There are some criteria for Ponsonby, which I also see fulfilled by the ZDF film." There is no critical view of the military-industrial complex of the West, which benefits from NATO's 2 percent target.
 
 The geopolitical and economic interests of the NATO states are a blind spot of the film, and the provocateur in the relationship between Russia and the West is always called only Putin. Even Frank-Walter Steinmeier, as German Foreign Minister, has already accused NATO of "saber-rattling and howl of war," Krüger emphasizes.
+draft: false
 
 "Anyone who watches the film without any special background knowledge will probably draw the following conclusions: we are the good guys, Putin is evil and looking for expansion, a war with Russia is imminent and Germany is doing far too little to arm itself for it. The film is frightening and represents armament as a solution."
 

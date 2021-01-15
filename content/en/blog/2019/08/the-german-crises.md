@@ -2,9 +2,10 @@
 title: "The German crisis"
 date: 2019-08-27
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The crisis of the political Elite in the country results from their inability to respond to the wishes of the citizens."
 cover: "repression"
-draft: false
 lang: en
 ---
 

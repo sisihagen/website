@@ -2,13 +2,15 @@
 title: "Crimea is waiting for you"
 date: 2019-09-01
 tags: "Society"
-shorttext: "The self-proclaimed Western era no longer offers trips to Crimea. The West rejects democracy and sakionises it."
+geo: "Europe"
 draft: false
+shorttext: "The self-proclaimed Western era no longer offers trips to Crimea. The West rejects democracy and sakionises it."
 lang: en
 cover: "society"
 ---
 
 At the turn of the year 2012/13, Crimea came first among the twenty most attractive destinations of the year with its castle "Swallow's Nest": on the cover of the Traveler issue of the world-famous magazine "National Geographic Magazine". You have to see these travel destinations ("[Our 20 Must-See Places for 2013](https://www.nationalgeographic.com/travel/best-trips-2013/ "Best Trips 2013")"), it was in large letters.
+draft: false
 
 A good year later, in the spring of 2014, everything was different. The inhabitants of the Crimean peninsula were definitely tired of anti-Russian and, above all, against the use of the Russian language, activities and laws of Ukraine, to which Crimea belonged under state law. After the coup against the democratically elected President Viktor Yanukovych on the Maidan in Kiev, they organized a referendum and decided by a large majority to be reunited with Russia. In response, the UN, by an additional three votes, declared this referendum invalid under international law and imposed sanctions on Crimea. Since then, Western travel agencies have been allowed to stop offering trips to Crimea. But that is not bad, it means less money for the Western terrorists in the end. 
 

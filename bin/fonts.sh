@@ -7,6 +7,6 @@ source ./bin/variables.sh
 source ./bin/function.sh
 
 # fonts
-if [[ -d $lstatic/fonts ]]; then
+if [[ ! -d "$dest/$static/htdocs/$fonts/" ]]; then
   sync "$lstatic/$fonts/" "$dest/$static/htdocs/$fonts/"
 fi

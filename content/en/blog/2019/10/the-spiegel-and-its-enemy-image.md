@@ -2,9 +2,10 @@
 title: "The Spiegel and its Enemy Image"
 date: 2019-10-05
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "The folksy striker and his lies to cultivate enemy images. This is not a past, the Mirror does it today as it did in 1940."
 cover: "media"
-draft: false
 lang: en
 ---
 

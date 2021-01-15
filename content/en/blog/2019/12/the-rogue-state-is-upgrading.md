@@ -2,9 +2,10 @@
 title: "The rogue state is upgrading"
 date: 2019-12-28
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "Trump has not yet started a war, in the background not only is the impeachment being worked on, No, it is also being upgraded."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -16,7 +17,6 @@ Later that same day, the House of Representatives, which is controlled by Democr
 
 {{< image srcwebp="/static/img/content/2019/304.webp" srcalt="/static/img/content/2019/304.jpg" title="The fucking USA is destroyed not alone by the elites." >}}
 
-The fact that Congress has approved these budget measures illustrates both the support of both parties for the political Agenda of the fascist president and the right-wing nature of the Democrats ' impeachment proceedings against Trump. The military authorization bill includes [1.375 billion dollars](https://thehill.com/homenews/senate/474729-spending-deal-to-include-1375-billion-for-border-barriers "Spending deal to include $1.375 billion for border barriers") for the construction of Trump's border wall. Previously, an addition from an earlier draft that would have prohibited Trump from diverting funds for his wall project from other Pentagon accounts had been deleted.
 
 At the same time, House Democrats have removed a passage that would reduce the amount the military can move from one account to another from $ 9.5 billion to $ 1.5 billion. As Democrats know, Trump will use the "national state of emergency" at the border he declared last February to illegally allocate funds from the Pentagon budget that Congress has earmarked for other things to finance the border wall. So he will get enough money through these maneuvers in the result to build the wall.
 

@@ -2,8 +2,9 @@
 title: "2020, New Year, new game"
 date: 2019-12-31
 tags: "Society"
-shorttext: "Keywords on the world situation: hot climate, headless growth and monetary policy, arms mania, Migration, population growth."
+geo: "Europe"
 draft: false
+shorttext: "Keywords on the world situation: hot climate, headless growth and monetary policy, arms mania, Migration, population growth."
 lang: en
 cover: "society"
 ---

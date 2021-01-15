@@ -2,9 +2,10 @@
 title: "Where he's right ..."
 date: 2019-11-01
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "Donald Trump has clearly criticised US wars in the Middle East, which does not fit the war drivers."
 cover: "repression"
-draft: false
 lang: en
 ---
 

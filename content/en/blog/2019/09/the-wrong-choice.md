@@ -2,8 +2,9 @@
 title: "The wrong choice"
 date: 2019-09-07
 tags: "Society"
-shorttext: "The destructive power of a party cartel, which no longer allows real alternatives, can only be broken by abstention."
+geo: "Europe"
 draft: false
+shorttext: "The destructive power of a party cartel, which no longer allows real alternatives, can only be broken by abstention."
 lang: en
 cover: "society"
 ---

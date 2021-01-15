@@ -2,9 +2,10 @@
 title: "The Nation-State Of India"
 date: 2019-11-05
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "There are numerous conflicts in the world that our media do not pay attention to. This also includes India, a Nationalist wants to abolish minorities."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -39,10 +40,12 @@ On the other hand, it is clear that the US is also one of Pakistan's most import
 Another actor, far more present in Pakistan than the US, is China. The Pakistani economy has become dependent on the Chinese. In recent years, Beijing has invested in numerous projects. A total investment volume of between [US $ 46 billion and US $ 65 billion](https://www.thehindu.com/news/international/xi-jinping-visit-to-pakistan-preview/article7114980.ece "Xi comes calling to Pakistan, bearing gifts worth $45 billion"). Some might claim that large parts of Pakistan are de facto China and Khans predecessors have sold the country more or less. India is also an important trading partner of China, but in the case of Pakistan, the relationship goes far beyond that of a partner, which is also evident "on the ground".
 
 In regions such as the province of Baluchistan, which has been regarded as a troubled heart for decades, [Chinese colonization](https://www.business-standard.com/article/news-ani/cpec-turning-balochistan-into-chinese-colony-says-baloch-leader-118112500493_1.html "CPEC turning Balochistan into Chinese colony, says Baloch leader") is openly spoken. In the province there is, among other things, the port city of Gwadar, in which billions were pumped into Beijing because of its geostrategic importance. All this did not happen from today to tomorrow and was accompanied by constant unrest. The people of the Baloch is oppressed for decades by the Pakistani state. Separatist groups, mainly Marxist, repeatedly attack Chinese stations and commit terrorist attacks.
+draft: false
 
 Similarly problematic is the situation in the neighbouring provinces of Khyber Pakhtunkhwa and FATA, the Pashtun tribal areas bordering Afghanistan. Here, too, the Pakistani military and Secret Service prefer to suppress the local Pashtuns and to smash any uprising, even if it takes place in a peaceful manner, as it has happened in recent months. Such circumstances make it clear why Imran Khan's words in the context of Kashmir seem improbable to many people in his own country.
 
 #### Local interests always differ from geopolitical interests
+draft: false
 
 In this respect, the role of another state in the Region, Afghanistan, should also be taken into account. The Kabul government is regarded as a close ally of India. This has a certain Tradition, because almost all the Afghan central governments of the last forty years have maintained a friendship with India and an hostility with Pakistan. At the same time, all insurgent groups – whether Mujahideen in the 1980's or the Taliban to this day – had a close, albeit not always friendly relationship with the same people because of their dependence on the neighbouring state. At the same time the Afghan was in Pashtun nationalism, considered annexed to the above-mentioned border provinces as illegal, has always been a thorn in the side of Islamabad. That nationalism germinated early in the first days of the Afghan Republic in the 1970s, as the first President of the country, Mohammad Daoud Khan, the handle with the Finger in the wound and Pakistan FLV and Pashtun regions as parts of Afghanistan, to be referred to. The Kabul governments, which have been in power since 2001, continue to cultivate this nationalism. President Ashraf Ghani even intervened via Twitter last year when Pakistan's Pashtuns loudly demonstrated, expressing his solidarity. An act that was regarded by Pakistani officials as scandalous Intervention. The rebel Pashtuns committed to the nonviolent Protest are accused of being agents of the Indian or Afghan Secret Service at the latest ever since. In the internal Afghan debate, however, the same is also accused of the insurgent Kashmiris. The only difference is that they are called Pakistani agents.
 

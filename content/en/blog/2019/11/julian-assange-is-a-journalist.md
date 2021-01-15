@@ -2,8 +2,9 @@
 title: "Julian Assange is a Journalist"
 date: 2019-11-23
 tags: "Media"
-shorttext: "If it fits with the enemy image is fought for the Journalist, the Journalist attacks the Western world image of being better he is enemy to politics and media."
+geo: "Europe"
 draft: false
+shorttext: "If it fits with the enemy image is fought for the Journalist, the Journalist attacks the Western world image of being better he is enemy to politics and media."
 lang: en
 cover: "media"
 ---
@@ -49,6 +50,7 @@ But people like Chelsea Mannings and Julian Assange or whistleblowers like Edwar
 {{< image srcwebp="/static/img/content/2019/253.webp" srcalt="/static/img/content/2019/253.jpg" title="Die Auslieferung von Julian Assange an die US-Justizbehörden wird nicht lange auf sich warten lassen. " >}}
 
 Elsewhere, the ARD da was much more "courageous": however, it was about a recognized member of the” public moral Court", employed by the Springer group. In Deniz Yücel, there was no need to show a flag. Although it was a question of showing solidarity with journalists detained in Russia, the moral blow-up was about to burst. But courage is necessary and convenient when swimming together in the outrage sump soaked by morality.
+draft: false
 
 {{< youtube "hBZEJS32r8I" >}}
 

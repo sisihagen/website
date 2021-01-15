@@ -2,10 +2,11 @@
 title: "The road to authoritarianism is paved with lies"
 date: 2019-07-21
 tags: "society"
+geo: "World"
+draft: false
 shorttext: "Lies are part of the condition humaine. But when politicians make lying a 'business principle', democracy is in danger."
 cover: society
 lang: en
-draft: false
 ---
 
 His flexible relationship with truth has not been a hindrance to his career: the likely new British Prime Minister Boris Johnson is widely regarded as a notorious liar and swindler. The examples are numerous. He deliberately misled the public with false claims before the 2016 Brexit vote. Johnson claimed at the time, for example, that the UK would have to [pay 350 million](https://www.theguardian.com/politics/reality-check/2016/may/23/does-the-eu-really-cost-the-uk-350m-a-week "Why Vote Leave's £350m weekly EU cost claim is wrong") pounds a week to the EU. That money should be better invested in the NHS, Johnson said. The head of the UK Public Statistics Authority felt compelled to clarify the matter: these were gross amounts and the UK was getting a significant part of the sum back. "This is a clear misuse of public statistics," the agency told Johnson in writing. However, a private individual's claim against Johnson for misleading the public was dismissed.
@@ -45,6 +46,7 @@ The development of the legal system and the rule of law is exemplary. Archaic ru
 #### Abandoning the ritual of apology
 
 Guido Kalberer put the situation in a speech in the Bund on the occasion of the 90th birthday of the philosopher Jürgen Habermas in June 2019. One misses Habermas' voice, which rarely speaks out in public, "in our days, when many leading politicians use the lie outrageously. While they apologized a few years ago, today they themselves refrain from this ritual. This current cynicism is now being accepted, even encouraged, by sections of the public: some politicians who are committed to fake news will be re-elected at the next best opportunity."
+draft: false
 
 #### The erosion of democracy
 

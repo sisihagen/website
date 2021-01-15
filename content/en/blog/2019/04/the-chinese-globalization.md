@@ -2,9 +2,10 @@
 title: "The Chinese globalization"
 date: 2019-04-21
 tags: "Society"
+geo: "Asia"
+draft: false
 shorttext: "China is attacking, the Hunger for raw materials, power and participation internationally."
 cover: "society"
-draft: false
 lang: en
 ---
 

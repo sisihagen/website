@@ -2,8 +2,9 @@
 title: "Development assistance more causes of Migration"
 date: 2019-12-10
 tags: "Society"
-shorttext: "Development assistance enhances migration causes - charity, robbery, murder and land grabbing do not eliminate the roots of poverty."
+geo: "World"
 draft: false
+shorttext: "Development assistance enhances migration causes - charity, robbery, murder and land grabbing do not eliminate the roots of poverty."
 lang: en
 cover: "society"
 ---

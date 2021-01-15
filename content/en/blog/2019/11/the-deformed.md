@@ -2,9 +2,10 @@
 title: "The Deformed"
 date: 2019-11-06
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The Bundeswehr promotes narcissistic and problematic personality structures."
 cover: "repression"
-draft: false
 lang: en
 ---
 

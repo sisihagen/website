@@ -2,8 +2,9 @@
 title: "Oil, poison or gold"
 date: 2019-08-23
 tags: "Society"
-shorttext: "How oil shaped the life of the farmer Mariana in the Amazon region of Ecuador and that of the travel expert Beatrice from Basel."
+geo: "South America"
 draft: false
+shorttext: "How oil shaped the life of the farmer Mariana in the Amazon region of Ecuador and that of the travel expert Beatrice from Basel."
 lang: en
 cover: "society"
 ---

@@ -2,8 +2,9 @@
 title: "Bank guardian becomes Bankster"
 date: 2019-12-30
 tags: "Society"
-shorttext: "Adam Farkas, director of the European Banking Authority, joins one of the most powerful financial lobby groups in the world."
+geo: "Europe"
 draft: false
+shorttext: "Adam Farkas, director of the European Banking Authority, joins one of the most powerful financial lobby groups in the world."
 lang: en
 cover: "society"
 ---

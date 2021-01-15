@@ -2,8 +2,9 @@
 title: "Let's swim on river"
 date: 2019-09-04
 tags: "Society"
-shorttext: "Let us get out of the fatal game of the powerful and swim in our own direction!"
+geo: "World"
 draft: false
+shorttext: "Let us get out of the fatal game of the powerful and swim in our own direction!"
 lang: en
 cover: "society"
 ---

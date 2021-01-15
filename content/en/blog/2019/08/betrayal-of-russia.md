@@ -2,9 +2,10 @@
 title: "Betrayal of Russia"
 date: 2019-08-30
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "With all the Power of the USA to push Europe and Russia into a dangerous confrontation."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -72,7 +73,6 @@ At the time of the US Invasion in Iraq, Clapper was head of the National Geospat
 
 Our inability to oversee or control senior intelligence officials and their authorities inventing information to enforce certain agendas defined by the shadow state announces the death of democracy. It is above all the secret service officers with the apparent authority to lie, those instruments of Surveillance, intimidation and coercion are available. This effectively silences critics, even blunders investigations of their activities within the government, and makes them and their authorities inviolable.
 
-"There is the" [Steele Dossier](/static/downloads/Trump-Intelligence-Allegations.pdf "Steele Dossier")", which spoofed around in the American Media, " Cohen said about Christopher Steele's secret report on alleged contacts Donald Trumps with Russia. The report was commissioned by the [Fusion GPS](https://www.influencewatch.org/for-profit/fusion-gps/ "Fusion GPS") Detective Agency and paid for by Hillary Clinton's presidential campaign and the National Organization of the Democratic Party. [Bob Woodward](https://www.washingtonexaminer.com/news/bob-woodward-steele-dossier-appeared-in-draft-of-us-intel-assessment-on-russian-meddling "Bob Woodward: Steele dossier appeared in draft of US intel assessment on Russian meddling") reported that Brennan urged to include the" Steele Dossier " in the assessment of the Russian electoral intervention by the US intelligence services.
 
 "He (Steele) has everything from the American media," said Cohen. "I strongly doubt that he had a single Russian source. Then Steele presents this Dossier, and claimed: 'I have information from high level sources.'The Clinton campaign finances this measure. But Steele is an important figure. He is an employee of the British Secret Service, which was active in Russia and directed Russian cases. He says he has this Information that Trump is having sex with prostitutes. That Trump was corrupted decades ago. He had this from' high-ranking ' sources of the Kremlin. This is absurd and illogical."
 

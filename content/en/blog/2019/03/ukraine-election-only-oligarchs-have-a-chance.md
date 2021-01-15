@@ -2,6 +2,7 @@
 title: "Ukraine election: Only Oligarchs have a Chance"
 date: 2019-03-23
 tags: "society"
+geo: "Europe"
 shorttext: "It is about Money, about a lot of Money even – in terms of Use and even more so in Terms of yield. Whoever becomes president has Billions on for sure."
 cover: "society"
 lang: en

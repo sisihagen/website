@@ -2,9 +2,10 @@
 title: "Nord Stream 2 stops no one"
 date: 2019-12-22
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The American terrorists struck again. They want to protect us Europeans from Russian Gas and open up useless sanctions."
 cover: "repression"
-draft: false
 lang: en
 ---
 

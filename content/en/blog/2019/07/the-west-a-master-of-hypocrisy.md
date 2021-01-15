@@ -2,9 +2,10 @@
 title: "The West, a master of hypocrisy"
 date: 2019-07-23
 tags: "state"
+geo: "World"
+draft: false
 shorttext: "The US and the EU claim to punish Putin. Victims are others. The masters of the hypocrisy of human rights, freedom and peace."
 cover: "repression"
-draft: false
 lang: en
 ---
 

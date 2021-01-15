@@ -2,8 +2,9 @@
 title: "The Russian TV about the fall of the wall"
 date: 2019-11-20
 tags: "Media"
-shorttext: "That the Russian view of the fall of the wall is a different from the German media should be clear. That is why I would like to present the report once again."
+geo: "Europe"
 draft: false
+shorttext: "That the Russian view of the fall of the wall is a different from the German media should be clear. That is why I would like to present the report once again."
 lang: en
 cover: "media"
 ---
@@ -33,6 +34,7 @@ In Russia, the fall of the Berlin Wall is just as important as in Germany itself
 > "Any colonialist coming to a developing country to exploit labor and resources will tell you that he only wants to help. The largest German companies do not even have offices in the East. When a branch is opened, it is run by Westerners. Imagine, a specialist in the East earns less than a craftsman in the West," said Jürgen Paul, member of the Bundestag from the Alternative for Germany.
 
 > The crisis of the classical bourgeois parties in Germany, CDU and SPD, reflects a major process that has taken hold of the neoconservative and neoliberal elites of the West. Since the fall of the wall they were all headed by Brzezinski's prediction that the new world order will be built on the rubble of Russia.
+draft: false
 
 > This did not work, although they were very close to the target. So they had to change the concept, although this is also exaggerated: because there was no competition between the systems, which could have produced new ideas, there was no concept. It ran out on banal robberies: Iraq, Syria, Ukraine. Now they are looking for growth reserves in trade wars with each other. New walls are being built: the Brexit is a wall. In the middle of the month, Trump will decide whether he wants to burden German cars with customs duties, that would be very bad for Germany. But so is the state of affairs in the world economy. She has come to the point where it is true: you die today and tomorrow I die.
 

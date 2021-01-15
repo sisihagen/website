@@ -2,9 +2,10 @@
 title: "U.S. missile defense is an attack"
 date: 2019-08-13
 tags: "state"
+geo: "North America"
+draft: false
 shorttext: "It suffices 10 minutes with Google and you find out that the USA does not defend but attack with the anti-missile system."
 cover: "repression"
-draft: false
 lang: en
 ---
 

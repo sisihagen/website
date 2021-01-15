@@ -2,10 +2,11 @@
 title: "The National Observer"
 date: 2019-08-10
 tags: "media"
+geo: "Europe"
+draft: false
 shorttext: "The mainstream media is stoking the mood of war against Russia, spreading propaganda and declaring Russia Today an 'enemy broadcaster'."
 cover: "media"
 lang: en
-draft: false
 ---
 
 Delegitimizing enlightenment is a very important strategy in the media war. This is how RT Deutsch did, which repeatedly reveals blind spots of the usual press coverage. The accusation that this form of counter-publicity is "propaganda" is, of course, particularly embarrassing when they come from notorious western establishment campaigners, such as ZDF, which recently stood out for particularly inappropriate incitement to war.

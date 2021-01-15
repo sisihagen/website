@@ -2,8 +2,9 @@
 title: "The Green Hypocrites"
 date: 2019-10-16
 tags: "Society"
-shorttext: "The Greens have cleared the way for fracking gas. Once again, the party is proving to be a climate killer!"
+geo: "World"
 draft: false
+shorttext: "The Greens have cleared the way for fracking gas. Once again, the party is proving to be a climate killer!"
 lang: en
 cover: "society"
 ---

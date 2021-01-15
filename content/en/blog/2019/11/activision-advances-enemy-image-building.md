@@ -2,9 +2,10 @@
 title: "Activision advances enemy image building"
 date: 2019-11-01
 tags: "Media"
+geo: "North America"
+draft: false
 shorttext: "The American culture means paying homage to the declared enemies of the government in Hollywood and games boosts Activision perverts."
 cover: "media"
-draft: false
 lang: en
 ---
 

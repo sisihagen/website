@@ -2,9 +2,10 @@
 title: "Putsch, or not Putsch?"
 date: 2019-11-19
 tags: "State"
+geo: "South America"
+draft: false
 shorttext: "In the media, no one speaks of a coup in Bolivia. In this way, the federal government is played into the hands of. Politics and journalism-a symbiosis."
 cover: "repression"
-draft: false
 lang: en
 ---
 

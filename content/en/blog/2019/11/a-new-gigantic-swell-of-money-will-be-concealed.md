@@ -2,8 +2,9 @@
 title: "A new gigantic swell of money will be concealed"
 date: 2019-11-04
 tags: "Society"
-shorttext: "The US central bank has launched the next swell of money through the back door in recent weeks."
+geo: "North America"
 draft: false
+shorttext: "The US central bank has launched the next swell of money through the back door in recent weeks."
 lang: en
 cover: "society"
 ---

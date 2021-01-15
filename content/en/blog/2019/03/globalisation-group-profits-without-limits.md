@@ -2,6 +2,7 @@
 title: "Globalisation: Group Profits without limits"
 date: 2019-03-31
 tags: "society"
+geo: "World"
 shorttext: "Corporations work where people earn little and sell where people earn a lot. That's wrong."
 cover: "society"
 lang: en

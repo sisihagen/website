@@ -2,6 +2,7 @@
 title: "Growth is destroying our earth"
 date: 2019-06-16
 tags: "society"
+geo: "World"
 shorttext: "Individuals can do a lot for the environment. This does not change the ruinous growth and wear economy of the powerful."
 cover: society
 lang: en

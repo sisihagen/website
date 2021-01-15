@@ -2,9 +2,10 @@
 title: "The Illegal War in Libya"
 date: 2019-07-29
 tags: "state"
+geo: "Africa"
+draft: false
 shorttext: "The Libyan war was a crime. It demonstrates the west's desire to maintain its importance through military destruction."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -83,6 +84,7 @@ It is one of the fundamental principles of international law that a government h
 This was the case in Libya. American weapons, for example, were smuggled across the Egyptian border to the "pro-democracy rebels" even before the uprising erupted under Washington's tacit tolerance. This practice was continued by France in violation of the arms embargo imposed by the UN.
 
 They were therefore looking for a pretext for aggression and raised a legitimation backdrop for pseudo-reasons, behind which the true economic and geostrategic interests were hidden: 1) Libya was a state promoter of terrorism, 2) human rights in Libya is in danger, 3) civilians must be protected from "massacres" by the government.
+draft: false
 
 #### Libya: a "state promoter of terrorism"?
 
@@ -122,6 +124,7 @@ The joint investigation report of the Norwegian Ministry of Defence and Foreign 
 
 Resources Finance, Geostrategic Interests
 The aim of the war against Libya was not to protect the civilian population, but 1) to secure access to African resources, 2) to worry about the loss of Western control of Libyan banking through the planned introduction of the Gold Dinar, 3) the Safeguarding geostrategic interests in Africa and the Middle East.
+draft: false
 
 #### Securing access to African resources
 
@@ -138,10 +141,12 @@ These reserves should be used to cover a pan-African currency based on the Libya
 The US 'frozen' Libyan government funds of at least US $ 30 billion should also contribute to Libya's financing of three core African monetary independence projects: the African Investment Bank in Sirte, the African Monetary Fund based in Yaoundé (Cameroon) and the African Central Bank in Abuja (Nigeria). The establishment of these bodies would have enabled the continent to escape the financial control of the continent by the IMF and the world Bank. An African central bank issuing its own money on the basis of Libyan Gold support would also have given the Francophone States of Africa an Alternative to the French CFA Franc. According to President Sarkozy, Libya represented a "threat to the financial security of humanity” through all these activities.
 
 Geostrategic interests of the US in Africa: "Great Game South" the Libya war is a Station of the African variant of the new "Great Game", the geopolitical "game" for power and influence on Eurasia, which was carried out in the 18th/19th century between Great Britain and the Tsar Empire for access to India. This battle has long been underway with new players, supplemented by the” Great Game South": the fight for Africa. The US and its Western allies aim to neutralize the influence of China and Russia in Africa. Libya played a key role, because it was the only state in the Region that was not under the supervision of AFRICOM or NATO-partnership.
+draft: false
 
 The Mediterranean sea is to be converted into a NATO internal sea, in North Africa a springboard for AFRICOM in Africa. The mission of AFRICOM is to co-ordinate American military activities in Africa in order to contribute to enhancing "security and stability”. African States should be enabled to develop the "democracy” to promote economic development, to provide for a common defense, and to serve their peoples better. In 2008, Vice Admiral Robert Moeller, then deputy African commander, said that the aim was to secure the free access of African resources to the "world market” – that is, the euro-American market. The African Union's armed forces are to be integrated into a chain of command, headed by the American African commander.
 
 The war against Libya was also about the establishment of an external post as a Basis for the American projection of power in the Rest of the African continent. From there, the Maghreb, the southern Mediterranean and the countries of the Sahel-Zone are to be controlled. The emergence of a new network of intra-African cooperation is to be prevented, and Africa's Reflection on its own strength torpedoed, because this is contrary to the geostrategic and economic interests of the euro-American powers. With Gaddafi, you got rid of the sharpest adversary of the neo-colonial AFRICOM project, because he was strictly against a base for AFRICOM on African soil.
+draft: false
 
 During his term as president of the African Union in 2009-2010, Gaddafi set all the levers against the Expansion of Africa in motion, so that its headquarters in Stuttgart had to remain. A U.S. embassy delegation in Tripoli informed US Secretary of State Rice before her visit to Libya in 2008 about the Libyan government's negative attitude to a US military presence in Africa " " regarding AFRICOM, the government of Libya considers that any foreign military presence on the African continent, regardless of its mission, would constitute unacceptable Neo-colonialism and also an attractive target for al-Qaeda”.
 

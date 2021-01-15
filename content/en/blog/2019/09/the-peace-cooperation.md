@@ -2,9 +2,10 @@
 title: "The Peace-Cooperation"
 date: 2019-09-17
 tags: "Society"
+geo: "World"
+draft: false
 shorttext: "The environmental and peace movement must work together against the global machinery of death."
 cover: "society"
-draft: false
 lang: en
 ---
 

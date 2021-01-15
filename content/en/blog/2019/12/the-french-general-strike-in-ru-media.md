@@ -2,9 +2,10 @@
 title: "The French General strike in RU media"
 date: 2019-12-22
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "In France, the bankster Macron rages, who wants to get his buddies from the economy customers and therefore cuts the pensions."
 cover: "media"
-draft: false
 lang: en
 ---
 

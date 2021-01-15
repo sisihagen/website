@@ -2,6 +2,7 @@
 title: "Germany redefines the concept of anti-Semitism"
 date: 2019-06-30
 tags: "society"
+geo: "Europe"
 shorttext: "German politics is increasingly following the guidelines of the Israel lobby: Criticism of Israel's occupation policy is anti-Semitism"
 cover: society
 lang: en

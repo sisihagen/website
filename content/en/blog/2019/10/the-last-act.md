@@ -2,8 +2,9 @@
 title: "The last act"
 date: 2019-10-22
 tags: "Society"
-shorttext: "If humanity does not want to be on the basis of its habitat, it must free itself from the spell of the neoliberal fools and scammers."
+geo: "World"
 draft: false
+shorttext: "If humanity does not want to be on the basis of its habitat, it must free itself from the spell of the neoliberal fools and scammers."
 lang: en
 cover: "society"
 ---

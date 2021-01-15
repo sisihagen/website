@@ -2,8 +2,9 @@
 title: "We are the perpetrators"
 date: 2019-12-12
 tags: "Society"
-shorttext: "In a society based on warfare, we must confront the war-mongering active, to be their accomplices."
+geo: "World"
 draft: false
+shorttext: "In a society based on warfare, we must confront the war-mongering active, to be their accomplices."
 lang: en
 cover: "society"
 ---

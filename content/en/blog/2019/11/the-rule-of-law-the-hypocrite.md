@@ -2,8 +2,9 @@
 title: "The rule of law, the hypocrite"
 date: 2019-11-18
 tags: "Society"
-shorttext: "Julian Assange? Is this not the pro-Russian spy, the rapist, narcissist, the alleged child molester, the completely unarmed guy, who smeared his feces at the walls of the embassy, which granted him long refuge?"
+geo: "Europe"
 draft: false
+shorttext: "Julian Assange? Is this not the pro-Russian spy, the rapist, narcissist, the alleged child molester, the completely unarmed guy, who smeared his feces at the walls of the embassy, which granted him long refuge?"
 lang: en
 cover: "society"
 ---

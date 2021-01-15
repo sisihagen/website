@@ -2,8 +2,9 @@
 title: "Rational demagoguery"
 date: 2019-10-02
 tags: "Society"
-shorttext: "The Bertelsmann Foundation manipulates political discourse by redefining old-age poverty."
+geo: "Europe"
 draft: false
+shorttext: "The Bertelsmann Foundation manipulates political discourse by redefining old-age poverty."
 lang: en
 cover: "society"
 ---

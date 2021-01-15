@@ -2,9 +2,10 @@
 title: "Maidan 2014"
 date: 2019-08-18
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "To this day, the media spreads false news about the bloody events during the Maidan. Let's look at the progress ..."
 cover: "media"
-draft: false
 lang: en
 ---
 

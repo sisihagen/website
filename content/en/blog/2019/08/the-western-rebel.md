@@ -2,9 +2,10 @@
 title: "The Western Rebel"
 date: 2019-08-28
 tags: "State"
+geo: "South America"
+draft: false
 shorttext: "The West does not want to help in Venezuela, the West wants to overthrow to install neoliberal pigs. Venezuela is to be robbed."
 cover: "repression"
-draft: false
 lang: en
 ---
 
@@ -145,6 +146,7 @@ However, the preparatory meeting in Montevideo, attended by representatives of e
 Mexico and Bolivia therefore rejected the statement. So far, it looks like only one side of Venezuelan society is in the so-called. Montevideo process would be supported, which does not correspond to genuine, compensatory negotiations and a sustainable settlement of conflicts in the sense of the entire Venezuelan people. Both the UN Security Council and the International Red Cross opposed the use of "humanitarian aid" as a political tool. For Venezuela, the only chance to emerge from the long-prepared crisis is to turn the Montevideo process into a real balance that also reflects the real balance of power in Venezuela and non-interventionist humanitarian and through international organisations and civil solidarity actions.
 
 However, the German Foreign Minister's trip to Brazil, Colombia and Mexico from 29.04. to 02.05.2019 counteracts precisely these genes. Principle for fair and compensatory negotiations in the Venezuelan conflict. Instead of seeking and communicating the conversation in close geographical proximity with both sides of the Venezuelan conflict, or just getting an own picture of Venezuela, Troll Haiko Maas only talks to the right-wing South American governments and opponents of the Maduro government and meets with the Venezuelan opposition in Colombia. In response to the opposition representatives' call for Germany to tighten sanctions on Venezuela further, Maas said that this would make sense to him, but that he would first like to consult with his European partners.
+draft: false
 
 In doing so, the foreign minister again takes a unilateral position and ducks away anxiously before a meeting with Maduro and his great supporters. This is not offensive and sovereign political action, which should first move independently of the economy and great power ambitions of the United States in the sense of "multilateralism".
 
@@ -159,6 +161,7 @@ From the point of view of pro-business foreign policy, therefore, mediation betw
 #### Conclusion
 
 The German position on the Venezuela question does not seem to adhere to the goals of "strategic autonomy" and its own "geopolitical identity" advocated by Chancellor Angela Merkel and Heiko Maas, since it follows the American creations and a Trump puppet and a representative of violent opposition policies such as Juan Guaidé unreservedly supported.
+draft: false
 
 The US sanctions policy, as a very consequential cause of the suffering of the Venezuelan people, is not criticized and reinforced by its own sanctions. The legend of "humanitarian aid" is actively fuelled by the government and with its own comments and pictures by German media. If there is a military intervention or civil war through the entrance gate of "humanitarian aid" from the UNITED States to Venezuela, the German government is complicit.
 

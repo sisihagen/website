@@ -2,9 +2,10 @@
 title: "The Hague is investigating Israel and Palestine"
 date: 2019-12-31
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The International criminal court to investigate alleged war crimes in the occupied Palestinian territories."
 cover: "repression"
-draft: false
 lang: en
 ---
 

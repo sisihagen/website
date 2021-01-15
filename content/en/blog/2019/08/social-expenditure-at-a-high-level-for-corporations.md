@@ -2,8 +2,9 @@
 title: "Social expendiure at a high level for Corporations"
 date: 2019-08-23
 tags: "Society"
-shorttext: "Professor Robert Reich calls open and covert subsidies to corporations by name: it is social spending for the rich."
+geo: "Europe"
 draft: false
+shorttext: "Professor Robert Reich calls open and covert subsidies to corporations by name: it is social spending for the rich."
 lang: en
 cover: "society"
 ---

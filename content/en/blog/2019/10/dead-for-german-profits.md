@@ -2,9 +2,10 @@
 title: "Dead for German profits"
 date: 2019-10-07
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "An open letter from peace organizations calls for an end to arms deliveries to the Saudi-led military coalition."
 cover: "repression"
-draft: false
 lang: en
 ---
 

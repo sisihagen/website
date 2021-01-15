@@ -2,9 +2,10 @@
 title: "The voice of Power"
 date: 2019-11-02
 tags: "Media"
+geo: "World"
+draft: false
 shorttext: "Global capitalism has a useful role to play in the media, an uprising of conscience on the part of the editors is in vain."
 cover: "media"
-draft: false
 lang: en
 ---
 

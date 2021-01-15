@@ -2,9 +2,10 @@
 title: "The European Enemy Image China"
 date: 2019-09-26
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The EU no longer sees China as a partner. It follows in the footsteps of the US, NATO, the new enemy being China."
 cover: "repression"
-draft: false
 lang: en
 ---
 

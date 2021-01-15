@@ -2,9 +2,10 @@
 title: "Australian Greens pass motion on Assange's defence"
 date: 2019-09-26
 tags: "State"
+geo: "Australien"
+draft: false
 shorttext: "A request, not deeds. The Greens in Australia are all but the Greens on the doorstep. Followers, power people, clientele politics."
 cover: "repression"
-draft: false
 lang: en
 ---
 

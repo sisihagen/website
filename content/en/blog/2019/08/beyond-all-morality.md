@@ -2,9 +2,10 @@
 title: "Beyond all morality"
 date: 2019-08-24
 tags: "State"
+geo: "South America"
+draft: false
 shorttext: "Venezuela and Iran are in the crosshairs of a hypocritical 'murderer's company' that throws all international rules over the top."
 cover: "repression"
-draft: false
 lang: en
 ---
 

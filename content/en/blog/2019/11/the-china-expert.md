@@ -2,9 +2,10 @@
 title: "The China Expert"
 date: 2019-11-26
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "Adrian Zenz is currently a sought-after expert in Bashing against China. In doing so, the Muslims are advanced which the West itself slaughters."
 cover: "media"
-draft: false
 lang: en
 ---
 

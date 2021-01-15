@@ -2,8 +2,9 @@
 title: "I am"
 date: 2019-08-26
 tags: "Society"
-shorttext: "Nations are experiencing a renaissance as bulwarks against globalization, but the solution is not."
+geo: "World"
 draft: false
+shorttext: "Nations are experiencing a renaissance as bulwarks against globalization, but the solution is not."
 lang: en
 cover: "society"
 ---

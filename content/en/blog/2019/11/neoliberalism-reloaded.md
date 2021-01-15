@@ -2,8 +2,9 @@
 title: "Neoliberalism reloaded"
 date: 2019-11-29
 tags: "Society"
-shorttext: "The defeats of socialist governments like Bolivia are also due to the fact that they only half-heartedly started their Revolution."
+geo: "South America"
 draft: false
+shorttext: "The defeats of socialist governments like Bolivia are also due to the fact that they only half-heartedly started their Revolution."
 lang: en
 cover: "society"
 ---
@@ -64,6 +65,7 @@ Lessons? We see the following.
     capitalist owners, a democratization and decentralization of the
     media took place only partially and not related to the Central
     bourgeois or conservative media.
+draft: false
 
 4.  The new left governments developed their own bureaucracy, a
     remoteness, and partly arrogance. A real co-determination of people,

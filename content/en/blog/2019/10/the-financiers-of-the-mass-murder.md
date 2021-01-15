@@ -2,8 +2,9 @@
 title: "The financiers of the mass murder"
 date: 2019-10-30
 tags: "Society"
-shorttext: "Switzerland is not going to war, it finances it with investments of almost $ 9 billion in nuclear weapons."
+geo: "Europe"
 draft: false
+shorttext: "Switzerland is not going to war, it finances it with investments of almost $ 9 billion in nuclear weapons."
 lang: en
 cover: "society"
 ---

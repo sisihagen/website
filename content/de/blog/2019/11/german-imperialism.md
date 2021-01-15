@@ -2,7 +2,7 @@
 title: "Deutscher Imperialismus"
 date: 2019-11-24
 tags: "Gesellschaft"
-Geo: "Europa"
+geo: "Europa"
 shorttext: "Wollt Ihr den totalen Krieg? Eine Frage die Faschisten schon einmal stellten. Heute ist es von der Leyen und Annegret Kramp-Karrenbauer die Krieg wollen."
 draft: false
 lang: de

@@ -2,8 +2,9 @@
 title: "Distracting from war with climate and migration"
 date: 2019-10-12
 tags: "Society"
-shorttext: "The discussions on climate, migration and Ukraine are distracting from Western preparations for war."
+geo: "Europe"
 draft: false
+shorttext: "The discussions on climate, migration and Ukraine are distracting from Western preparations for war."
 lang: en
 cover: "society"
 ---
@@ -43,6 +44,7 @@ For the first time in many years, Russia is officially named as the main enemy i
 {{< youtube "wbNDM6eXM5I" >}}
 
 For the first time since the old Cold War, which Russia, let us be honest, has lost, one treaty after another is being destroyed, which has laid down the rules in the 'game' around nuclear weapons and their delivery systems. We must be aware that these international treaties were concluded during the Cold War. In other words, even during this tough confrontation, they decided against taking steps towards confrontation and worked out functioning security mechanisms. We have to assume that the reason was in the generation: they were people who could remember what a global conflict meant, people who experienced their youth during the Second World War and during the reconstruction after the war. It was precisely these generals and politicians who knew the price of blood who, during the Cuban Missile Crisis, went to the brink of the abyss and moved away from it again. The new generation of "effective managers" understands how to play war in the theatre and they give orders that are very courageous and often ruthless. They are ready to go to the abyss, but they lack the useful fear of death that previous peoples had, who experienced not only what war means to themselves, but also for their peoples. Today, however, their own peoples are no longer regarded as what one has to protect, but as a playground for the outgrowth of one's own management talents.
+draft: false
 
 Let us list these treaties: it began with the 1972 Anti-Ballistic Missile Treaty (ABM Treaty), in which the United States and the Soviet Union allowed themselves to protect only one area with defensive missiles, which in fact led to the race for ever better Attack and defensive weapons ended because it was now clear that the first strike only means that you will be destroyed in the second. This treaty was unilaterally terminated by the United States under George W. Bush, at that time still without the usual excuses that "the Russians started". He was simply fired. The argument was that the United States wanted to defend itself against Iranian missiles (which Iran did not have at the time), but the missile defense systems have long been in Eastern Europe, and no one today denies that they are in fact directed against Russia.
 

@@ -2,9 +2,10 @@
 title: "Bolivia's Elite: fire and flame for the meat export"
 date: 2019-09-14
 tags: "State"
+geo: "South America"
+draft: false
 shorttext: "The fires in Brazil, Bolivia and Paraguay serve livestock farming, Europe, Asia and drug trafficking."
 cover: "repression"
-draft: false
 lang: en
 ---
 

@@ -2,9 +2,10 @@
 title: "Maidan 2013"
 date: 2019-08-17
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "To this day, the media spreads false news about the bloody events during the Maidan. Let's look at the beginning ..."
 cover: "media"
-draft: false
 lang: en
 ---
 
@@ -25,6 +26,7 @@ In addition to the economic fears of Russia, Russia's military fears did not pla
 "Even in the run-up to the Ukraine conflict, massive mistakes were made by the media," writes the Trier-based media scientist Verena Bläser.
 
 > On the one hand, it has not been sufficiently clear who has what interests. It is clear that the EU also has an interest in Ukraine as a geostrategic base through which Russia may feel threatened and beleaguered, as NATO has steadily expanded further eastwards.
+draft: false
 
 #### Left the right
 

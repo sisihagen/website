@@ -2,6 +2,7 @@
 title: "No to war and Atomic Rearmament"
 date: 2019-02-22
 tags: "state"
+geo: "World"
 shorttext: "Someone determines something that sounds absolutely right and then the person reveals once again the flaws of the education systems"
 cover: "repression"
 lang: en

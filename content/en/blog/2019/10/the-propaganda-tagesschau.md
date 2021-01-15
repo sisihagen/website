@@ -2,9 +2,10 @@
 title: "The Propaganda Tagesschau"
 date: 2019-10-28
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "With regard to Turkey and Kurds, ARD mocks all criteria for objective reporting. What else do you want to expect?"
 cover: "media"
-draft: false
 lang: en
 ---
 
@@ -13,6 +14,7 @@ Turkey has invaded northern Syria under international law, with the consent of t
 Our top-class people from Hamburg don't even ask the closest questions: What will be the deployment of the Bundeswehr in Syria now? What follows from the collapse of German foreign policy with regard to Syria? No, no comprehensive Information is to be expected from this editorial with the beautiful title "ARD-aktuell". For days she did not even draw attention to the obvious: presidents Erdoğan, Trump, Putin and Assad are giving the helpless German and European Swabbles a damp dust.
 
 ARD top journalists are trying to make a virtue out of their lack of knowledge of war motives and objectives; as an overture to their coverage, they are already giving the Kurds in northern Syria as the most recent victim of geopolitics, as betrayed by the US; their "autonomy" project Rojava is at the end.
+draft: false
 
 The "editors" do not even seem to use their own archives for research. Why also, they get the money in spite of the service company simply so transferred. It would have been possible to read in the archive that the US in northern Syria only want to intervene limited. In the opinion media one could have read the "autonomy"is only independent administration inside, incidentally, has no meaning.
 
@@ -89,6 +91,7 @@ How could the Kurds ever rely on the US as a protective force? A question that t
 And the Newsreel would have to ask this Minister from the ARD-Hauptstadtstudio to do so, without giving up all the usual slime shit.
 
 But oh, this is the misery: the ARD-aktuell does not do their Job, but merely runs complacency journalism. A particularly impressive pattern of Manipulation is the "explanatory piece" about the alleged interests of the parties involved in the Kurdish-Turkish conflict. It lacks the German Part, although our government is without a doubt up to the heck of a heck and it plays a major role in the European reluctance to build Turkey as a bulwark against Syrian refugees. It puts the Erdoğan on the claw for the necessary pigeons because six EuroMillions.
+draft: false
 
 Merkel, Maas and their EU buddies want to keep the European countries as refugees free as far as possible. The forced resettlement of Syrian needy people to desert-like areas and shielded "security zones" far away from Europe take them into account. It is undeniably another serious violation of international humanitarian law. To negotiate the obvious solution to the problem, namely, the brutal sanctions, on the reconstruction of Syria with the leaders in Damascus, and the billions to spend, because it allowed for the voluntary return of Syrian refugees, these political and rivets in a large arc. Where power issues are decided, human reason often remains on the way.
 
@@ -101,6 +104,7 @@ Also for this Detail was no place in the offers of the day show. She preferred t
 This is the backdrop in which the Tagesschau is already trying to disguise the planned deportation of refugees and to take the German public for the deportation zone. Everything is half as bad, even the people who live there say ... A fundamentally critical Position against Turkish expansionism to Syria is not risked.
 
 Topsy-Turvy World. With the active participation of the national news agency, the US President Trump finally and for once decides to do the right thing and ends a US military interference contrary to international law. He leaves the bomb flights and orders his troops to withdraw from a country in which they had lost nothing and which he does not seem to know much anyway; he is also promptly summoned again as a geostrategic error, as a "betrayal of allies", as a gift to the bulwark against Assad IS, as a surrender of a geopolitically important Bastion of the United States and as a waiver policy in favour of Putin.
+draft: false
 
 So it sounds from the news. Not verbally, but in the sense. The ARD-aktuell editorial staff did not draw attention to the fact that at least one Option for the end of the Syrian war, which has been raging for almost nine years, was triggered by the US withdrawal. In any case, it does not rely on the wealth of knowledge and experience of independent experts. The journalist Karin Leukefeld, journalist Michael Lüders or Prof. Günter Meyer, for example, will not appear as an interview partner in the news, in spite of their enormous expertise.
 

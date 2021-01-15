@@ -2,9 +2,10 @@
 title: "The Umbrella Extremist"
 date: 2019-10-01
 tags: "Media"
+geo: "Asia"
+draft: false
 shorttext: "Heiko Maas is enthusiastic about the umbrella revolution and a coup in China and the Tagesschau applauds."
 cover: "media"
-draft: false
 lang: en
 ---
 
@@ -59,6 +60,7 @@ Hong Kong is already falling behind in competition with other special economic z
 In Shenzhen alone, income growth was +9.1 percent between January and September this year. The economic [performance](https://www.scmp.com/news/china/economy/article/2128310/shenzhen-88-cent-hi-tech-growth-roll-hit-y2tr-2017 "Shenzhen surpasses US$338 billion GDP mark in 2017, beats Hong Kong and Singapore’s growth") of metropolises such as Singapore and Hong Kong is less impressive compared to Shenzhen. In Hong Kong, income is almost stagnating, while prices and rents are rising. In the urgent confines of the island, labor-intensive industrial settlements are no longer possible, but in Shenzhen on the mainland there is plenty of room for it. In other words, Hong Kong can no longer compete economically with the mainland, it is a phasing-out model.
 
 The solution to the problem is obvious: cooperation and, finally, the obvious integration of the economically and financial centres of Shenzhen, Hong Kong and Macau, which are so directly adjacent. There are corresponding [impulses](https://en.mercopress.com/2019/08/19/beijing-wants-the-full-integration-of-hong-kong-and-macau-to-shenzhen-industrial-hub "Beijing wants the full integration of Hong Kong and Macau to Shenzhen industrial hub") from Beijing. If they were followed, it would significantly strengthen the geopolitical position of the People's Republic of China and underline the superiority of its economic model. It explains that the UNITED States and its followers are trying to evade such a development. Where the terms of the treaty with Great Britain on the return of Hong Kong to China do not give anything away, you have to have the umbrellas taken out.
+draft: false
 
 This is not very difficult. Even as a banking, stock exchange and service centre, Hong Kong cannot offer unlimited jobs and careers. The first to see the coming end of the interesting perspective are students and young academics. Accordingly, they also form the tribe of the protest movement.
 
@@ -93,10 +95,12 @@ It was said that the perpetrators of violence were trivialized as "protesters" a
 The Tagesschau editors generously renounced the mandatory classification of the events: in Germany, incidents such as those in Hong Kong would be prosecuted as serious [breach of the peace](https://dejure.org/gesetze/StGB/125a.html "Besonders schwerer Fall des Landfriedensbruchs") , violent offenders would be treated as criminals and would have been treated with prison sentences of up to ten years. Anyone who, like the Tagesschau, takes a double standard and orients himself on the obviously crippled legal consciousness of a running boy of the US governor Grenell, is meant our foreign minister NATO Troll Heiko Maas, proves professional failure.
 
 Of course, the Tagesschau did not investigate whether British and US intelligence agencies or non-governmental organizations, NGOs lubmetled from black coffers, had their hands in the riots. The bourgeois press discussed this suspicion, however, even if it usually dismissed it as a [conspiracy theory](https://www.zeit.de/politik/ausland/2019-08/hongkong-proteste-china-polizei-armee-kommunisten-xi-jinping "Peking hofft auf mehr Gewalt"). Although not yet provable, everything points to interference from foreign circles: at the height of the Hong Kong events, two key opposition politicians appeared in the US, to whom the former senior adviser to the Trump and Bush administrations, Christian Whiton, [insured](https://popularresistance.org/hong-kong-protest-leader-hangs-out-with-white-helmets-boss/ "HONG KONG PROTEST LEADER HANGS OUT WITH WHITE HELMETS BOSS"):
+draft: false
 
 > Triggering this crisis for the Chinese government (...) is in the national interest of the United States.
 
 According to bourgeois understanding, every revolution needs a leader, a symbolic figure who stands for complex social fractures and makes them "tangible". Joshua Wong, 22, was chosen. The young man may lack maturity and political foresight, but as a radiator figure he is always good, so he also became a "democracy activist" and "ambassador of the Hong Kong resistance" in the Tagesschau. Similar lightning careers are already familiar to us: from Maidan in Kiev to that of boxing champion Vitali Klitschko, from the Venezuelan Caracas to that of the U.S. hampelman Juan Guado ...
+draft: false
 
 Wong had, as I said, been invited to Berlin as a star guest by the creators of the "Bild" at a summer festival. Then he adorned a circle of illustrious [guests](https://deutsch.rt.com/inland/92152-weisshelme-maas-wong-grenell-bild/ "Weißhelme, Maas, Wong, Grenell: Bild lädt zur Party der Freiheitskämpfer"): Putin foe Mikhail Khodorkovsky, ex-minister and fake dr. jur. Karl-Theodor zu Guttenberg, US governor and sharpener Richard Grenell, prize boxer Vitali Klitschko, the communist-eater and his local CDU party friends stymied Elmar Brok, his boss Annegret Kramp-Karrenbauer, the layman, and the Expert wonders:
 

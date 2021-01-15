@@ -2,9 +2,10 @@
 title: "The abused disaster"
 date: 2019-08-31
 tags: "Media"
+geo: "North America"
+draft: false
 shorttext: "By a negative representation of the Soviet Union, the series 'Chernobyl' tries to sell capitalism as an alternative."
 cover: "media"
-draft: false
 lang: en
 ---
 

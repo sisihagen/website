@@ -2,6 +2,7 @@
 title: "The American fascism"
 date: 2019-08-19
 tags: "State"
+geo: "North America"
 shorttext: "Trump's trade war against China is another step to put the US democracy to death."
 cover: "repression"
 draft: false

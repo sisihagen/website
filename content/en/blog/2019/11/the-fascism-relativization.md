@@ -2,8 +2,9 @@
 title: "The Fascism-Relativization"
 date: 2019-11-22
 tags: "Society"
-shorttext: "The extremism theory, which minimizes fascism by equating it with communism, is a pure winner's motive."
+geo: "World"
 draft: false
+shorttext: "The extremism theory, which minimizes fascism by equating it with communism, is a pure winner's motive."
 lang: en
 cover: "society"
 ---
@@ -11,6 +12,7 @@ cover: "society"
 If the owning class is in power without a counter-force of mass-effective strength, this means reactionary politics and exploitation of the majority. That's not new either. The victory of capitalism over feudalism with the slogans of the French Revolution *liberty, equality, fraternity* showed this — this epochal change has not led to the implementation of the progressive demands, for these three slogans. Instead, backward steps were taken to establish and secure power, even with propagandistic means. The first clear expression for this was Napoleon's self-enthronement as Emperor.
 
 In order to divert attention from the fact that bourgeois power is now re-reactionary, the ruling parties use various means, including Propaganda and Repression, as well as the de-legitimation of opponents by double Standards and the filtering of news content. A recent example is provided by the CDU Sachsens, which combines an assembly of one photo each from the war-torn Dresden after the end of the Nazi dictatorship and from a run down street scene from the late GDR, with the same Text as the two epochs: "socialism has only brought suffering, whether national or 'real existent'". Here the society called the real socialist is set with the fascism, which also receives the stamp of socialism, because the Nazis had used the term.
+draft: false
 
 > This is an incredibly trivial parable for fascism: the greatest crime of humanity is put to one level with the history of the GDR. 
 
@@ -19,6 +21,7 @@ Fascism is the open terrorist rule of brutal exploiters in Power. The Nazi state
 The Sachsen-CDU justifies its representation, which the GDR parallels with fascism figuratively and textually, with the Argument: "the two pictures show where socialist experiments have taken place. We have no interest in repetition". This argument adds to the equation of the two systems a complementary history slackening, since it calls fascism again and out of government *socialist*. The Nazis, however, had brought the socialists and Communists at the beginning of their reign in the concentration Camps and mass murdered. 
 
 The equalization of the two forms of state as elements of totalitarianism, whereby extremes from the left and right touch the edges of the political spectrum, this Manipulation is repeated in bourgeois rule since the beginnings to the present day. 
+draft: false
 
 An example of this is an Interview by the Konrad-Adenauer-Stiftung with the now deceased CDU politician Werner Dolata from the year 2013, in which he formulated: "the similarities prevail between the Nazi period and the GDR". He then differentiated this statement partially, but the statements at the beginning of a text are most likely to adhere to the consciousness of the people.
 
@@ -34,7 +37,6 @@ But what about democracy in the West?
 
 On 17 August 1956, 199 KPD party offices were searched and closed, printing works seized, Material secured, newspapers banned, party assets confiscated and officials arrested; members were financially sanctioned. 
 
-> For example, Heinz Renner — who was a member of the parliamentary council involved in the drafting of the Basic Law — is retrospectively denied his pension as a Nazi victim because of his membership of the KPD.
 
 The protection of the Constitution later admits that the KPD"did not plan any attacks on parliamentary democracy". However, there has never been any compensation for the victims.
 

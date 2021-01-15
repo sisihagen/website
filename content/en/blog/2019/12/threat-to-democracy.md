@@ -2,8 +2,9 @@
 title: "Threat to democracy?"
 date: 2019-12-24
 tags: "Society"
-shorttext: "Where can there be threats to democracy if we do not live in a democracy? We live in a dictatorship of corporations and money."
+geo: "Europe"
 draft: false
+shorttext: "Where can there be threats to democracy if we do not live in a democracy? We live in a dictatorship of corporations and money."
 lang: en
 cover: "society"
 ---

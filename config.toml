@@ -3,6 +3,7 @@ enableRobotsTXT = true
 publishDir = "public/build"
 assetDir = "static"
 enableGitInfo = true
+ignoreErrors = ["error-remote-getjson"]
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:title"
@@ -43,7 +44,7 @@ enableGitInfo = true
   [privacy.twitter]
     disable = false
     enableDNT = false
-    simple = true
+    simple = false
   [privacy.vimeo]
     disable = false
     simple = true

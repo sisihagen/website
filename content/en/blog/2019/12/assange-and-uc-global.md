@@ -2,8 +2,9 @@
 title: "Assange and UC Global"
 date: 2019-12-26
 tags: "Society"
-shorttext: "Assange said in Spain, in the trial against the corrupt company UC Global. Spectators and media were not allowed in Spain because of national security."
+geo: "Europe"
 draft: false
+shorttext: "Assange said in Spain, in the trial against the corrupt company UC Global. Spectators and media were not allowed in Spain because of national security."
 lang: en
 cover: "society"
 ---

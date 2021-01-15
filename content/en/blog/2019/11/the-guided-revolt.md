@@ -2,9 +2,10 @@
 title: "The guided revolt"
 date: 2019-11-26
 tags: "state"
+geo: "Asia"
+draft: false
 shorttext: "The protests in Lebanon, initially motivated by the social needs of the population, are being instrumentalized by Western powers."
 cover: "repression"
-draft: false
 lang: en
 ---
 

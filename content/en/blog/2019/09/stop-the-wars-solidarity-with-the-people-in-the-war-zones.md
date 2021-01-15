@@ -2,9 +2,10 @@
 title: "Stop the wars - solidarity with the people in the war zones"
 date: 2019-09-09
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "Speaking at the event, the nature fanatics Bad king at 30.4. in the gift cellar in Michelstadt. The event was held under the slogan 'stop the wars – solidarity with the people in the war zones' are."
 cover: "repression"
-draft: false
 lang: en
 ---
 

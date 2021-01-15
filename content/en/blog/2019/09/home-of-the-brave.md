@@ -2,9 +2,10 @@
 title: "Home of the Brave"
 date: 2019-09-01
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "In order to get out of the current escalation spiral, we must try to put ourselves in the position of Iran."
 cover: "repression"
-draft: false
 lang: en
 ---
 

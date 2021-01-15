@@ -2,6 +2,8 @@
 title: "The silent brave woman"
 date: 2019-12-30
 tags: "Society"
+geo: "World"
+draft: false
 shorttext: "Media sometimes inform about women's rights activists in China or Iran, but rarely about equally courageous ones in other countries."
 draft: false
 lang: en
@@ -13,6 +15,7 @@ The detention of a lawyer in China or harassment of another lawyer in Iran has b
 #### Use under risk of death
 
   - Ihsan Fagiri: as the co-founder of the women's rights organization "no to Women's Oppression", the doctor has been campaigning against discrimination against women in Sudan for years. Her commitment to women who were victims of rape as a weapon of war in the Civil War is considered particularly courageous. Fagiri works under threat of death and was already in prison for political reasons. She is considered one of the key figures from civil society who contributed to the overthrow of long-term dictator Omar al-Bashir in the spring. Their commitment to women's rights has since become no less dangerous, as a leading member of the ruling military council is one of their most dangerous adversaries. In autumn, the city of Weimar awarded the courageous woman the human rights prize for her tireless commitment to women's rights. In the laudatory speech it was said that the prize should give Fagiri "a certain protection by the great public".
+draft: false
   
   - Zarifa Ghafari: the 26-year-old was one of the first women in Afghanistan to run for mayor in the spring. Your task is to convince people of women's rights and the spirit of women, she wrote on Twitter. "I will prove that women are not weak."Afghan President Ashraf Ghani had appointed her mayor nine months earlier. But on her first day at work, a Mob of men broke into her office and threatened her with stones and sticks. Paramilitaries rescued them. "Don't come back," the male Mob yelled after her. But months later, heavily guarded, she took office. The Conservative provincial chief, whom Ghafari suspected was behind the men's Mob, had resigned. Ghafari is threatened with death by ISIS and the Taliban, she recently told The New York Times. But she is more afraid of criminal syndicates involved in the lucrative and highly corrupt trade in Land. One of them came to her office and threatened her with death if she stayed. Ghafari: "I will stay here and try to change society."
 

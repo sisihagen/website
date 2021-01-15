@@ -2,9 +2,10 @@
 title: "War threats and economic war-mobilization against Iran"
 date: 2019-09-10
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "You want total annihilation ... the last few years are reminiscent of the famous speech of Goebbels. Do you want the total war?"
 cover: "repression"
-draft: false
 lang: en
 ---
 

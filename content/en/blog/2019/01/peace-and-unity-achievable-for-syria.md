@@ -2,6 +2,7 @@
 title: "Peace and unity achievable for Syria?"
 date: 2019-01-27
 tags: "state"
+geo: "Asia"
 shorttext: "The west want not peace in Syria. They blocked all and built there own vision without a common future for Syria."
 cover: "repression"
 lang: en

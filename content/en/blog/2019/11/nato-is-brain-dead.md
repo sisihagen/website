@@ -2,8 +2,9 @@
 title: "Nato is brain dead"
 date: 2019-11-21
 tags: "Media"
-shorttext: "Russian TV on Macron's Interview with The Economist."
+geo: "Europe"
 draft: false
+shorttext: "Russian TV on Macron's Interview with The Economist."
 lang: en
 cover: "media"
 ---
@@ -19,6 +20,7 @@ The interview of Bankster Macron with The Economist was also a topic in the prog
 > "This is the first Time that we have to do it with a President of the United States who does not share our idea of a European project with American policy, which is in contradiction to this project. We are now seeing the consequences in Syria: the guarantor of last resort, the shield that has made Europe stronger, no longer maintains its previous relations with Europe," Macron said.
 
 > Europe itself is in an unprecedented crisis. "In Europe there is a division between the North and the south on economic issues, and between East and West on migration issues, which has led to an increase in populism across Europe. These two crises, the economy and Migration, have put a particularly serious blow to the middle class. If we do not wake up, we will be exposed to a considerable risk of simply disappearing geopolitical in the long term, or at least cease to be the master of our own destiny. I am deeply convinced of this," Macron said.
+draft: false
 
 > Macron has already expressed this idea of the end of the world for Europe, but now it is Macron's increasingly persistent leitmotif. Recently, he said that an Alliance with Russia could be the saving Element. Well, what should I say? That's what we see. But Macron's weakness is that he has no Plan. He doesn't know how to approach the dream, and he doesn't have many allies. Maybe because he has no Plan, but only a dream? Macron makes diagnoses without hesitation.
 

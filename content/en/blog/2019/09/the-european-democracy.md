@@ -2,8 +2,9 @@
 title: "The European democracy"
 date: 2019-09-04
 tags: "Society"
-shorttext: "In TASS I found a critical article about the Brexit, and democracy in the EU. A nice bill with the institutions you want more often."
+geo: "Europe"
 draft: false
+shorttext: "In TASS I found a critical article about the Brexit, and democracy in the EU. A nice bill with the institutions you want more often."
 lang: en
 cover: "society"
 ---

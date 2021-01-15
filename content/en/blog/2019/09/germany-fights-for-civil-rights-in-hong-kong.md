@@ -2,8 +2,9 @@
 title: "Germany fights for civil rights in Hong Kong"
 date: 2019-09-25
 tags: "Society"
-shorttext: "The Western media likes to meddle in countries, but at the door they are ignored at best."
+geo: "Asia"
 draft: false
+shorttext: "The Western media likes to meddle in countries, but at the door they are ignored at best."
 lang: en
 cover: "society"
 ---

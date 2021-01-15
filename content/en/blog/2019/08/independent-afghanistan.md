@@ -2,9 +2,10 @@
 title: "Independent Afghanistan"
 date: 2019-08-24
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "On 19 January, the independence of Afghanistan was celebrated. The government celebrates and the people laugh / cry at it."
 cover: "repression"
-draft: false
 lang: en
 ---
 

@@ -2,8 +2,9 @@
 title: "Development aid needs poverty"
 date: 2019-12-27
 tags: "Society"
-shorttext: "Time and again, Eskimos are found telling Africans what to do. *Stanislaw Jerzy Lec"
+geo: "Europe"
 draft: false
+shorttext: "Time and again, Eskimos are found telling Africans what to do. *Stanislaw Jerzy Lec"
 lang: en
 cover: "society"
 ---

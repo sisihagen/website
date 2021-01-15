@@ -2,9 +2,10 @@
 title: "GREEN for World Politics and German Responsibility"
 date: 2019-09-28
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The Greens are on everyone's mouth and once again you don't notice the people listening, but decide according to the daily situation, or Rezo Video."
 cover: "repression"
-draft: false
 lang: en
 ---
 

@@ -2,8 +2,9 @@
 title: "The Environmental Dilemma"
 date: 2019-11-20
 tags: "Society"
-shorttext: "Sero and toxic waste, utility, and Ecology — the Rulers abuse the problems of the GDR for their Propaganda."
+geo: "World"
 draft: false
+shorttext: "Sero and toxic waste, utility, and Ecology — the Rulers abuse the problems of the GDR for their Propaganda."
 lang: en
 cover: "society"
 ---
@@ -27,6 +28,7 @@ First of all: there was quite a progressive side of the GDR's environmental poli
 > The shelf-life of consumer goods also exceeded that of the West German goods by many times. People took advantage of the products for a longer period of time and let them repair them again and again. The West German disposable company stood in the pockets of shareholders and Group owners for the purpose of unbridled maximization of profit.
 
 The GDR also managed to establish an ecologically advantageous district heating system. Many households were connected to it. The state supplied them with heat from power stations via pipe systems. In this way, energy was used much more efficiently than was the case in the West. In addition, the state placed great emphasis on leaving as many areas undeveloped as possible and explaining them to nature reserves.
+draft: false
 
 #### Lack of raw materials, hardly any industry
 

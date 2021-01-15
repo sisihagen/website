@@ -2,9 +2,10 @@
 title: "China overwhelms the West"
 date: 2019-08-22
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The West persistently refuses to understand that the 'Middle Kingdom' is about to pass it."
 cover: "repression"
-draft: false
 lang: en
 ---
 

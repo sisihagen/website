@@ -7,7 +7,6 @@ source ./bin/function.sh
 # clean dest folders
 if [[ -d "./public" ]]; then
   clean_dir "$build"
-  clean_dir "$mirror"
   clean_dir "$pi"
-  clean_dir "$dest"
+  clean_dir "$dest/$de $dest/$en $dest/$fr $dest/$ru"
 fi

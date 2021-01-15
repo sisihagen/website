@@ -2,9 +2,10 @@
 title: "The usual lies"
 date: 2019-11-30
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "Putin's minions should have pushed the Saints of the White Helmets from the balcony."
 cover: "media"
-draft: false
 lang: en
 ---
 

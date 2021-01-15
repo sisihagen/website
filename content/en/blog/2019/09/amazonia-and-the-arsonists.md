@@ -2,8 +2,9 @@
 title: "Amazonia and the Arsonists"
 date: 2019-09-02
 tags: "Society"
-shorttext: "The fires in Amazonia are using politicians to consecrate, while unscrupulous traders are the causes and profiteers."
+geo: "Asia"
 draft: false
+shorttext: "The fires in Amazonia are using politicians to consecrate, while unscrupulous traders are the causes and profiteers."
 lang: en
 cover: "society"
 ---

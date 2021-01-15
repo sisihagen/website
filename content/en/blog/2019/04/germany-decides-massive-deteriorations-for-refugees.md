@@ -2,6 +2,7 @@
 title: "Germany decides massive deteriorations for refugees"
 date: 2019-04-22
 tags: "society"
+geo: "Europe"
 shorttext: "At the meeting on April, 17 2019, Germany government pushed forward with two laws the deprivation of refugees."
 cover: society
 lang: en

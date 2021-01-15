@@ -2,9 +2,10 @@
 title: "Propaganda"
 date: 2019-08-14
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "NATO is not only threatening militarily, the members of the terrorist organization are fighting Russia through media incitement reminiscent of the National Observer."
 cover: "media"
-draft: false
 lang: en
 ---
 

@@ -2,9 +2,10 @@
 title: "The World War-Sample"
 date: 2019-11-30
 tags: "Society"
+geo: "World"
+draft: false
 shorttext: "NATO plays with the fire and simulated an atomic Inferno to the exclusion of the public."
 cover: "society"
-draft: false
 lang: en
 ---
 

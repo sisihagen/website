@@ -2,8 +2,9 @@
 title: "The joke with the basic pension"
 date: 2019-11-23
 tags: "Society"
-shorttext: "The basic pension, the joke of jokes. While the military is inflated, the police are becoming more Secret Service, robbing the economy, celebrating some while others are trolling around."
+geo: "Europe"
 draft: false
+shorttext: "The basic pension, the joke of jokes. While the military is inflated, the police are becoming more Secret Service, robbing the economy, celebrating some while others are trolling around."
 lang: en
 cover: "society"
 ---

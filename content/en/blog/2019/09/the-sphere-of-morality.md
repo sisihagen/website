@@ -2,8 +2,9 @@
 title: "The Sphere Of Morality"
 date: 2019-09-13
 tags: "Society"
-shorttext: "Sin is an invented marketing concept that subjugates many and protects few."
+geo: "World"
 draft: false
+shorttext: "Sin is an invented marketing concept that subjugates many and protects few."
 lang: en
 cover: "society"
 ---

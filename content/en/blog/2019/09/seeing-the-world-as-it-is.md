@@ -2,8 +2,9 @@
 title: "Seeing the world as it is"
 date: 2019-09-27
 tags: "Society"
-shorttext: "When the livelihoods on the quicksand of change threaten to collapse, the search for secure foundations for shaping the future is intensified."
+geo: "World"
 draft: false
+shorttext: "When the livelihoods on the quicksand of change threaten to collapse, the search for secure foundations for shaping the future is intensified."
 lang: en
 cover: "society"
 ---

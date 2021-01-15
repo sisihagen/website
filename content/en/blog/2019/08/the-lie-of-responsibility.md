@@ -2,10 +2,11 @@
 title: "The Lie of Responsibility"
 date: 2019-08-03
 tags: "society"
+geo: "World"
+draft: false
 shorttext: "Neoliberalism is abusing our sense of responsibility to blame us for its failure."
 cover: society
 lang: en
-draft: false
 ---
 
 "It's up to you," we hear up and down the country. Or: "Be the change you want to see in the world." This sounds so good and is so well-intentioned that a lot of people put on their shoes and are plagued with feelings of guilt. Our sphere of responsibility seems to be growing, while the authoritarian policies of the powerful are gradually shrinking our real influence. Individuals are encouraged to correct the mistakes of politics and the economy by making ethical consumption decisions at their own expense. There is talk of 'self-responsibility' whenever the institutions withdraw from responsibility. And if they want to force an aggravation of our situation on us. Thus, ownership is above all the favourite word of the irresponsible nowadays.

@@ -2,8 +2,9 @@
 title: "Friday against Future"
 date: 2019-12-11
 tags: "Society"
-shorttext: "At the 'Black Friday', the corporations with allegedly super-cheap offers caught the citizens into the trap."
+geo: "Europe"
 draft: false
+shorttext: "At the 'Black Friday', the corporations with allegedly super-cheap offers caught the citizens into the trap."
 lang: en
 cover: "society"
 ---

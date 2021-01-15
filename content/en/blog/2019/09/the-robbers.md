@@ -2,9 +2,10 @@
 title: "The Robbers"
 date: 2019-09-05
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The US policy on Syria is also an attempt to acquire another country's mineral resources in violation of international law."
 cover: "repression"
-draft: false
 lang: en
 ---
 

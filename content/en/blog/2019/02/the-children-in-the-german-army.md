@@ -2,6 +2,7 @@
 title: "The children in the German army."
 date: 2019-02-18
 tags: "state"
+geo: "Europe"
 shorttext: "The German army has trained 11,733 kids on the weapon since 2011. Yes, we are talking about Germany and not about Africa."
 cover: "repression"
 lang: en

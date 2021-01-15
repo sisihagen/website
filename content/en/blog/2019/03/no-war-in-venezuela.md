@@ -2,6 +2,7 @@
 title: "No war in Venezuela"
 date: 2019-03-31
 tags: "society"
+geo: "South America"
 shorttext: "Last February 22, when the American terrorist Propaganda machine for crossing the border of their so-called \"humanitarian aid\" from Colombia to Venezuela ran at full speed ..."
 cover: "society"
 lang: en

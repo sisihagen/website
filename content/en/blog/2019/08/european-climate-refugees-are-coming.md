@@ -2,8 +2,9 @@
 title: "European climate refugees are coming"
 date: 2019-08-11
 tags: "Society"
-shorttext: "The inhabitants of a British village know exactly how much time they have left before their village is abandoned."
+geo: "Europe"
 draft: false
+shorttext: "The inhabitants of a British village know exactly how much time they have left before their village is abandoned."
 lang: en
 cover: "society"
 ---
@@ -52,4 +53,3 @@ Many People in Fairbourne who cannot afford to move are therefore left with noth
 
 What is already known in Fairbourne threatens other coastal towns as well. A 2018 report by the Government Committee on Climate Change (CCC) counted nearly 530,000 endangered properties on the English coast. By the 2080s, up to 1.5 million households were at risk of flooding, he notes. Protecting them all is unrealistic, says Jim Hall, the lead author of the CCC report. Residents would be left in the dark about this. "The situation on the coast is a time bomb," he says.
 
-The strategic draft of the UK [Ministry of the Environment](https://www.gov.uk/government/consultations/draft-national-flood-and-coastal-erosion-risk-management-strategy-for-england "Draft National Flood and Coastal Erosion Risk Management Strategy for England") on flood management admits that British engineers cannot win the battle against water. Some coastal towns would have to be relocated, he notes soberly.

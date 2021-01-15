@@ -2,8 +2,9 @@
 title: "The West Oppressed the Third World for so Long that It Became Third World Itself"
 date: 2019-09-24
 tags: "Society"
-shorttext: "Many have already noticed: The U.S. really, really doesn’t feel like the world leader, or even as a ‘first world country’."
+geo: "World"
 draft: false
+shorttext: "Many have already noticed: The U.S. really, really doesn’t feel like the world leader, or even as a ‘first world country’."
 lang: en
 cover: "society"
 ---
@@ -19,6 +20,7 @@ Speech is controlled by political correctness. Someone behind the scenes decides
 In such conditions, humor cannot thrive, and satire dies. It is not unlike religious fundamentalism: you get destroyed if you ‘offend’. In such circumstances, writers cannot write ground-breaking novels, because true novels offend by definition, and always push the boundaries. As a result, almost nobody reads novels, anymore.
 
 Only toothless, ‘controlled humor’ is permitted. No punches can be administered intuitively. Everything has to be calculated in advance. No ‘outrageous’ political fiction can pass the ‘invisible censorship’ in the West (and so, novels as a form have almost died). Those who read in Russian or Chinese languages know perfectly well, that the fiction in Russia and China, is much more provocative and avant-garde.
+draft: false
 
 In the West, poetry has died, too. And so has philosophy, which has been reduced to a boring, stale and indigestible academic discipline.
 
@@ -71,6 +73,7 @@ Arriving from China, from Russia or Cuba, the first thing that strikes me is how
 When trains get delayed or cancelled, they sheepishly murmur half-audible curses. Their medical benefits get reduced; they accept, or quietly commit suicide. Their public infrastructure crumbles; they say nothing, remembering the ‘good old days’.
 
 Why is it that I feel hope, I laugh with the people, in Mexico City, Johannesburg or Beijing? Why is there so much warmth in the geographically cold cities of Vladivostok or Petropavlovsk in Kamchatka? Why are the people of London, Paris, Long Angeles looking so concerned, so depressed?
+draft: false
 
 Some historically poor countries are on the rise. And the people there show appreciation for every tiny improvement. Nothing is more beautiful than optimism.
 

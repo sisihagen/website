@@ -2,9 +2,10 @@
 title: "The invented enemy"
 date: 2019-12-14
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "The alleged Islamist threat is produced by state authorities and inflated by the media."
 cover: "repression"
-draft: false
 lang: en
 ---
 

@@ -2,8 +2,9 @@
 title: "Debt cut ends with murder"
 date: 2019-12-15
 tags: "Society"
-shorttext: "The murder of Alfred Herrhausen, Chairman of Deutsche Bank, was pushed to the RAF, but never solved."
+geo: "Europe"
 draft: false
+shorttext: "The murder of Alfred Herrhausen, Chairman of Deutsche Bank, was pushed to the RAF, but never solved."
 lang: en
 cover: "society"
 ---

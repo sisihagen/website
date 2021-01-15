@@ -2,8 +2,9 @@
 title: "Nazi helpers and Jews haters get monuments"
 date: 2019-08-25
 tags: "Society"
-shorttext: "Netanyahu visits Ukraine, where the president and prime minister are Jewish. They attribute the Holocaust only to others."
+geo: "Europe"
 draft: false
+shorttext: "Netanyahu visits Ukraine, where the president and prime minister are Jewish. They attribute the Holocaust only to others."
 lang: en
 cover: "society"
 ---

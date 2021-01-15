@@ -2,9 +2,10 @@
 title: "Russia on the anniversary of World War II, Poland and the world"
 date: 2019-09-11
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "The commemoration day of the 80th anniversary of the beginning of the Second World War in Warsaw has caused a lot of trouble and excitement in Russia."
 cover: "repression"
-draft: false
 lang: en
 ---
 

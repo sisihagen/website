@@ -2,8 +2,9 @@
 title: "Rheinmetall de-equip!"
 date: 2019-10-28
 tags: "Society"
-shorttext: "There is a lot going on at the German armaments company Rheinmetall: always new scandals, delicate takeover plans, broken business, pending court proceedings and protests."
+geo: "Europe"
 draft: false
+shorttext: "There is a lot going on at the German armaments company Rheinmetall: always new scandals, delicate takeover plans, broken business, pending court proceedings and protests."
 lang: en
 cover: "society"
 ---

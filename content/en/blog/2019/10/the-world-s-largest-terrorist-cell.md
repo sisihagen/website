@@ -2,15 +2,17 @@
 title: "The world's largest terrorist cell"
 date: 2019-10-29
 tags: "State"
+geo: "World"
+draft: false
 shorttext: "The criteria by which state defines terrorism largely apply to NATO."
 cover: "repression"
-draft: false
 lang: en
 ---
 
 The European Union referred to a number of political movements in Turkey, Palestine and Sri Lanka as terrorist groups. They are assumed to have been established with the aim of committing terrorist offences. Support for such an association is being prosecuted in European states as a criminal offence. On the basis of the same criteria, NATO would also have to be described as a terrorist organisation. What's wrong here?
 
 The title of this article may seem provocative, abstruse or even outrageous. I accept this, although I did not intend to provoke provocation or indignation with this title.
+draft: false
 
 The question has not gone out of the air. It's legitimate. After all, NATO is a powerful Organisation whose charter is based on military or security policy principles.
 

@@ -2,8 +2,9 @@
 title: "Hope dies on the rice field"
 date: 2019-08-12
 tags: "Society"
-shorttext: "Private companies as development assistants – this carries great risks. Case study of a Swiss agricultural company in Ghana."
+geo: "Africa"
 draft: false
+shorttext: "Private companies as development assistants – this carries great risks. Case study of a Swiss agricultural company in Ghana."
 lang: en
 cover: "society"
 ---

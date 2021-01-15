@@ -2,8 +2,9 @@
 title: "Germany wants war and rearmament"
 date: 2019-12-09
 tags: "Society"
-shorttext: "The Grand coalition is planning new military operations and the massive upgrade. All of this is hidden from the public, which is silent on state and private Propaganda."
+geo: "Europe"
 draft: false
+shorttext: "The Grand coalition is planning new military operations and the massive upgrade. All of this is hidden from the public, which is silent on state and private Propaganda."
 lang: en
 cover: "society"
 ---

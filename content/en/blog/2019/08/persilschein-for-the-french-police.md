@@ -2,9 +2,10 @@
 title: "Persilschein for the French police"
 date: 2019-08-29
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "After a police operation in Nantes, a young man dies. The promised transparent processing is a Farce."
 cover: "repression"
-draft: false
 lang: en
 ---
 

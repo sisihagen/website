@@ -2,8 +2,9 @@
 title: "The Great Void"
 date: 2019-09-09
 tags: "Society"
-shorttext: "Only if we become aware of the futility of the 'hamster wheel' in which we are trapped will we find the courage to get out."
+geo: "World"
 draft: false
+shorttext: "Only if we become aware of the futility of the 'hamster wheel' in which we are trapped will we find the courage to get out."
 lang: en
 cover: "society"
 ---

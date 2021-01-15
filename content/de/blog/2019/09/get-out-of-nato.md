@@ -2,7 +2,7 @@
 title: "Raus aus der Nato"
 date: 2019-09-15
 tags: "Staat"
-Geo: "Welt"
+geo: "Welt"
 shorttext: "Raus aus der Nato, ein Ruf aus den 1990 Jahren sollte endlich verwirklicht werden ..."
 cover: "repression"
 draft: false

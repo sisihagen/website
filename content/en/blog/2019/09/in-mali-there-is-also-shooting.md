@@ -2,8 +2,9 @@
 title: "In Mali there is also shooting"
 date: 2019-09-23
 tags: "Society"
-shorttext: "The foreign missions of the Bundeswehr take place in a constitutional grey area ... and rarely finds a majority in the Bolk."
+geo: "Africa"
 draft: false
+shorttext: "The foreign missions of the Bundeswehr take place in a constitutional grey area ... and rarely finds a majority in the Bolk."
 lang: en
 cover: "society"
 ---
@@ -139,6 +140,7 @@ As expected, the government radio ARD-aktuell also remained silent on the attack
 While Germany and Europe have steadily increased their "commitment to greater security and stability", the number of deaths in terrorist attacks and in battles between militias and security forces in the Sahel has multiplied. In 2012, there were 587, last year five times as many: 2,868. More than 3,200 people have been killed this year. But who asks? They are mostly just Africans, aren't they?
 
 Violence and insecurity are also spreading geographically. Until 2014, virtually only northern Mali was affected by Islamist terror. This year, Burkina Faso, to the south, has also suffered more than 1,000 attacks. Both countries have lost control of large parts of their northern and eastern borders and rural areas. The republics of Niger and Chad are also increasingly affected by violence.
+draft: false
 
 There is chaos in Mali and the other Sahel countries. There is no reasonable doubt that Europe has its share of this. The Minister of Defence of Burkina Faso, Moumina Cheriff Sy, has little good to say about the results of the European military presence in the region:
 

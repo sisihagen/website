@@ -2,6 +2,7 @@
 title: "Get out of here!"
 date: 2019-06-11
 tags: "society"
+geo: "Europe"
 shorttext: "Welcome in Germany. Do you think it's 2019? You are wrong with such Clowns as Seehofer, Merkel, Nahles we have arrived again in 1940."
 cover: society
 lang: en

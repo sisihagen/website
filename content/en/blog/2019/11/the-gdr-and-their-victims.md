@@ -2,8 +2,9 @@
 title: "The GDR and their victims"
 date: 2019-11-20
 tags: "Society"
-shorttext: "The GDR and its victims-a challenge to the victim role of trained GDR citizens."
+geo: "Europe"
 draft: false
+shorttext: "The GDR and its victims-a challenge to the victim role of trained GDR citizens."
 lang: en
 cover: "society"
 ---
@@ -45,6 +46,7 @@ The newly created Democrats in these weeks did not deal with the acute problems 
 Power of opinion means being able to rewrite history. It is deeply entangled with those who produce the scenarios necessary for the creation of narratives.
 
 What Richard Wilhelm did at that time is normality in German parliamentary democracy: he spread out in the management of outrage, produced himself as a facade Democrat and proclaimed to the world that he had understood. Eloquent, he had set a sign with this "courageous" step that he was ready to change sides painlessly. He served his new masters and, like many others, took care of his personal perspective.
+draft: false
 
 Was it different downstairs? Or did they not act similarly on their level, because people are so knitted?
 
@@ -83,6 +85,7 @@ On 18 March 1990 [early elections to the GDR people's chamber](https://www.hdg.d
 > Voter turnout is over 93 percent. The winner of the election is the "Alliance for Germany", an alliance of CDU, Democratic departure (DA) and German Social Union (DSU). It receives 48 percent of the votes, while the SPD accounts for 21.9 percent. The PDS is the third strongest force with 16.3 percent. Alliance 90, the carriers of the peaceful Revolution received only 2.9 percent. The votes for German unity, Western democracy and the Social market economy.
 
 The truly Courageous were always in the minority. The voters but WE were. Those who used their political responsibility at that time to make the cross where it was necessary. Because we wanted to quickly arrive at the port of the market economy. We were not deceived, but we decided to live in an elbow society in which career, fortune and Kicks are the elixir of life. For this we liked to tell the fairy tale about the flourishing landscapes.
+draft: false
 
 But this was not a betrayal of the GDR, as the opponents of a rapid reunification of the two German states often called it. It was a betrayal of our deeply immanent aspiration to strive for a truly self-determined and collective life.
 

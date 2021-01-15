@@ -2,6 +2,7 @@
 title: "The war criminal in the arms business"
 date: 2019-07-14
 tags: "state"
+geo: "Europe"
 shorttext: "Approvals for German arms exports reached a new record level in the first half of 2019 and amount to around 5.3 billion euros"
 cover: "repression"
 lang: en

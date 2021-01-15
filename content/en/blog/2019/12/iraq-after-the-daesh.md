@@ -2,9 +2,10 @@
 title: "Iraq after the Daesh"
 date: 2019-12-25
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "Fragile stabilisation between ruins, social protests and escalating US policy against Iran"
 cover: "repression"
-draft: false
 lang: en
 ---
 

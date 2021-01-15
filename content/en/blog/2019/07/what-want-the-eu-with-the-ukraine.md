@@ -2,6 +2,7 @@
 title: "What want the EU with the Ukraine"
 date: 2019-07-18
 tags: "state"
+geo: "Europe"
 shorttext: "The EU supports the anti-Russia policy in Kiev and is therefore jointly responsible for the misery in the country."
 cover: "repression"
 lang: en

@@ -2,9 +2,10 @@
 title: "Syria and stability"
 date: 2019-11-07
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "In Syria, all mingle. Everyone has suggestions but Syria is not in demand. What stability should the choice be?"
 cover: "repression"
-draft: false
 lang: en
 ---
 

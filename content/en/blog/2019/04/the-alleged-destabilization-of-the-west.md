@@ -2,6 +2,7 @@
 title: "The alleged destabilization of the West"
 date: 2019-04-23
 tags: "society"
+geo: "World"
 shorttext: "Russia that evil country full of Internet trolls, most social network accounts, an army of worldwide helpers to destroy the West. Long live the Western enemy image."
 cover: society
 lang: en

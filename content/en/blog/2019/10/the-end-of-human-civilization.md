@@ -2,13 +2,15 @@
 title: "The End of Human Civilization"
 date: 2019-10-23
 tags: "Society"
-shorttext: "To survive as a species, humanity must create a new form of civilization."
+geo: "World"
 draft: false
+shorttext: "To survive as a species, humanity must create a new form of civilization."
 lang: en
 cover: "society"
 ---
 
 The Anthropocene: Researchers suggested that the term be included in the geological timescale. It marks the transition to an age marked by the influence of man on the geological processes of the earth. The temporal classification, relevance and necessity of the concept are still being discussed among geologists. Nevertheless, the term is increasingly used in science. This is because experts from a wide range of disciplines recognize that, for the first time in the history of the planet, the future of the entire Earth is fundamentally determined by the actions of the human species, and the effects of human activity are still being will have an impact for generations, if not millennia.
+draft: false
 
 But when you talk about the Anthropocene, it's not just about climate change. The concept implies a system of being based on the maximum exploitation of resources at the expense of expendable "others". It is closely linked to a global system of racism, a legacy of centuries of colonialism. And is it inextricably linked to a never-ending succession of industrial wars, which reached its provisional culmination with the endless "war on terror."
 
@@ -71,6 +73,7 @@ Although the call may have been well-intentioned, the report did not take into a
 A further analysis in the form of a scientific briefing, which was included in the UN Sustainable Development Goals Report, found that one of the main reasons for the increasing risk of collapse in the nature of the endless [growth model](https://www.independent.co.uk/news/long_reads/capitalism-un-scientists-preparing-end-fossil-fuels-warning-demise-a8523856.html "This is how UN scientists are preparing for the end of capitalism") of the current structure of capitalism. The more we increase our consumption of resources, raw materials, minerals and energy, the faster we need the cheap and rich resources. For this reason, the cost of further production is rising. Based on the groundbreaking work of environmentalist Professor Charles Hall, the study argues that the Energy Return on Investment method should be used to measure their actual efficiency with regard to national and global energy systems. EROI measures the amount of energy needed to generate energy.
 
 The result? Energy efficiency is falling mainly for geological reasons. The cost of production is rising due to greater energy consumption and more complicated mechanisms of exploitation. As a result, the return on society decreases. As we devote more and more energy and resources to attracting more energy and resources, the surplus we need to finance the public goods and services needed to sustain a civilisation is diminishing. This does not mean that we run out of energy resources — but it does mean that the reserves for investment in important social goods are falling further and further as a result of rising energy and environmental costs.
+draft: false
 
 The French economists Victor Court and Florian Fizaine demonstrated in a [current global EROI study](https://medium.com/insurge-intelligence/the-new-economic-science-of-capitalisms-slow-burn-energy-collapse-d07344fab6be "Inside the new economic science of capitalism’s slow-burn energy collapse") that we have long exceeded the peak of efficiency levels. The amount of usable energy from fossil fuels compared to the energy invested was once lucratively high: in the 1960s, the ratio was about 44:1. Since then, the harvest factor has fallen inexorably to just over 30:1 globally. This development was accompanied by a long-term slowdown in the growth rate of the world economy, a decline in productivity and an increase in debt.
 
@@ -85,8 +88,10 @@ The report to the UN predicts that the current economic system, which depends on
 The risk of collapse is inextricably linked to war, because the growth trajectory of industrialized civilizations enabled, on the one hand, the development of war technologies, and on the other hand, they enable the growth course.
 
 This year, the scientific [working group](http://quaternary.stratigraphy.org/working-groups/anthropocene/ "Working Group on the 'Anthropocene'"), established to determine the Anthropocene definition, confirmed that the starting point for the beginning of the new geological epoch, as originally proposed, was set for 1950.
+draft: false
 
 This confirmation is the first stage in a longer scientific process in which this hypothesis — since the proposed epoch is not yet scientifically - is being tested for its validity. The preliminary assessment that the starting point of the new era should be set in the middle of the 20th century is based on the assumption that this period is due to industrial expansion, the spread of agricultural chemicals and, in particular, the [invention and the use of the atomic bomb](https://www.nature.com/articles/d41586-019-01641-5 "Anthropocene now: influential panel votes to recognize Earth’s new epoch") was a turning point towards a new epoch of human intervention in the geology of the earth. The radioactive debris of atomic bombs, for example, was deposited in sediments and glacial ice and became part of the geological records. These developments leave an unprecedented and unmistakable human footprint throughout the planet that will be on display for decades, centuries and millennia.
+draft: false
 
 As a result, war is woven into the fabric of the Anthropocene. Both the twentieth and twenty-first centuries exemplify the inherent lyedial dynamics of the exponential growth of human civilization. They share another typical feature, namely the systematic spread of war, massive violence and various forms of genocide.
 
@@ -133,14 +138,17 @@ In the years before the Arab Spring, many governments, from Syria to Egypt to Ye
 The crisis in the Middle East has been [decisively](https://www.theguardian.com/world/2016/feb/11/report-on-syria-conflict-finds-115-of-population-killed-or-injured "Report on Syria conflict finds 11.5% of population killed or injured") protracted and intensified by the global crisis of the anthropocene earth system. This, in turn, led to an unprecedented level of migration and asylum applications between 2011 and 2015. In Syria alone, about 11.5 percent of the population died in the war that followed the Arab Spring.
 
 The West, Russia, Iran, Turkey, Saudi Arabia, Qatar and the United Arab Emirates had long been geopolitically in fighting for control of Syria, not least because of its strategic location as a potential hub for oil and gas for world markets. The supporters of these different parties actually tend to relieve their respective accomplices. It is therefore worth noting that before the 2011 uprising, the US State Department was in [active negotiations](http://statecrime.org/state-crime-research/state-propaganda-in-syria/ "STATE PROPAGANDA IN SYRIA: FROM WAR CRIMES TO PIPELINES") with Syria and EU officials to promote the construction of a pipeline on Syrian territory for the transport of Iraqi oil.
+draft: false
 
 At the same time, Putin saw Assad's efforts to exploit Syria's strategic position on the region's energy corridors as a fundamental threat to his own plans to export gas. The war provided an ideal spoiler. All interested parties tried to use it for their own plans, without any consideration for the Syrian people.
 
 In the Anthropocene, so-called anti-imperialists have no qualms about waging resource wars because of personal interests.
 
 The flight of millions of people to Europe was a direct consequence of these wars. They fled devastating geopolitical conflicts caused or exacerbated, on the one hand, by the self-interests of different parties and, on the other, by severe droughts caused by climate change.
+draft: false
 
 Dr Raya Muttarak is co-author of a [key study](https://www.sciencedirect.com/science/article/pii/S0959378018301596 "Climate, conflict and forced migration") on the link between climate and migration and lecturer in geography and international development at the University of East Anglia. It illustrates that climate developments between 2010 and 2012, when many West Asian countries underwent political transformations in the arab Spring, had a strong impact on the emergence of conflicts in those countries. Muttarak and his team found that climate change, caused by droughts and the resulting mass migration, laid the foundation for the fermenting tensions that eventually led to the outbreak of war in Syria and other parts of the region.
+draft: false
 
 Mass migration triggered by these processes, in turn, has changed and radicalized the politics of the entire Western Hemisphere. It offered a found fodder for radical nationalist narratives, funded by vast amounts of "[dark money](https://mondediplo.com/outsidein/brexit-climate-deniers "How US climate deniers are working with far-right racists to hijack Brexit for Big Oil")" from a cross-section of the transatlantic right-wing elite, most of whom have a personal interest in non-regulation. oil and gas giants as well as other large corporations.
 
@@ -159,8 +167,10 @@ The political crises are a symptom of the worsening earth system crisis. And, as
 #### Colonization and Globalization in the Anthropocene
 
 Not all scientists agree to set the beginning of the Anthropocene to the mid-twentieth century. Some argue that there is clear geological evidence that the age began with the advent of the modern global empire.
+draft: false
 
 The British geographers Simon Lewis and Mark Maslin, for example, proposed a much earlier date as the starting point for the new age, one that "adheres to the geological criteria for defining an epoch: 1610. This date marks the beginning of an irreversible species exchange in the wake of the Collision of the Old and New Worlds" and, according to the researchers, coincided with an unusual drop in atmospheric CO2 concentrations in Antarctic ice cores.
+draft: false
 
 This alternative dating for the Anthropocene is based on the measurable effects of a changed agriculture in the context of the colonization of the Americas by the Spaniards. Many historians see this central event as the beginning of a new, characteristic age of imperialism that enabled the birth of global capitalism. According to Lewis and Maslin, the decline in CO2 at the time, now visible in the Antarctic ice cores, was the result of renewable vegetation on set-aside arable land after the deaths of 50 million Indigenous Americans, mainly caused by colonizers. imported smallpox. America's integration into the European system was also the decisive pioneer of the industrial revolution, encompassing the later phases of climate change that it caused.
 
@@ -169,6 +179,7 @@ The British scientists ' proposal offers a new, compelling look at the Anthropoc
 These included the massive famine caused by the "free market" in Ireland and India, in which one Million or up to 12 million people died, and the transatlantic slave trade, in which over the course of five centuries about 65 million Africans died and represented a bloody international Regime. This was inextricably linked to the formation of a capitalist world system and enabled the industrial Revolution in Great Britain.
 
 According to this understanding, the Anthropocene — the age in which the human species began to make profound and possibly lasting changes to the Earth's geology — stands for the rapid Expansion of imperialism and thus for the construction of new racial categories that served to legitimize the emerging system of global Apartheid.
+draft: false
 
 It is precisely at this time that the development of scientific racism, this official and scientifically based concept of the existence of various human races, with whose grotesque heritage we are still struggling today, began. The idea that there are different "races" dates back to the political appropriation and distortion of the neodarwinist theories of evolution. In this context, the white European was positioned to the forefront of civilized human progress, thereby defining the racial hierarchy in the Moloch of global industrial Expansion.
 

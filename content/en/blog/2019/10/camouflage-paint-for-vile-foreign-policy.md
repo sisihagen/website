@@ -2,9 +2,10 @@
 title: "Camouflage paint for vile foreign policy"
 date: 2019-10-10
 tags: "Media"
+geo: "Europe"
+draft: false
 shorttext: "The Tagesschau conceals the German activities in Kosovo, the mafia waste product of the break-up of Yugoslavia"
 cover: "media"
-draft: false
 lang: en
 ---
 
@@ -29,6 +30,7 @@ Different data are available on the costs of the war, depending on the expenses,
 The Kosovo war has been hotly debated in the media. At that time, public service broadcasting had not yet fully joined the mainstream media. Critical journalism took place. As an example, the WDR documentary "It Started with a Lie", which was broadcast on February 8, 2001, is to be emphasized.
 
 She pointed out that the claim that NATO bombings were intended to "prevent a humanitarian catastrophe in Kosovo" was a deliberate deception. It was intended to dazzle the critical German audience. Despite violent protests from the media mainstream (Spiegel, FAZ), the WDR remained courageous in its presentation and rejected the attacks.
+draft: false
 
 The deception was later also confirmed internally by the Bundeswehr. The attack on Serbia was not about 'human rights' and 'humanity', but about 'to bring Yugoslavia to its knees'; As early as 1992, the then Foreign Minister Klaus Kinkel, FDP, had already issued exactly this goal. He was in The Great German tradition: "Serbia must besterbien!" the propagandists sounded already at the beginning of the First World War. In 1914, William II demanded: "The Serbs must be cleaned up, and soon. Now or never!" Nearly three decades later, Hitler tried to eliminate the "Serbian criminal clique" once and for all. Half a century later, un mediator Cyrus Vance called the NATO-Yugoslavia war "Mr. Genscher's war." (Video, minute 3.10 ff)
 

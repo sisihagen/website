@@ -2,9 +2,10 @@
 title: "Sanctions and the effect"
 date: 2019-12-08
 tags: "Media"
+geo: "World"
+draft: false
 shorttext: "At the Investors Conference Russia is calling, Putin answered several questions. It was also about sanctions."
 cover: "media"
-draft: false
 lang: en
 ---
 

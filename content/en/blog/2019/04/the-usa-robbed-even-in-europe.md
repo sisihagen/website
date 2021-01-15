@@ -2,6 +2,7 @@
 title: "The US robbed, even in Europe"
 date: 2019-04-27
 tags: "state"
+geo: "Europe"
 shorttext: "The evil Russian, he buys our businesses, provides for thousands of unemployed, plunders the people over increased rents and buys politics and media. The Moment Russia? No we talk about the USA!"
 cover: repression
 lang: en

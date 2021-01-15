@@ -2,8 +2,9 @@
 title: "Sea rescue, no one feels responsible!"
 date: 2019-07-28
 tags: "Society"
-shorttext: "On the refugee issue, Salvini is currently a bogeyman. This is simple and convenient to evade responsibility."
+geo: "World"
 draft: false
+shorttext: "On the refugee issue, Salvini is currently a bogeyman. This is simple and convenient to evade responsibility."
 lang: en
 cover: "society"
 ---

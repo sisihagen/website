@@ -2,9 +2,10 @@
 title: "The Miracle Of Portugal"
 date: 2019-10-21
 tags: "State"
+geo: "Europe"
+draft: false
 shorttext: "Portugal, Greece to the southwest, disobeyed the Schäuble delusion of the Swabian housewife, and is therefore successful."
 cover: "repression"
-draft: false
 lang: en
 ---
 

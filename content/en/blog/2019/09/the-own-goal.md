@@ -2,9 +2,10 @@
 title: "The own goal"
 date: 2019-09-30
 tags: "State"
+geo: "North America"
+draft: false
 shorttext: "Globalization has shifted the US economy to China."
 cover: "repression"
-draft: false
 lang: en
 ---
 

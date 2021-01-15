@@ -2,9 +2,10 @@
 title: "The U.S. support in Syria terrorists"
 date: 2019-11-03
 tags: "State"
+geo: "Asia"
+draft: false
 shorttext: "The Russian Foreign Ministry speaks out what many alternative media have long proven. The West support terrorists in Syria the terrorists."
 cover: "repression"
-draft: false
 lang: en
 ---
 
