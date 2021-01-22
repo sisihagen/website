@@ -113,6 +113,7 @@ case $1 in
 
         # set the right geo
         sed -i 's/geo: "Asien"/geo: "Asia"/g' $files
+        sed -i 's/geo: "Afrika"/geo: "Africa"/g' $files
         sed -i 's/geo: "Europa"/geo: "Europe"/g' $files
         sed -i 's/geo: "Südamerika"/geo: "South America"/g' $files
         sed -i 's/geo: "Nordamerika"/geo: "North America"/g' $files
@@ -171,6 +172,7 @@ case $1 in
 
         # set the right geo
         sed -i 's/geo: "Asia"/geo: "Asie"/g' $files
+        sed -i 's/geo: "Africa"/geo: "Afrique"/g' $files
         sed -i 's/geo: "Europe"/geo: "Europe"/g' $files
         sed -i 's/geo: "South America"/geo: "Amérique du Sud"/g' $files
         sed -i 's/geo: "North America"/geo: "Amérique du Nord"/g' $files
@@ -229,6 +231,7 @@ case $1 in
 
         # set the right geo
         sed -i 's/geo: "Asia"/geo: "Азии"/g' $files
+        sed -i 's/geo: "Africa"/geo: "Африке"/g' $files
         sed -i 's/geo: "Europe"/geo: "Европе"/g' $files
         sed -i 's/geo: "South America"/geo: "Саут-Америка"/g' $files
         sed -i 's/geo: "North America"/geo: "Северная Америка"/g' $files

@@ -19,6 +19,6 @@ case "$1" in
     ;;
 
     *)
-        hugo server -D --i18n-warnings --watch --ignoreCache --verbose --disableFastRender
+        hugo server -D
     ;;
 esac
