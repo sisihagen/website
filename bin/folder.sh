@@ -6,10 +6,6 @@ source ./bin/variables.sh
 # function
 source ./bin/function.sh
 
-# create folder
-# build folder
-mkdir -p "$build"
-
 # sites folder
 mkdir -p $dest/{$de,$fr,$en,$ru}/htdocs
 

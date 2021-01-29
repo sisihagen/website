@@ -1,0 +1,36 @@
+---
+title: "Wenn die Oligarchen uns abschalten"
+date: 2021-01-29
+draft: false
+tags: "Gesellschaft"
+geo: "Welt"
+shorttext: "Die meisten Leute sind sich gar nicht bewusst, wie einfach sie von oben stillgelegt werden können der digitalen Welt sei Dank!"
+cover: "society"
+lang: de
+---
+
+In Folge des Sturms von Trump-Anhängern auf das Capitol haben Twitter und Facebook die Accounts von Trump gesperrt, um zu verhindern, dass er erneut zu Demonstrationen aufruft. Ob das ein gerechtfertigter Schritt war, darüber kann diskutiert werden. Es ist nicht das Thema der folgenden Betrachtung.
+
+Das Thema ist ein anderes – ein für unsere Zukunft wichtigeres: Sind wir uns bewusst, dass wir bis ins Existenzielle hinein mehr und mehr von digitalen Netzwerken und digitalen "Werten" abhängig sind? Die Betreiber der digitalen Dienstleister können uns von einer Stunde auf die andere ausschalten – "ausschalten" in fast jedem Sinne des Wortes.
+
+Wer hat nicht schon erlebt, dass die eigene Kreditkarte in einem anderen Land nicht funktioniert hat? Das kann dann ein ganz kleiner Vorgeschmack sein dessen, wie das Nicht-Funktionieren der Kreditkarten politisch sogar gewollt sein kann. Mir ist das schon in den 1980er Jahren in Südamerika einmal passiert. Ich hatte damals eine "American Express"-Karte. Wegen eines aktuellen Problems zwischen Brasilien und den USA wurde dieser Karten-Typ in Brasilien "abgeschaltet". Wie aber einen Mietwagen erhalten, wenn man keine funktionierende Kreditkarte hat? Meine Lehre daraus: Wenn ich herumreise, habe ich immer mindestens zwei Kredit- oder Debitkarten bei mir.
+
+#### Eine bedenkenswerte Erfahrung
+
+Vor drei Jahren mussten meine Frau und ich im Hinblick auf eine Reise in ein Land, für das ein Einreise-Visum notwendig war, unsere zwischenzeitlich abgelaufenen Pässe durch neue ersetzen. Der Gang aufs Passamt in Lugano war noch völlig normal. Dann aber kam von gleicher Stelle ein Telefonanruf: Die Ausstellung des Passes für meine Frau sei nicht möglich, da diese Person im Register der Schweizer und Schweizerinnen nicht existiere, und es wurde mir empfohlen, auf die Einwohnerkontrolle zu gehen. Dort aber war man ratlos, sie könnten da auch nichts machen, sagten die zuständigen Leute. Wie also "beweisen", dass es meine Frau tatsächlich gab? Die seit vielen Jahren eingebürgerte Frau hatte ja zum Beispiel auch immer AHV bezahlt. Aber wer hatte die Kompetenz, sie wieder in das vom Passamt genutzte digitale Register aufzunehmen? Geholfen hat schliesslich eine verständnisvolle Frau auf dem Zivilstandsamt Zofingen, die nicht nur aufgrund von papierenen Dokumenten bestätigen konnte, dass wir Jahre zuvor in einer Gemeinde ihres Bezirks zivilstandsamtlich korrekt verheiratet wurden, sondern die auch im "System" recherchierte, in dem meine Frau mittlerweile inexistent war. Schliesslich wurde gefunden, wo der Fehler passiert war, und er wurde korrigiert. Meine Frau war damit wieder existent und konnte auch wieder einen gültigen Pass erhalten. "De iure", so paradox es klingt, war sie also mehrere Jahre mit einem "falschen" Pass unterwegs, ohne es zu wissen. Nicht auszudenken, was passiert wäre, wir hätten im Ausland einmal ein grösseres Problem gehabt und die Schweizer Botschaft hätte eingeschaltet werden müssen. Die Schweiz hätte vermeldet: Diese Frau kennen wir nicht.
+
+#### Das entscheidende Erlebnis: die Auswirkung von Sanktionen
+
+2014 hat die Bevölkerung der Krim in einem Referendum dafür abgestimmt, nicht mehr zur Ukraine, sondern zu Russland zu gehören, eine Sezession also. Da dieses Referendum ohne die Erlaubnis der Regierung in Kiev durchgeführt wurde, wird diese Sezession von den meisten Staatsrechtlern als völkerrechtswidrig angesehen. Es gab in der UNO deshalb eine Abstimmung über Sanktionen, die zwar sehr knapp ausfiel, aber dank Miniatur-Staaten wie Andorra, Monaco oder San Marino, die in der UNO gleich viel "Stimmrecht" haben wie China oder Indien mit Milliardenbevölkerungen, zu einem Ja für Sanktionen führte.
+
+Als kritischer Journalist leistete ich mir deshalb im Jahr 2019 das nicht ganz einfache "Vergnügen", die Krim persönlich zu bereisen. Zum Glück wusste ich von den auf der Krim sanktionsbedingt nicht funktionierenden Kreditkarten. Also konnte ich im Flughafen Sheremetyevo in Moskau noch eine angemessene Menge russische Rubel aus dem Bankomaten lassen. Auf der Krim ging dann allerdings gar nichts mehr, sogar mein Schweizer Handy versagte den Dienst. Um im Mietwagen ein Navi zu haben, musste ich auf dem Flugplatz Simferopol einen russischen Chip kaufen und mein Handy damit laden, der Chip der Swisscom war "tot".
+
+#### Die Folgerungen aus den Erlebnissen
+
+Jeder elektronische Geldverkehr kann abgeschaltet werden – legal oder illegal. (Kein Zufall, dass gegenwärtig viele Wohlhabende wieder Gold in ihren Tresoren stapeln.) Online-Plattformen im Internet können abgeschaltet werden, legal oder illegal. Persönliche E-Mail-Accounts können abgeschaltet werden, legal oder illegal. Die digitale Navigationshilfe, ob im Auto oder auf einer Bergwanderung, kann abgeschaltet werden. Alle sozialen Medien können, legal oder illegal, abgeschaltet werden. Und all das nicht nur durch staatliche Gremien, sondern auch durch die privaten Firmen, die diese digitalen Dienstleistungen anbieten. Im Fall meiner Frau war es, wie sich herausstellte, eine falsche Manipulation durch eine System-Nutzerin. Im Fall Krim waren es politische Gremien, die die Abschaltung verordnet hatten. Auch die Swisscom machte da mit. Im Fall der Schliessung der Twitter- und Facebook-Accounts von Donald Trump waren es die Entscheide der Chefs privatwirtschaftlicher Unternehmungen, ihm den Stecker zu ziehen. Aus allen diesen "Fällen" muss man vor allem eines lernen: Wir können einfach ausgeschaltet werden, von einer Stunde auf die andere – ausgeschaltet mit schwerwiegenden Folgen im Alltag, die bis ins Existenzielle reichen können.
+
+#### Die e-ID darf nicht privatisiert werden
+
+Bundesrat und Parlament haben beschlossen, dass wir Schweizer und Schweizerinnen neben dem ordentlichen Pass auch eine digitale "Identitätskarte" haben sollen, eine sogenannte e-ID, damit wir uns für den Zugang zu den unterschiedlichsten amtlichen und auch privaten Plattformen im Internet nur noch mit einem Passwort, eben dieser e-ID, identifizieren müssen. Der Vorschlag ist nachvollziehbar. Inakzeptabel allerdings ist der damit verbundene Beschluss von Bundesrat und Parlament, die Administration dieser e-ID privatwirtschaftlichen Firmen zu überlassen.
+
+Nicht unerwartet wurde gegen diese Lösung das Referendum ergriffen. Am 7. März, in wenigen Wochen, dürfen wir darüber abstimmen. Man muss sich einfach vergegenwärtigen, was alles nicht mehr funktioniert, wenn man "ausgeschaltet" wird, dann weiss man, wie man abstimmen muss. Ja, auch der Staat kann einen – kann uns! – "ausschalten", legal oder illegal oder auch aufgrund eines technischen oder menschlichen Fehlers. Nichtsdestotrotz muss die Möglichkeit, uns als Mitglied unserer menschlichen Gesellschaft auf technischem Weg "auszuschalten", auf ein Minimum reduziert werden. Dass künftig eine privatwirtschaftliche, profitorientierte Firma mich über meine e-ID vom Zugang zu x amtlichen oder privaten Plattformen und Institutionen aussperren kann, ist für mich absolut inakzeptabel.

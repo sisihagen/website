@@ -18,7 +18,7 @@
   {{ end }}
 
   {{ if eq $.Site.Language.LanguageName "Français" }}
-    {{ range $.Page.Site.Data.brands_vultr }}
+    {{ range $.Page.Site.Data.brands_ovh }}
         <a href="{{ .href }}" title="{{ .title }}" target="_blank">
           <span class="{{ .class }}"></span>
         </a>

@@ -1,0 +1,36 @@
+---
+title: "Quand les oligarques nous éteignent"
+date: 2021-01-29
+draft: false
+tags: "Société"
+geo: "Monde"
+shorttext: "La plupart des gens ne sont même pas conscients de la facilité avec laquelle ils peuvent être fermés par le haut - grâce au monde numérique!"
+cover: "society"
+lang: fr
+---
+
+À la suite de la tempête des partisans de Trump sur le Capitole, Twitter et Facebook ont bloqué les comptes de Trump pour l'empêcher d'appeler à nouveau à manifester. Si c'était justifiée étape peut être discuté. Il ne fait pas l'objet de l'examen suivant.
+
+Le sujet en est un autre, plus important pour notre avenir: sommes-nous conscients que nous sommes de plus en plus dépendants des réseaux numériques et des "valeurs" numériques jusqu'au niveau existentiel? Les opérateurs des fournisseurs de services numériques peuvent nous éteindre d'une heure à l'autre – "éteindre" dans presque tous les sens du terme.
+
+Qui n'a pas connu que votre propre carte de crédit ne fonctionnait pas dans un autre pays? Cela peut alors être un très petit avant-goût de la façon dont le non-fonctionnement des cartes de crédit peut même être politiquement intentionnel. Cela m'est arrivé dans les années 1980 en Amérique du Sud. J'avais une carte"American Express" À l'époque. En raison d'un problème actuel entre le Brésil et les États-Unis, ce type de carte a été "désactivé"au Brésil. Mais comment obtenir une voiture de location si vous n'avez pas de travail de carte de crédit? Ma leçon: quand je voyage, j'ai toujours au moins deux cartes de crédit ou de débit avec moi.
+
+#### Une expérience mémorable
+
+Il y a trois ans, ma femme et moi avons dû remplacer nos passeports, qui avaient expiré entre-temps, par de nouveaux afin de voyager dans un pays pour lequel un visa d'entrée était nécessaire. Le passage au bureau des passeports à Lugano était encore tout à fait normale. Mais ensuite, un appel téléphonique est venu du même endroit: la délivrance du passeport pour ma femme n'était pas possible, car cette personne n'existait pas dans le registre suisse, et on m'a conseillé d'aller au contrôle des résidents. Mais là, ils étaient perplexes, ils ne pouvaient rien faire là-bas, ont déclaré les responsables. Alors, comment "prouver" que ma femme réellement existé? La femme, naturalisée depuis de nombreuses années, a toujours payé L'AVS, par exemple. Mais qui avait la compétence de les inclure à nouveau dans le registre numérique utilisé par le Bureau des passeports? Enfin, une femme compréhensive du bureau d'état civil de Zofingen a aidé, qui a non seulement pu confirmer sur la base de documents papier que nous avions été mariés des années auparavant dans une municipalité de son bureau d'état civil de district correctement, mais qui a également fait des recherches dans le "système", dans lequel ma femme était maintenant inexistante. Finalement, il a été trouvé où l'erreur s'était produite et elle a été corrigée. Ma femme a donc de nouveau existé et a pu obtenir à nouveau un passeport valide. "De iure", aussi paradoxal que cela puisse paraître, elle voyageait depuis plusieurs années avec un "faux" passeport sans le savoir. Il aurait été difficile d'imaginer ce qui serait arrivé, nous aurions eu un gros Problème à l'étranger et l'ambassade de Suisse aurait dû être impliqués. La Suisse aurait rapporté: nous ne connaissons pas cette femme.
+
+#### L'expérience ultime: l'impact des sanctions
+
+En 2014, le peuple de Crimée a voté par référendum pour ne plus appartenir à L'Ukraine, mais à la Russie, une sécession. Comme ce référendum a eu lieu à Kiev sans l'Autorisation du gouvernement, cette sécession est considérée par la plupart des juristes constitutionnels comme contraire au droit international. Il y a donc eu un vote à l'ONU sur les sanctions, qui était très proche, mais grâce à des États miniatures comme Andorre, Monaco ou Saint-Marin, qui ont les mêmes "droits de vote" à l'ONU que la Chine ou l'Inde, avec des populations de milliards, a conduit à un oui pour les sanctions.
+
+En tant que journaliste critique, j'ai donc pris le "plaisir" pas si simple de voyager personnellement en Crimée en 2019. Heureusement, je savais que les cartes de crédit ne fonctionnaient pas en Crimée en raison de sanctions. Donc, à L'aéroport Sheremetyevo à Moscou, je pouvais toujours laisser une quantité raisonnable de roubles russes hors du guichet automatique. En Crimée, cependant, rien ne fonctionnait plus, même mon téléphone mobile Suisse a échoué le service. Pour avoir un GPS dans la voiture de location, j'ai dû acheter une puce Russe à L'aéroport de Simferopol et charger mon téléphone portable avec elle, la puce Swisscom était "morte".
+
+#### Les conséquences des expériences
+
+Toute monnaie électronique peut être désactivée-légalement ou illégalement. (Ce n'est pas un hasard si de nombreuses personnes riches empilent à nouveau de l'or dans leurs coffres.) Les plateformes en ligne sur Internet peuvent être fermées, légalement ou illégalement. Les comptes de messagerie personnels peuvent être désactivés, légalement ou illégalement. L'aide à la navigation numérique, que ce soit dans la voiture ou lors d'une randonnée en montagne, peut être désactivée. Tous les médias sociaux peuvent être fermés, légalement ou illégalement. Et tout cela non seulement à travers les organismes publics, mais aussi à travers les entreprises privées qui offrent ces services numériques. Dans le cas de ma femme, il s'est avéré être une fausse Manipulation par un utilisateur du système. Dans le cas de la Crimée, ce sont les organes politiques qui ont ordonné la fermeture. Swisscom était également impliqué. Dans le cas de la fermeture des comptes Twitter et Facebook de Donald Trump, c'était la décision des chefs d'entreprises privées de le bloquer. De tous ces "cas", il faut apprendre une chose par – dessus tout: nous pouvons simplement être éteints, d'une heure à l'autre-éteints avec de graves conséquences dans la vie quotidienne, qui peuvent atteindre l'existentiel.
+
+#### L'e-ID ne doit pas être privatisée
+
+Le Conseil fédéral et le Parlement ont décidé qu'en plus du passeport ordinaire, nous, suisses, devrions également disposer d'une "carte d'identité" numérique, une soi-disant e-ID, de sorte que nous n'avons plus qu'à nous identifier avec un mot de passe, cette e-ID, pour accéder aux plateformes officielles et privées les plus diverses sur Internet. La proposition est compréhensible. Cependant, la décision du Conseil fédéral et du Parlement de laisser l'Administration de cette e-ID à des entreprises privées est inacceptable.
+
+Pas de façon inattendue, le référendum a été pris contre cette solution. Le 7 mars, dans quelques semaines, nous pourrons voter dessus. Vous avez juste à réaliser ce qui ne fonctionne plus, si vous êtes "hors tension", alors vous savez comment voter. Oui, l'état peut faire un peut nous faire! - "éteindre", légal ou illégal ou également dû à une erreur technique ou humaine. Néanmoins, la possibilité de nous "éliminer" en tant que membre de notre société humaine par des moyens techniques doit être réduite au Minimum. Qu'à l'avenir une entreprise privée à but lucratif puisse me bloquer l'accès à X plateformes et institutions officielles ou privées via mon e-ID est absolument inacceptable pour moi.

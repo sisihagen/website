@@ -18,7 +18,7 @@ case "$1" in
   ;;
 
   ru)
-    rsync -auq --delete --exclude-from='./resources/rsync_ex_ru.txt' $dest/ru-web:/var/www/
+    rsync -auq --delete --exclude-from='./resources/rsync_ex_ru.txt' $dest/ ru-web:/var/www/
   ;;
 
   st)
