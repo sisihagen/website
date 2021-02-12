@@ -1,0 +1,28 @@
+---
+title: "Anspruch und Wirklichkeit eines dementen Mannes"
+date: 2021-02-09
+draft: false
+tags: "Staat"
+geo: "Nordamerika"
+shorttext: "Trump ist weg und dies- und jenseits des Atlantiks ist vor allem bei den Liberalen die Freude groß. Die Demenz zieht nun ein."
+cover: "repression"
+lang: de
+---
+
+Trump ist weg und dies- und jenseits des Atlantiks ist vor allem bei den Liberalen die Freude groß. Dass Joe Biden nun als der große Heilsbringer betrachtet wird, ist jedoch in vielerlei Hinsicht problematisch. So betreffen einige der nun gelobten ersten Amtsmaßnahmen Bidens wie die Aufhebung des "Muslim Bans" politische Initiativen, die von ihm selbst in der Obama-Ära mitgetragen wurden.
+
+Amerikas neuer Präsident ist allem Anschein nach ein Lichtbringer, der Donald Trump und dessen Machenschaften ein für alle Mal verbannt hat. Dies ist zumindest das Bild, das viele Liberale in diesen Tagen vermitteln wollen, auch in Deutschland. Die NATO ist glücklich. Merkel lädt Biden nach Deutschland ein. Ramstein, Africom und Co. werden wohl wie gewohnt weiterlaufen. Die transatlantische Freundschaft besteht wieder. Bereits am ersten Tag seiner Amtszeit hat Joe Biden seine Abkehr vom Trump-Kurs verdeutlicht, indem er gleich siebzehn sogenannte "Executive Orders" unterzeichnet hat. Die Dekrete umfassen unter anderem die Rückkehr zum Pariser Klimaabkommen und zur WHO, den Stopp des Mauerbaus an der südlichen Grenze sowie die Aufhebung von Einreiseverboten, darunter etwa auch des sogenannten Trump’schen "Muslim Ban", der sich gegen sieben mehrheitlich muslimische Staaten richtete und für dementsprechende Kontroversen sorgte.
+
+Dass der "Muslim Ban" das Resultat von Islamfeindlichkeit und Rassismus war, steht außer Frage. Umso mehr ist dessen Abschaffung zu begrüßen. Doch gleichzeitig sollte man auch auf den Umstand aufmerksam machen, dass der Entwurf für diese menschenfeindliche Praxis bereits während der Amtszeit Obamas entstand. 2015 segnete dieser ein Gesetz ab, das sich in typischer "War on Terror"-Manier gegen die Bürger ebenjener Staaten richtete: Den Visa Waiver Improvement Program and Terrorist Travel Prevention Act. Kritiker, die man damals eher ungern hörte, bezeichneten das Gesetz zu recht als rassistisch. Unter den Opfern des neuen Beschlusses befand sich 2016 auch die BBC-Journalistin Rana Rahimpour, die aufgrund ihres iranischen Geburtsortes nicht in die USA einreisen durfte.
+
+Joe Biden war nicht nur irgendein Teil der Regierung Obamas, sondern dessen Vizepräsident. Demnach hat er nicht nur Obamas "Muslim Ban" mitgetragen, sondern auch andere Kontroversen Trump de facto auf dem Silbertablett serviert, darunter etwa die Massendeportationen südamerikanischer Geflüchteter oder den illegalen Drohnenkrieg Washingtons.
+
+Während viele Amerikaner nun Bidens Akt zelebrieren, muss man sich als nüchterner Beobachter dennoch die Frage stellen, warum Biden nicht weiter ausgeholt hat. Immerhin handelte es sich beim "Muslim Ban" in erster Linie um eine Fortführung des "War on Terror" und dieser wurde gewiss nicht von Trump ins Leben gerufen, sondern von George W. Bush, dem so manch einer, auch fernab von den USA, in der Trump’schen Ära tatsächlich nachtrauerte.
+
+Der ehemalige Guantanamo-Häftling und Bestsellerautor Mohamedou Ould Slahi appellierte vor kurzem abermals für die Schließung des Foltergefängnisses auf Kuba und richtete sich in diesem Kontext direkt an Biden. Zu den ersten Dekreten Trumps gehörte 2017 die Anordnung, die Pforten Guantanamos weiterhin geöffnet zu lassen. Während einige Anhänger Bidens nun behaupten, dass die rechtliche Lage kompliziert sei und Biden nicht ohne weiteres das Gefängnis, das die Ungleichheit und Unterdrückung des "War on Terrors" in einzigartiger Art und Weise deutlich gemacht hat, mittels eines "Executive Orders" schließen könne, fragen sich gleichzeitig viele, ob der politische Wille für einen solchen Schritt überhaupt existiert.
+
+Joe Biden hat bereits viele politische Schritte angekündigt, die von den liberalen Massen Amerikas zelebriert werden. Sein Kabinett ist in der Sprache der Liberalen "woke" und divers. Sein Verteidigungsminister ist etwa der erste Afroamerikaner, der dieses Amt einnimmt. Kurz und knapp: Das Obama-Feeling aus dem Jahr 2009 liegt in der Luft. Die Tatsache, dass die vorherigen US-Administrationen ein großer Teil des Problems waren und einen Aufstieg Trumps erst ermöglicht haben, geht dabei unter.
+
+Gleichzeitig steht nämlich auch fest, dass sich vieles nicht ändern wird – vor allem nicht der amerikanische Exzeptionalismus, der weiterhin davon ausgeht, die Welt dominieren zu müssen. Biden hat bereits vor seiner Wahl deutlich gemacht, wieder "führen" zu wollen. Wen? Na, die ganze Welt natürlich.
+
+In vielerlei Hinsicht ist es gut, dass Biden ins Weiße Haus eingezogen ist. Er wird (hoffentlich!) den stetigen medialen Fokus von einer einzelnen Person – dies war nämlich bei Trump der Fall – auf das gesamte System lenken und abermals deutlich machen, wie problematisch dieses ist. Der "Muslim Ban" ist Geschichte, doch mehrheitlich muslimische Staaten werden weiterhin von den USA bombardiert. Barack Obama, der erste afroamerikanische US-Präsident der Geschichte, war auch gleichzeitig jener Mann, der den Schattenkrieg auf dem afrikanischen Kontinent massiv ausweitete und dieses Erbe letztendlich Donald Trump übergab. Dass nun ein schwarzer Verteidigungsminister die Menschen in Somalia und anderswo bombardieren wird, kann von der linksliberalen Elite in New York, Washington und anderswo als Errungenschaft betrachtet werden. Den Opfern dieser Kriege, die auch ein Joe Biden mitgetragen und unterstützt hat, ist dies allerdings höchstwahrscheinlich herzlichst egal.
