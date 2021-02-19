@@ -65,3 +65,8 @@ else
     fi
   fi
 fi
+
+# check folder are sync
+if [[ ! "$src_images" -eq "$tar_images" ]]; then
+  sync "$lstatic/img/" "$dest/$static/htdocs/img/"
+fi

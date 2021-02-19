@@ -42,6 +42,8 @@ png_content="$(find ./static/static/img/content/"$year" -type f -name "*.png" | 
 jpg_content="$(find ./static/static/img/content/"$year" -type f -name "*.jpg" | wc -l)"
 jpg_cover="$(find ./static/static/img/cover/"$year" -type f -name "*.jpg" | wc -l)"
 webp_cover="$(find ./static/static/img/cover/"$year" -type f -name "*.webp"| wc -l )"
+src_images="$(find ./static/static/img -type f | wc -l)"
+tar_images="$(find ./public/dest/static.silviosiefke.com/htdocs/img -type f | wc -l)"
 
 
 # time
