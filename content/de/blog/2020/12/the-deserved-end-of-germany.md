@@ -31,7 +31,7 @@ Wie unbeliebt sich Deutschland in den letzten zwei Jahren machte konnte man vor 
 
 Die Chinesen sind für Ihre Diplomatie bekannt. Wie man schnell selbst merkt wenn man zum Beispiel einmal mit der chinesischen Botschaft Kontakt aufnimmt. Aber Heusgen brachte es sogar fertig das diese friedlichen und weit gebildeter Menschen ein Hass auf Deutschland entwickeln.
 
-Der [Spiegel](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: "Sie werden uns nicht fehlen"") erzählt uns das ganze mit der rosa roten Brille:
+Der [Spiegel](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: Sie werden uns nicht fehlen) erzählt uns das ganze mit der rosa roten Brille:
 
 > "Im Verlauf der hitzigen Sitzung am Mittwoch stellten die Vertreter Moskaus und Pekings die Eignung Deutschlands für einen ständigen Sitz im Sicherheitsrat infrage. Der deutsche Weg zu einer ständigen Mitgliedschaft "wird schwierig sein", sagte der chinesische Vertreter Yao Shaojun."
 

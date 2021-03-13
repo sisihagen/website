@@ -14,7 +14,9 @@ Dans L'émission Markus-Lanz du 2 décembre, Carsten Linnemann a été interrog�
 
 Mais il ne faut pas s'en étonner, CDU, CSU, SPD, Les Verts, FDP sont des amis des oligarques économiques. Personne ne devrait être surpris par cela, de sorte que les personnes incompétentes ne trouveraient pas de travail dans le monde réel et ne recevraient pas de pensions par corruption.
 
-Le spectacle nouvellement coupé peut être trouvé [ici](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), à 55:20 la coupe est également visible et comparer le tout une fois avec les [minutes](/static/downloads/marcus_lanz_2_dez_linnenmann.mp4 "Lanz der zensierte Part") cruciales qui ont été supprimées.
+Le spectacle nouvellement coupé peut être trouvé [ici](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), à 55:20 la coupe est également visible et comparer le tout une fois avec les minutes cruciales qui ont été supprimées.
+
+{{< video "/static/downloads/marcus_lanz_2_dez_linnenmann.mp4" "Markus Lanz vom 2. Dezember 2020" >}}
 
 Ici encore écrit:
 

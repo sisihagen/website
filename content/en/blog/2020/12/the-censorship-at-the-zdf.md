@@ -15,7 +15,9 @@ In the Markus-Lanz broadcast of 2 December, Carsten Linnemann was asked about th
 
 But one should not be surprised about this, CDU, CSU, SPD, The Greens, FDP are friends of the economic oligarchs. No one should be surprised by this, so incompetent people would not find work in the real world and receive pension payments through corruption.
 
-The newly cut show can be found [here](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), at 55:20 the cut is also visible and compare the whole thing once with the crucial [minutes](/static/downloads/marcus_lanz_2_dez_linnenmann.mp4 "Lanz der zensierte Part") that have been removed.
+The newly cut show can be found [here](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), at 55:20 the cut is also visible and compare the whole thing once with the crucial minutes that have been removed.
+
+{{< video "/static/downloads/marcus_lanz_2_dez_linnenmann.mp4" "Markus Lanz vom 2. Dezember 2020" >}}
 
 Here again written:
 

@@ -14,7 +14,9 @@ lang: ru
 
 Но удивляться этому не стоит, ХДС, ХСС, СДПГ, зеленые, СвДП-друзья экономических олигархов. Это никого не должно удивлять, чтобы некомпетентные люди не нашли работу в реальном мире и не получали пенсионные выплаты через коррупцию.
 
-Недавно вырезанное шоу можно найти [здесь](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), в 55: 20 разрез также виден, и сравните все это один раз с критическими [минутами](/static/downloads/marcus_lanz_2_dez_linnenmann.mp4 "Lanz der zensierte Part"), которые были удалены.
+Недавно вырезанное шоу можно найти [здесь](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), в 55: 20 разрез также виден, и сравните все это один раз с критическими минутами, которые были удалены.
+
+{{< video "/static/downloads/marcus_lanz_2_dez_linnenmann.mp4" "Markus Lanz vom 2. Dezember 2020" >}}
 
 Здесь опять написано:
 

@@ -31,7 +31,7 @@ lang: ru
 
 Китайцы известны своей дипломатичностью. Как быстро заметить себя при обращении в китайское посольство, например. Но Хойсгену даже удалось заставить этих мирных и хорошо образованных людей возненавидеть Германию.
 
-[Шпигель](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: "Sie werden uns nicht fehlen"") рассказывает нам все это в розово-красных очках:
+[Шпигель](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: Sie werden uns nicht fehlen) рассказывает нам все это в розово-красных очках:
 
 > "В ходе жаркого заседания в среду представители Москвы и Пекина усомнились в пригодности Германии для постоянного места в Совете Безопасности. Путь Германии к постоянному членству "будет трудным", заявил представитель Китая Яо Шаоцзюнь.
 

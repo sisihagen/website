@@ -31,7 +31,7 @@ How unpopular Germany has been over the last two years could be seen a few days 
 
 The Chinese are known for their diplomacy. How to quickly notice yourself when you contact the Chinese embassy, for example. But Heusgen even managed to get these peaceful and well-educated people to develop a hatred for Germany.
 
-The [Spiegel](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: "Sie werden uns nicht fehlen"") tells us the whole thing with the pink red glasses:
+The [Spiegel](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: Sie werden uns nicht fehlen) tells us the whole thing with the pink red glasses:
 
 > "During Wednesday's heated session, the representatives of Moscow and Beijing questioned Germany's suitability for a permanent seat on the Security Council. The German path to permanent membership "will be difficult," said Chinese representative Yao Shaojun.
 

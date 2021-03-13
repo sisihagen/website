@@ -15,7 +15,9 @@ In der Markus-Lanz-Sendung vom 2. Dezember wurde Carsten Linnemann, zu den aktue
 
 Man darf sich darüber aber nicht wunder, CDU, CSU, SPD, Die Grünen, FDP das sind Freunde der wirtschaftlichen Oligarchen. Das darf auch niemand verwundern, so unfähige Menschen würden in der realen Welt schließlich keine Arbeit finden und erhalten sich die Rentenzahlungen durch Korruption.
 
-Die neu geschnittene Sendung finden Sie [hier](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), bei 55:20 ist der Schnitt auch sichtbar und vergleichen Sie das ganze einmal mit den entscheidenden [Minuten](/static/downloads/marcus_lanz_2_dez_linnenmann.mp4 "Lanz der zensierte Part") die entfernt wurden.
+Die neu geschnittene Sendung finden Sie [hier](https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2020-100.html "Markus Lanz vom 2. Dezember 2020"), bei 55:20 ist der Schnitt auch sichtbar und vergleichen Sie das ganze einmal mit den entscheidenden Minuten die entfernt wurden.
+
+{{< video "/static/downloads/marcus_lanz_2_dez_linnenmann.mp4" "Markus Lanz vom 2. Dezember 2020" >}}
 
 Hier auch noch einmal niedergeschrieben:
 

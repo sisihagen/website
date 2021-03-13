@@ -18,4 +18,7 @@ if [[ -d "$dest/$static/htdocs/$js" ]]; then
   # copy used js files
   cp $lstatic/$js/site.js $dest/$static/htdocs/$js/site.js
   cp $lstatic/$js/modernizr.js $dest/$static/htdocs/$js
+
+  # copy video js
+  cp ./node_modules/clappr/dist/clappr.min.js $dest/$static/htdocs/$js
 fi

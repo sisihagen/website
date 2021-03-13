@@ -31,7 +31,7 @@ L'impopularité de l'Allemagne au cours des deux dernières années a pu être v
 
 Les Chinois sont connus pour leur diplomatie. Comment vous remarquer rapidement lorsque vous contactez l'Ambassade de Chine, par exemple. Mais Heusgen a même réussi à amener ces personnes pacifiques et bien éduquées à développer une haine pour l'Allemagne.
 
-Le [Spiegel](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: "Sie werden uns nicht fehlen"") nous dit le tout avec les lunettes roses rouges:
+Le [Spiegel](https://www.spiegel.de/politik/ausland/china-und-russland-attackieren-deutschland-im-uno-sicherheitsrat-a-6d271d73-457e-43d2-9b13-d53eeec93995 "Russland an Deutschland: Sie werden uns nicht fehlen) nous dit le tout avec les lunettes roses rouges:
 
 > "Au cours de la séance houleuse de mercredi, les représentants de Moscou et de Beijing ont mis en doute la pertinence de l'Allemagne pour un siège permanent au Conseil de sécurité. La voie allemande vers l'adhésion permanente "sera difficile", a déclaré le représentant chinois Yao Shaojun.
 

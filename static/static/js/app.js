@@ -23,6 +23,10 @@ $(document).ready(function() {
         if($('.article__source a[href*="t.co"]').length > 0){
           $('.article__source a[href*="t.co"]').hide();
         }
+
+        if($('.article__source a[href*="#"]').length > 0){
+          $('.article__source a[href*="#"]').hide();
+        }
     });
 
     $('article img').each(function (idx, ele) {
