@@ -82,13 +82,13 @@ ignoreErrors = ["error-remote-getjson"]
         url = "http://twitter.silviosiefke.com"
         pre = "icon-twitter"
         name = "Twitter"
-        weight = 30
+        weight = 40
 
         [[languages.de.menu.main]]
         url = "http://git.silviosiefke.com"
         pre = "icon-gitlab"
         name = "Gitlab"
-        weight = 40
+        weight = 50
 
     [languages.en]
         baseURL = "http://silviosiefke.com"
