@@ -8,7 +8,7 @@ cover: "repression"
 lang: en
 ---
 
-When the OVCW Division "investigation and identification Team", or IIT for short, [presented](/static/downloads/s-1867-2020(e%29.pdf "OVCW Bericht") its maiden report in The Hague shortly before Easter, Federal Foreign Minister Heiko Maas had already finished his statement. On behalf of the German government, Maas welcomed the report "on chemical weapons operations in Syria in March 2017," according to a statement issued by the Federal Foreign Office. He said it was an "important step towards solving these heinous crimes" committed by "Air Force units of the Syrian regime."
+When the OVCW Division "investigation and identification Team", or IIT for short, [presented](/static/downloads/s-1867-2020.pdf "OVCW Bericht") its maiden report in The Hague shortly before Easter, Federal Foreign Minister Heiko Maas had already finished his statement. On behalf of the German government, Maas welcomed the report "on chemical weapons operations in Syria in March 2017," according to a statement issued by the Federal Foreign Office. He said it was an "important step towards solving these heinous crimes" committed by "Air Force units of the Syrian regime."
 
 
 
