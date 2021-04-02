@@ -17,7 +17,7 @@ I used photos from Wikipedia and flickr (CC 4.0). You can use my texts freely, y
 
 #### State and Economic Interests
 
-Warnings yours to keep, poverty is not only negative, you can also take a nothing. Protect your “property”, then a relevant mail to the above address. I link to different legal sites that support my opinion or complete the conclusion. If you have problems with a linked site, please contact the operator or provider you can find on [Whois](https://www.whois.net "Whois") queries. I do not have access to other websites. If you do not understand this, I recommend a [course](https://www.itonlinelearning.com/blog/networking-courses-for-beginners/ "Network Courses for Beginners") of network technology.
+Warnings yours to keep, poverty is not only negative, you can also take a nothing. Protect your "property”, then a relevant mail to the above address. I link to different legal sites that support my opinion or complete the conclusion. If you have problems with a linked site, please contact the operator or provider you can find on [Whois](https://www.whois.net "Whois") queries. I do not have access to other websites. If you do not understand this, I recommend a [course](https://www.itonlinelearning.com/blog/networking-courses-for-beginners/ "Network Courses for Beginners") of network technology.
 
 #### Webserver
 

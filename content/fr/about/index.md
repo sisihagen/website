@@ -17,7 +17,7 @@ J'ai utilisé des photos de wikipedia et Flickr (CC 4,0). Vous pouvez utiliser m
 
 #### État et des intérêts économiques
 
-Avertissements les vôtres à garder, la pauvreté n'est pas seulement négatif, vous pouvez également prendre un rien. Protégez votre «propriété», puis un courrier pertinent à l'adresse ci-dessus. J'ai un lien vers différents sites juridiques qui soutiennent mon opinion ou terminer la conclusion. Si vous avez des problèmes avec un site lié, s'il vous plaît contacter l'opérateur ou le fournisseur que vous pouvez trouver sur les requêtes [Whois](https://www.whois.net "Whois"). Je n'ai pas accès à d'autres sites Web. Si vous ne comprenez pas cela, je recommande un [cours de technologie](https://www.maxicours.com/se/fiche/tech/) de réseau.
+Avertissements les vôtres à garder, la pauvreté n'est pas seulement négatif, vous pouvez également prendre un rien. Protégez votre "propriété", puis un courrier pertinent à l'adresse ci-dessus. J'ai un lien vers différents sites juridiques qui soutiennent mon opinion ou terminer la conclusion. Si vous avez des problèmes avec un site lié, s'il vous plaît contacter l'opérateur ou le fournisseur que vous pouvez trouver sur les requêtes [Whois](https://www.whois.net "Whois"). Je n'ai pas accès à d'autres sites Web. Si vous ne comprenez pas cela, je recommande un [cours de technologie](https://www.maxicours.com/se/fiche/tech/) de réseau.
 
 #### Web Server
 

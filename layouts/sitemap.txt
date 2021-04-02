@@ -1,0 +1,3 @@
+{{ range .Data.Pages }}{{ if ne .Params.sitemap_exclude true }}
+{{ .Permalink }}
+{{ end }}{{ end }}
