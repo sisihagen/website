@@ -70,4 +70,44 @@ Comme vous pouvez le voir des dirigeants et des orateurs en Ukraine, les mêmes 
 
 #### 1 Avril 2021
 
-L'état terroriste des États-Unis est bien sûr en augmentation et il ne se passe pas un jour sans qu'un rapport d'agression russe soit signalé. En raison du danger de la guerre, des hommes sont maintenant enrôlés pour le combat dans le Donbass. Le danger de la guerre peut également être vu dans le fait que les médias comme le [Spiegel](https://www.spiegel.de/politik/ausland/ukraine-usa-verurteilen-aggressives-vorgehen-russland-entlang-der-grenze-a-317785a1-98cc-43d6-b34f-29aa05624aa9 "USA verurteilen "aggressives" Vorgehen Moskaus im Ukrainekonflikt") ont redécouvert l'Ukraine et se contentent de reprendre la propagande.
+L'état terroriste des États-Unis est bien sûr en augmentation et il ne se passe pas un jour sans qu'un rapport d'agression russe soit signalé. En raison du danger de la guerre, des hommes sont maintenant enrôlés pour le combat dans le Donbass. Le danger de la guerre peut également être vu dans le fait que les médias comme le [Spiegel](https://www.spiegel.de/politik/ausland/ukraine-usa-verurteilen-aggressives-vorgehen-russland-entlang-der-grenze-a-317785a1-98cc-43d6-b34f-29aa05624aa9 "USA verurteilen aggressives Vorgehen Moskaus im Ukrainekonflikt") ont redécouvert l'Ukraine et se contentent de reprendre la propagande.
+
+#### 3 Avril 2021
+
+Leonid Kravchuk, autrefois président de l'Ukraine, ne se distingue désormais que par l'école occidentale. Non [diplomatie](https://tass.ru/mezhdunarodnaya-panorama/11063055 "Кравчук назвал Украину врагом России") juste bavarder.
+
+> Et seulement maintenant, le mois dernier, il est devenu évident pour les États-Unis et l'Occident qu'aucune collusion ne peut être faite avec la Russie.
+
+Aussi intéressant est [Alexei Arestovich](https://smotrim.ru/article/2545711 "Украина заявила о подготовке НАТО к войне с Россией") qui a déjà traduit la raison de l'entraînement au terrorisme de l'OTAN Defender Europe:
+
+> "Le défenseur de l'Europe 2021 signifie "Protéger l'Europe". Le sentiment est que de la mer Baltique à la mer Noire-eh bien, avouons-le - la guerre contre la Russie est pratiquée, la confrontation armée avec la Russie est entraînée
+
+L'élève de l'école primaire et nommé [ministre de la Guerre](https://de.rt.com/inland/115373-kramp-karrenbauer-russland-sehr-greifbare-bedrohung/ "Kramp-Karrenbauer: Russland ist für uns eine sehr greifbare Bedrohung") AKK exige bien sûr en raison de la menace de la Russie une fois de plus de l'argent pour la troupe tueuse.
+
+#### 5 avril 2021
+
+Josep Borrell est d'accord avec le refrain et [assure](https://www.spiegel.de/politik/ausland/ukraine-konflikt-eu-aussenbeauftragter-josep-borrell-sichert-hilfe-zu-a-7109b7d2-29c1-4e0d-b79f-a51770d09917 "EU-Außenbeauftragter versichert Ukraine Unterstützung") le "soutien indéfectible de l'UE à la souveraineté et à l'intégrité territoriale de l'Ukraine.".
+
+Bien sûr, les États-Unis sont autorisés à interférer une fois de plus ce que fait Ned Price, Tass le résume comme suit:
+
+> "Selon lui, les actions de la Russie sapent" la désescalade des tensions par l'accord conclu en juillet dernier sous la médiation de l'Organisation pour la Sécurité et la coopération en Europe."Dans le même temps, le porte-parole du département d'État américain a estimé que le récent déploiement d'unités militaires par la Russie sur son propre territoire était provocateur. "Nous avons demandé à la Russie de fournir une explication à ces provocations", a déclaré le diplomate américain. "Cependant, il est plus important", a déclaré Price, " que nous (le gouvernement américain) ayons donné un signal direct de soutien aux partenaires ukrainiens.""En plus de nos assurances aux responsables ukrainiens, nous discutons de nos préoccupations concernant les tensions croissantes, les violations du cessez-le-feu et les tensions régionales avec les alliés de l'OTAN", a ajouté Price. Il a précisé que la question avait été discutée la semaine dernière au siège de l'OTAN à Bruxelles."
+
+#### 6 avril 2021
+
+Le Oussama ben Laden Jens Stoltenberg en tant que représentant de [l'organisation terroriste](https://www.spiegel.de/politik/ausland/ukraine-konflikt-nato-warnt-russland-vor-eskalation-an-der-grenze-a-bfa8dc9b-46b7-4a46-9a1d-1e3d38f10895  "Nato warnt Russland vor Eskalation in der Ukraine") met en garde la Russie:
+
+> L'otan continuera à soutenir la souveraineté et l'intégrité territoriale de l'Ukraine. Nous restons vigilants et continuons à surveiller la situation de très près", a déclaré un porte-parole de l'OTAN à Die Welt. Les mesures déstabilisatrices de la Russie saperaient tout effort visant à désamorcer les tensions dans le cadre de l'accord de cessez-le-feu négocié par l'OSCE à la mi-2020.
+
+Leonid Kravchuk, le chef du groupe de contact ukrainien [a appelé](https://tass.ru/mezhdunarodnaya-panorama/11077865 "Кравчук запросил экстренную встречу контактной группы из-за ситуации в Донбассе") à l'OSCE une réunion devrait être convoquée pour discuter d'un cessez-le-feu. La paix en Ukraine? Loin de là, une réunion est déjà prévue pour le 14 avril et Kravtchouk a déclaré sur Ukrainian [TV](https://tass.ru/mezhdunarodnaya-panorama/11083637 "Кравчук заявил, что Украина больше не согласится ехать в Минск на переговоры по Донбассу") que l'Ukraine ne participera pas à la réunion devrait avoir lieu à Minsk.
+
+La marionnette, le comédien Selensky a parlé avec Oussama Ben Laden de [rejoindre](https://tass.ru/mezhdunarodnaya-panorama/11077931 "Зеленский считает, что членство Украины в НАТО приведет к окончанию войны в Донбассе") l'OTAN.
+
+> Nous voulons réformer notre armée et notre secteur de la défense, mais la Russie ne peut pas être arrêtée par des réformes seules. L'OTAN est le seul moyen de mettre fin à la guerre dans le Donbass. Le plan d'action de l'OTAN pour l'adhésion sera un véritable signal pour la Russie.
+
+#### 7 avril 2021
+
+Le 7 avril, le [ministère de la Défense](https://www.mil.gov.ua/news/2021/04/07/odin-za-vsih-i-vsi-za-odnogo-u-2021-mu-roczi-ukraina-doluchatimetsya-do-nizki-navchan-nato-za-statteyu-5-kolektivna-oborona-%E2%80%93-andrij-taran/ "Один за всіх і всі за одного: у 2021-му році Україна долучатиметься до низки навчань НАТО за статтею 5 Колективна оборона, – Андрій Таран") ukrainien a annoncé que l'Ukraine serait invitée à participer à sept manœuvres de l'OTAN en 2021:
+
+> "Parmi les exercices auxquels l'Alliance de l'Atlantique Nord a invité l'Ukraine figurent Steadfast Cobalt, Ramstein Apex, Ramstein Ambition, Steadfast Defender, Noble Bonus, Steadfast Jupiter, Steadfast Leda"
+
+{{< image_new picture="2021/027" title="Militärattaché Stewart wear Ukraine Clothes with Nationalism Sign" >}}

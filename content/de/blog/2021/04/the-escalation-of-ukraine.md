@@ -70,4 +70,44 @@ Wie man schön an der Führung und Sprechern in der Ukraine erkennt sind dort di
 
 #### 1. April 2021
 
-Der Terrorstaat USA ist natürlich am aufspringen und es vergeht kein Tag ohne Meldung von der russischen Aggression. Aufgrund der Kriegsgefahr wird auch im Donbass nun Mann für den Kampf eingezogen. Man merkt die Kriegsgefahr auch daran das Medien wie der [Spiegel](https://www.spiegel.de/politik/ausland/ukraine-usa-verurteilen-aggressives-vorgehen-russland-entlang-der-grenze-a-317785a1-98cc-43d6-b34f-29aa05624aa9 "USA verurteilen "aggressives" Vorgehen Moskaus im Ukrainekonflikt") die Ukraine wieder entdeckt hat und dabei die Propaganda einfach übernimmt.
+Der Terrorstaat USA ist natürlich am aufspringen und es vergeht kein Tag ohne Meldung von der russischen Aggression. Aufgrund der Kriegsgefahr wird auch im Donbass nun Mann für den Kampf eingezogen. Man merkt die Kriegsgefahr auch daran das Medien wie der [Spiegel](https://www.spiegel.de/politik/ausland/ukraine-usa-verurteilen-aggressives-vorgehen-russland-entlang-der-grenze-a-317785a1-98cc-43d6-b34f-29aa05624aa9 "USA verurteilen aggressives Vorgehen Moskaus im Ukrainekonflikt") die Ukraine wieder entdeckt hat und dabei die Propaganda einfach übernimmt.
+
+#### 3. April 2021
+
+Leonid Krawtschuk, einst Präsident der Ukraine, fällt heute nur noch duch die westliche Schule auf. Keine [Diplomatie](https://tass.ru/mezhdunarodnaya-panorama/11063055 "Кравчук назвал Украину врагом России") nur Geschwätz.
+
+> Und erst jetzt, im letzten Monat, wurde es auch für die USA und den Westen offensichtlich, dass man mit Russland keine Absprachen treffen kann.
+
+Interessant auch [Alexej Arestovich](https://smotrim.ru/article/2545711 "Украина заявила о подготовке НАТО к войне с Россией") der uns allen einmal den Grund für das Terrortraining der NATO Defender Europe übersetzt:
+
+> "Defender Europe 2021 bedeutet übersetzt "Europa schützen". Der Sinn ist, dass von der Ostsee bis zum Schwarzen Meer – nun, lassen Sie es uns offen sagen – der Krieg gegen Russland geübt wird, die bewaffnete Konfrontation mit Russland trainiert wird
+
+Die Grundschülerin und ernannte [Kriegsministerin](https://de.rt.com/inland/115373-kramp-karrenbauer-russland-sehr-greifbare-bedrohung/ "Kramp-Karrenbauer: Russland ist für uns eine sehr greifbare Bedrohung") AKK fordert natürlich aufgrund der Bedrohung durch Russland einmal mehr Geld für die Killertruppe.
+
+#### 5. April 2021
+
+Josep Borrell stimmt sich für den Chor ein und [versichert](https://www.spiegel.de/politik/ausland/ukraine-konflikt-eu-aussenbeauftragter-josep-borrell-sichert-hilfe-zu-a-7109b7d2-29c1-4e0d-b79f-a51770d09917 "EU-Außenbeauftragter versichert Ukraine Unterstützung") der "unerschütterliche EU-Unterstützung für die Souveränität und territoriale Integrität der Ukraine.".
+
+Natürlich dürfen sich auch die USA wieder einmal einmischen was Ned Price tut, Tass fasst es wie folgt zusammen:
+
+> "Ihm zufolge untergräbt Russlands Vorgehen "die Deeskalation der Spannungen durch das Abkommen vom Juli letzten Jahres, das unter Vermittlung der Organisation für Sicherheit und Zusammenarbeit in Europa erreicht wurde." Gleichzeitig äußerte der Sprecher des US-Außenministeriums die Meinung, dass Russlands jüngste Verlegung militärischen Einheiten auf seinem eigenen Gebiet provokativ sei. "Wir haben Russland gebeten, eine Erklärung für diese Provokationen zu liefern", sagte der amerikanische Diplomat. "Allerdings ist es wichtiger", sagte Price, "dass wir (die US-Regierung) an die ukrainischen Partner ein direktes Signal der Unterstützung gegeben haben." "Neben unseren Zusicherungen an ukrainische Offizielle diskutieren wir unsere Besorgnis über die wachsenden Spannungen, die Verletzung der Waffenruhe und regionale Spannungen mit den NATO-Verbündeten", fügte Price hinzu. Er präzisierte, dass das Thema in der vergangenen Woche im NATO-Hauptquartier in Brüssel diskutiert worden sei."
+
+#### 6. April 2021
+
+Der Osama bin Laden Jens Stoltenberg als Vertreter der [Terrororganisation](https://www.spiegel.de/politik/ausland/ukraine-konflikt-nato-warnt-russland-vor-eskalation-an-der-grenze-a-bfa8dc9b-46b7-4a46-9a1d-1e3d38f10895  "Nato warnt Russland vor Eskalation in der Ukraine") warnt Russland:
+
+> Die Nato wird weiterhin die Souveränität und territoriale Unversehrtheit der Ukraine unterstützen. Wir bleiben wachsam und beobachten die Lage weiterhin sehr genau", sagte ein Nato-Sprecher der "Welt". Die destabilisierenden Maßnahmen Russlands würden alle Bemühungen unterlaufen, die Spannungen im Rahmen des von der OSZE vermittelten Waffenstillstandsabkommens von Mitte 2020 zu deeskalieren.
+
+Leonid Krawtschuk der Leiter der ukrainischen Kontaktgruppe [appellierte](https://tass.ru/mezhdunarodnaya-panorama/11077865 "Кравчук запросил экстренную встречу контактной группы из-за ситуации в Донбассе") an die OSZE man solle ein Treffen einberufen um über eine Waffenruhe zu sprechen. Frieden in der Ukraine? Weit gefehlt, ein Treffen ist für den 14. April bereits verabredet und Krawtschuk sagte im ukrainischen [Fernsehen](https://tass.ru/mezhdunarodnaya-panorama/11083637 "Кравчук заявил, что Украина больше не согласится ехать в Минск на переговоры по Донбассу") das die Ukraine nicht teilnehemen wird sollte das Treffen in Minsk stattfinden.
+
+Die Marionette, der Komiker Selensky hat mit Osama Bin Laden über einen [Beitritt](https://tass.ru/mezhdunarodnaya-panorama/11077931 "Зеленский считает, что членство Украины в НАТО приведет к окончанию войны в Донбассе") zur NATO geschwätzt.
+
+> Wir streben eine Reform unseres Armee- und Verteidigungssektors an, aber Russland lässt sich nicht allein durch Reformen aufhalten. Die NATO ist der einzige Weg, den Krieg im Donbass zu beenden. Der NATO-Aktionsplan für die Mitgliedschaft wird ein echtes Signal für Russland sein.
+
+#### 7.April 2021
+
+Am 7. April meldete das ukrainische [Verteidigungsministerium](https://www.mil.gov.ua/news/2021/04/07/odin-za-vsih-i-vsi-za-odnogo-u-2021-mu-roczi-ukraina-doluchatimetsya-do-nizki-navchan-nato-za-statteyu-5-kolektivna-oborona-%E2%80%93-andrij-taran/ "Один за всіх і всі за одного: у 2021-му році Україна долучатиметься до низки навчань НАТО за статтею 5 Колективна оборона, – Андрій Таран"), dass die Ukraine 2021 zur Teilnahme an sieben Nato-Manövern eingeladen sei:
+
+> "Unter den Übungen, zu denen die Nordatlantische Allianz die Ukraine eingeladen hat, sind Steadfast Cobalt, Ramstein Apex, Ramstein Ambition, Steadfast Defender, Noble Bonus, Steadfast Jupiter, Steadfast Leda"
+
+{{< image_new picture="2021/027" title="Militärattaché Stewart wear Ukraine Clothes with Nationalism Sign" >}}
