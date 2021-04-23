@@ -104,10 +104,96 @@ Die Marionette, der Komiker Selensky hat mit Osama Bin Laden über einen [Beitri
 
 > Wir streben eine Reform unseres Armee- und Verteidigungssektors an, aber Russland lässt sich nicht allein durch Reformen aufhalten. Die NATO ist der einzige Weg, den Krieg im Donbass zu beenden. Der NATO-Aktionsplan für die Mitgliedschaft wird ein echtes Signal für Russland sein.
 
-#### 7.April 2021
+#### 7. April 2021
 
 Am 7. April meldete das ukrainische [Verteidigungsministerium](https://www.mil.gov.ua/news/2021/04/07/odin-za-vsih-i-vsi-za-odnogo-u-2021-mu-roczi-ukraina-doluchatimetsya-do-nizki-navchan-nato-za-statteyu-5-kolektivna-oborona-%E2%80%93-andrij-taran/ "Один за всіх і всі за одного: у 2021-му році Україна долучатиметься до низки навчань НАТО за статтею 5 Колективна оборона, – Андрій Таран"), dass die Ukraine 2021 zur Teilnahme an sieben Nato-Manövern eingeladen sei:
 
 > "Unter den Übungen, zu denen die Nordatlantische Allianz die Ukraine eingeladen hat, sind Steadfast Cobalt, Ramstein Apex, Ramstein Ambition, Steadfast Defender, Noble Bonus, Steadfast Jupiter, Steadfast Leda"
 
 {{< image_new picture="2021/027" title="Militärattaché Stewart wear Ukraine Clothes with Nationalism Sign" >}}
+
+#### 8. April 2021
+
+Selensky besuchte medienwirksam die Kontaktlinie. Der Besuch dient der Propaganda des Präsidialamt. Schließlich hat der Komiker die Beliebtheitswerte von Herpes erreicht und so lässt sich zeigen was für ein toller Hecht der Komiker doch ist. Das russiche [Fernsehen](https://vesti7.ru/video/2287137/episode/11-04-2021/ "ЭФИР ОТ 11.04.2021") hat die Bilder gezeigt und das Geschwätz natürlich zitiert:
+
+> "Diejenigen, die in der Ukraine an der Macht sind, sollten im Donbass sein, das ist sehr wichtig. Erstens für die Soldaten, damit sie verstehen, dass sich die Regierung nicht in Büros versteckt, sondern da ist, wo es wirklich schwierig ist, wo, offen gesagt, wirkliche Helden über das Schicksal der Ukraine entscheiden und ihre Grenzen schützen. Niemand kann in hohen Ämtern arbeiten, wenn es niemanden gibt, der die Grenzen schützt"
+
+Das es Propaganda war sieht man an den Bildern. Der Komiker läuft mit Helm und schussischeren Weste herum während die anderen "Freizeitklamotten" trugen.
+
+{{< image_new picture="2021/028" title="Comedian Selensky the Hero of Ukrainian fascists" >}}
+
+#### 9. April 2021
+
+Die Show eines Komikers endet nicht nach einen Tag. Selensky ist keine Ausnahme, der tapfere Held der ukrainischen Faschisten hat in einer [Kaserne](https://tass.ru/mezhdunarodnaya-panorama/11108243 "Зеленский провел ночь в Донбассе в расположении подразделений ВСУ") übernachtet.
+
+An diesen Tag der Helden haben die USA gemäß Vertrag von Montreux die Fahrt zweier [Kriegsschiffe](https://tass.ru/mezhdunarodnaya-panorama/11107297 "США уведомили Турцию, что на следующей неделе два военных корабля пройдут через Босфор") ins Schwarze Meer angemeldet. Der Vertrag regelt die Durchfahrt aller Schiffe die der Türkei gemeldet werden müssen.
+
+Bei soviel Faschismus, Nationalismus und Ideologie kann man Meldungen der ukrainischen Medien natürlich vergessen zur Kenntnis zu nehmen. Nach einer Umfrage in der Ukraine sind 70% der Meinung die Ukraine bewege sich in die falsche [Richtung](http://ratinggroup.ua/ru/research/ukraine/obschestvenno-politicheskie_nastroeniya_naseleniya_6-7_aprelya_2021.html "ОБЩЕСТВЕННО-ПОЛИТИЧЕСКИЕ НАСТРОЕНИЯ НАСЕЛЕНИЯ").
+
+#### 12. April 2021
+
+Die [Ukraine](https://tass.ru/mezhdunarodnaya-panorama/11129053 "Киев заявил о необходимости его практической поддержки на случай вооруженного обострения") verlangt jetzt aber endlich auch mal Taten von der Nato.
+
+> "Wir alle müssen verstehen, dass eine Phase kommen kann, in der geäußerte Besorgnis nicht ausreichen wird. Wir müssen jetzt darüber sprechen, welche Unterstützung es für die Ukraine im Falle einer groß angelegten bewaffneten Eskalation in der Praxis geben kann. Das Wichtigste ist jetzt: Erstens Russland maximale Signale geben, dass jede bewaffnete Eskalation, die gegen die Ukraine gerichtet ist, schwerwiegende Folgen für Russland haben wird, und auch die konkreten Konsequenzen aufzuzählen. Zweitens: die Verteidigungsfähigkeit der Ukraine, unsere Streitkräfte stärken, auch durch Zusammenarbeit mit unseren Partnern. Drittens: eine engst mögliche Zusammenarbeit zwischen unseren Geheimdiensten und denen unserer Partner, insbesondere aus NATO-Ländern und mit der Nato insgesamt, damit wir die Absichten Russlands vollständig verstehen"
+
+Der Komiker Seleknsky, Held der ukrainischen Nationalisten fordert von Biden mehr als nur [Worte](https://www.vesti.ru/article/2549822 "Зеленский: Украине мало слов Байдена, нужны действия").
+
+#### 13. April 2021
+
+Der ukrainische Geheimdienst verkündet stolz er will jetzt an der [Grenze](https://tass.ru/mezhdunarodnaya-panorama/11136715 "В Харьковской области на границе с Россией пройдут масштабные антитеррористические учения") zu Russland ein großes Manöver starten.
+
+> "Am 14. April wird der SBU in Charkiw mit mehrstufigen Anti-Terror-Manövern beginnen. Die Manöver finden bis Ende Mai in der gesamten Region Charkiw mit Schwerpunkt auf den Grenzgebieten statt."
+
+An den Manövern nehmen auch Einheiten der Nationalgarde und entsprechende [SS Bataillone](https://www.ohchr.org/en/countries/enacaregion/pages/uareports.aspx "Ukraine - OHCHR Reports") teil. Das ganze ist natürlich keine Kriegsmanöver, sondern nach ukrainischer Denkwelt ein Anti Terror Kampf. Das erklärt auch warum ukrainische Bürger im Donbass kein Pass erhalten und der Krim gleich das Wasser und der Strom abgeschaltet wird. Das ist die Methode Guantanamo / Abu-Ghuraib der USA!
+
+Russland verstärkt den Ton insbesondere in Hinsicht auf den amerikanischen Kriegsschiffen. Der [stellvertretende](https://de.rt.com/russland/115839-moskau-fordert-washington-auf-sich-von-der-krim-fernzuhalten/ "Moskau: US-Kriegsschiffe sollten sich von der Krim und der russischen Schwarzmeerküste fernhalten") russische Außenminister Rjabkow:
+
+> "Die USA müssen verstehen, dass die Risiken bestimmter Vorfälle sehr hoch sind. Ähnliches haben wir dieses Jahr bereits in einem ganz anderen Seegebiet beobachtet. Wir warnen die Vereinigten Staaten, dass es für sie besser ist, sich von der Krim, von unserer Schwarzmeerküste fernzuhalten. Es wird zu ihrem eigenen Besten sein."
+
+Mit Blick auf eine mögliche Eskalation im Donbass [fügte](https://de.rt.com/europa/115892-russlands-stellvertretender-aussenminister-kundigt-konsequenzen-eskalation-donbass-an/ "Russlands stellvertretender Außenminister kündigt Konsequenzen bei Eskalation im Donbass an") er an die Adressen von NATO und USA hinzu:
+
+> "Sollte es zu einer Verschärfung irgendeiner Art kommen, werden wir natürlich alles tun, um unsere eigene Sicherheit und die Sicherheit unserer Bürger zu garantieren, wo auch immer sie sich aufhalten. Aber die Verantwortung für die Folgen einer solchen Verschärfung wird gänzlich bei Kiew und seinen Betreuern im Westen liegen."
+
+#### 14. April 2021
+
+Natürlich wird der ukrainische Geheimdienst auch ein Manöver in der Nähe zur [Krim](https://tass.ru/mezhdunarodnaya-panorama/11150173 "Украина проводит антитеррористические учения вблизи границы с Крымом") abhalten.
+
+> "Der SBU führt in der Region Kherson großangelegte mehrstufige Anti-Terror-Manöver durch. Während der Manöver werden der Küste der Region sowie den Grenzen zur Krim besondere Aufmerksamkeit gewidmet. (…) Die Manöver finden unter Bedingungen statt, die der Realität möglichst nahe kommen. Während der Manöver werden strategisch wichtige kritische Infrastruktureinrichtungen in der Region Kherson verstärkt kontrolliert und geschützt. Dabei geht es vor allem um Seehäfen, Kraftwerke, Flughäfen, Brücken und Gasfördertürme."
+
+#### 15. April 2021
+
+Die USA haben die Drohung aus Russland verstanden und verlegen jetzt doch keine [Kriegsschiffe](https://www.bloomberg.com/news/articles/2021-04-15/u-s-cancels-deployment-of-two-warships-to-black-sea "U.S. Cancels Deployment of Warships to Black Sea, Turkey Says") ins Schwarze Meer. Der Kreml kommentierte das mit den Worten es ist aber noch keine [Entspannung](https://smotrim.ru/article/2550881 "Кремль: отказ США отправить корабли в Черное море еще не говорит о разрядке") der Situation.
+
+In der Ukraine scheint es sogar noch [Realisten](https://tass.ru/mezhdunarodnaya-panorama/11157133 "Кравчук считает сказочниками тех, кто ждет помощи американских солдат на Украине") zu geben. So sagte Leonid Krawtschuk Chef der ukrainischen Delegation bei den Minsker Gesprächen:
+
+> Wer erwartet, dass morgen amerikanische Soldaten in die Ukraine kommen und uns beschützen werden, ist ein Märchenerzähler. Das wird nicht passieren.
+
+Aber so realistisch ist der Troll dann auch wieder nicht. Natürlich unterstützen uns die USA und die EU mit antirussischen Sanktionen.
+
+Der ukrainische Botschafter in Deutschland fordert mal wieder die Aufnahme in die NATO. Ansonsten wolle die Ukraine [Atomwaffen](https://www.spiegel.de/politik/ausland/ukraine-botschafter-droht-mit-atomarer-aufruestung-a-de71361f-d7f6-40fb-a62c-99b8aaa172da "Ukrainischer Botschafter droht mit atomarer Aufrüstung") aufbauen. Wie toll Ideologie und Atom Waffen. Vor allem fragt man sich wovon der bankrotte Staat das bezahlen will? Vor allem wo lebt der Trottel? Der amerikanische Laufbursche erhält Atom Waffen.
+
+#### 16. April 2021
+
+Der ukrainische Präsident ist ein [Komiker](https://www.vesti.ru/finance/article/2551377 "Президент Украины назвал Северный поток-2 вопросом войны") was man deutlicher an seinen Geschwätz sieht als an seiner Person.
+
+> "Wie in jedem Krieg kann man nicht kämpfen, wenn es keine Einigkeit gibt. Irgendjemand wird dann sicher verlieren. Wenn "Nord Stream 2″ zu Ende gebaut wird, wird nicht nur die Ukraine verlieren. Wir dürfen nicht vergessen, dass dies keine Frage der russischen und europäischen Wirtschaft ist. Nein, das ist eine Frage des Krieges"
+
+Das russische Außenministerium in Person von Maria Sacharova hat darauf reagiert und den ukrainischen Trollen freundlich erinnert was ein [Energiekrieg](https://smotrim.ru/article/2551573 "Захарова рассказала Зеленскому о настоящей энергетической войне") ist. Die Ukraine hat 2014 die Krim vom Strom und Wasser getrennt und hatte im Jahr 2015 unter dem Verbrecher Poroschenko vor [Anschläge](https://www.aljazeera.com/news/2016/8/10/russia-ukraine-terrorist-attacks-in-crimea-foiled "Russia: Ukraine ‘terrorist attacks’ in Crimea foiled") auf die Versorgung der Ukraine zu verüben was der russische Geheimdienst verhindert hat.
+
+Die Bundesreagierung drückte sich vor eine Antwort auf die [Ankündigung](https://de.rt.com/inland/116116-ukraine-fordert-nato-mitgliedschaft-oder/ "Ukraine stellt Ultimatum: NATO-Mitgliedschaft oder atomare Bewaffnung – Was sagt Bundesregierung?") des ukrainischen Botschafters die Ukraine wolle Atom Waffen haben. Vielleicht protestieren die amerikanischen Laufburschen schon in Washingtom. Wenn die Ukraine welche haben kann dann wollen wir auch welche.
+
+Die USA haben [bestätigt](https://www.vesti.ru/article/2551583 "США могут увеличить военный контингент на Украине") das sich amerikanische Soldaten in der Ukraine befinden. In einer Mitteilung wurde wörtlich von "weiteren Truppen verlegen" gesprochen. Da sollte man sich fragen wer hier eskalieren tut.
+
+#### 17. April 2021
+
+In St. Petersburg  wurde ein ukrainischer [Diplomat](https://tass.ru/mezhdunarodnaya-panorama/11178545 "Украина высылает старшего дипломата посольства России в Киеве") festgenommen als er geheime Informationen kaufen wolle. Russland hat die sofortige Ausweisung angeordnet, Kiev reagiert natürlich genauso und Deutschland erzählt trotz offizieller Bestätigung beider Länder von russischen Vorwürfen.
+
+#### 18. April 2021
+
+Die USA schicken keine Schiffe dafür gibt es die europäischen Idioten die zusammengewürfelt in der NATO aktiv sind. Die [Inselaffen](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_89865812/konflikt-in-der-ukraine-grossbritannien-schickt-zerstoerer-ins-schwarze-meer.html "Großbritannien schickt Zerstörer ins Schwarze Meer") schicken jetzt zwei Zerstörer ins Schwarze Meer.
+
+#### 19. April 2021
+
+Österreich hat sich gegen neue [Sanktionen](https://www.puls24.at/news/politik/oesterreich-spricht-sich-gegen-sanktionen-fuer-russland-aus/232191 "Österreich spricht sich gegen Sanktionen für Russland aus") ausgesprochen. Aber das russenphobe Gelaber in Brüssel geht natürlich weiter. Borrel weiß natürlich wie viele Soldaten Russland entlang der ukrainischen Grenze aufgestellt hat. Der Wettbewerb wer mehr meldet ist im Westen eröffnet.
+
+Die Ukraine will jetzt hart durchgreifen und die diplomatischen [Beziehungen](https://tass.ru/mezhdunarodnaya-panorama/11189761 "Фракция Зеленского в Раде потребовала расторжения дипотношений с Россией") zu Russland brechen. Die Forderung wurde in der Rada zusammen mit der Mobilmachung von Reservisten eingebracht. Europa darf sich freuen, wenn die Pipeline fertig ist, dann werden die Menschen in Europa die ukrainischen Clowns nicht mehr durch füttern.

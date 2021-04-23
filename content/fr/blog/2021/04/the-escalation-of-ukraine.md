@@ -111,3 +111,89 @@ Le 7 avril, le [ministère de la Défense](https://www.mil.gov.ua/news/2021/04/0
 > "Parmi les exercices auxquels l'Alliance de l'Atlantique Nord a invité l'Ukraine figurent Steadfast Cobalt, Ramstein Apex, Ramstein Ambition, Steadfast Defender, Noble Bonus, Steadfast Jupiter, Steadfast Leda"
 
 {{< image_new picture="2021/027" title="Militärattaché Stewart wear Ukraine Clothes with Nationalism Sign" >}}
+
+#### 8 avril 2021
+
+Selensky a visité la ligne de contact avec les médias. La visite sert la propagande du bureau présidentiel. Après tout, le comédien a atteint les valeurs de popularité de l'herpès et on peut donc montrer à quel point le comédien est un grand brochet. La [télévision](https://vesti7.ru/video/2287137/episode/11-04-2021/ "ЭФИР ОТ 11.04.2021") russe a montré les images et a bien sûr cité le bavardage:
+
+> "Ceux qui sont au pouvoir en Ukraine devraient être dans le Donbass, ce qui est très important. Tout d'abord, pour les soldats, afin qu'ils comprennent que le gouvernement ne se cache pas dans les bureaux, mais c'est là que c'est vraiment difficile, où, franchement, de vrais héros décident du sort de l'Ukraine et protègent ses frontières. Personne ne peut travailler dans de hautes fonctions s'il n'y a personne pour protéger les frontières"
+
+Que c'était de la propagande peut être vu sur les images. Le comédien se promène avec un casque et un gilet pare-balles tandis que les autres portaient des "vêtements de loisirs".
+
+{{< image_new picture="2021/028" title="Comedian Selensky the Hero of Ukrainian fascists" >}}
+
+#### 9 avril 2021
+
+Le spectacle d'un comédien ne se termine pas après un jour. Selensky ne fait pas exception, le héros courageux des fascistes ukrainiens a dans une [caserne](https://tass.ru/mezhdunarodnaya-panorama/11108243 "Зеленский провел ночь в Донбассе в расположении подразделений ВСУ").
+
+En ce Jour des Héros, conformément au Traité de Montreux, les États-Unis ont annoncé la navigation de deux [navires de guerre](https://tass.ru/mezhdunarodnaya-panorama/11107297 "США уведомили Турцию, что на следующей неделе два военных корабля пройдут через Босфор") dans la mer Noire. Le traité réglemente le passage de tous les navires qui doivent être signalés à la Turquie.
+
+Avec tant de fascisme, de nationalisme et d'idéologie, on peut bien sûr oublier de prendre note des reportages des médias ukrainiens. Selon une enquête en Ukraine, 70% de l'opinion [Ukraine](http://ratinggroup.ua/ru/research/ukraine/obschestvenno-politicheskie_nastroeniya_naseleniya_6-7_aprelya_2021.html "ОБЩЕСТВЕННО-ПОЛИТИЧЕСКИЕ НАСТРОЕНИЯ НАСЕЛЕНИЯ") va dans la mauvaise direction.
+
+#### 12. En avril 2021
+
+Mais maintenant [l'Ukraine](https://tass.ru/mezhdunarodnaya-panorama/11129053 "Киев заявил о необходимости его практической поддержки на случай вооруженного обострения") exige enfin une action de l'OTAN.
+
+> "Nous devons tous comprendre qu'une phase peut venir lorsque l'inquiétude exprimée ne sera pas suffisante. Nous devons maintenant parler du soutien qu'il peut y avoir dans la pratique pour l'Ukraine en cas d'escalade armée à grande échelle. La chose la plus importante maintenant est: premièrement, donner à la Russie le maximum de signaux que toute escalade armée dirigée contre l'Ukraine aura de graves conséquences pour la Russie, et aussi énumérer les conséquences concrètes. Deuxièmement: la capacité de défense de l'Ukraine, renforcer nos forces armées, également par la coopération avec nos partenaires. Troisièmement, la coopération la plus étroite possible entre nos services de renseignement et ceux de nos partenaires, en particulier des pays de l'OTAN et avec l'OTAN dans son ensemble, afin que nous comprenions pleinement les intentions de la Russie"
+
+Le comédien Seleknsky, héros des nationalistes ukrainiens, exige plus que des [mots](https://www.vesti.ru/article/2549822 "Зеленский: Украине мало слов Байдена, нужны действия") de Biden.
+
+#### 13 avril 2021
+
+Les services secrets ukrainiens annoncent fièrement qu'ils veulent maintenant lancer une grande manœuvre à la [frontière](https://tass.ru/mezhdunarodnaya-panorama/11136715 "В Харьковской области на границе с Россией пройдут масштабные антитеррористические учения") avec la Russie.
+
+> "Le 14 avril, le SBU à Kharkiv commencera par des manœuvres anti-terroristes en plusieurs étapes. Les manœuvres auront lieu jusqu'à la fin du mois de mai dans toute la région de Kharkiv, en mettant l'accent sur les zones frontalières."
+
+Les unités de la Garde nationale et les [bataillons SS](https://www.ohchr.org/en/countries/enacaregion/pages/uareports.aspx "Ukraine - OHCHR Reports") correspondants participent également aux manœuvres. Le tout n'est bien sûr pas une manœuvre de guerre, mais selon la pensée ukrainienne une lutte antiterroriste. Cela explique également pourquoi les citoyens ukrainiens du Donbass n'obtiennent pas de passeport et que la Crimée est immédiatement coupée de l'eau et de l'électricité. C'est la méthode Guantanamo / Abu-Ghuraib des États-Unis!
+
+La Russie renforce le ton, en particulier en ce qui concerne les navires de guerre américains. Le [Adjoint](https://de.rt.com/russland/115839-moskau-fordert-washington-auf-sich-von-der-krim-fernzuhalten/ "Moskau: US-Kriegsschiffe sollten sich von der Krim und der russischen Schwarzmeerküste fernhalten") Ministre russe des Affaires étrangères Ryabkov:
+
+> "Les états-unis doivent comprendre que les risques de certains incidents sont très élevés. Nous avons déjà observé quelque chose de similaire cette année dans une zone maritime complètement différente. Nous avertissons les États-Unis qu'il est préférable pour eux de rester loin de la Crimée, de notre côte de la mer Noire. Ce sera pour votre propre bien."
+
+En vue d'une éventuelle escalade dans le Donbass [il a ajouté](https://de.rt.com/europa/115892-russlands-stellvertretender-aussenminister-kundigt-konsequenzen-eskalation-donbass-an/ "Russlands stellvertretender Außenminister kündigt Konsequenzen bei Eskalation im Donbass an") aux adresses de l'OTAN et des États-Unis:
+
+> "En cas de resserrement de quelque nature que ce soit, nous ferons bien sûr tout pour garantir notre propre sécurité et celle de nos citoyens où qu'ils se trouvent. Mais la responsabilité des conséquences d'une telle intensification incombera entièrement à Kiev et à ses partisans occidentaux."
+
+#### 14 avril 2021
+
+Bien entendu, les services de renseignement ukrainiens mèneront également une manœuvre près de [Crimée](https://tass.ru/mezhdunarodnaya-panorama/11150173 "Украина проводит антитеррористические учения вблизи границы с Крымом").
+
+> "Le SBU mène des manœuvres antiterroristes à grande échelle en plusieurs étapes dans la région de Kherson. Pendant les manœuvres, une attention particulière sera accordée à la côte de la région ainsi qu'aux frontières avec la Crimée. ( ... ) Les manœuvres se déroulent dans des conditions aussi proches que possible de la réalité. Au cours des manœuvres, les infrastructures critiques d'importance stratégique de la région de Kherson seront de plus en plus contrôlées et protégées. L'accent est mis sur les ports maritimes, les centrales électriques, les aéroports, les ponts et les tours de production de gaz."
+
+#### 15 avril 2021
+
+Les États-Unis ont compris la menace de la Russie et ne déplacent aucun [navire de guerre](https://www.bloomberg.com/news/articles/2021-04-15/u-s-cancels-deployment-of-two-warships-to-black-sea "U.S. Cancels Deployment of Warships to Black Sea, Turkey Says") dans la mer Noire. Le Kremlin a commenté cela en disant qu'il n'est pas encore [relaxant](https://smotrim.ru/article/2550881 "Кремль: отказ США отправить корабли в Черное море еще не говорит о разрядке") la situation.
+
+En Ukraine, il semble y avoir même des [réalistes](https://tass.ru/mezhdunarodnaya-panorama/11157133 "Кравчук считает сказочниками тех, кто ждет помощи американских солдат на Украине"). Selon Leonid Kravchuk, chef de la délégation ukrainienne aux pourparlers de Minsk:
+
+> Qui s'attend à ce que demain des soldats américains viennent en Ukraine et nous protègent est un conteur. Cela n'arrivera pas.
+
+Mais là encore, le troll n'est pas réaliste. Bien sûr, les États-Unis et l'UE nous soutiennent avec des sanctions anti-russes.
+
+L'ambassadeur ukrainien en Allemagne appelle à nouveau à l'admission à l'OTAN. Sinon, l'Ukraine veut construire des [armes nucléaires](https://www.spiegel.de/politik/ausland/ukraine-botschafter-droht-mit-atomarer-aufruestung-a-de71361f-d7f6-40fb-a62c-99b8aaa172da "Ukrainischer Botschafter droht mit atomarer Aufrüstung"). Quelle idéologie impressionnante et armes atomiques. Surtout, on se demande ce que l'État en faillite veut payer pour cela? Au-dessus de tous, d'où le réflexe de vivre? Le garçon de course américain obtient des armes atomiques.
+
+#### 16 avril 2021
+
+Le président ukrainien est un [comédien](https://www.vesti.ru/finance/article/2551377 "Президент Украины назвал Северный поток-2 вопросом войны") ce que vous voyez plus clairement dans ses bavardages que dans sa personne.
+
+> "Comme dans toute guerre, vous ne pouvez pas combattre s'il n'y a pas d'unité. Quelqu'un va sûrement perdre. Si "Nord Stream 2" est terminé, non seulement l'Ukraine perdra. Nous ne devons pas oublier que ce n'est pas une question des économies russe et européenne. Non, c'est une question de guerre"
+
+Le ministère russe des Affaires étrangères en la personne de Maria Zakharova a répondu et a gentiment rappelé aux trolls ukrainiens ce qu'est une [guerre énergétique](https://smotrim.ru/article/2551573 "Захарова рассказала Зеленскому о настоящей энергетической войне"). L'Ukraine a séparé la Crimée de l'électricité et de l'eau en 2014 et en 2015, sous le criminel Porochenko, a dû commettre des [attaques](https://www.aljazeera.com/news/2016/8/10/russia-ukraine-terrorist-attacks-in-crimea-foiled "Russia: Ukraine ‘terrorist attacks’ in Crimea foiled") sur l'approvisionnement de l'Ukraine, ce que les services secrets russes ont empêché.
+
+La réaction fédérale s'est poursuivie avec une réponse à [l'annonce](https://de.rt.com/inland/116116-ukraine-fordert-nato-mitgliedschaft-oder/ "Ukraine stellt Ultimatum: NATO-Mitgliedschaft oder atomare Bewaffnung – Was sagt Bundesregierung?") de l'ambassadeur ukrainien L'Ukraine voulait avoir des armes nucléaires. Peut-être que les garçons de course américains protestent déjà à Washingtom. Si l'Ukraine peut en avoir, alors nous en voulons.
+
+Les États-Unis ont [confirmé](https://www.vesti.ru/article/2551583 "США могут увеличить военный контингент на Украине") que des soldats américains sont en Ukraine. Dans un message, il a été littéralement parlé de"déplacer plus de troupes". Puisque vous devriez vous demander qui escalade ici.
+
+#### 17 avril 2021
+
+À Saint-Pétersbourg, un [diplomate](https://tass.ru/mezhdunarodnaya-panorama/11178545 "Украина высылает старшего дипломата посольства России в Киеве") ukrainien a été arrêté alors qu'il tentait d'acheter des informations secrètes. La Russie a ordonné l'expulsion immédiate, Kiev réagit bien sûr de la même manière et l'Allemagne, malgré la confirmation officielle des deux pays, parle des allégations russes.
+
+#### 18 avril 2021
+
+Les États-Unis n'envoient pas de navires il y a les idiots européens qui sont actifs dans l'OTAN. Les [singes de l'île](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_89865812/konflikt-in-der-ukraine-grossbritannien-schickt-zerstoerer-ins-schwarze-meer.html "Großbritannien schickt Zerstörer ins Schwarze Meer") envoient maintenant deux destroyers dans la mer Noire.
+
+#### 19 avril 2021
+
+L'Autriche s'est prononcée contre de nouvelles [sanctions](https://www.puls24.at/news/politik/oesterreich-spricht-sich-gegen-sanktionen-fuer-russland-aus/232191 "Österreich spricht sich gegen Sanktionen für Russland aus"). Mais les potins russo-phobiques à Bruxelles continuent, bien sûr. Borrel, bien sûr, sait combien de soldats la Russie a déployé le long de la frontière ukrainienne. Le concours qui rapporte plus est ouvert en Occident.
+
+L'Ukraine veut maintenant sévir et rompre les [relations](https://tass.ru/mezhdunarodnaya-panorama/11189761 "Фракция Зеленского в Раде потребовала расторжения дипотношений с Россией") diplomatiques avec la Russie. L'exigence a été introduite à la Rada, en même temps que la mobilisation des réservistes. L'Europe peut se réjouir lorsque le pipeline sera prêt, alors les Européens ne nourriront plus les clowns ukrainiens.

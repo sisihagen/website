@@ -111,3 +111,89 @@ On April 7, the Ukrainian [Defense Ministry](https://www.mil.gov.ua/news/2021/04
 > "Among the exercises to which the North Atlantic Alliance has invited Ukraine are Steadfast Cobalt, Ramstein Apex, Ramstein Ambition, Steadfast Defender, Noble Bonus, Steadfast Jupiter, Steadfast Leda"
 
 {{< image_new picture="2021/027" title="Militärattaché Stewart wear Ukraine Clothes with Nationalism Sign" >}}
+
+#### April 8, 2021
+
+Selensky visited the media contact line. The visit serves the propaganda of the presidential office. After all, the comedian has reached the popularity values of herpes and so it can be shown what a great pike the comedian is. The Russian [television](https://vesti7.ru/video/2287137/episode/11-04-2021/ "ЭФИР ОТ 11.04.2021") showed the pictures and of course quoted the chatter:
+
+> "Those in power in Ukraine should be in Donbass, which is very important. First, for the soldiers, so that they understand that the government is not hiding in offices, but is where it is really difficult, where, frankly, real heroes decide the fate of Ukraine and protect its borders. No one can work in high offices if there is no one to protect the borders"
+
+That it was propaganda can be seen in the pictures. The comedian walks around wearing a helmet and a bulletproof vest while the others were wearing "leisure clothes".
+
+{{< image_new picture="2021/028" title="Comedian Selensky the Hero of Ukrainian fascists" >}}
+
+#### April 9, 2021
+
+The show of a comedian does not end after one day. Selensky is no exception, the brave hero of the Ukrainian fascists has in a [barracks](https://tass.ru/mezhdunarodnaya-panorama/11108243 "Зеленский провел ночь в Донбассе в расположении подразделений ВСУ").
+
+On this Day of Heroes, according to the Treaty of Montreux, the United States has announced the sailing of two [warships](https://tass.ru/mezhdunarodnaya-panorama/11107297 "США уведомили Турцию, что на следующей неделе два военных корабля пройдут через Босфор") into the Black Sea. The treaty regulates the passage of all ships that must be reported to Turkey.
+
+With so much fascism, nationalism and ideology one can of course forget to take note of reports of the Ukrainian media. According to a survey in Ukraine, 70% of the opinion [Ukraine](http://ratinggroup.ua/ru/research/ukraine/obschestvenno-politicheskie_nastroeniya_naseleniya_6-7_aprelya_2021.html "ОБЩЕСТВЕННО-ПОЛИТИЧЕСКИЕ НАСТРОЕНИЯ НАСЕЛЕНИЯ") is moving in the wrong direction.
+
+#### 12. April 2021
+
+But now [Ukraine](https://tass.ru/mezhdunarodnaya-panorama/11129053 "Киев заявил о необходимости его практической поддержки на случай вооруженного обострения") is finally demanding action from NATO.
+
+> "We all need to understand that a phase may come when expressed concern will not be enough. We must now talk about what support there can be in practice for Ukraine in the event of a large-scale armed escalation. The most important thing now is: first, to give Russia maximum signals that any armed escalation directed against Ukraine will have serious consequences for Russia, and also to enumerate the concrete consequences. Second: the defense capability of Ukraine, strengthen our armed forces, also through cooperation with our partners. Thirdly, the closest possible cooperation between our intelligence services and those of our partners, especially from NATO countries and with Nato as a whole, so that we fully understand Russia's intentions"
+
+The comedian Seleknsky, hero of the Ukrainian nationalists, demands more than just [words](https://www.vesti.ru/article/2549822 "Зеленский: Украине мало слов Байдена, нужны действия") from Biden.
+
+#### April 13, 2021
+
+The Ukrainian secret service proudly announces that it now wants to start a great maneuver on the [border](https://tass.ru/mezhdunarodnaya-panorama/11136715 "В Харьковской области на границе с Россией пройдут масштабные антитеррористические учения") with Russia.
+
+> "On April 14, the SBU in Kharkiv will begin with multi-stage anti-terror maneuvers. The maneuvers will take place until the end of May throughout the Kharkiv region, with a focus on the border areas."
+
+National Guard units and corresponding [SS battalions](https://www.ohchr.org/en/countries/enacaregion/pages/uareports.aspx "Ukraine - OHCHR Reports") also take part in the maneuvers. The whole thing is of course not a war maneuver, but according to Ukrainian thinking an anti-terror fight. This also explains why Ukrainian citizens in Donbas do not get a passport and the Crimea is immediately turned off the water and electricity. This is the Guantanamo / Abu-Ghuraib method of the USA!
+
+Russia is strengthening the tone, especially with regard to the American warships. The [Deputy](https://de.rt.com/russland/115839-moskau-fordert-washington-auf-sich-von-der-krim-fernzuhalten/ "Moskau: US-Kriegsschiffe sollten sich von der Krim und der russischen Schwarzmeerküste fernhalten") Russian foreign Minister Ryabkov:
+
+> "The US needs to understand that the risks of certain incidents are very high. We have already observed something similar this year in a completely different sea area. We warn the United States that it is better for them to stay away from Crimea, from our Black Sea coast. It will be for your own good."
+
+With a view to a possible escalation in Donbass [he added](https://de.rt.com/europa/115892-russlands-stellvertretender-aussenminister-kundigt-konsequenzen-eskalation-donbass-an/ "Russlands stellvertretender Außenminister kündigt Konsequenzen bei Eskalation im Donbass an") to the addresses of NATO and USA:
+
+> "Should there be a tightening of any kind, we will of course do everything to guarantee our own safety and the safety of our citizens wherever they are. But the responsibility for the consequences of such an intensification will lie entirely with Kiev and its supporters in the West."
+
+#### April 14, 2021
+
+Of course, Ukrainian intelligence will also conduct a maneuver near [Crimea](https://tass.ru/mezhdunarodnaya-panorama/11150173 "Украина проводит антитеррористические учения вблизи границы с Крымом").
+
+> "The SBU is conducting large-scale multi-stage anti-terror maneuvers in the Kherson region. During the maneuvers special attention will be paid to the coast of the region as well as the borders with Crimea. ( ... ) The maneuvers take place under conditions that come as close as possible to reality. During the maneuvers, strategically important critical infrastructure facilities in the Kherson region will be increasingly controlled and protected. The focus is on seaports, power plants, airports, bridges and gas production towers."
+
+#### April 15, 2021
+
+The US has understood the threat from Russia and is not moving any [warships](https://www.bloomberg.com/news/articles/2021-04-15/u-s-cancels-deployment-of-two-warships-to-black-sea "U.S. Cancels Deployment of Warships to Black Sea, Turkey Says") into the Black Sea. The Kremlin commented on this by saying it is not yet [relaxing](https://smotrim.ru/article/2550881 "Кремль: отказ США отправить корабли в Черное море еще не говорит о разрядке") the situation.
+
+In Ukraine there seem to be even [realists](https://tass.ru/mezhdunarodnaya-panorama/11157133 "Кравчук считает сказочниками тех, кто ждет помощи американских солдат на Украине"). According to Leonid Kravchuk, head of the Ukrainian delegation at the Minsk talks:
+
+> Who expects that tomorrow American soldiers will come to Ukraine and protect us is a storyteller. This will not happen.
+
+But then again, the troll is not that realistic. Of course, the US and the EU support us with anti-Russian sanctions.
+
+The Ukrainian ambassador to Germany once again calls for admission to NATO. Otherwise, Ukraine wants to build [nuclear weapons](https://www.spiegel.de/politik/ausland/ukraine-botschafter-droht-mit-atomarer-aufruestung-a-de71361f-d7f6-40fb-a62c-99b8aaa172da "Ukrainischer Botschafter droht mit atomarer Aufrüstung"). How awesome ideology and atom weapons. Above all, one wonders what the bankrupt state wants to pay for this? Above all, where does the jerk live? The American errand boy gets atom weapons.
+
+#### April 16, 2021
+
+The Ukrainian president is a [comedian](https://www.vesti.ru/finance/article/2551377 "Президент Украины назвал Северный поток-2 вопросом войны") what you see more clearly in his chatter than in his person.
+
+> "As in any war, you cannot fight if there is no unity. Someone will surely lose. If "Nord Stream 2" is completed, not only Ukraine will lose. We must not forget that this is not a question of the Russian and European economies. No, this is a question of war"
+
+The Russian Foreign Ministry in the person of Maria Zakharova responded and kindly reminded the Ukrainian trolls what an [energy war](https://smotrim.ru/article/2551573 "Захарова рассказала Зеленскому о настоящей энергетической войне") is. Ukraine separated Crimea from electricity and water in 2014 and in 2015 under criminal Poroshenko had to commit [attacks](https://www.aljazeera.com/news/2016/8/10/russia-ukraine-terrorist-attacks-in-crimea-foiled "Russia: Ukraine ‘terrorist attacks’ in Crimea foiled") on the supply of Ukraine, which the Russian secret service prevented.
+
+The federal reaction pressed ahead with a response to the [announcement](https://de.rt.com/inland/116116-ukraine-fordert-nato-mitgliedschaft-oder/ "Ukraine stellt Ultimatum: NATO-Mitgliedschaft oder atomare Bewaffnung – Was sagt Bundesregierung?") of the Ukrainian ambassador Ukraine wanted to have nuclear weapons. Perhaps the American errand boys are already protesting in Washingtom. If Ukraine can have some then we want some.
+
+The US has [confirmed](https://www.vesti.ru/article/2551583 "США могут увеличить военный контингент на Украине") that American soldiers are in Ukraine. In a message, it was literally spoken of" moving more troops". Since you should ask yourself who is escalating here.
+
+#### April 17, 2021
+
+In St. Petersburg, a Ukrainian [diplomat](https://tass.ru/mezhdunarodnaya-panorama/11178545 "Украина высылает старшего дипломата посольства России в Киеве") was arrested while trying to buy secret information. Russia has ordered the immediate expulsion, Kiev of course reacts in the same way and Germany, despite official confirmation from both countries, tells of Russian allegations.
+
+#### April 18, 2021
+
+The US does not send ships there are the European idiots who are active in NATO. The [island monkeys](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_89865812/konflikt-in-der-ukraine-grossbritannien-schickt-zerstoerer-ins-schwarze-meer.html "Großbritannien schickt Zerstörer ins Schwarze Meer") are now sending two destroyers into the Black Sea.
+
+#### April 19, 2021
+
+Austria has spoken out against new [sanctions](https://www.puls24.at/news/politik/oesterreich-spricht-sich-gegen-sanktionen-fuer-russland-aus/232191 "Österreich spricht sich gegen Sanktionen für Russland aus"). But the Russian-phobic gossip in Brussels goes on, of course. Borrel, of course, knows how many soldiers Russia has deployed along the Ukrainian border. The competition who reports more is opened in the West.
+
+Ukraine now wants to crack down hard and break diplomatic [relations](https://tass.ru/mezhdunarodnaya-panorama/11189761 "Фракция Зеленского в Раде потребовала расторжения дипотношений с Россией") with Russia. The requirement was introduced in the Rada, together with the mobilization of reservists. Europe can rejoice when the pipeline is ready, then the people of Europe will no longer feed the Ukrainian clowns through.

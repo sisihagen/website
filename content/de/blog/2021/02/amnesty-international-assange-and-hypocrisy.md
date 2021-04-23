@@ -31,7 +31,7 @@ Diese manipulativen Methoden wendet AI in der inzwischen fast zehn Jahre währen
 
 Im Februar 2020 startete AID eine Unterschriftensammlung, die sich an den Justizminister der Vereinigten Staaten richtet und diesen auffordert, die Anklage gegen Assange fallen zu lassen. Die Unterschriftensammlung begründet AID mit den [Worten](https://www.amnesty.de/informieren/aktuell/vereinigte-staaten-von-amerika-usa-anklage-gegen-julian-assange-fallen-lassen "USA: ANKLAGE GEGEN JULIAN ASSANGE FALLEN LASSEN!"):
 
-> "Assange drohen in den USA Haftbedingungen, die Folter und anderer Misshandlung gleichkommen, und es ist davon auszugehen, dass kein rechtsstaatlich faires Verfahren in den USA gewährleistet ist." [3]
+> "Assange drohen in den USA Haftbedingungen, die Folter und anderer Misshandlung gleichkommen, und es ist davon auszugehen, dass kein rechtsstaatlich faires Verfahren in den USA gewährleistet ist."
 
 Die beiden Formulierungen "Assange drohen in den USA" und "es ist davon auszugehen, dass [...] in den USA" sind hochgradig irreführend. Implizit ist damit mitgeteilt, dass zurzeit keine Folter vorliege und dass das Verfahren rechtsstaatlichen Ansprüchen genüge.
 

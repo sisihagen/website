@@ -1,0 +1,30 @@
+---
+title: "Mord ist billiger als Hunger"
+date: 2021-04-21
+draft: false
+tags: "Gesellschaft"
+geo: "Welt"
+shorttext: "138.700 Dollar pro Minute werden weltweit für Atomwaffen ausgegeben. Mit 40 Cent pro Tag könnte man ein hungerndes Kind ernähren."
+cover: "society"
+lang: de
+---
+
+Laut dem Stockholmer Friedensforschungsinstitut SIPRI wurden im Jahr 2019 weltweit rund 1917 Milliarden US-Dollar für Militär und Rüstung ausgegeben. Das sind 241 US-Dollar pro Kopf der Weltbevölkerung, 66 Cent pro Tag. Zum Vergleich: Das Welternährungsprogramm der Vereinten Nationen brachte im gleichen Jahr 8 Milliarden US-Dollar zusammen. Mit diesen Mitteln unterstützte die Organisation 97 Millionen Menschen in 88 Ländern. Trotzdem hungern weltweit 690 Millionen Menschen und zwei Milliarden leiden an Mangelernährung.
+
+Etwa 3,1 Millionen Kinder unter 5 Jahren sterben jährlich durch Hunger, alle 10 Sekunden verhungert ein Kind. Mit 40 Cent könnte das UN-Welternährungsprogramm eines dieser Kinder einen ganzen Tag lang ernähren. Das würde pro Jahr 452,6 Millionen US-Dollar kosten. Rechnen wir grosszügiger mit einem Betrag von 10 US-Dollar pro Tag und Kind, würde das pro Jahr 11,315 Milliarden US-Dollar kosten. Das ist 169-mal weniger als die 1917 Milliarden US-Dollar, die weltweit für Rüstung und das Militär ausgegeben werden. Mit 10 Dollar pro Tag könnte ein Kind dann vielleicht sogar die Schule besuchen und in einem Ambulatorium medizinische Hilfe finden, wenn es krank wird.
+
+#### Atomwaffen statt "Public Health"
+
+Laut dem jüngsten Bericht der Internationalen Kampagne zur [Abschaffung](https://www.icanw.org/report_73_billion_nuclear_weapons_spending_2020 "Enough is Enough: Global Nuclear Weapons Spending 2019") von Atomwaffen (ICAN) gaben im Jahr 2019 neun Staaten weltweit 72,9 Milliarden US-Dollar für Atomwaffen aus. Das sind rund 138’700 US-Dollar pro Minute und 7,1 Milliarden US-Dollar mehr als 2018. Beatrice Fihn, Exekutivdirektorin von ICAN, kritisiert: "Es ist absurd, jede Minute 138’700 Dollar für Waffen auszugeben, die katastrophalen menschlichen Schaden verursachen, anstatt sie auszugeben, um die Gesundheit der Bürger zu schützen. Sie (die Regierungen) geben ihre Pflicht ab, ihr Volk zu schützen."
+
+*Grossbritannien* will die Zahl seiner heute 180 Atomsprengköpfe auf 260 [erhöhen](https://www.icanw.de/neuigkeiten/grossbritannien-erweitert-atomwaffenarsenal/ "Großbritannien erweitert Atomwaffenarsenal"). Die Ausgaben Grossbritanniens für Nuklearwaffen beliefen sich 2019 auf etwa 7,2 Milliarden Britische Pfund. Daneben ergaben Untersuchungen, dass beim National Health Service 43’000 Pflegekräfte und 10.000 Ärzte fehlen. Mit den Ausgaben für Atomwaffen eines Jahres könnten diese Mängel mehr als behoben werden: Mit 7,2 Milliarden Britische Pfund könnten 100.000 [Spitalbetten](https://www.modernhealthcare.com/article/20150427/NEWS/150429935/hospitals-paying-more-for-electric-beds "Hospitals paying more for electric beds") für Intensivstationen, 30’000 Beatmungsgeräte und die [Gehälter](https://www.payscale.com/research/UK/Job=Registered_Nurse_%29RN%29/Salary "Average Registered Nurse Salary in United Kingdom") von 50.000 britischen Krankenschwestern und 40.000 Ärzten finanziert werden.
+
+*Frankreich* will von 2019 bis 2025 für sein [Atomwaffenarsenal](https://www.icanw.org/healthcare_costs "Nuclear Spending vs Healthcare") insgesamt 37 Milliarden Euro ausgeben. Im Jahr 2019 waren es rund 4,5 Milliarden Euro. Mit diesen Mitteln könnten in Frankreich 100’000 [Krankenhausbetten](https://www.theguardian.com/politics/2020/mar/15/coronavirus-uk-manufacturers-urged-to-consider-switching-to-making-ventilators "Coronavirus: UK manufacturers urged to consider switching to making ventilators") für Intensivstationen, 10.000 Beatmungsgeräte und die Gehälter von 20.000 Krankenschwestern und von 10.000 Ärzten bezahlt werden.
+
+#### Schweizer Banken investierten 2019 fast 9 Milliarden Franken in die Produktion von Nuklearwaffen
+
+Laut Zahlen des [Seco](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/ruestungskontrolle-und-ruestungskontrollpolitik--bwrp-/zahlen-und-statistiken0/2020.html "Zahlen und Statistiken 2020") hat die Schweiz im vergangenen Jahr für 901,2 Millionen Schweizer Franken Kriegsmaterial exportiert. Das sind 24 Prozent mehr als 2019. Neben diesen Waffenexporten investierten die Schweizerische Nationalbank, Banken, Versicherungen und Pensionskassen unseres Landes Milliarden in Rüstungskonzerne. [Recherchen](https://www.icanswitzerland.ch/schweizer-banken-finanzieren-massenvernichtung-ein-untragbares-sicherheitsrisiko/ "Schweizer Banken finanzieren Massenvernichtung – ein untragbares Sicherheitsrisiko") von ICAN zeigen, dass im Jahr 2019 Schweizer Geldhäuser auch 8,983 Milliarden US-Dollar in Konzerne investierten, die Atomwaffen herstellen. Auch die UBS, die Schweizerische Nationalbank (SNB) und die Credit Suisse kurbeln das nukleare Wettrüsten an.
+
+Die Finanzinstitute Deutschlands, ein Land mit 84,3 Millionen Einwohnern, platzierten 2019 11,759 Milliarden US-Dollar ($141 pro Kopf) in der Atomwaffenindustrie. In der Schweiz waren es pro Kopf 1046 Dollar. Nur in den USA sind im Pro-Kopf-Vergleich die Investitionen in die Atomwaffenindustrie mit 1729 US-Dollar höher als in der Schweiz.
+
+ICAN schreibt: "Dass Schweizer Banken Geld in die Weiterentwicklung von Massenvernichtungswaffen investieren, ist umso erstaunlicher, als dies in der Schweiz verboten ist. Seit der Revision des Kriegsmaterialgesetzes (KMG) vom 1. Januar 2013 gibt es ein gesetzliches Finanzierungsverbot von verbotenen Waffen. Darunter fallen auch die Atomwaffen, welche in Art. 7 Abs. 1 lit. a KMG aufgeführt sind".  Doch das Finanzierungsverbot von Atomwaffen ist praktisch wirkungslos, weil das KMG in diesem Bereich Gesetzeslücken aufweist, und Schweizer Finanzhäuser dieses Schlupfloch für Kapitalanlagen rege nutzen. Nicht zuletzt, weil sich Anleger von ihren Investitionen in die Atomwaffenindustrie eine gute Rendite erhoffen.
