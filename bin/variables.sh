@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
 # hugp build
-build='./public/build'
+build='/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/build'
 sde='de'
 sen='en'
 sfr='fr'
 sru='ru'
 
 # after build
-dest='./public/dest'
+dest='/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest'
 de='silviosiefke.de'
 en='silviosiefke.com'
 fr='silviosiefke.fr'

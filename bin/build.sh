@@ -30,6 +30,23 @@ case "$1" in
     # hugo build
     ./bin/hugo.sh hugobuild || exit
 
+    # remove static folders inside of build
+    if [[ -d "./public/build/de/static" ]]; then
+      rm -r ./public/build/de/static
+    fi
+
+    if [[ -d "./public/build/en/static" ]]; then
+      rm -r ./public/build/en/static
+    fi
+
+    if [[ -d "./public/build/fr/static" ]]; then
+      rm -r ./public/build/fr/static
+    fi
+
+    if [[ -d "./public/build/ru/static" ]]; then
+      rm -r ./public/build/ru/static
+    fi
+
     # html
     ./bin/html.sh
 

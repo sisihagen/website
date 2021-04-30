@@ -6,6 +6,7 @@ function clean_dir()
   rm -r $1
 }
 
+
 # for new.sh
 function clean_file()
 {
@@ -47,8 +48,7 @@ function sync()
 function html()
 {
   find "$1" -name "index.xml" -delete
-  /usr/bin/minify --type=html --html-keep-document-tags --html-keep-end-tags --html-keep-quotes -r "$1" -o "$2"
-  cp "$1"/robots.txt "$2"
+  /usr/bin/minify --type=html --html-keep-document-tags --html-keep-end-tags --html-keep-quotes -r -o "$1" *
 }
 
 # check png and convert them to jpg
