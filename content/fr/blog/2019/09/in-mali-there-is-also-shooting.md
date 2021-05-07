@@ -2,7 +2,7 @@
 title: "Au Mali, il y a aussi des tirs"
 date: 2019-09-23
 tags: "Société"
-geo: "Afrika"
+geo: "Afrique"
 shorttext: "Les missions étrangères de la Bundeswehr se déroulent dans une zone grise constitutionnelle ... et trouve rarement une majorité dans le Bolk."
 draft: false
 lang: fr

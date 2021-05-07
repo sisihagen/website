@@ -82,7 +82,7 @@ The legendary US journalist and peace activist Norman Cousins published his book
 
 > "If the Soviet Union were to sink into the ocean tomorrow, the US military-industrial complex would have to remain unchanged until another enemy was invented. Anything else would be an unacceptable shock to American industry."
 
-At the end of November 2019, Pope Francis visited Hiroshima. In his speech, he said::
+At the end of November 2019, Pope Francis visited Hiroshima. In his speech, he said:
 
 > "Peace and international stability are incompatible with any attempt to build them on the fear of mutual destruction."
 

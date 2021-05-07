@@ -37,7 +37,7 @@ Only shortly afterwards the "[Spiegel](https://www.spiegel.de/politik/deutschlan
 
 #### Counterpoint to anti-Russian opinion-making?
 
-As a current example of German media opinion-making against Russia, reference should be made here to an article by n-tv: Russia is "[the enemy](https://www.n-tv.de/politik/Die-AfD-dient-sich-dem-Feind-an-article22413060.html "Die AfD dient sich dem Feind an")", it is stated here without hesitation. To assess the important role that RT plays in the German media landscape as a counterweight to such infamous contributions, one can summarize as follows::
+As a current example of German media opinion-making against Russia, reference should be made here to an article by n-tv: Russia is "[the enemy](https://www.n-tv.de/politik/Die-AfD-dient-sich-dem-Feind-an-article22413060.html "Die AfD dient sich dem Feind an")", it is stated here without hesitation. To assess the important role that RT plays in the German media landscape as a counterweight to such infamous contributions, one can summarize as follows:
 
 > As a contrast to the current incendiary media incitement against Russia, RT is an important counterpoint to the propagandistic unity of large German media on the subject. This does not mean, of course, that RT must or should be the only source of information. In addition, the financing by Russia and a corresponding state of interest is not disguised. Media consumers can therefore better assess the interests pursued by RT articles than the interests pursued, for example, by the Springer group, which claims an untenable 'independence'.
 

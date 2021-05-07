@@ -29,7 +29,7 @@ lang: ru
 
 {{< youtube "UJX9pmr1I3E" >}}
 
-На другой [платформе](http://natyliesbaldwin.com/2021/02/the-grayzone-discusses-navalny-with-russian-russian-american-leftists/ "THE GRAYZONE DISCUSSES NAVALNY WITH RUSSIAN & RUSSIAN-AMERICAN LEFTISTS") Катя Казбек буквально говорит::
+На другой [платформе](http://natyliesbaldwin.com/2021/02/the-grayzone-discusses-navalny-with-russian-russian-american-leftists/ "THE GRAYZONE DISCUSSES NAVALNY WITH RUSSIAN & RUSSIAN-AMERICAN LEFTISTS") Катя Казбек буквально говорит:
 
 "Стоит отметить, что отношение подавляющего большинства россиян к отравлению и его последствиям сильно отличается от его изображения в западной прессе, как показывают последние опросы: В то время как Навальный остается непрозрачным для многих людей и многие остаются нейтральными, люди, как правило, более осторожны и подозрительны к нему, чем они осторожны и подозрительны к российскому правительству или даже лично Путину. Популярность Навального несколько возросла в ходе предполагаемого отравления. Но она по-прежнему отстает от Путина и даже от лидера крайне правой ЛДПР Владимира Жириновского."
 

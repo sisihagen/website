@@ -62,7 +62,7 @@ The external scientists involved in the risk analysis have now also drawn up a j
 
 The authors strongly contradict the official presentation of the ministry on the report and its creation, according to which an employee had disregarded many internal rules. According to the scientists, the now on leave author sent his analysis to a small internal distributor on March 25, according to his own information. His request to present the analysis to Interior Minister Horst Seehofer was rejected without examining the content. Only then did the employee pass them on to the crisis unit as well as to the specialist BMI Working Groups at federal and state level. In the further course the analysis was then transferred to the online Portal "Tichys insight".
 
-The scientists assess the analysis, which they describe as the" beginning of an even more extensive examination", as follows::
+The scientists assess the analysis, which they describe as the" beginning of an even more extensive examination", as follows:
 
 > "Renowned colleagues, all outstanding representatives of their field, took a factual position on specific questions based on the requested Expertise. This resulted in a first comprehensive assessment of the already occurred and the impending medical damage, including expected deaths. ( ... ) In our opinion, on the basis of this paper, The addressed specialists would have to initiate an immediate re-evaluation of the protective measures."
 

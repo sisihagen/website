@@ -25,7 +25,7 @@ Les anti-héros les plus importants de Tchernobyl sont les bureaucrates cruels e
 
 Lors d'une de ces réunions, un vétéran du KGB n'appelle ni les vivants ni les morts à quitter Pripyat. Impressionné par cette idée d'applaudir tout le monde présent. En réalité, il y a eu de telles scènes depuis longtemps, pas même à Pyongyang. Puis un des officiers envoie un ingénieur avec une escorte armée à l'usine. Là, il est obligé de regarder directement dans la gorge du réacteur détruit. Et ce n'est qu'une des scènes absurdes dans lesquelles la série est si riche.
 
-Le journaliste ukrainien [Youri Tkachev](https://strana.ua/articles/analysis/203348-serial-chernobyl-chto-pravda-a-chto-mif.html "'Чернобыль' от HBO. Радиоактивная "клюква", в которую поверят") commente ironiquement les lignes d'action de la série comme suit::
+Le journaliste ukrainien [Youri Tkachev](https://strana.ua/articles/analysis/203348-serial-chernobyl-chto-pravda-a-chto-mif.html "'Чернобыль' от HBO. Радиоактивная "клюква", в которую поверят") commente ironiquement les lignes d'action de la série comme suit:
 
 > Les ministres qui courent autour de la centrale sont accompagnés de tireurs armés. Ceci pour protéger rush directement aux litres de vodka sur le lieu de travail. Et bien sûr, il y a le dangereux et omniprésent KGB, avec lequel les héros de Tchernobyl n'ont pas moins à se battre qu'avec le rayonnement lui-même. En même temps, les créateurs de la série sont méticuleusement précis pour des détails qui n'ont pas de sens fondamental. Ils ont en tout cas très bien informé sur la façon dont la suite des événements. Et ceci est le plus frappant: cette image laide et déformée de ces jours nous est présentée par des gens qui savent exactement ce qui s'est passé dans la réalité.
 

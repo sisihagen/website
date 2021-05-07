@@ -124,7 +124,7 @@ Voici donc ce Boris Palmer d'un État fédéral, qui peut être considéré comm
 
 Boris, Comment oses-tu?!?
 
-Si nous illustrons maintenant la vision réaliste de Palmer sur la Chine, nous pouvons à peu près imaginer la qualité de ses déclarations sur XR. Vous pourriez le résumer ainsi::
+Si nous illustrons maintenant la vision réaliste de Palmer sur la Chine, nous pouvons à peu près imaginer la qualité de ses déclarations sur XR. Vous pourriez le résumer ainsi:
 
 Tous ceux qui prennent cela au sérieux avec la protection de l'environnement sont soit bizarres, soit trop extrémistes, parce qu'ils n'attendent pas des mesures qui ne viendront pas de toute façon, et ne sont pas prêts à avaler des promesses qui ne passeront finalement que dans les sables qui se propageront avec les sécheresses partout dans le monde.
 

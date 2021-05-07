@@ -62,7 +62,7 @@ Les scientifiques externes impliqués dans l'analyse des risques ont également 
 
 Les auteurs contredisent fortement la présentation officielle du ministère sur le rapport et sa création, selon laquelle un employé avait ignoré de nombreuses règles internes. Selon les scientifiques, l'auteur maintenant en congé a envoyé son analyse à un petit distributeur interne le 25 Mars, selon ses propres informations. Sa demande de présenter l'analyse au ministre de l'intérieur Horst Seehofer a été rejetée sans en examiner le contenu. Ce n'est qu'alors que l'employé les a transmis à la cellule de crise ainsi qu'aux groupes de travail spécialisés sur L'IMC au niveau fédéral et au niveau des États. Dans le cours suivant, l'analyse a ensuite été transférée sur le portail en ligne "tichys insight".
 
-Les scientifiques d'évaluer l'analyse, qu'ils décrivent comme" le début d'une étude plus étendue", comme suit::
+Les scientifiques d'évaluer l'analyse, qu'ils décrivent comme" le début d'une étude plus étendue", comme suit:
 
 > "Des collègues de renom, tous des représentants exceptionnels de leur domaine, ont pris une position factuelle sur des questions spécifiques basées sur l'Expertise demandée. Cela a donné lieu à une première évaluation complète de la déjà eu lieu et les dommages médicaux imminents, y compris les décès attendus. ( ... ) À notre avis, sur la base de ce document, les spécialistes visés devraient entreprendre une réévaluation immédiate des mesures de protection."
 

@@ -37,7 +37,7 @@ Ce n'est que peu de temps après que le "[Spiegel](https://www.spiegel.de/politi
 
 #### Contrepoint à l'opinion antirusse?
 
-En tant qu'exemple actuel de prise d'opinion des médias allemands contre la Russie, il convient de faire référence ici à un article de n-tv: La Russie est "[l'ennemi](https://www.n-tv.de/politik/Die-AfD-dient-sich-dem-Feind-an-article22413060.html "Die AfD dient sich dem Feind an")", est-il déclaré ici sans hésitation. Pour évaluer le rôle important que RT joue dans le paysage médiatique allemand en tant que contrepoids à de telles contributions infâmes, on peut résumer comme suit::
+En tant qu'exemple actuel de prise d'opinion des médias allemands contre la Russie, il convient de faire référence ici à un article de n-tv: La Russie est "[l'ennemi](https://www.n-tv.de/politik/Die-AfD-dient-sich-dem-Feind-an-article22413060.html "Die AfD dient sich dem Feind an")", est-il déclaré ici sans hésitation. Pour évaluer le rôle important que RT joue dans le paysage médiatique allemand en tant que contrepoids à de telles contributions infâmes, on peut résumer comme suit:
 
 > Contrairement à l'incitation médiatique incendiaire actuelle contre la Russie, RT est un contrepoint important à l'unité propagandiste des grands médias allemands sur le sujet. Cela ne signifie pas, bien sûr, que RT doit ou devrait être la seule source d'information. En outre, le financement par la Russie et un État d'intérêt correspondant n'est pas déguisé. Les consommateurs de médias peuvent donc mieux évaluer les intérêts poursuivis par les articles de RT que les intérêts poursuivis, par exemple, par le groupe Springer, qui revendique une "indépendance" intenable.
 

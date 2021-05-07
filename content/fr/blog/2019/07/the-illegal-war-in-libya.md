@@ -2,7 +2,7 @@
 title: "La guerre illégale en Libye"
 date: 2019-07-29
 tags: "Politique"
-geo: "Afrika"
+geo: "Afrique"
 keywords: "Libye, Afghanistan, Irak, AFRICOM, OTAN, Intervention, Droit international, Embargo sur les armes, France, Royaume-Uni, Iran, Liban, Russie, Pétrole, Gaz naturel"
 shorttext: "La guerre en Libye était un crime. Il démontre la volonté de l'Occident de maintenir son importance par la destruction militaire."
 cover: "repression"

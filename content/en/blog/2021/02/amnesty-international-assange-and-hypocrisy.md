@@ -108,7 +108,7 @@ The time form of the last sentence is also noteworthy: the statement that the ac
 
 #### Summary
 
-Thus, the public debate that AI conducts can be characterized as follows::
+Thus, the public debate that AI conducts can be characterized as follows:
 
   - AI deliberately conceals the human rights violations committed against Julian Assange by the British authorities over the past ten years.
 
@@ -128,7 +128,7 @@ For a real and geopolitical analysis of this situation, it should be borne in mi
 
 The status quo is also ideal for the United Kingdom, where you don't have to be accused of having delivered Assange. At the same time, the political apparatus is able to demonstrate its power and ignorance towards Julian Assange and the population, and through the gruelling trial, together with the continuing detention, signals its benevolence to its closest ally, the United States.
 
-As long as there is not sufficient pressure on the British authorities to stop the human rights violations against Julian Assange that have persisted for ten years, this will probably not change. The former German Minister of Justice [Herta Däubler-Gmelin](https://www.kontextwochenzeitung.de/politik/508/das-schreiende-schweigen-der-eu-7204.html "Das schreiende Schweigen der EU") stated::
+As long as there is not sufficient pressure on the British authorities to stop the human rights violations against Julian Assange that have persisted for ten years, this will probably not change. The former German Minister of Justice [Herta Däubler-Gmelin](https://www.kontextwochenzeitung.de/politik/508/das-schreiende-schweigen-der-eu-7204.html "Das schreiende Schweigen der EU") stated:
 
 > All this also tramples on our" Western values " of the rule of law and human dignity. When it comes to China, Iran, Russia, Turkey or the other states whose governments we do not trust in Western constitutional states and whose judiciary we deny with fundamental independence and the rule of law, we rightly complain, sometimes even loudly. Why not to the UK? Why the outright silence of the EU and its member States on the scandalous treatment of Julian Assange?
 

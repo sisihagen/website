@@ -82,7 +82,7 @@ Le légendaire journaliste américain et militant pour la paix Norman Cousins a 
 
 > "Si l'Union soviétique devait sombrer demain dans l'océan, le complexe militaro-industriel américain devrait rester inchangé jusqu'à ce qu'un autre ennemi soit inventé. Toute autre chose serait un choc inacceptable pour l'industrie américaine."
 
-Fin novembre 2019, le Pape François s'est rendu à Hiroshima. Dans son discours, il a dit::
+Fin novembre 2019, le Pape François s'est rendu à Hiroshima. Dans son discours, il a dit:
 
 > "La paix et la stabilité internationale sont incompatibles avec toute tentative de les construire sur la peur de la destruction mutuelle."
 

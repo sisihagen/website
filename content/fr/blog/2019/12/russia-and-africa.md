@@ -2,7 +2,7 @@
 title: "En russie et en Afrique"
 date: 2019-12-08
 tags: "Journalisme"
-geo: "Afrika"
+geo: "Afrique"
 shorttext: "Poutine s'est présenté lors d'une table ronde avec les questions des participants. Il était aussi à propos de l'Afrique."
 cover: "media"
 draft: false
@@ -13,7 +13,7 @@ L'Occident ne voit L'Afrique que comme une bourse de marchandises et les gens qu
 
 Par conséquent, la Russie a tenu un [sommet de l'Afrique](https://summitafrica.ru/en/ "RUSSIA—AFRICA SUMMIT AND ECONOMIC FORUM") à Sotchi dans lequel tous les États africains étaient représentés. Là, Poutine a été interrogé dans le cadre de la Conférence des investisseurs "La Russie appelle" [questions](http://kremlin.ru/events/president/news/62073 "Инвестиционный форум 'Россия зовёт!'").
 
-Question: 
+Question:
 
 C'est une bonne occasion de vous poser une question sur ma région, L'Afrique. Je m'appelle Isaiah, je viens de la Banque du Commerce et du développement de L'Afrique de l'Est et de L'Afrique australe, basée à Nairobi, au Kenya. Je vous remercie de votre invitation et de votre participation à cet événement.
 

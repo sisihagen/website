@@ -52,7 +52,7 @@ Dans le texte initial d'une série de "communautés idéales", le livre "[utopie
 
 Ce n'est pas nécessaire, puisque, selon Morus, de liberté et d'égalité garanti par l'égalité économique. L'égalité des habitants de son état insulaire utopie signifie non seulement "égalité devant la loi et droit égal à la parole publique, mais, plus radicalement, répartition égale de la propriété, ce qui implique une renonciation à la propriété privée".
 
-Morus justifie ce principe de base de sa communauté, dans lequel il s'agit de la vie heureuse de tous les habitants et non de l'individu en concurrence avec les autres, comme suit:: 
+Morus justifie ce principe de base de sa communauté, dans lequel il s'agit de la vie heureuse de tous les habitants et non de l'individu en concurrence avec les autres, comme suit: 
 
 > Là où il y a encore la propriété privée, où tout le monde attache de l'argent à tout comme une mesure, à peine une politique juste et heureuse sera-t-elle possible, à moins que l'on ne veuille parler de Justice, où le meilleur arrive toujours au pire, ou de bonheur, où tout est distribué entre Très peu et où même ceux-ci ne sont pas bien à tous égards, mais le reste mène une existence misérable.
 

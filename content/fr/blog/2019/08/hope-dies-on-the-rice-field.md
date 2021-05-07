@@ -2,7 +2,7 @@
 title: "L'espoir meurt sur le champ de riz"
 date: 2019-08-12
 tags: "Société"
-geo: "Afrika"
+geo: "Afrique"
 keywords: "Ghana, Aide au développement, Fonds, Banques, Economie, Secteur Privé, Gadco, Syngenta, AGRA, AgDevCo, Politique de Développement"
 shorttext: "Les entreprises privées en tant qu'assistants de développement - cela comporte de grands risques. Étude de cas d'une entreprise agricole suisse au Ghana."
 draft: false
@@ -42,7 +42,7 @@ Gadco a également promis de renforcer économiquement les femmes dans les villa
 
 {{< image srcwebp="/static/img/content/2019/113.webp" srcalt="/static/img/content/2019/113.jpg" title="What the harvesters have left behind, the women cancel for their own use." >}}
 
-En outre, plusieurs mauvaises récoltes ont eu des effets négatifs, ainsi que le manque de transparence de la passation de marchés Gadco. L'entreprise agricole a facturé des prix toujours plus élevés pour les engrais et les pesticides, réduisant ainsi les bénéfices générés par les agriculteurs contractuels. 
+En outre, plusieurs mauvaises récoltes ont eu des effets négatifs, ainsi que le manque de transparence de la passation de marchés Gadco. L'entreprise agricole a facturé des prix toujours plus élevés pour les engrais et les pesticides, réduisant ainsi les bénéfices générés par les agriculteurs contractuels.
 
 Gadco n'a pas non plus tenus ses promesses dans les conditions de travail. En 2014, seule une minorité des quelque 150 employés avaient un contrat de travail, et les salaires étaient si bas que beaucoup de personnes interrogées rêvaient de retourner à l'agriculture de subsistance stérile. Les femmes étaient également presque exclusivement employées comme journaliers pour l'application d'engrais, gagnant l'équivalent de USD 3 par jour.
 

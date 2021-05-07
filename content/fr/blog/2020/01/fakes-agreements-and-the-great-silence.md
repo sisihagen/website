@@ -66,7 +66,7 @@ Poutine est en visite d'etat à l'Arabie Saoudite à la fin d'octobre, et le tap
 
 > En ce qui concerne la Russie, nous allons tout faire pour créer les conditions nécessaires à une dynamique positive. Je pense que la Russie entretient de bonnes relations avec L'Iran et de bonnes relations avec nos amis Arabes. ( ...  Si nous utilisons nos bonnes relations, à la fois avec L'Iran, et avec le monde arabe, avec l'Arabie Saoudite, avec les Émirats Arabes Unis, je pense que nous pouvons trouver quelque chose qui peut être d'intérêt commun.
 
-Le 4 novembre, moins de deux semaines plus tard, le porte-parole du président iranien a annoncé que l'Iran avait officiellement présenté à l'Arabie Saoudite la proposition de coopérer sur les questions de sécurité régionale. L'agence de presse russe TASS a cité le porte-parole du Président iranien comme suit::
+Le 4 novembre, moins de deux semaines plus tard, le porte-parole du président iranien a annoncé que l'Iran avait officiellement présenté à l'Arabie Saoudite la proposition de coopérer sur les questions de sécurité régionale. L'agence de presse russe TASS a cité le porte-parole du Président iranien comme suit:
 
 > Le président iranien a envoyé une lettre au roi D'Arabie Saoudite sur la sécurité régionale, la paix et la stabilité (... La pression américaine ne doit pas diviser les voisins de la région. ( ... ) Pour parvenir à la paix, nous avons besoin d'une coopération collective
 

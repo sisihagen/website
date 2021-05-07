@@ -33,7 +33,7 @@ According to Dräger, the state must be allowed to evaluate movement profiles an
 
 #### "Because of Corona": access to locations, movement profiles, and address books
 
-Wherever the journey might go for us, if you follow the voices quoted here, you can see from the deterrent examples of many countries: "The corona pandemic is rapidly accelerating digital mass surveillance," explains the initiative "Bread for the World" and states::
+Wherever the journey might go for us, if you follow the voices quoted here, you can see from the deterrent examples of many countries: "The corona pandemic is rapidly accelerating digital mass surveillance," explains the initiative "Bread for the World" and states:
 
 > "In many countries, apps control movements and contacts of large sections of the population. Some governments abuse the data to suppress critical voices. An estimated one billion people use tracing and tracking apps in China and India alone. In this way, governments have access to location data, movement profiles and, in the case of the Indian app Aarogya Setu, users ' address books. There is no information on the use of the data, deletion periods and the assurance to evaluate the data while maintaining anonymity. Officially, the use of the apps is considered voluntary, but practically it is enforced."
 

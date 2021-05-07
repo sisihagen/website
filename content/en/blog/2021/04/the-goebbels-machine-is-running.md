@@ -25,7 +25,7 @@ Now the new NATO maneuvers called Defender-Europe 21 are underway. Announced –
 
 > Building on the success of last year's exercise, DEFENDER-Europe 21 includes a larger number of NATO allies and partner nations carrying out activities over a larger area than was planned for 2020. More than 28,000 multinational forces from 26 nations will conduct almost simultaneous operations in more than 30 training areas in a dozen countries.
 
-DEFENDER-Europe 21 will include several related exercises, including::
+DEFENDER-Europe 21 will include several related exercises, including:
 
   - Swift Response (early to mid-May) - will include airborne operations in Estonia, Bulgaria and Romania, involving more than 7,000 soldiers from 11 countries.
 

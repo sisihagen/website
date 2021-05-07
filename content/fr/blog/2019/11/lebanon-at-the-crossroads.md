@@ -50,8 +50,7 @@ Octobre des milliers d\'autres ont participé à la marche de protestation
 sur la place centrale des martyrs et la place Riad Al-Solh devant le
 siège du Parlement à Beyrouth.
 
-::: {#youtube}
-:::
+{{< youtube "zgCMgnUvnbM" >}}
 
 Dans la région de Beyrouth, les manifestants, qui avaient été convoqués,
 ont érigé des barricades de rue en flammes, dont certaines échappaient à

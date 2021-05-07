@@ -108,7 +108,7 @@ La forme temporelle de la dernière phrase est également remarquable: la décla
 
 #### Résumé
 
-Ainsi, le débat public mené par L'IA peut être caractérisé comme suit::
+Ainsi, le débat public mené par L'IA peut être caractérisé comme suit:
 
   - AI dissimule délibérément les violations des droits humains commises contre Julian Assange par les autorités britanniques au cours des dix dernières années.
 
@@ -128,7 +128,7 @@ Pour une analyse réelle et géopolitique de cette situation, il convient de gar
 
 Le statu quo est également idéal pour le royaume-Uni, où vous n'avez pas à être accusé d'avoir livré Assange. Dans le même temps, l'appareil politique est en mesure de démontrer sa puissance et son ignorance envers Julian Assange et la population, et à travers le procès éprouvant, ainsi que la détention continue, signale sa bienveillance à son plus proche allié, les États-Unis.
 
-Tant qu'il n'y aura pas de pression suffisante sur les autorités britanniques pour mettre fin aux violations des droits de L'homme contre Julian Assange qui persistent depuis dix ans, cela ne changera probablement pas. L'ancienne ministre allemande de la Justice [Herta Däubler-Gmelin](https://www.kontextwochenzeitung.de/politik/508/das-schreiende-schweigen-der-eu-7204.html "Das schreiende Schweigen der EU") a déclaré::
+Tant qu'il n'y aura pas de pression suffisante sur les autorités britanniques pour mettre fin aux violations des droits de L'homme contre Julian Assange qui persistent depuis dix ans, cela ne changera probablement pas. L'ancienne ministre allemande de la Justice [Herta Däubler-Gmelin](https://www.kontextwochenzeitung.de/politik/508/das-schreiende-schweigen-der-eu-7204.html "Das schreiende Schweigen der EU") a déclaré:
 
 > Tout cela piétine aussi nos "valeurs occidentales" de l'Etat de droit et de la dignité humaine. Quand il s'agit de la Chine, de l'Iran, De La Russie, de la Turquie ou des autres États dont nous ne faisons pas confiance aux États constitutionnels occidentaux et dont nous nions le pouvoir judiciaire avec une indépendance fondamentale et l'état de droit, nous nous plaignons à juste titre, parfois même bruyamment. Pourquoi ne pas le royaume-UNI? Pourquoi le silence pur et simple de L'UE et de ses États membres sur le traitement scandaleux de Julian Assange?
 

@@ -33,7 +33,7 @@ Selon Dräger, l'État doit être autorisé à évaluer les profils de mouvement
 
 #### "Because of Corona": accès aux emplacements, aux profils de mouvement et aux carnets d'adresses
 
-Partout où le voyage pourrait aller pour nous, si vous suivez les voix citées ici, vous pouvez voir à partir des exemples dissuasifs de nombreux pays: "la pandémie corona accélère rapidement la surveillance de masse numérique", explique l'initiative" pain pour le monde " et les États::
+Partout où le voyage pourrait aller pour nous, si vous suivez les voix citées ici, vous pouvez voir à partir des exemples dissuasifs de nombreux pays: "la pandémie corona accélère rapidement la surveillance de masse numérique", explique l'initiative" pain pour le monde " et les États:
 
 > "Dans de nombreux pays, les applications contrôlent les mouvements et les contacts de larges pans de la population. Certains gouvernements abusent des données pour supprimer les voix critiques. On estime qu'un milliard de personnes utilisent des applications de traçage et de suivi rien qu'en Chine et en Inde. De cette façon, les gouvernements ont accès aux données de localisation, aux profils de déplacement et, dans le cas de L'application Indienne Aarogya Setu, aux carnets d'adresses des utilisateurs. Il n'y a aucune information sur l'utilisation des données, les périodes de suppression et l'assurance d'évaluer les données tout en conservant l'anonymat. Officiellement, l'utilisation des applications est considéré comme volontaire, mais pratiquement elle est appliquée."
 
