@@ -15,16 +15,6 @@ fr='silviosiefke.fr'
 ru='silviosiefke.ru'
 
 
-# mirror
-mirror='./public/mirror'
-na='na'
-asia='asia'
-africa='africa'
-sa='sa'
-
-# pi
-pi='./public/local'
-
 # static
 lstatic='./static/static'
 static='static.silviosiefke.com'
@@ -73,6 +63,8 @@ statuscodes='./tmp/statuscodes.log'
 lang=$1
 cover=$2
 tmp_title=$3
+blog_date=$4
+blog_geo=$5
 
 # variables which we use in script
 # create a title with small letters and remove whitespace
@@ -80,6 +72,9 @@ title=$(echo ${tmp_title,,} | trans -brief :en | sed -e 's/\s/-/g')
 
 # tags
 categories=(computer media repression society)
+
+# geo
+geo=(SA NA EU AS AF WO)
 
 # Folder of Markdown files
 content_dir="./content/$lang/blog/$year/$month"

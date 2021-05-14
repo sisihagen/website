@@ -10,9 +10,6 @@ source ./bin/function.sh
 mkdir -p $dest/{$de,$fr,$en,$ru}/htdocs
 
 # static folder
-if [[ ! -d "$dest/$static" ]]; then
+if [[ ! -e "$dest/$static" ]]; then
   mkdir -p $dest/$static/htdocs/{$css,$img,$downloads,$js,$fonts} || exit
 fi
-
-# pi
-mkdir $pi

@@ -1,0 +1,25 @@
+---
+title: "La fin de Corona"
+date: 2021-05-11
+draft: false
+tags: "Société"
+geo: "Monde"
+shorttext: "Qui a peur du méchant? Qui a peur de Corona? Avons-nous peur du virus, peur de la peur ou de la fin de la pandémie?"
+cover: "society"
+lang: fr
+---
+
+Avec les progrès de la campagne de vaccination, la plupart des États fédéraux ont décidé d'offrir la vaccination au groupe dit prioritaire 3. Ce groupe comprend les personnes âgées de plus de 60 ans, qui ont des facteurs de risque médicaux spéciaux ou qui sont "dans une position particulièrement pertinente dans les institutions d'infrastructure essentielle", comme le gouvernement fédéral [formule](https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/corona-impfverordnung-1829940 "Diese Reihenfolge gilt bei der Impfung"). Ces "systémiquement pertinents" comprennent – on ne le croit guère – aussi [tous les journalistes](https://www.djv-rlp.de/startseite/info/aktuell/news-landesverband/details/news-impfung-ab-freitag-fuer-journalistinnen-moeglich "Impfung ab Freitag für Journalist möglich!"). Vous n'avez pas lu à ce sujet dans les journaux? Pourquoi seulement? Les maintenant changer lorsque les alarmistes sont maintenant appelés à la seringue par le service et n'ont plus à avoir peur?
+
+
+Dans son discours du 1er mai, Angela Merkel a explicitement remercié toutes les personnes courageuses [qui travaillent au ministère de l'Intérieur](https://www.spiegel.de/politik/deutschland/tag-der-arbeit-angela-merkel-dankt-beschaeftigten-in-supermaerkten-in-lkw-und-im-homeoffice-a-f6f9ca2e-8750-44e6-8a03-5eaa2733eb19 "Merkel dankt Arbeitenden in Supermärkten, in Lkw – und im Homeoffice"). Ils avaient "maintenu le pays en marche" dans la pandémie, selon le sage chancelier. En tant que brave étalon de bureau à domicile, une larme d'émotion a traversé ma boutonnière. Pas toutes les infirmières inutiles, les policiers, les éboueurs, les livreurs de pizza et les postiers, mais c'est moi qui ai fait avancer le pays! Je vous remercie, mme Merkel! Enfin quelqu'un dit cette vérité inconfortable!
+
+Cependant, il y a d'autres personnes courageuses qui sont si importantes sur le plan systémique que leur travail est indispensable à la survie de notre civilisation. Ce sont, vous le soupçonnez déjà, les camarades zélés de la Kampfbrigade Feder, qui, surtout dans la crise, font de leur mieux pour garder l'alarme constamment au sommet selon les mots d'un radical de droite notoire "et faire en sorte qu'aucun différend inutile et critique ne puisse nous distraire d'accepter les mesures raisonnables et toujours appropriées de notre gouvernement."
+
+Maintenant, cependant, le rempart de la réaction est menacé par les premières fissures. Une fois que les chers collègues ont été injectés de leur psychose d'anxiété collective, ils peuvent perdre leur peur et le rapport peut influencer les processus de pensée. Alors peut-être que les premières pensées critiques trouveraient leur chemin dans le cerveau et de là dans les feuilles analogiques et numériques et les formats TV.
+
+Que se passerait-il si nous n'étions plus bombardés jour après jour de chiffres d'incidence, de destins individuels et de prévisions? Peut-être même que nous perdons notre peur? Et ce serait un désastre au milieu de la pandémie!
+
+Deux pandémies traversent actuellement le pays. En plus de la maladie virale réelle, la peur du virus a également pris des formes pandémiques et on se demande ce qui est pire pour la société. Fidèle au vieux dicton de Sponti "Imaginez que c'est une pandémie et que personne n'a peur", cependant, nous pourrions au moins surmonter la psychose d'anxiété collective et avec elle la nouvelle normalité tant citée. Faites un auto-test et évitez tous les produits journalistiques pendant une semaine. Vous verrez qu'ils sont beaucoup mieux. Et si les faiseurs d'opinion systémiquement pertinents eux-mêmes perdaient leur peur et désormais libérés et rationnellement rapportés? La pandémie serait terminée ... au moins la pandémie de peur collective.
+
+Ce sont les vœux pieux d'un homme désespéré? Sûrement. La psychose de la peur a mangé trop profondément dans le cerveau des alarmistes et des batteurs pour une perte de sa propre peur pour éliminer la psychose. Si l'on considère l'état d'esprit de la guilde d'écriture de manière plus réaliste, il est plus probable que l'on suppose que la seringue inspire leurs pensées d'une manière complètement différente. Maintenant que les journalistes systémiquement pertinents seront bientôt tous vaccinés, le sujet "Droits spéciaux pour les personnes vaccinées" façonnera certainement l'éditorial. Ce serait encore plus agréable si, en tant que pilier de notre société, vous ne pouviez pas passer cet été avec un verre de barolo et des finger food sans gluten sur Sylt. C'est aussi une bonne chose lorsque vous êtes entre vous et que les personnes communes et non systémiquement importantes doivent rester à la maison. Et bien sûr, cela ne peut être fait que si l'alarme reste exactement à sa place: à savoir tout en haut! En ce sens: pousser! Et s'il vous plaît, n'ayez pas peur!

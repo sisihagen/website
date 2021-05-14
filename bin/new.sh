@@ -25,36 +25,62 @@ case $1 in
         elif [[ $cover =~ "repression" ]]; then
           tag="Staat"
 
-
         elif [[ $cover =~ "society" ]]; then
           tag="Gesellschaft"
         fi
+      else
+        echo "Enter valid tag name ..."
+      fi
 
-        # check the folder structure is right
-        if [[ -d "$content_dir" ]]; then
+      # check the geo input
+      if [[ ${geo[*]} =~ $blog_geo ]]; then
 
-          # create the content and fill up the file
-          create_file
+        # translation tag > categories
+        if [[ $blog_geo =~ "AF" ]]; then
+          geo="Afrika"
 
-          if [[ -f "$file" ]]; then
-            subl "$file"
-          fi
+        elif [[ $blog_geo =~ "AS" ]]; then
+          geo="Asien"
+
+        elif [[ $blog_geo =~ "EU" ]]; then
+          geo="Europa"
+
+        elif [[ $blog_geo =~ "NA" ]]; then
+          geo="Nordamerika"
+
+        elif [[ $blog_geo =~ "SA" ]]; then
+          geo="Südamerika"
+
+        elif [[ $blog_geo =~ "WO" ]]; then
+          geo="Welt"
 
         else
-
-          # create the folder of content
-          mkdir -p "$content_dir"
-
-          # create the content and fill up the file
-          create_file
-
-          if [[ -f "$file" ]]; then
-            subl "$file"
-          fi
-
+          echo "Enter valid GEO Position ..."
         fi
+      fi
+
+      # check the folder structure is right
+      if [[ -d "$content_dir" ]]; then
+
+        # create the content and fill up the file
+        create_file
+
+        if [[ -f "$file" ]]; then
+          subl "$file"
+        fi
+
       else
-        echo "Enter a valid tag name ..."
+
+        # create the folder of content
+        mkdir -p "$content_dir"
+
+        # create the content and fill up the file
+        create_file
+
+        if [[ -f "$file" ]]; then
+          subl "$file"
+        fi
+
       fi
     fi
   ;;

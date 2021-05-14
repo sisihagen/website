@@ -27,10 +27,10 @@ function create_file()
   {
     echo "---"
     echo "title: \"$tmp_title\""
-    echo "date: $date"
+    echo "date: $blog_date"
     echo "draft: false"
     echo "tags: \"$tag\""
-    echo "geo:"
+    echo "geo: \"$geo\""
     echo "shorttext:"
     echo "cover: \"$cover\""
     echo "lang: $lang"
