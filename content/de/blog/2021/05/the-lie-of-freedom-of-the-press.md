@@ -1,0 +1,34 @@
+---
+title: "Die Lüge Pressefreiheit"
+date: 2021-05-18
+draft: false
+tags: "Medien"
+geo: "Europa"
+shorttext: "Die Pressefreiheit wird gerne verwendet um zu diskreditieren, aber wehe Journalist schwimmt nicht mit der Masse."
+cover: "media"
+lang: de
+---
+
+Im März 2020 wurde der ehemalige Erste Minister Schottlands, Alexander Salmond, von einem Geschworenengericht in allen Fällen der sexuellen Belästigung und versuchter Vergewaltigung für [nicht schuldig befunden](https://www.faz.net/aktuell/politik/ausland/schottlands-frueherer-regierungschef-salmond-freigesprochen-16693775.html "Schottlands früherer Regierungschef freigesprochen"). Craig Murray nahm an zwei Verhandlungstagen teil und hatte ausgiebig über das nichtöffentliche Verfahren gegen Salmond berichtet und wie dieser die Vermutung geäußert, dass es zu Absprachen zwischen Zeugen, der schottischen Nationalpartei SNP und Regierungsbediensteten gekommen sei, um Salmond gezielt zu diskreditieren. Das Verfahren gegen Salmond sei politisch motiviert, da er in der Frage der schottischen Unabhängigkeit einen viel radikaleren Kurs verfolgt habe als seine Nachfolgerin Nicola Sturgeon.
+
+Wie bei allen Verfahren im Vereinigten Königreich (UK), die mit sexueller Gewalt zu tun haben, dürfen die Namen von Zeugen und möglichen Opfern nicht genannt werden, erstaunlicherweise aber der Name des (noch) nicht für schuldig befundenen Angeklagten. In seiner Berichterstattung hatte sich Craig Murray an diese Vorgabe gehalten, aber das Gericht warf ihm vor, er habe Details zu Zeugen veröffentlicht, die im Zusammenhang mit persönlicher Kenntnis und anderen, möglicherweise Jahre alten Artikeln eine Identifizierung von Zeugen vielleicht möglich gemacht habe.
+
+Craig Murray sagt, dass viele der etablierten Medien und pikanterweise auch eine der ausdrücklichsten Kritikerinnen von Salmond, Dani Garavelli, viel mehr und öfter Details, die zu einer [Zeugenidentifizierung](https://www.craigmurray.org.uk/archives/2020/05/a-very-political-prosecution/ "A Very Political Prosecution ") führen könnten, veröffentlicht hätten als er selbst. Seine Verteidiger sagten, dies täte nichts zu Sache, aber Murray fragt sich trotzdem, warum er als Einziger deswegen belangt wird.
+
+Das Strafmaß von 8 Monaten Haft scheint in diesem Fall auch ein Novum zu sein. Normalerweise würde in einem solchen Fall wohl eine Geldstrafe verhängt. Auch die Tatsache, dass Craig Murray Herz-Kreislauf-Probleme hat und Vater eines 2 Monate alten Babys ist, wurden von Richterin Dorrian nicht als strafmildernd angesehen. Es ist auch bemerkenswert, dass dies dieselbe Richterin ist, die im Verfahren gegen Salmond den Vorsitz hatte und die Murray mit seiner kritischen Berichterstattung dazu wohl zumindest irritiert hat.
+
+Ich kenne Craig Murray persönlich aus London, wo wir uns rund um das Assange-Verfahren fast täglich über den Weg liefen. Er ist ein sympathischer Mensch mit ausgeprägtem Gerechtigkeitssinn und scharfem analytischen Verstand. Er hat mit großer Disziplin tägliche Berichte vom Verfahren gegen Julian Assange geschrieben. Am Samstag bin ich ihm kurz am Rande einer Online-Konferenz begegnet und zumindest verbarg er seine Besorgnis über die in drei Tagen erfolgende Strafmaßverkündigung.
+
+Craig Murray war von 2002 bis 2004 Londons Botschafter in Usbekistan. Als er nicht aufhörte, über Menschenrechtsverletzungen und Folter in diesem Land zu berichten, wurde er nach London zitiert und nach einigem Hin und Her seines Postens enthoben. Seitdem betreibt er seinen Blog, in dem er sich zu Fragen britischer und internationaler Politik äußert.
+
+Der Richterspruch vom Dienstag wurde von vielen Beobachtern mit Unverständnis und Sorge aufgenommen. Hugh Kerr, ein ehemaliger stellvertretender Vorsitzender der National Union of Journalists, sagte [gegenüber The Dissenter](https://dissenter.substack.com/p/craig-murray-8-months-prison-sentence "Whistleblower Craig Murray Sentenced To 8 Months In Prison Over His Reporting On Former Scottish First Minister’s Trial"), dass er sowohl das Urteil als auch die Strafe in Murrays Fall für "schändlich" halte. "Diese Entscheidung stellt eine echte Bedrohung für die bürgerlichen Freiheiten dar", sagte Kerr.
+
+"Ein entscheidender Punkt ist natürlich, dass die Frauen, die Gefahr liefen, identifiziert zu werden, alle anonym geblieben sind, während Alex Salmonds Leben zerstört wurde und Craig Murrays Leben im Begriff ist, ebenfalls zerstört zu werden." "Ich weiß, dass Craig nicht nur vor dem Obersten Gerichtshof in Berufung gehen wird, sondern auch vor dem Europäischen Gerichtshof für Menschenrechte. Er wird dies mit der Unterstützung vieler Menschen in Schottland und vieler Menschen auf der ganzen Welt tun", fügte Kerr hinzu.
+
+Noam Chomsky twitterte: "Craig Murray hat eine bemerkenswerte Bilanz an Mut und Integrität gezeigt bei der Aufdeckung von Staatsverbrechen und was er daransetzte, diese zu beenden. Er verdient voll und ganz unseren tiefen Respekt und Unterstützung für seine Leistungen.
+
+Es gibt auch Stimmen, die Craig Murrays Berichterstattung kritisch sehen, wie z.B. Annie Brown im Daily Record. Wenn ich in [ihrem stimmungsgeladenen Artikel](https://www.dailyrecord.co.uk/news/politics/called-scots-activist-craig-murray-24088797 "So-called Scots activist Craig Murray has left victims of rape living in fear") dann allerdings unbelegte Sätze lese wie: "Murrays Name wird im selben Atemzug verkündet wie Julian Assange, und während beide oft zu recht als Menschenrechtsaktivisten gefeiert wurden, haben sie wenig Respekt gezeigt für die Menschenrechte von Frauen, die sich trauen, ihre eigene Wahrheit gegenüber Mächtigen auszusprechen", dann werde ich sehr skeptisch. Es ist einfach eine Behauptung, die bestehende Vorurteile aufgreift, aber nicht konkret untermauert wird. Die Fälle von Assange, Salmond und Craig Murray sind sehr komplex. Man wird ihnen nicht durch Sätze oder Artikel wie dem zitierten gerecht.
+
+Für mich hat es in allen drei Fällen den Anschein, als seien mögliche Fehler oder Schwächen dieser drei Männer ausgenutzt worden, um sie öffentlich zu zerstören und als Kritiker des Establishments zum Schweigen zu bringen. Im Fall Julian Assange ist diese Kampagne bis aufs Äußerste von vielen Medien und Regierungen forciert worden und der UN-Sonderberichterstatter für Folter, Nils Melzer, hat dies in seinem am 20. April erschienenen Buch ausführlich beschrieben.
+
+Im Falle Craig Murrays wird dies zurzeit wieder versucht, und die Tatsache, dass er in Madrid im Prozess gegen die Überwachungsfirma UC Global nicht zugunsten von Julian Assange aussagen kann, weil er am Dienstag seinen Pass abgeben musste, passt auch in dieses Bild. Craig Murray hat nun drei Wochen Zeit, dieses Urteil anzufechten. Dieser Kampf wird sich wohl durch die Instanzen ziehen und das wird für ihn eine kostspielige Sache werden und deshalb bittet er hier um Unterstützung.
