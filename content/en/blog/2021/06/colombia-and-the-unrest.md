@@ -13,7 +13,7 @@ The demonstrations in Colombia were triggered by the proposal for a new tax refo
 
 The proposal for a tax reform in the midst of ’the greatest crisis that humanity has faced after the Second World War’ in words of Angela Merkel, was the straw that broke the camel’s back. Thousands of Colombians joined the national protest called on April 28 in rejection of the tax reform.
 
-On May 2, President Iván Duque announced the withdrawal of the tax reform and urgently requested that a new reform project be processed, according to the president, “the reform is not a whim, it is a necessity.” and the new Minister of Finance, José Manuel Restrepo also announced on May 4 that the government will no longer invest 14 billion pesos ($ 4.5 million) in 24 Lockheed Martin fighter jets that were initially budgeted.
+On May 2, President Iván Duque announced the withdrawal of the tax reform and urgently requested that a new reform project be processed, according to the president, "the reform is not a whim, it is a necessity.” and the new Minister of Finance, José Manuel Restrepo also announced on May 4 that the government will no longer invest 14 billion pesos ($ 4.5 million) in 24 Lockheed Martin fighter jets that were initially budgeted.
 
 Although these announcements have been a triumph of social mobilization and in particular of the young people who have mobilized, the social discontent and the problems facing the country are much deeper and require systemic changes that the Colombian people have been demanding not now but for years.
 

@@ -1,0 +1,26 @@
+---
+title: "Gladio 2.0 gestartet"
+date: 2021-06-10
+draft: false
+tags: "Staat"
+geo: "Nordamerika"
+shorttext: "Das bekannte US-Magazin Newsweek informierte ihre Leserschaft über eine US-Geheimarmee. Europa scheint es nicht zu interessieren."
+cover: "repression"
+lang: de
+---
+
+> "Die grösste Undercover-Truppe, die die Welt je gesehen hat, ist die, die das Pentagon im letzten Jahrzehnt geschaffen hat. Etwa 60’000 Menschen gehören jetzt zu dieser geheimen Armee, viele arbeiten unter verdeckten Identitäten und im Verborgenen, alles Teil eines breit angelegten Programms namens ‹Unterschriften-Reduzierung› (‹*Signature Reduction*›, Red.) . Die Truppe, die mehr als zehnmal so gross ist wie die klandestinen Elemente der CIA, führt inländische und ausländische Aufträge aus, sowohl in Militäruniformen als auch unter ziviler Tarnung, im wirklichen Leben und online, manchmal versteckt in privaten Unternehmen und Beratungsfirmen, von denen einige bekannte Namen haben.
+
+> Die beispiellose Verlagerung hat dazu geführt, dass eine immer grössere Anzahl von Soldaten, Zivilisten und Auftragnehmern unter falschen Identitäten arbeitet, teilweise als natürliche Folge des Wachstums der geheimen Spezialeinheiten, aber auch als bewusste Reaktion auf die Herausforderungen des Reisens und Operierens in einer zunehmend transparenten Welt. Die Explosion der Cyber-Kriegsführung des Pentagons hat darüber hinaus zu Tausenden von Spionen geführt, die ihre tägliche Arbeit in verschiedenen erfundenen ‹Persönlichkeiten› verrichten, genau die Art von ruchlosen Operationen, die die Vereinigten Staaten verurteilen, wenn russische und chinesische Spione dasselbe tun.
+
+> Newsweek’s exklusiver Bericht über diese geheime Welt ist das Ergebnis einer zweijährigen Recherche, die die Prüfung von über 600 Lebensläufen und 1000 Stellenausschreibungen, Dutzende von Anfragen nach dem ‹Freedom of Information Act› und eine Vielzahl von Interviews mit Teilnehmern und Entscheidungsträgern des Verteidigungsministeriums umfasst. Was dabei herausgekommen ist, ist nicht nur ein Einblick in einen wenig bekannten Sektor des amerikanischen Militärs, sondern auch in eine völlig unregulierte Praxis. Niemand kennt den Gesamtumfang des Programms, und die Explosion der Identitätsverfälschung wurde nie auf ihre Auswirkungen auf die Militärpolitik und -kultur untersucht. Der Kongress hat noch nie eine Anhörung zu diesem Thema abgehalten. Und doch stellt das Militär, das diese gigantische heimliche Truppe entwickelt, US-Gesetze, die Genfer Konventionen, den militärischen Verhaltenskodex und grundlegende Rechenschaftspflichten in Frage.
+
+> Die Bemühungen um die ‹Reduzierung der Unterschriften› beschäftigen etwa 130 private Firmen, um diese neue geheime Welt zu verwalten. Dutzende von wenig bekannten und geheimen Regierungsorganisationen unterstützen das Programm, verteilen geheime Verträge und beaufsichtigen öffentlich nicht anerkannte Operationen. Insgesamt nehmen die Firmen jährlich über 900 Millionen Dollar ein, um die geheime Truppe zu unterstützen – von der Erstellung falscher Dokumente und der Bezahlung der Rechnungen (und Steuern) von Personen, die unter falschem Namen operieren, über die Herstellung von Verkleidungen und anderen Vorrichtungen, um die Entdeckung und Identifizierung zu vereiteln, bis hin zum Bau unsichtbarer Geräte, um Aktivitäten in den entlegensten Winkeln des Nahen Ostens und Afrikas zu fotografieren und abzuhören."
+
+Soweit ein paar Abschnitte aus dem Bericht von "Newsweek", ins Deutsche übersetzt. Hat in Europa eine Zeitung von diesem Bericht von "Newsweek" Kenntnis genommen und darüber berichtet? Nicht wirklich. Man muss schon alternative Medien lesen, um einigermassen informiert zu sein, was *in puncto* Geheimdienste in den USA so abläuft beziehungsweise was darüber geschrieben wird.
+
+Der sehr lange und ausführliche Artikel in "Newsweek" informiert darüber, wie wichtig in Zeiten des "Cyber War" und generell in der hybriden Kriegsführung die Fälschung von Identitäten geworden ist konkret zum Beispiel in den USA. Auch einige Bilder in diesem "Newsweek"-Bericht zeigen, wie da gearbeitet wird, etwa wie in einem Absatz eines Frauenschuhs ein Abhörgerät eingebaut wird.
+
+> "Im elektronischen Zeitalter besteht eine Hauptaufgabe der Identitätsverheimlichung oder -fälschung darin, alle Organisationen und Personen, sogar Autos und Flugzeuge, die an den geheimen Operationen beteiligt sind, getarnt zu halten. Diese Schutzbemühungen reichen von der Säuberung des Internets von verräterischen Zeichen wahrer Identitäten bis hin zum Einpflanzen falscher Informationen zum Schutz von Missionen und Personen. Da unvergessliche Identifikation und Biometrie weltweit zur Norm geworden sind, arbeitet die Identitätsfälschungsbranche auch daran, Wege zu finden, all das zu fälschen und wirkungslos zu machen, von Fingerabdrücken und Gesichtserkennung an Grenzübergängen bis hin zur Sicherstellung, dass Undercover-Agenten in die Vereinigten Staaten einreisen und dort operieren können, indem sie offizielle Aufzeichnungen manipulieren, um sicherzustellen, dass falsche Identitäten übereinstimmen."
+
+Zum Bericht in "Newsweek" über die Geheimarmee, [hier anklicken](https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881 "Inside the Military's Secret Undercover Army").
